@@ -163,6 +163,52 @@ These are the trust-building and conversion pages every visitor lands on before 
 
 ---
 
+## Phase 9 — Alternatives (Competitor Comparison Pages)
+
+High-intent commercial pages targeting buyers comparing EASCO to specific competitors. Write after Phase 2–3 pillar pages are complete (so there are internal links to point to).
+
+| # | Task | File | Target Keyword | Status |
+|---|---|---|---|---|
+| 9.1 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ZKTeco alternative | 🔲 |
+| 9.2 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | Hikvision access control alternative | 🔲 |
+| 9.3 | ZKTeco Alternative | alternatives/zkteco-alternative.md | alternative to ZKTeco | 🔲 |
+| 9.4 | Hikvision Alternative | alternatives/hikvision-alternative.md | alternative to Hikvision access control | 🔲 |
+
+---
+
+## Phase 10 — Industry Pages
+
+Vertical-specific landing pages. Write after relevant silo pillar pages are complete (phases 2–5).
+
+| # | Task | File | Target Keyword | Status |
+|---|---|---|---|---|
+| 10.0 | Industries Overview | industries/industries-overview.md | access control by industry | 🔲 |
+| 10.1 | Corporate Offices | industries/corporate-offices.md | access control for corporate offices | 🔲 |
+| 10.2 | Hospitals | industries/hospitals.md | access control for hospitals | 🔲 |
+| 10.3 | Schools & Universities | industries/schools-universities.md | access control for schools universities | 🔲 |
+| 10.4 | Warehouses | industries/warehouses.md | access control for warehouses | 🔲 |
+| 10.5 | Construction Sites | industries/construction-sites.md | access control for construction sites | 🔲 |
+| 10.6 | Government Buildings | industries/government-buildings.md | access control for government buildings | 🔲 |
+
+---
+
+## Phase 11 — Blog / Informational Content
+
+Informational pages that feed the silo pillar pages with top-of-funnel traffic. Write after relevant pillar pages are complete.
+
+| # | Task | File | Target Keyword | Silo | Status |
+|---|---|---|---|---|---|
+| 11.1 | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | what is a turnstile gate | S1 | 🔲 |
+| 11.2 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | how to choose a turnstile gate | S1 | 🔲 |
+| 11.3 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | face recognition vs fingerprint | S2 | 🔲 |
+| 11.4 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | biometric access control explained | S2 | 🔲 |
+| 11.5 | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | what is liveness detection | S2 | 🔲 |
+| 11.6 | How Does ANPR Work? | blogs/how-does-anpr-work.md | how does ANPR work | S3 | 🔲 |
+| 11.7 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | access control construction sites | S4 | 🔲 |
+| 11.8 | OEM vs ODM: What's the Difference? | blogs/oem-vs-odm.md | OEM vs ODM difference | S5 | 🔲 |
+
+---
+
 ## Total Page Count
 
 | Phase | Pages | Status |
@@ -177,4 +223,7 @@ These are the trust-building and conversion pages every visitor lands on before 
 | Phase 6 — Custom/Airport | 6 | 0/6 |
 | Phase 7 — Company/Trust | 6 | 0/6 |
 | Phase 8 — Supporting/Legal | 10 | 0/10 |
-| **TOTAL CONTENT PAGES** | **61** | **1/61** |
+| Phase 9 — Alternatives | 4 | 0/4 |
+| Phase 10 — Industries | 7 | 0/7 |
+| Phase 11 — Blogs | 8 | 0/8 |
+| **TOTAL CONTENT PAGES** | **80** | **1/80** |

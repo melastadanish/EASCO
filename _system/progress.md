@@ -20,11 +20,12 @@
 
 ## Completion Summary
 
-**Total pages: 61**
+**Total pages: 80**
 **Complete: 1**
 **In progress: 0**
-**Not started: 54**
+**Not started: 67**
 **Blocked: 6**
+**Last Updated: 2026-06-18**
 
 ---
 
@@ -149,3 +150,43 @@
 | Terms of Service | other-pages/terms-of-service.md | 🔲 | — | Legal required |
 | Cookie Policy | other-pages/cookie-policy.md | 🔲 | — | Legal required |
 | Careers | other-pages/careers.md | 🔲 | — | Low priority |
+
+---
+
+## Phase 9 — Alternatives
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | 🔲 | — | Write after S1+S2 pillar complete |
+| EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | 🔲 | — | Write after S1+S2 pillar complete |
+| ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 | — | Verify competitor specs before writing |
+| Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 | — | Verify competitor specs before writing |
+
+---
+
+## Phase 10 — Industries
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Industries Overview | industries/industries-overview.md | 🔲 | — | Hub page — write after industry sub-pages |
+| Corporate Offices | industries/corporate-offices.md | 🔲 | — | Primary: Facility Manager |
+| Hospitals | industries/hospitals.md | 🔲 | — | Palm vein lead product |
+| Schools & Universities | industries/schools-universities.md | 🔲 | — | Primary: Facility Manager |
+| Warehouses | industries/warehouses.md | 🔲 | — | Alcohol detection relevant |
+| Construction Sites | industries/construction-sites.md | 🔲 | — | Alcohol detection + attendance lead |
+| Government Buildings | industries/government-buildings.md | 🔲 | — | Iris recognition lead product |
+
+---
+
+## Phase 11 — Blogs
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | 🔲 | — | Feeds S1 pillar |
+| How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | 🔲 | — | Feeds S1 pillar |
+| Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | 🔲 | — | Feeds S2 pillar |
+| Biometric Access Control Explained | blogs/biometric-access-control-explained.md | 🔲 | — | Feeds S2 pillar |
+| What Is Liveness Detection? | blogs/what-is-liveness-detection.md | 🔲 | — | High GEO value — AI citation target |
+| How Does ANPR Work? | blogs/how-does-anpr-work.md | 🔲 | — | Feeds S3 pillar |
+| Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | 🔲 | — | Feeds S4 pillar |
+| OEM vs ODM: What's the Difference? | blogs/oem-vs-odm.md | 🔲 | — | Feeds S5 pillar |
