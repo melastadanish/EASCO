@@ -70,11 +70,6 @@ Alt text: EASCO turnstile gates — up to 45 persons/min throughput, factory dir
 **Cylindrical Speed Gate**
 Model: ESYBZ / ESYAD
 
-- Throughput: 45 persons/min
-- Door opening speed: 0.3 seconds
-- Passage width: 600–1,500mm — customizable per site layout
-- Available in one-way or two-way traffic flow configuration
-
 Best for: High-volume corporate lobbies, government buildings, and commercial entrances where throughput and anti-tailgating matter more than gate footprint.
 
 Application Tags: Corporate Office | Government | Hospital | Transit Hub
@@ -87,10 +82,6 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 **Android Speed Gate**
 Model: ESYBZ LCD+Face
 
-- Built-in Android OS — IPS HD 1920×1080 display onboard
-- Face recognition, palm, card and QR code access — no separate controller required
-- Throughput: 45 persons/min
-
 Best for: Facilities that need biometric access control and attendance logging in a single unit — without a third-party management panel or additional wiring.
 
 Application Tags: Corporate Office | School | Hospital
@@ -102,10 +93,6 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 
 **Holographic Speed Gate**
 Model: [⚠️ Confirm model number with client before publishing]
-
-- 3D holographic door panel: 170° viewing angle, 2,000 lumens brightness
-- 1,300 rpm motor — continuous smooth display at full lobby ambient light
-- Content updates via MP4, AVI, RMVB or JPG — no technician required to change what the panel displays
 
 Best for: Hotel lobbies, corporate headquarters, and retail flagships where the entrance experience is part of the brand.
 

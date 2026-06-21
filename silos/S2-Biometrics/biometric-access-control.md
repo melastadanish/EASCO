@@ -70,11 +70,6 @@ Alt text: EASCO biometric access control systems — 99.98% face recognition acc
 **Face Recognition Terminal**
 Model: ESBL / ESFD series — wall-mount, floor-standing, and turnstile-integrated
 
-- Recognition accuracy: 99.98% | Identifies in 200–300ms at 0.5–3 metres
-- Storage: 50,000 faces onboard — no cloud dependency required
-- Works in any lighting condition — IR illumination identifies faces in complete darkness and direct sunlight
-- Android OS onboard — IP65-rated for outdoor installation; SDK and API available for custom integration
-
 Best for: Corporate offices, hospitals, and schools where high throughput and hands-free entry are both required — without separate controller hardware.
 
 Application Tags: Corporate Office | Hospital | School | Government
@@ -87,10 +82,6 @@ Request a quote for your quantity and shipping destination → WhatsApp +86 1371
 **Palm Vein Recognition System**
 Model: ESFPR
 
-- FAR: <0.0001% | FRR: <0.01% — the subsurface vein pattern cannot be replicated on a surface or captured in a photograph
-- Contactless recognition at 140–400mm — no card reader, no touch surface required
-- IP65-rated | Operating temperature: -25°C to +75°C
-
 Best for: Hospitals, financial institutions, and any site where facial data collection raises privacy or regulatory concerns — no face image is stored or processed.
 
 Application Tags: Hospital | Financial Institution | Government | Data Centre
@@ -102,10 +93,6 @@ Request a quote for your quantity and shipping destination → WhatsApp +86 1371
 
 **Iris Recognition System**
 Model: [⚠️ Confirm model number with client before publishing]
-
-- 1-in-10,000,000 misrecognition rate — the highest accuracy available in commercial biometrics
-- Recognition distance: 30–50cm | Height adjustment range: 13cm — no precise head positioning required
-- Recognition speed: under 2 seconds
 
 Best for: Government buildings, data centres, and high-security zones where a false acceptance is not acceptable and the audit trail must be exact.
 

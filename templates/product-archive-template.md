@@ -122,10 +122,6 @@ Alt text: [Category name] by EASCO — [one key spec]
 **[Product Name]**
 Model: [Model Number]
 
-- [Key Spec 1 — decision-relevant]
-- [Key Spec 2 — decision-relevant]
-- [Key Spec 3 — decision-relevant]
-
 Best for: [One specific line — name the venue type and the reason]
 
 Application Tags: [Tag | Tag | Tag — confirmed deployments only]
