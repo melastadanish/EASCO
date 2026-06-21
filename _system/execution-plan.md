@@ -209,6 +209,24 @@ Informational pages that feed the silo pillar pages with top-of-funnel traffic. 
 
 ---
 
+## Phase 12 — Case Studies (9 pages)
+
+Write after relevant industry/silo pages are complete. All blocked until client provides project references.
+
+| # | Task | File | Target Keyword | Status |
+|---|---|---|---|---|
+| 12.0 | Case Studies Hub | case-studies/index.md | access control project examples | ⚠️ Blocked — needs sub-pages first |
+| 12.1 | Office Buildings | case-studies/office-buildings.md | office building security upgrade | ⚠️ Blocked — needs client reference |
+| 12.2 | Schools | case-studies/schools.md | K-12 school access control | ⚠️ Blocked — needs client reference |
+| 12.3 | Airports & Stations | case-studies/airports-stations.md | airport access control project | ⚠️ Blocked — needs client reference |
+| 12.4 | Banks | case-studies/banks.md | financial institution security | ⚠️ Blocked — needs client reference |
+| 12.5 | Shopping Malls | case-studies/shopping-malls.md | shopping mall access control | ⚠️ Blocked — needs client reference |
+| 12.6 | Government Agencies | case-studies/government.md | government building access control | ⚠️ Blocked — needs client reference |
+| 12.7 | Factories | case-studies/factories.md | manufacturing plant access control | ⚠️ Blocked — needs client reference |
+| 12.8 | Stadiums & Gyms | case-studies/stadiums-gyms.md | stadium turnstile | ⚠️ Blocked — needs client reference |
+
+---
+
 ## Total Page Count
 
 | Phase | Pages | Status |
@@ -217,7 +235,7 @@ Informational pages that feed the silo pillar pages with top-of-funnel traffic. 
 | Homepage | 1 | ✅ |
 | Phase 1 — Core Static | 9 | 0/9 |
 | Phase 2 — Turnstiles | 9 | 0/9 |
-| Phase 3 — Biometrics | 9 | 0/9 |
+| Phase 3 — Biometrics | 10 | 0/10 (visitor-registration added) |
 | Phase 4 — Vehicle Access | 5 | 0/5 |
 | Phase 5 — Attendance | 6 | 0/6 |
 | Phase 6 — Custom/Airport | 6 | 0/6 |
@@ -226,4 +244,5 @@ Informational pages that feed the silo pillar pages with top-of-funnel traffic. 
 | Phase 9 — Alternatives | 4 | 0/4 |
 | Phase 10 — Industries | 7 | 0/7 |
 | Phase 11 — Blogs | 8 | 0/8 |
-| **TOTAL CONTENT PAGES** | **80** | **1/80** |
+| Phase 12 — Case Studies | 9 | 0/9 (all blocked) |
+| **TOTAL CONTENT PAGES** | **90** | **1/90** |

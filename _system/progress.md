@@ -20,12 +20,12 @@
 
 ## Completion Summary
 
-**Total pages: 80**
+**Total pages: 90**
 **Complete: 1**
 **In progress: 0**
-**Not started: 67**
-**Blocked: 6**
-**Last Updated: 2026-06-18**
+**Not started: 68**
+**Blocked: 15**
+**Last Updated: 2026-06-21**
 
 ---
 
@@ -190,3 +190,27 @@
 | How Does ANPR Work? | blogs/how-does-anpr-work.md | 🔲 | — | Feeds S3 pillar |
 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | 🔲 | — | Feeds S4 pillar |
 | OEM vs ODM: What's the Difference? | blogs/oem-vs-odm.md | 🔲 | — | Feeds S5 pillar |
+
+---
+
+## Phase 12 — Case Studies
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Case Studies Hub | case-studies/index.md | ⚠️ | — | Blocked — write after sub-pages exist |
+| Office Buildings | case-studies/office-buildings.md | ⚠️ | — | Blocked — needs client project reference |
+| Schools | case-studies/schools.md | ⚠️ | — | Blocked — needs client project reference |
+| Airports & Stations | case-studies/airports-stations.md | ⚠️ | — | Blocked — needs client project reference |
+| Banks | case-studies/banks.md | ⚠️ | — | Blocked — needs client project reference |
+| Shopping Malls | case-studies/shopping-malls.md | ⚠️ | — | Blocked — needs client project reference |
+| Government Agencies | case-studies/government.md | ⚠️ | — | Blocked — needs client project reference |
+| Factories | case-studies/factories.md | ⚠️ | — | Blocked — needs client project reference |
+| Stadiums & Gyms | case-studies/stadiums-gyms.md | ⚠️ | — | Blocked — needs client project reference |
+
+---
+
+## Phase 3 Additions — S2 Biometrics
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Visitor Registration System | silos/S2-Biometrics/visitor-registration.md | 🔲 | — | Quick Win #2 (5,400 vol). Confirm software vs hardware scope with client |
