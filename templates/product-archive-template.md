@@ -6,7 +6,24 @@
 
 ---
 
-## Pass Log Header (Add when complete)
+## RULES — Read Before Writing
+
+1. **H1** = primary keyword only. Nothing added before or after.
+2. **Intro** = 1–2 sentences max. Sentence 1: buyer problem or hook. Sentence 2 (optional): EASCO differentiator with a confirmed spec number. The specs bar carries all other detail — do not repeat specs in the intro.
+3. **S2 H2** = buyer action phrase, not a category label. "Choose Your Gate" — not "Turnstile Gate Product Range".
+4. **Product cards** = Model + Best for + Application Tags + CTAs only. No spec bullet lists. Specs belong on individual product pages.
+5. **S3 intro** = one sentence naming what differs by industry (throughput, compliance, integration). Do not repeat the H1 keyword verbatim.
+6. **S5 resource cards** = explain WHY the resource matters for this buyer — name the specific problem it solves. Do not describe what the file contains.
+7. **FAQ** = 5 questions, written as a buyer would phrase them. Direct answer first. One confirmed spec per answer. Soft CTA only if natural.
+8. **All numbers** must be traced to `_system/client-data-map.md` before use. If unconfirmed, remove the number or add ⚠️.
+9. **Certifications** = PENDING note if unconfirmed. Never list a certificate until client confirms in writing.
+10. **No banned phrases** — see `_system/WritingSystem.md` Section 3.
+11. **Minimum 2 differentiators** from `_system/differentiator-card.md` must appear explicitly in the page body.
+12. **Applicable objections** from `_system/objection-map.md` must be answered — primarily in FAQ, secondarily in product cards and intro.
+
+---
+
+## Pass Log Header (Add when five-pass complete)
 
 ```
 ---
@@ -14,7 +31,7 @@ Status: READY FOR DEVELOPMENT
 Pass A: [score]/10
 Pass B: [X fixes applied]
 Pass N: [X/Y terms present]
-Pass D: AI-quotable ✅ | FAQ [X] Q&As | Authority ✅ | GEO ✅
+Pass D: AI-quotable ✅ | FAQ 5 Q&As | Authority ✅ | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ | CTAs ✅ | AI-score [X]%
 Last Updated: YYYY-MM-DD
 ---
@@ -30,13 +47,15 @@ Primary Keyword:      [Main keyword — used in H1 only]
 Secondary Keywords:   [2–4 supporting keywords]
 Search Intent:        Commercial Investigation
 Word Count Target:    800–1,200 words
-Meta Title:           [Primary Keyword] — EASCO (max 60 chars)
-Meta Description:     [Category benefit] + [primary keyword] + CTA (max 160 chars)
+Meta Title:           [Primary Keyword] — EASCO | Factory Direct from Shenzhen (max 60 chars)
+Meta Description:     [Category benefit] + [primary keyword] + [key spec] + factory direct. (max 160 chars)
 Silo:                 S[number] — [Name]
 Primary Segment:      [From buyer-segment-table.md]
+Secondary Segment:    [From buyer-segment-table.md]
 Differentiators:      [D-codes — minimum 2]
 Objections:           [O-codes covered]
 Schema Type:          ItemList
+Last Updated:         YYYY-MM-DD
 Status:               🔲 To Do
 ```
 
@@ -46,16 +65,19 @@ Status:               🔲 To Do
 
 - [ ] Breadcrumb written
 - [ ] H1 = primary keyword only, no additions
-- [ ] Intro = one punchy line — buyer problem or strongest outcome
-- [ ] Category specs callout complete (3 specs, all traced to client-data-map.md)
-- [ ] Certification icons listed (or blocked with note if unconfirmed)
-- [ ] All product cards complete — no card labels in published copy
-- [ ] Application strip complete with internal links
-- [ ] Micro-CTA written
-- [ ] Resources strip complete (all 3 cards — no card labels in published copy)
-- [ ] FAQ: minimum 3 questions, maximum 5
-- [ ] Minimum 2 differentiators explicit
+- [ ] Intro = 1–2 sentences: hook + optional EASCO differentiator with spec number
+- [ ] Category specs bar: 3 specs, all traced to client-data-map.md
+- [ ] Certification icons: confirmed only — or PENDING note
+- [ ] All product cards complete: Model + Best for + Application Tags + CTAs — no spec bullets
+- [ ] S2 H2 = buyer action phrase, not a label
+- [ ] S3 intro: one sentence naming what differs by industry
+- [ ] Application strip: 5 industries with confirmed internal links
+- [ ] Micro-CTA: names the specific inputs buyer should send
+- [ ] Resources strip: 3 cards — each explains WHY the resource matters, not what it contains
+- [ ] FAQ: 5 questions, buyer phrasing, direct answer first, one confirmed spec per answer
+- [ ] Minimum 2 differentiators explicit in body copy
 - [ ] All numbers traced to client-data-map.md
+- [ ] Applicable objections from objection-map.md covered
 - [ ] Pass A score ≥ 8.0/10
 - [ ] Pass B fixes applied
 - [ ] Pass N complete
@@ -68,12 +90,12 @@ Status:               🔲 To Do
 
 ```
 H1:               [Primary keyword — exact match, no additions]
-H2 (Products):    [Category Name] Product Range
-H2 (Apps):        Industries We Serve
+H2 (Products):    [Buyer action phrase — e.g. "Choose Your Gate"]
+H2 (Industries):  Industries We Serve
 H2 (FAQ):         Frequently Asked Questions
-Meta Title:       [Primary Keyword] — EASCO | [max 60 chars]
-Meta Description: [Lead benefit]. Explore EASCO's [category] range — [key spec]. [CTA]. [max 160 chars]
-Alt Text (hero):  [Category name] by EASCO — [one key spec]
+Meta Title:       [Primary Keyword] — EASCO | Factory Direct from Shenzhen
+Meta Description: [Hook or lead benefit]. [Primary keyword] from EASCO — [key spec]. Factory direct from Shenzhen. (max 160 chars)
+Alt Text (hero):  EASCO [category name] — [one key spec], factory direct from Shenzhen
 ```
 
 ---
@@ -90,44 +112,48 @@ Home › [Category Name]
 
 **Left column:**
 
-[H1: Primary keyword — exact match, nothing added]
+# [Primary Keyword — exact match]
 
-[One sentence. Open with the buyer problem or the single strongest outcome. The specs bar below carries the detail — do not repeat it here.]
+[Sentence 1: buyer problem or hook. Sentence 2 (optional): EASCO differentiator + confirmed spec. Do not repeat anything in the specs bar below.]
 
 **Category Specs Bar:**
 
 | [Spec Label] | [Value] | [Spec Label] | [Value] | [Spec Label] | [Value] |
 
-*All values must be traced to client-data-map.md before publishing.*
+*All three values must be traced to client-data-map.md before publishing.*
 
 **Certification Icons Row:**
 
-[List confirmed certs only — developer renders as icons. If unconfirmed: add note "PENDING — do not publish until client confirms."]
+[PENDING — Do not publish until client confirms certificates in writing.]
 
 **Right column:**
 
-[Hero image — placeholder if not yet available]
-Alt text: [Category name] by EASCO — [one key spec]
+[Hero image — category shot]
+Alt text: EASCO [category name] — [one key spec], factory direct from Shenzhen
 
 ---
 
 ## S2 — PRODUCT GRID
 
-**H2: [Category Name] Product Range**
+**H2: [Buyer action phrase — not a label]**
 
-*3 cards per row on desktop. Repeat the block below for each product. Minimum 2, maximum 12.*
+*3 cards per row on desktop. Minimum 2 products, maximum 12. No spec bullet lists in cards.*
 
 ---
 
 **[Product Name]**
-Model: [Model Number]
+Model: [Model Number — or ⚠️ note if unconfirmed]
 
-Best for: [One specific line — name the venue type and the reason]
+Best for: [One sentence. Name the venue type, the buyer problem it solves, and why this model over the others.]
 
 Application Tags: [Tag | Tag | Tag — confirmed deployments only]
 
-[View the Product Name] → /[category-slug]/[product-slug]/
+View the [Product Name] → /[category-slug]/[product-slug]/
 Request a quote for your volume and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in [Product Name] [Model]")
+
+---
+
+*Repeat card block for each product.*
 
 ---
 
@@ -135,7 +161,7 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 
 **H2: Industries We Serve**
 
-[One sentence — state that these products operate across the following sectors. Do not repeat H1 keyword verbatim.]
+[One sentence. Name what differs by industry — throughput demands, compliance requirements, integration constraints. Do not repeat H1 keyword verbatim.]
 
 | Industry | Link |
 |---|---|
@@ -143,7 +169,7 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 
 [Icon placeholders — developer renders as visual icon tiles]
 
-*Remove any row that EASCO cannot support with confirmed product data or a case reference.*
+*Use only industries that appear in sitemap.md. Remove any row EASCO cannot support with confirmed product data.*
 
 ---
 
@@ -151,7 +177,7 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 
 **H3: Not sure which [category name] is right for your project?**
 
-[One sentence. Name the inputs the buyer should send — site layout, footfall count, integration requirements. No pressure language.]
+[One sentence. Name the specific inputs the buyer should send — site layout, daily footfall, integration requirements, security zone, etc. No pressure language.]
 
 Talk to an Expert → WhatsApp +86 13711422283
 Send Your Requirements → hwenyin280@gmail.com
@@ -162,31 +188,31 @@ Send Your Requirements → hwenyin280@gmail.com
 
 **H2: Resources**
 
-*3 cards, horizontal row. No card labels in published copy.*
+*3 cards, horizontal row. Each card explains WHY the resource matters — name the specific buyer problem it solves. Do not describe what the file contains.*
 
 ---
 
 **Catalogue & Manuals**
 
-[Benefit-first sentence. The catalogue/datasheets/manuals are the deliverable — state what the buyer gets, not that they need to download.]
+[Sentence naming the specific buyer problem solved — what the procurement or engineering team needs before they can raise a purchase order.]
 
-[Download the [Category] Catalogue] → /downloads/
+Download the [Category] Catalogue → /downloads/
 
 ---
 
 **Guides & Blogs**
 
-[One sentence naming the specific guides available for this category — buying guide, comparison article, installation tips.]
+[Sentence naming the specific decision the buying guide helps the buyer make — comparison, trade-off, selection criteria.]
 
-[Read the [Category] Buying Guide] → /[category-slug]/buying-guide/
+Read the [Category] Buying Guide → /[category-slug]/buying-guide/
 
 ---
 
 **Knowledge Base**
 
-[One sentence naming the specific questions answered — spec questions, integration protocols, maintenance intervals.]
+[Sentence naming the specific technical questions answered — protocol questions, compatibility, maintenance. Frame as saving a sales call.]
 
-[Visit the Knowledge Base] → /faq/
+Visit the Knowledge Base → /faq/
 
 ---
 
@@ -194,13 +220,13 @@ Send Your Requirements → hwenyin280@gmail.com
 
 **H2: Frequently Asked Questions**
 
-*Minimum 3 questions, maximum 5. Write from the buyer's perspective. Each answer: direct answer first, one verifiable fact, soft CTA only if natural.*
+*5 questions. Write as a buyer would phrase them. Direct answer first. One confirmed spec or verified fact per answer. Soft CTA only if natural — not on every answer.*
 
 ---
 
-**Q: [Question as a buyer would phrase it]**
-A: [2–4 sentences. Direct answer first. One spec or confirmed fact. Soft CTA if relevant.]
+**Q: [Question as the buyer would type it into Google]**
+A: [2–3 sentences. Direct answer in sentence 1. Confirmed spec in sentence 2. Soft CTA or secondary fact in sentence 3 if natural.]
 
 ---
 
-*Repeat for each question.*
+*Repeat for all 5 questions.*
