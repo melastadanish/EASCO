@@ -21,7 +21,7 @@
 ## Completion Summary
 
 **Total pages: 90**
-**Complete: 3**
+**Complete: 5**
 **In progress: 0**
 **Not started: 68**
 **Blocked: 15**
@@ -91,6 +91,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
+| Archive: Vehicle Access Control | silos/S3-Vehicle-Access/vehicle-access-control.md | ✅ | A:8.7 B:✅ N:9/9 D:✅ C:✅ | AI-score 12%. ⚠️ Parking toll + barrier gate model numbers pending client. |
 | Pillar: Vehicle Access Control | silos/S3-Vehicle-Access/pillar.md | 🔲 | — | |
 | Number Plate Recognition | silos/S3-Vehicle-Access/number-plate-recognition.md | 🔲 | — | ES-T02/T03/T04 specs ✅ |
 | Parking Toll System | silos/S3-Vehicle-Access/parking-toll-system.md | 🔲 | — | |
@@ -103,6 +104,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
+| Archive: Attendance Management | silos/S4-Attendance/attendance-management.md | ✅ | A:8.8 B:✅ N:8/8 D:✅ C:✅ | AI-score 11%. ⚠️ Face attendance + handheld model numbers pending client. |
 | Pillar: Attendance Management | silos/S4-Attendance/pillar.md | 🔲 | — | |
 | Face Attendance Machine | silos/S4-Attendance/face-attendance-machine.md | 🔲 | — | |
 | Alcohol Detection Attendance | silos/S4-Attendance/alcohol-detection-attendance.md | 🔲 | — | D11. ESFAT specs ✅ |
