@@ -68,14 +68,14 @@ Alt text: EASCO attendance management systems — 99.98% face recognition accura
 ---
 
 **Face Attendance Machine**
-Model: [⚠️ Confirm model number with client before publishing]
+Model: 云腾 / 云棱 series (8-inch face terminal)
 
 Best for: Offices, schools, and factories where accurate shift management and clock-in records are required — without the administrative overhead of card-based systems or the security gap of PIN entry.
 
 Application Tags: Corporate Office | School | Warehouse | Hospital
 
 View the Face Attendance Machine → /attendance-management/face-attendance-machine/
-Request a quote for your volume and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Face Attendance Machine")
+Request a quote for your volume and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Face Attendance Machine 云腾/云棱 series")
 
 ---
 
@@ -92,14 +92,14 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 ---
 
 **Handheld Attendance Terminal**
-Model: [⚠️ Confirm model number with client before publishing]
+Model: ESR366 / ESR51 / ESR860 / ESR366C
 
 Best for: Sites where workers are spread across outdoor zones, multiple buildings, or remote locations — clock-in goes to them, not the other way around.
 
 Application Tags: Construction | Events | Field Operations | Utilities
 
 View the Handheld Attendance Terminal → /attendance-management/handheld-terminal/
-Request a quote for your volume and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Handheld Attendance Terminal")
+Request a quote for your volume and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Handheld Attendance Terminal ESR366/ESR51/ESR860/ESR366C")
 
 ---
 

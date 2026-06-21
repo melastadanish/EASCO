@@ -92,14 +92,14 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 ---
 
 **Holographic Speed Gate**
-Model: [⚠️ Confirm model number with client before publishing]
+Model: 星际 series
 
 Best for: Hotel lobbies, corporate headquarters, and retail flagships where the entrance experience is part of the brand.
 
 Application Tags: Hotel | Retail | Corporate HQ | Exhibition
 
 View the Holographic Speed Gate → /turnstile-gates/holographic-gate/
-Request a quote for your volume and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Holographic Speed Gate")
+Request a quote for your volume and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Holographic Speed Gate 星际 series")
 
 ---
 

@@ -92,14 +92,14 @@ Request a quote for your quantity and shipping destination → WhatsApp +86 1371
 ---
 
 **Iris Recognition System**
-Model: [⚠️ Confirm model number with client before publishing]
+Model: 云眸 series (8-inch iris terminal)
 
 Best for: Government buildings, data centres, and high-security zones where a false acceptance is not acceptable and the audit trail must be exact.
 
 Application Tags: Government | Data Centre | Airport | Financial Institution
 
 View the Iris Recognition System → /biometric-access-control/iris-recognition/
-Request a quote for your quantity and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Iris Recognition System")
+Request a quote for your quantity and shipping destination → WhatsApp +86 13711422283 (pre-fill: "Hi, I'm interested in the Iris Recognition System 云眸 series")
 
 ---
 
