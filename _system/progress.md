@@ -21,7 +21,7 @@
 ## Completion Summary
 
 **Total pages: 90**
-**Complete: 1**
+**Complete: 2**
 **In progress: 0**
 **Not started: 68**
 **Blocked: 15**
@@ -57,6 +57,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
+| Archive: Turnstile Gates | silos/S1-Turnstiles/turnstile-gates.md | ✅ | A:8.7 B:✅ N:10/10 D:✅ C:✅ | AI-score 11%. ⚠️ Holographic gate model number pending client. ⚠️ Gate body IP rating pending client. |
 | Pillar: Turnstile Gates | silos/S1-Turnstiles/pillar.md | 🔲 | — | Keyword: turnstile gate |
 | Speed Gate | silos/S1-Turnstiles/speed-gate.md | 🔲 | — | ⚠️ Full spec sheet needed |
 | Android Speed Gate | silos/S1-Turnstiles/android-speed-gate.md | 🔲 | — | D10 differentiator |
