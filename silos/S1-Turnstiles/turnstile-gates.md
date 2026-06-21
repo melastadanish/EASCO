@@ -44,7 +44,7 @@ Home › Turnstile Gates
 
 # Turnstile Gates
 
-Your entrance moves 45 people per minute — or it creates a queue.
+Your entrance moves 45 people per minute — or it creates a queue. EASCO manufactures every gate on this page at its Shenzhen facility — order direct, with the engineering team a WhatsApp message away.
 
 **Category Specs Bar:**
 
@@ -63,7 +63,7 @@ Alt text: EASCO turnstile gates — up to 45 persons/min throughput, factory dir
 
 ## S2 — PRODUCT GRID
 
-**H2: Turnstile Gate Product Range**
+**H2: Choose Your Gate**
 
 ---
 
@@ -120,7 +120,7 @@ Request a quote for your volume and shipping destination → WhatsApp +86 137114
 
 **H2: Industries We Serve**
 
-EASCO turnstile gates operate across the following sectors. Select your industry for recommended configurations and integration guidance.
+Every industry below has different throughput demands, security levels, and integration requirements. Select yours for the right gate configuration.
 
 | Industry | Link |
 |---|---|
@@ -153,7 +153,7 @@ Send Your Requirements → hwenyin280@gmail.com
 
 **Catalogue & Manuals**
 
-The full turnstile gate product catalogue, technical datasheets, and installation manuals — available to download immediately.
+Spec sheets, installation manuals, and the full product catalogue — everything your procurement or engineering team needs before raising a purchase order.
 
 Download the Turnstile Gate Catalogue → /downloads/
 
@@ -161,7 +161,7 @@ Download the Turnstile Gate Catalogue → /downloads/
 
 **Guides & Blogs**
 
-Read the turnstile gate buying guide, flap barrier vs speed gate comparison, and installation planning tips.
+Not sure whether a flap barrier or speed gate fits your site? The buying guide covers throughput, footprint, and integration trade-offs in plain language.
 
 Read the Turnstile Gate Buying Guide → /turnstile-gates/buying-guide/
 
@@ -169,7 +169,7 @@ Read the Turnstile Gate Buying Guide → /turnstile-gates/buying-guide/
 
 **Knowledge Base**
 
-Find answers to turnstile gate specification questions — passage width, communication protocols, anti-tailgating setup, and maintenance intervals.
+Passage width, Wiegand vs RS-485, anti-tailgating sensor setup, maintenance intervals — answered without a sales call.
 
 Visit the Knowledge Base → /faq/
 
