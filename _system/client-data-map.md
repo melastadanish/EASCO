@@ -32,14 +32,19 @@
 
 ## Certifications
 
-| Certificate | Scope | Status |
-|---|---|---|
-| ISO 9001 | Quality Management | ⚠️ Confirm certificate number + issuing body |
-| CE | EU compliance | ⚠️ Confirm which products + issuing body |
-| FCC | US EMC compliance | ⚠️ Confirm which products |
-| RoHS | Hazardous substances | ⚠️ Confirm |
+> Full details in `_system/client-data-map/Certifications.md`.
 
-> ⚠️ Do not claim any certification in copy until confirmed in writing from client.
+| Certificate | Certificate No. | Issuing Body | Scope / Models | Valid Until | Status |
+|---|---|---|---|---|---|
+| CE (RED 2014/53/EU) | BKC25104386KC | Shenzhen BKC Testing Co., Ltd. | ESK, ES-QV8, ES-LV8, ESFPR, ESFAT, MTH8, Q8, L8, QF10, LF10, ES-QR8, ES-LR8, ED8, ESJ, ES-RCM01/02/03/04, MTFKS01/02, MT5, TQ8, TL8 | — | ✅ Oct 2025 |
+| FCC Part 15B (SDoC) | DL-2020051171C | Shenzhen DL Testing Technology Co., Ltd. | ES-TSQ8, ES-TSL8, ES-TL8, ES-TL8 Pro, ES-TQ8, ES-TQ8Pro | — | ✅ May 2020 |
+| ISO 9001:2015 | 033823Q01861R0SPVLCVG | Wozhong Certification | Face recognition all-in-one machine; Pedestrian passage gate machine | 14 Jun 2026 | ✅ |
+| ISO 14001:2015 | 033823E00739R0SRJUXZW | Wozhong Certification | Same as above | 14 Jun 2026 | ✅ |
+| ISO 45001:2018 | 033823S00630R0SMUODTA | Wozhong Certification | Same as above | 14 Jun 2026 | ✅ |
+| RoHS | — | Not yet provided | — | — | ⚠️ |
+| IP Rating test report | — | Not yet provided | IP65 claimed — formal report needed | — | ⚠️ |
+| UKCA | — | Not yet provided | — | — | ⚠️ |
+| EAC | — | Not yet provided | — | — | ⚠️ |
 
 ---
 
@@ -147,7 +152,43 @@
 | Capacity | 10,000 palm veins | szeasco.com homepage | ✅ |
 | Effective distance | 140–400mm | szeasco.com homepage | ✅ |
 
-### Iris Recognition
+### Palm Vein + Face Recognition — ESQV8
+
+**Title:** Palm Recognition + Face Recognition Machine
+**Source:** Official ESQV8 Product Parameter sheet (client-supplied, 2026).
+
+| Spec | Value | Source | Status |
+|---|---|---|---|
+| Model | ESQV8 | ESQV8 sheet | ✅ |
+| Palm vein FAR (error in testing) | **1e-05 (0.00001)** | ESQV8 sheet | ✅ |
+| Palm vein FRR (rejection rate) | **0.0001** | ESQV8 sheet | ✅ |
+| Palm vein recognition speed | **< 0.5s** | ESQV8 sheet | ✅ |
+| Palm vein capacity | **10,000** | ESQV8 sheet | ✅ |
+| Palm effective recognition distance | **140mm–400mm** (standard hand; varies by environment/hand size) | ESQV8 sheet | ✅ |
+| Face accuracy | 99.98% (0.9998) | ESQV8 sheet | ✅ |
+| Face recognition distance | 0.5–3 metres | ESQV8 sheet | ✅ |
+| Face recognition speed | 200–300ms | ESQV8 sheet | ✅ |
+| Face capacity | 50,000 faces | ESQV8 sheet | ✅ |
+| Operating system | Android | ESQV8 sheet | ✅ |
+| Display | 8-inch, 800×1280 | ESQV8 sheet | ✅ |
+| Panel | High-strength tempered glass | ESQV8 sheet | ✅ |
+| RAM / Storage | 2GB RAM, 32GB storage | ESQV8 sheet | ✅ |
+| RGB camera | 2MP wide-dynamic | ESQV8 sheet | ✅ |
+| IR camera | 2MP infrared | ESQV8 sheet | ✅ |
+| Speaker / Microphone | Stereo speaker; microphone supported | ESQV8 sheet | ✅ |
+| Housing | Aviation-grade aluminum alloy | ESQV8 sheet | ✅ |
+| IP Rating | **IP65 (dust & waterproof)** | ESQV8 sheet | ✅ |
+| Operating temperature | **-25°C to +75°C** | ESQV8 sheet | ✅ |
+| Operating humidity | 5%–93% RH non-condensing | ESQV8 sheet | ✅ |
+| Using environment | Indoor, outdoor | ESQV8 sheet | ✅ |
+| Communication | Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0, RJ45 | ESQV8 sheet | ✅ |
+| Relay switch | Supported | ESQV8 sheet | ✅ |
+| Power supply | DC 12V–3A (no PoE support) | ESQV8 sheet | ✅ |
+| Installation options | Wall-mount, floor-standing, turnstile-integrated, desktop | ESQV8 sheet | ✅ |
+| Included adapter | AC adapter DC 12V 3A | ESQV8 sheet | ✅ |
+| Optional accessories | Desktop base; floor-standing pillar (1.1 m) | ESQV8 sheet | ✅ |
+
+### Iris Recognition — General (from homepage)
 
 | Spec | Value | Source | Status |
 |---|---|---|---|
@@ -155,6 +196,42 @@
 | Recognition distance | **30–50cm** | szeasco.com homepage | ✅ |
 | Recognition range (height) | **13cm** | szeasco.com homepage | ✅ |
 | Recognition speed | **< 2 seconds** | szeasco.com homepage | ✅ |
+
+### Iris + Face Recognition — MTH8
+
+**Title:** Iris Recognition Face Recognition Machine (虹膜人脸识别一体机)
+**Source:** Official MTH8 Product Parameter sheet (client-supplied, 2026).
+
+| Spec | Value | Source | Status |
+|---|---|---|---|
+| Model | MTH8 | MTH8 sheet | ✅ |
+| Iris recognition distance | **30–50cm** | MTH8 sheet | ✅ |
+| Iris recognition range | **13cm cover height** | MTH8 sheet | ✅ |
+| Iris recognition speed | **< 2 seconds** | MTH8 sheet | ✅ |
+| Iris misrecognition rate | **1 in 10,000,000** | MTH8 sheet | ✅ |
+| Liveness detection | Supported | MTH8 sheet | ✅ |
+| Iris recognition environment | Indoor, outdoor, night-time | MTH8 sheet | ✅ |
+| Operating system | Android | MTH8 sheet | ✅ |
+| Configuration | 2GB RAM + 32GB storage | MTH8 sheet | ✅ |
+| Display | 8-inch, 800×1280 | MTH8 sheet | ✅ |
+| Luminance | 300 cd/m² | MTH8 sheet | ✅ |
+| Touch screen | Multi-point capacitive touch | MTH8 sheet | ✅ |
+| Camera | 2MP physical wide-dynamic | MTH8 sheet | ✅ |
+| Network | Wired + wireless | MTH8 sheet | ✅ |
+| Record storage | > 1,000,000 records (local) | MTH8 sheet | ✅ |
+| Surface material | Tempered glass (front) | MTH8 sheet | ✅ |
+| Body technology | Aluminum alloy CNC precision-carved, anodized | MTH8 sheet | ✅ |
+| Colour | Silver | MTH8 sheet | ✅ |
+| Face recognition distance | 0.5–3 metres | MTH8 sheet | ✅ |
+| Face recognition speed | 200–300ms | MTH8 sheet | ✅ |
+| Face accuracy | 99.98% (0.9998) | MTH8 sheet | ✅ |
+| Face capacity | 50,000 faces | MTH8 sheet | ✅ |
+| Operating temperature | **-25°C to +75°C** | MTH8 sheet | ✅ |
+| Operating humidity | 5%–93% RH non-condensing | MTH8 sheet | ✅ |
+| Using environment | Indoor, outdoor | MTH8 sheet | ✅ |
+| Communication | Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0, RJ45 | MTH8 sheet | ✅ |
+| Relay switch | Supported | MTH8 sheet | ✅ |
+| Power supply | DC 12V–3A (no PoE support) | MTH8 sheet | ✅ |
 
 ---
 
@@ -188,20 +265,40 @@
 
 ### Alcohol Detection Attendance — ESFAT
 
+**Title:** Alcohol Testing + Face Recognition Machine
+**Source upgrade:** Official ESFAT Product Parameter sheet (client-supplied, 2026). Supersedes scrape where noted.
+
 | Spec | Value | Source | Status |
 |---|---|---|---|
-| Model | ESFAT | h-pd-30 | ✅ |
-| Testing range | **0–400 mg/100mL (0–2.00mg/L)** | szeasco.com homepage + h-pd-30 | ✅ |
-| Accuracy / error margin | **±6.0 mg/100mL** | szeasco.com homepage + h-pd-30 | ✅ |
-| Resolution | **1 mg/100mL** | szeasco.com homepage | ✅ |
-| Alcohol test temp range | **5°C to +50°C** | szeasco.com homepage | ✅ |
-| Combined with face recognition | Yes | h-pd-30 | ✅ |
+| Model | ESFAT | h-pd-30 / ESFAT sheet | ✅ |
+| Testing range | **0–400 mg/100mL (0–2.00mg/L)** | ESFAT sheet + homepage | ✅ |
+| Accuracy / error margin | **±6.0 mg/100mL** | ESFAT sheet + homepage | ✅ |
+| Resolution | **1 mg/100mL** | ESFAT sheet | ✅ |
+| Sensitivity | **5 mg/100mL** | ESFAT sheet | ✅ |
+| Alcohol module operating temp | **5°C to +50°C** | ESFAT sheet | ✅ |
+| Combined with face recognition | Yes | h-pd-30 / ESFAT sheet | ✅ |
 | IP Rating | IP65 | h-pd-30 | ✅ |
-| Operating temperature (device) | -25°C to +75°C | h-pd-30 | ✅ |
-| Display | 8-inch, 800×1280 | h-pd-30 | ✅ |
-| RAM / Storage | 2GB RAM, 32GB storage | h-pd-30 | ✅ |
-| Face accuracy | 99.98% | h-pd-30 | ✅ |
-| Face capacity | 50,000 | h-pd-30 | ✅ |
+| Operating temperature (device) | **5°C to +50°C** ⚠️ Sheet states 5–50°C; scrape (h-pd-30) stated -25 to +75. Confirm which applies to ESFAT specifically | ESFAT sheet vs h-pd-30 | ⚠️ Conflict — confirm |
+| Operating humidity | 5%–93% RH non-condensing | ESFAT sheet | ✅ |
+| Using environment | Indoor, outdoor | ESFAT sheet | ✅ |
+| Display | 8-inch, 800×1280 | ESFAT sheet | ✅ |
+| Panel | High-strength tempered glass | ESFAT sheet | ✅ |
+| RAM / Storage | 2GB RAM, 32GB storage | ESFAT sheet | ✅ |
+| RGB camera | 2MP wide-dynamic | ESFAT sheet | ✅ |
+| IR camera | 2MP infrared | ESFAT sheet | ✅ |
+| Speaker / Microphone | Stereo speaker; microphone supported | ESFAT sheet | ✅ |
+| Housing | Aviation-grade aluminum alloy | ESFAT sheet | ✅ |
+| Operating system | Android | ESFAT sheet | ✅ |
+| Recognition distance | 0.5–3 metres | ESFAT sheet | ✅ |
+| Recognition speed | 200–300ms | ESFAT sheet | ✅ |
+| Face accuracy | 99.98% | ESFAT sheet | ✅ |
+| Face capacity | 50,000 | ESFAT sheet | ✅ |
+| Communication | Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0, RJ45 | ESFAT sheet | ✅ |
+| Relay switch | Supported | ESFAT sheet | ✅ |
+| Power supply | DC 12V–3A (no PoE support) | ESFAT sheet | ✅ |
+| Installation options | Wall-mount, floor-standing, turnstile-integrated, desktop | ESFAT sheet | ✅ |
+| Included adapter | AC adapter DC 12V 3A | ESFAT sheet | ✅ |
+| Optional accessories | Desktop base; floor-standing pillar (1.1 m) | ESFAT sheet | ✅ |
 
 ### Handheld Terminal Series (云行手持机)
 
