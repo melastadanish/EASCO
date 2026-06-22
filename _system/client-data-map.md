@@ -32,14 +32,19 @@
 
 ## Certifications
 
-| Certificate | Scope | Status |
-|---|---|---|
-| ISO 9001 | Quality Management | ⚠️ Confirm certificate number + issuing body |
-| CE | EU compliance | ⚠️ Confirm which products + issuing body |
-| FCC | US EMC compliance | ⚠️ Confirm which products |
-| RoHS | Hazardous substances | ⚠️ Confirm |
+> Full details in `_system/client-data-map/Certifications.md`.
 
-> ⚠️ Do not claim any certification in copy until confirmed in writing from client.
+| Certificate | Certificate No. | Issuing Body | Scope / Models | Valid Until | Status |
+|---|---|---|---|---|---|
+| CE (RED 2014/53/EU) | BKC25104386KC | Shenzhen BKC Testing Co., Ltd. | ESK, ES-QV8, ES-LV8, ESFPR, ESFAT, MTH8, Q8, L8, QF10, LF10, ES-QR8, ES-LR8, ED8, ESJ, ES-RCM01/02/03/04, MTFKS01/02, MT5, TQ8, TL8 | — | ✅ Oct 2025 |
+| FCC Part 15B (SDoC) | DL-2020051171C | Shenzhen DL Testing Technology Co., Ltd. | ES-TSQ8, ES-TSL8, ES-TL8, ES-TL8 Pro, ES-TQ8, ES-TQ8Pro | — | ✅ May 2020 |
+| ISO 9001:2015 | 033823Q01861R0SPVLCVG | Wozhong Certification | Face recognition all-in-one machine; Pedestrian passage gate machine | 14 Jun 2026 | ✅ |
+| ISO 14001:2015 | 033823E00739R0SRJUXZW | Wozhong Certification | Same as above | 14 Jun 2026 | ✅ |
+| ISO 45001:2018 | 033823S00630R0SMUODTA | Wozhong Certification | Same as above | 14 Jun 2026 | ✅ |
+| RoHS | — | Not yet provided | — | — | ⚠️ |
+| IP Rating test report | — | Not yet provided | IP65 claimed — formal report needed | — | ⚠️ |
+| UKCA | — | Not yet provided | — | — | ⚠️ |
+| EAC | — | Not yet provided | — | — | ⚠️ |
 
 ---
 
