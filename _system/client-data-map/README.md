@@ -18,3 +18,4 @@
 | Stargate | Face Recognition Speed Gate (Stargate) | SILO 1 — Turnstile Gates | `Stargate-Speed-Gate.md` |
 | L8 | Face + Fingerprint Recognition Machine | SILO 2 — Biometrics | `L8.md` |
 | — | Certifications & Compliance (CE, FCC, ISO 9001/14001/45001) | Company-wide | `Certifications.md` |
+| — | Contact details & social media links | Company-wide | `Contact-and-Social.md` |
