@@ -15,3 +15,5 @@
 | ESFAT | Alcohol Testing + Face Recognition Machine | SILO 4 — Attendance | `ESFAT.md` |
 | ESQV8 | Palm Recognition + Face Recognition Machine | SILO 2 — Biometrics | `ESQV8.md` |
 | MTH8 | Iris Recognition + Face Recognition Machine | SILO 2 — Biometrics | `MTH8.md` |
+| Stargate | Face Recognition Speed Gate (Stargate) | SILO 1 — Turnstile Gates | `Stargate-Speed-Gate.md` |
+| L8 | Face + Fingerprint Recognition Machine | SILO 2 — Biometrics | `L8.md` |
