@@ -163,6 +163,70 @@ These are the trust-building and conversion pages every visitor lands on before 
 
 ---
 
+## Phase 9 — Alternatives (Competitor Comparison Pages)
+
+High-intent commercial pages targeting buyers comparing EASCO to specific competitors. Write after Phase 2–3 pillar pages are complete (so there are internal links to point to).
+
+| # | Task | File | Target Keyword | Status |
+|---|---|---|---|---|
+| 9.1 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ZKTeco alternative | 🔲 |
+| 9.2 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | Hikvision access control alternative | 🔲 |
+| 9.3 | ZKTeco Alternative | alternatives/zkteco-alternative.md | alternative to ZKTeco | 🔲 |
+| 9.4 | Hikvision Alternative | alternatives/hikvision-alternative.md | alternative to Hikvision access control | 🔲 |
+
+---
+
+## Phase 10 — Industry Pages
+
+Vertical-specific landing pages. Write after relevant silo pillar pages are complete (phases 2–5).
+
+| # | Task | File | Target Keyword | Status |
+|---|---|---|---|---|
+| 10.0 | Industries Overview | industries/industries-overview.md | access control by industry | 🔲 |
+| 10.1 | Corporate Offices | industries/corporate-offices.md | access control for corporate offices | 🔲 |
+| 10.2 | Hospitals | industries/hospitals.md | access control for hospitals | 🔲 |
+| 10.3 | Schools & Universities | industries/schools-universities.md | access control for schools universities | 🔲 |
+| 10.4 | Warehouses | industries/warehouses.md | access control for warehouses | 🔲 |
+| 10.5 | Construction Sites | industries/construction-sites.md | access control for construction sites | 🔲 |
+| 10.6 | Government Buildings | industries/government-buildings.md | access control for government buildings | 🔲 |
+
+---
+
+## Phase 11 — Blog / Informational Content
+
+Informational pages that feed the silo pillar pages with top-of-funnel traffic. Write after relevant pillar pages are complete.
+
+| # | Task | File | Target Keyword | Silo | Status |
+|---|---|---|---|---|---|
+| 11.1 | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | what is a turnstile gate | S1 | 🔲 |
+| 11.2 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | how to choose a turnstile gate | S1 | 🔲 |
+| 11.3 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | face recognition vs fingerprint | S2 | 🔲 |
+| 11.4 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | biometric access control explained | S2 | 🔲 |
+| 11.5 | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | what is liveness detection | S2 | 🔲 |
+| 11.6 | How Does ANPR Work? | blogs/how-does-anpr-work.md | how does ANPR work | S3 | 🔲 |
+| 11.7 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | access control construction sites | S4 | 🔲 |
+| 11.8 | OEM vs ODM: What's the Difference? | blogs/oem-vs-odm.md | OEM vs ODM difference | S5 | 🔲 |
+
+---
+
+## Phase 12 — Case Studies (9 pages)
+
+Write after relevant industry/silo pages are complete. All blocked until client provides project references.
+
+| # | Task | File | Target Keyword | Status |
+|---|---|---|---|---|
+| 12.0 | Case Studies Hub | case-studies/index.md | access control project examples | ⚠️ Blocked — needs sub-pages first |
+| 12.1 | Office Buildings | case-studies/office-buildings.md | office building security upgrade | ⚠️ Blocked — needs client reference |
+| 12.2 | Schools | case-studies/schools.md | K-12 school access control | ⚠️ Blocked — needs client reference |
+| 12.3 | Airports & Stations | case-studies/airports-stations.md | airport access control project | ⚠️ Blocked — needs client reference |
+| 12.4 | Banks | case-studies/banks.md | financial institution security | ⚠️ Blocked — needs client reference |
+| 12.5 | Shopping Malls | case-studies/shopping-malls.md | shopping mall access control | ⚠️ Blocked — needs client reference |
+| 12.6 | Government Agencies | case-studies/government.md | government building access control | ⚠️ Blocked — needs client reference |
+| 12.7 | Factories | case-studies/factories.md | manufacturing plant access control | ⚠️ Blocked — needs client reference |
+| 12.8 | Stadiums & Gyms | case-studies/stadiums-gyms.md | stadium turnstile | ⚠️ Blocked — needs client reference |
+
+---
+
 ## Total Page Count
 
 | Phase | Pages | Status |
@@ -171,10 +235,14 @@ These are the trust-building and conversion pages every visitor lands on before 
 | Homepage | 1 | ✅ |
 | Phase 1 — Core Static | 9 | 0/9 |
 | Phase 2 — Turnstiles | 9 | 0/9 |
-| Phase 3 — Biometrics | 9 | 0/9 |
+| Phase 3 — Biometrics | 10 | 0/10 (visitor-registration added) |
 | Phase 4 — Vehicle Access | 5 | 0/5 |
 | Phase 5 — Attendance | 6 | 0/6 |
 | Phase 6 — Custom/Airport | 6 | 0/6 |
 | Phase 7 — Company/Trust | 6 | 0/6 |
 | Phase 8 — Supporting/Legal | 10 | 0/10 |
-| **TOTAL CONTENT PAGES** | **61** | **1/61** |
+| Phase 9 — Alternatives | 4 | 0/4 |
+| Phase 10 — Industries | 7 | 0/7 |
+| Phase 11 — Blogs | 8 | 0/8 |
+| Phase 12 — Case Studies | 9 | 0/9 (all blocked) |
+| **TOTAL CONTENT PAGES** | **90** | **1/90** |

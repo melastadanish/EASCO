@@ -18,11 +18,15 @@ Before writing any page, read these files in order:
 3. `_system/differentiator-card.md` — minimum 2 differentiators per page
 4. `_system/objection-map.md` — Pass C objection coverage test
 5. `_system/buyer-segment-table.md` — primary segment for the page being written
-6. The matching template for the page type:
+6. `_system/sitemap.md` — confirm URL slug and silo tier before writing
+7. The matching template for the page type:
    - Pillar page → `templates/pillar-page-template.md`
    - Cluster page → `templates/cluster-page-template.md`
    - Product page → `templates/product-page-template.md`
    - Other page → `templates/other-page-template.md`
+   - Blog / Informational → `templates/blog-template.md`
+   - Alternatives / Competitor comparison → `templates/alternative-template.md`
+   - Industry page → `templates/industry-template.md`
 
 ---
 
@@ -92,7 +96,8 @@ A page is NOT complete until:
 | `_system/objection-map.md` | 20 buyer objections + spec-backed answers |
 | `_system/buyer-segment-table.md` | 5 buyer segments — pain, drivers, messaging angle |
 | `_system/competitors.md` | Competitor positioning reference |
-| `_system/execution-plan.md` | Phased task queue — all 60+ pages |
+| `_system/sitemap.md` | URL slugs, silo tiers, internal linking rules |
+| `_system/execution-plan.md` | Phased task queue — all pages |
 | `_system/progress.md` | Completion tracker — current status of every page |
 | `_system/reusablesections.md` | Reusable section library |
 | `seo/keyword-master-list.md` | Keyword clusters by silo |

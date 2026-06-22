@@ -203,14 +203,23 @@
 | Face accuracy | 99.98% | h-pd-30 | ✅ |
 | Face capacity | 50,000 | h-pd-30 | ✅ |
 
-### Handheld Terminal
+### Handheld Terminal Series (云行手持机)
+
+| Model | Description | Status |
+|---|---|---|
+| ESR366 | Standard handheld face recognition terminal | ✅ Model confirmed by client |
+| ESR51 | Rugged three-proof handheld terminal | ✅ Model confirmed by client |
+| ESR860 | Handheld terminal with receipt/ticket printer | ✅ Model confirmed by client |
+| ESR366C | Gun-grip handheld with HF card reader (flexible label reading) | ✅ Model confirmed by client |
 
 | Spec | Value | Source | Status |
 |---|---|---|---|
 | Operating environment | Outdoor / field use | szeasco.com | ✅ |
-| Battery life | — | Not found | ⚠️ |
-| Connectivity | — | Not found | ⚠️ |
-| IP rating | — | Not found | ⚠️ |
+| Use cases | Face recognition, barcode scanning, goods management, retail, warehouse, site management | Client briefing 2026-06-21 | ✅ |
+| ESR366C capability | Reads HF flexible label cards via built-in card reader | Client briefing 2026-06-21 | ✅ |
+| Battery life | — | Not found | ⚠️ Confirm with client |
+| Connectivity | — | Not found | ⚠️ Confirm with client |
+| IP rating | — | Not found | ⚠️ Confirm with client |
 | Biometric module | Face recognition | szeasco.com | ✅ |
 
 ---
@@ -251,6 +260,60 @@
 
 ---
 
+## Face Panel Series — Chinese Product Line Mapping
+
+> Provided by client 2026-06-21. English model codes ⚠️ pending confirmation for most models.
+
+| Chinese Name | Screen Size | Product Type | English Model | Status |
+|---|---|---|---|---|
+| 云纹 | 5-inch | Face recognition terminal (small) | ⚠️ Confirm EN model code | ⚠️ |
+| 云测酒检 | 8-inch | Alcohol detection + face attendance | ESFAT | ✅ |
+| 云棱 | 8-inch | Face recognition terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 云脉掌静脉识别 | 8-inch | Palm vein recognition | ESFPR | ✅ |
+| 云眸虹膜 | 8-inch | Iris recognition terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 云腾 | 8-inch | Face recognition terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 云途掌纹 | 8-inch | Palm print recognition terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 云影 | 8-inch | Face recognition terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 灵点 | 8-inch | Face recognition terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 云极 | 10-inch | Face recognition terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 云栖 (刷卡扫码) | 10-inch | Face + card + QR code terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 云栖 (纯人脸) | 10-inch | Face-only terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 多功能大屏 (横/竖) | 15.6-inch | Multi-function large screen terminal | ⚠️ Confirm EN model code | ⚠️ |
+| 多功能大屏 (横/竖) | 21.5-inch | Multi-function large screen terminal | Matches LCD Door Panel (SILO 5) | ✅ |
+
+---
+
+## Gate Series — Chinese Product Line Mapping
+
+> Provided by client 2026-06-21. English model codes ⚠️ pending for new series.
+
+**Aluminum Alloy Series:**
+
+| Chinese Name | English Description | English Model | Status |
+|---|---|---|---|
+| 星舰4系列 | Starship 4 series gate | ⚠️ Confirm EN model code | ⚠️ |
+| 星耀防水速通门 | Waterproof speed gate series | ⚠️ Confirm EN model code | ⚠️ |
+| 星际系列 | Interstellar series — likely holographic/premium gate | ⚠️ Confirm EN model code | ⚠️ |
+| 水滴圆柱速通门 | Water-drop cylindrical speed gate | ESYBZ / ESYAD (likely match) | ⚠️ Confirm |
+
+**Stainless Steel Series:**
+
+| Chinese Name | English Description | English Model | Status |
+|---|---|---|---|
+| 锋影速通门 | Fenying speed gate series | ⚠️ Confirm EN model code | ⚠️ |
+| 168不锈钢圆柱摆闸 | 168 stainless cylindrical swing gate | ⚠️ Confirm EN model code | ⚠️ |
+| 不锈钢圆角摆闸 | Stainless round-corner swing gate (new) | ⚠️ Confirm EN model code | ⚠️ |
+| 不锈钢圆角速通门 | Stainless round-corner speed gate (new) | ⚠️ Confirm EN model code | ⚠️ |
+| 不锈钢直角摆闸 | Stainless right-angle swing gate (new) | ⚠️ Confirm EN model code | ⚠️ |
+
+**Other:**
+
+| Chinese Name | English Description | English Model | Status |
+|---|---|---|---|
+| Mini速通门 | Mini speed gate | ⚠️ Confirm EN model code | ⚠️ |
+
+---
+
 ## Data Still Needed From Client
 
 > Items that could not be confirmed from website scrape. Request from EASCO before writing these spec claims.
@@ -266,6 +329,10 @@
 - [ ] All certifications — issuing body, certificate number, scope
 
 **Products:**
+- [ ] English model codes for all face panels: 云纹, 云棱, 云眸, 云腾, 云途, 云影, 灵点, 云极, 云栖 (×2), 15.6" large screen
+- [ ] English model codes for all gate series: 星舰4, 星耀, 星际, 水滴, 锋影, 168, 3× new stainless, Mini
+- [ ] Confirm: 水滴圆柱速通门 = ESYBZ/ESYAD or a different model?
+- [ ] Which face panel model is the standard face attendance machine for S4?
 - [ ] Standard speed gate — full spec sheet (throughput, IP rating, temp range, dimensions)
 - [ ] Flap barrier — full spec sheet
 - [ ] Tripod turnstile — full spec sheet

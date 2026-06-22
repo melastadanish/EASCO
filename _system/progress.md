@@ -20,11 +20,12 @@
 
 ## Completion Summary
 
-**Total pages: 61**
-**Complete: 1**
+**Total pages: 90**
+**Complete: 5**
 **In progress: 0**
-**Not started: 54**
-**Blocked: 6**
+**Not started: 68**
+**Blocked: 15**
+**Last Updated: 2026-06-21**
 
 ---
 
@@ -56,6 +57,8 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
+| Archive: Turnstile Gates | silos/S1-Turnstiles/turnstile-gates.md | ✅ | A:8.7 B:✅ N:10/10 D:✅ C:✅ | AI-score 11%. ⚠️ Holographic gate model number pending client. ⚠️ Gate body IP rating pending client. |
+| Archive: Biometric Access Control | silos/S2-Biometrics/biometric-access-control.md | ✅ | A:8.8 B:✅ N:9/9 D:✅ C:✅ | AI-score 12%. ⚠️ Iris recognition model number pending client. |
 | Pillar: Turnstile Gates | silos/S1-Turnstiles/pillar.md | 🔲 | — | Keyword: turnstile gate |
 | Speed Gate | silos/S1-Turnstiles/speed-gate.md | 🔲 | — | ⚠️ Full spec sheet needed |
 | Android Speed Gate | silos/S1-Turnstiles/android-speed-gate.md | 🔲 | — | D10 differentiator |
@@ -88,6 +91,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
+| Archive: Vehicle Access Control | silos/S3-Vehicle-Access/vehicle-access-control.md | ✅ | A:8.7 B:✅ N:9/9 D:✅ C:✅ | AI-score 12%. ⚠️ Parking toll + barrier gate model numbers pending client. |
 | Pillar: Vehicle Access Control | silos/S3-Vehicle-Access/pillar.md | 🔲 | — | |
 | Number Plate Recognition | silos/S3-Vehicle-Access/number-plate-recognition.md | 🔲 | — | ES-T02/T03/T04 specs ✅ |
 | Parking Toll System | silos/S3-Vehicle-Access/parking-toll-system.md | 🔲 | — | |
@@ -100,6 +104,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
+| Archive: Attendance Management | silos/S4-Attendance/attendance-management.md | ✅ | A:8.8 B:✅ N:8/8 D:✅ C:✅ | AI-score 11%. ⚠️ Face attendance + handheld model numbers pending client. |
 | Pillar: Attendance Management | silos/S4-Attendance/pillar.md | 🔲 | — | |
 | Face Attendance Machine | silos/S4-Attendance/face-attendance-machine.md | 🔲 | — | |
 | Alcohol Detection Attendance | silos/S4-Attendance/alcohol-detection-attendance.md | 🔲 | — | D11. ESFAT specs ✅ |
@@ -149,3 +154,67 @@
 | Terms of Service | other-pages/terms-of-service.md | 🔲 | — | Legal required |
 | Cookie Policy | other-pages/cookie-policy.md | 🔲 | — | Legal required |
 | Careers | other-pages/careers.md | 🔲 | — | Low priority |
+
+---
+
+## Phase 9 — Alternatives
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | 🔲 | — | Write after S1+S2 pillar complete |
+| EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | 🔲 | — | Write after S1+S2 pillar complete |
+| ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 | — | Verify competitor specs before writing |
+| Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 | — | Verify competitor specs before writing |
+
+---
+
+## Phase 10 — Industries
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Industries Overview | industries/industries-overview.md | 🔲 | — | Hub page — write after industry sub-pages |
+| Corporate Offices | industries/corporate-offices.md | 🔲 | — | Primary: Facility Manager |
+| Hospitals | industries/hospitals.md | 🔲 | — | Palm vein lead product |
+| Schools & Universities | industries/schools-universities.md | 🔲 | — | Primary: Facility Manager |
+| Warehouses | industries/warehouses.md | 🔲 | — | Alcohol detection relevant |
+| Construction Sites | industries/construction-sites.md | 🔲 | — | Alcohol detection + attendance lead |
+| Government Buildings | industries/government-buildings.md | 🔲 | — | Iris recognition lead product |
+
+---
+
+## Phase 11 — Blogs
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | 🔲 | — | Feeds S1 pillar |
+| How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | 🔲 | — | Feeds S1 pillar |
+| Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | 🔲 | — | Feeds S2 pillar |
+| Biometric Access Control Explained | blogs/biometric-access-control-explained.md | 🔲 | — | Feeds S2 pillar |
+| What Is Liveness Detection? | blogs/what-is-liveness-detection.md | 🔲 | — | High GEO value — AI citation target |
+| How Does ANPR Work? | blogs/how-does-anpr-work.md | 🔲 | — | Feeds S3 pillar |
+| Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | 🔲 | — | Feeds S4 pillar |
+| OEM vs ODM: What's the Difference? | blogs/oem-vs-odm.md | 🔲 | — | Feeds S5 pillar |
+
+---
+
+## Phase 12 — Case Studies
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Case Studies Hub | case-studies/index.md | ⚠️ | — | Blocked — write after sub-pages exist |
+| Office Buildings | case-studies/office-buildings.md | ⚠️ | — | Blocked — needs client project reference |
+| Schools | case-studies/schools.md | ⚠️ | — | Blocked — needs client project reference |
+| Airports & Stations | case-studies/airports-stations.md | ⚠️ | — | Blocked — needs client project reference |
+| Banks | case-studies/banks.md | ⚠️ | — | Blocked — needs client project reference |
+| Shopping Malls | case-studies/shopping-malls.md | ⚠️ | — | Blocked — needs client project reference |
+| Government Agencies | case-studies/government.md | ⚠️ | — | Blocked — needs client project reference |
+| Factories | case-studies/factories.md | ⚠️ | — | Blocked — needs client project reference |
+| Stadiums & Gyms | case-studies/stadiums-gyms.md | ⚠️ | — | Blocked — needs client project reference |
+
+---
+
+## Phase 3 Additions — S2 Biometrics
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Visitor Registration System | silos/S2-Biometrics/visitor-registration.md | 🔲 | — | Quick Win #2 (5,400 vol). Confirm software vs hardware scope with client |
