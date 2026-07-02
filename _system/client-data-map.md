@@ -13,23 +13,65 @@
 
 | Fact | Value | Source | Status |
 |---|---|---|---|
-| Company name (EN) | Shenzhen Easco Intelligent Equipment Co., Ltd. | szeasco.com | ✅ |
-| Company name (CN) | 深圳市易思科智能设备有限公司 | szeasco.com | ✅ |
+| Company name (EN) | Shenzhen Easco Intelligent Equipment Co., Ltd. | Client official data 2026-07-02 | ✅ |
+| Company name (CN) | 深圳市易思科智能设备有限公司 | Client official data 2026-07-02 | ✅ |
+| Company short name | Easco | Client official data 2026-07-02 | ✅ |
+| Founded | December 22, 2009 | Client official data 2026-07-02 | ✅ |
+| Years in business | 16+ years (as of 2026) | Calculated from founding date | ✅ |
+| Company status | National High-Tech Enterprise (valid until 2025) | Client official data 2026-07-02 | ✅ |
+| Provincial recognition | Guangdong Provincial Innovative SME (2023) | Client official data 2026-07-02 | ✅ |
+| Taxpayer status | A-level taxpayer (consecutive years) | Client official data 2026-07-02 | ✅ |
 | ICP registration | 粤ICP备10026371号 | szeasco.com | ✅ |
 | Copyright year | 2024 | szeasco.com footer | ✅ |
-| Years in business | **16+ years** | Client provided 2026-07-02 | ✅ |
-| Founded | 2010 or earlier | Calculated from 16+ years | ✅ |
-| Factory location | Building 20, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen | szeasco.com | ✅ |
-| Factory floor area | **3,000+ square meters** | Client provided 2026-07-02 | ✅ |
-| R&D team size | **10+ members** | Client provided 2026-07-02 | ✅ |
-| Sales team size | **50+ sales specialists** | Client provided 2026-07-02 | ✅ |
-| Total installation cases | **80,000+ installations** | Client provided 2026-07-02 | ✅ |
+| Factory location | Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province | Client official data 2026-07-02 | ✅ |
+| Factory location (CN) | 广东省深圳市龙华新区观澜街道环观南路大和工业区20栋2楼 | Client official data 2026-07-02 | ✅ |
+| Factory floor area | 3,000+ square meters | Client official data 2026-07-02 | ✅ |
+| R&D team size | 10+ members | Client official data 2026-07-02 | ✅ |
+| Sales team size | 50+ sales specialists | Client official data 2026-07-02 | ✅ |
+| Total installation cases | 80,000+ installations | Client official data 2026-07-02 | ✅ |
+| Patents filed | 63 patents | Client official data 2026-07-02 | ✅ |
+| Software copyrights | 5 software copyrights | Client official data 2026-07-02 | ✅ |
+| Key export markets | North America, Europe, Middle East, Southeast Asia | Client official data 2026-07-02 | ✅ |
+| Export markets (CN) | 北美、欧洲、中东、东南亚 | Client official data 2026-07-02 | ✅ |
 | Countries served | 50+ countries | szeasco.com homepage | ✅ |
-| Total clients / units shipped | — | Not confirmed separately | ⚠️ Use "80,000+ installations" instead |
 | Number of employees | 60+ (10 R&D + 50 sales minimum) | Calculated from team data | ✅ |
+| Business scope | R&D, manufacturing, and sales (integrated provider) | Client official data 2026-07-02 | ✅ |
+| Core focus | Intelligent security and traffic management | Client official data 2026-07-02 | ✅ |
+| Company philosophy | "Technology-driven security, intelligence shaping the future" | Client official data 2026-07-02 | ✅ |
+| Latest product series (2025) | "Cloud Series" biometric products & "Star Series" speed gates | Client official data 2026-07-02 | ✅ |
+| Exhibition attendance | 2025 Shenzhen International Exhibition | Client official data 2026-07-02 | ✅ |
 | Annual production capacity | — | Not confirmed | ⚠️ |
-| Number of products in active range | 52 product pages confirmed | Sitemap h-pd count | ✅ |
-| OEM/ODM prototype lead time | 30–45 days | Used in homepage (client previously indicated) | ✅ |
+| OEM/ODM prototype lead time | 30–45 days | Used in homepage | ✅ |
+
+---
+
+## Contact Information
+
+| Channel | Detail | Source | Status |
+|---|---|---|---|
+| WhatsApp Business | +86 13711422283 | Client official data 2026-07-02 | ✅ |
+| Email (quote/inquiry) | hwenyin280@gmail.com | Client official data 2026-07-02 | ✅ |
+| Skype ID | 1662258884@qq.com | Client official data 2026-07-02 | ✅ |
+| LinkedIn | https://www.linkedin.com/feed/ | Client official data 2026-07-02 | ✅ |
+| Facebook | https://www.facebook.com/turnstilemanufacturer/ | Client official data 2026-07-02 | ✅ |
+| Website | szeasco.com | Live site | ✅ |
+| Factory address | Building 20, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen | Client official data 2026-07-02 | ✅ |
+
+---
+
+## Three Flagship Product Lines (Core Innovation)
+
+| Product Line | Key Features | Source | Status |
+|---|---|---|---|
+| **Face Recognition Access Control Systems** | Multi-scenario applications, customized industry solutions, financial-grade liveness detection, multi-modal verification | Client official data 2026-07-02 | ✅ |
+| **Intelligent Electric Barriers** | Crank-link transmission, magnetic-sensitive limit control, full-circuit non-contact control, automatic anti-crushing protection, manual operation during power outages | Client official data 2026-07-02 | ✅ |
+| **Parking Lot Toll Systems** | License plate recognition, optimize traffic flow management, efficient parking operation | Client official data 2026-07-02 | ✅ |
+
+**Key Technology Highlights:**
+- **Anti-crushing mechanism:** Crank-link transmission with magnetic-sensitive limit control (barrier gates) | Client official | ✅
+- **Liveness detection:** Financial-grade liveness detection (face recognition) | Client official | ✅
+- **Multi-modal verification:** Multiple biometric modes supported (face recognition systems) | Client official | ✅
+- **Manual failsafe:** Manual operation capability during power outages (barrier gates) | Client official | ✅
 
 ---
 

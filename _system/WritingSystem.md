@@ -123,7 +123,10 @@ One CTA per section maximum. CTA journey across a full page:
 | WhatsApp | +86 13711422283 |
 | Email | hwenyin280@gmail.com |
 | Skype | 1662258884@qq.com |
-| Address | Building 20, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, China |
+| LinkedIn | https://www.linkedin.com/feed/ |
+| Facebook | https://www.facebook.com/turnstilemanufacturer/ |
+| Address (EN) | Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China |
+| Address (CN) | 广东省深圳市龙华新区观澜街道环观南路大和工业区20栋2楼 |
 
 ---
 
