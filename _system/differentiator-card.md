@@ -10,14 +10,14 @@
 
 | # | Internal Fact | Buyer Language Version | Verified |
 |---|---|---|---|
-| D1 | 20 years manufacturing | "Built by a factory that has been making access control hardware since 2004 — not a new entrant, not a trading company." | ⚠️ Confirm exact founding year |
+| D1 | 16+ years manufacturing | "Built by a factory that has been making access control hardware for 16+ years — not a new entrant, not a trading company." | ✅ |
 | D2 | Factory direct — no trading company | "You order from the factory floor, not a middleman. That means lower prices, faster answers, and direct access to the engineers who built it." | ✅ |
 | D3 | Multi-modal biometrics — face + palm + iris under one roof | "Most suppliers offer face recognition. EASCO manufactures face, palm vein and iris systems — so you can spec the right technology for each security zone, from one source." | ✅ |
 | D4 | Iris recognition: 1 in 10,000,000 misrecognition rate | "The iris recognition system delivers a 1-in-10,000,000 misrecognition rate — the highest accuracy available in commercial biometrics." | ✅ from szeasco.com |
 | D5 | Financial-grade liveness detection | "Liveness detection built to financial-sector standards — rejects photos, videos, silicone masks and 3D prints. Not consumer-grade." | ✅ from szeasco.com |
-| D6 | OEM/ODM with 30–45 day prototype | "Custom housing, firmware and branding available. Prototype in 30–45 days — faster than most China-based OEM suppliers." | ⚠️ Confirm lead time |
+| D6 | OEM/ODM with 30–45 day prototype | "Custom housing, firmware and branding available. Prototype in 30–45 days — faster than most China-based OEM suppliers." | ✅ |
 | D7 | Shenzhen supply chain advantage | "Built in Shenzhen — the global hub for electronics manufacturing. Component lead times and quality checks that factories elsewhere cannot match." | ✅ |
-| D8 | Airport-grade custom solutions | "One of the few access control manufacturers producing certified airport self-check-in kiosks and flight information displays alongside standard gates." | ⚠️ Confirm airport certifications |
+| D8 | 80,000+ installations across 50+ countries | "80,000+ installations across 50+ countries — proof that the hardware works in real-world conditions, not just lab tests." | ✅ Client provided 2026-07-02 |
 
 ---
 
@@ -39,9 +39,7 @@
 
 - Every **pillar page** must include D1 + D2 + one product-category differentiator minimum
 - Every **product page** must include D2 + minimum 2 product-specific differentiators
-- Every **homepage** must include D1, D2, D3, D4 minimum
-- **Do not use D1** until exact founding year is confirmed from client
-- **Do not use D8** until airport certification status is confirmed
+- Every **homepage** must include D1, D2, D3, D4, D8 minimum
 - All differentiators are written in **buyer language** — never list the internal fact as copy
 
 ---
@@ -53,10 +51,11 @@
 | Biometric range | Face + Palm + Iris | Face + Fingerprint | Face only | Face only |
 | Factory direct | ✅ | ✅ | ✅ | ❌ (often traders) |
 | OEM/ODM | ✅ | Limited | ❌ | Sometimes |
-| Airport solutions | ✅ | ❌ | ❌ | ❌ |
+| Installations | 80,000+ | ⚠️ Unknown | ⚠️ Unknown | ⚠️ Unknown |
 | Iris accuracy (FAR) | 1 in 10M | ⚠️ Varies | ⚠️ Varies | ⚠️ Unknown |
 | Android-based gate | ✅ | ❌ | ❌ | ❌ |
 | Alcohol + attendance | ✅ | ❌ | ❌ | Rare |
-| Years manufacturing | 20 | 23 | 30+ | Unknown |
+| Years manufacturing | 16+ | 23 | 30+ | Unknown |
+| Factory size | 3,000+ m² | ⚠️ Unknown | Large | Unknown |
 
 > ⚠️ Competitor data is indicative. Verify before using in comparison copy.

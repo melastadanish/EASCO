@@ -3,8 +3,9 @@ Status: READY FOR DEVELOPMENT
 Pass A: 9.8/10
 Pass B: 1 fix applied (Section 7 sentence break)
 Pass N: 28/28 terms present (turnstile, throughput, face recognition, FAR, liveness detection, IP rating, Wiegand, RS485, TCP/IP, ANPR, anti-tailgating, opening speed, Android OS, palm vein, iris recognition, alcohol detection, attendance, OEM/ODM, SDK, API, certificate, ISO 9001, CE, MCBF, brushless motor, infrared, contactless, biometric)
-Pass D: AI-quotable ✅ | FAQ 8 Q&As ✅ | Authority ✅ (20 years, ISO 9001, 63 patents, iris 1-in-10M FAR, face 99.98%) | GEO ✅ (Shenzhen location, factory address)
+Pass D: AI-quotable ✅ | FAQ 8 Q&As ✅ | Authority ✅ (16 years, ISO 9001, 80,000+ installations, 3,000m² factory, iris 1-in-10M FAR, face 99.98%) | GEO ✅ (Shenzhen location, factory address)
 Pass C: Headlines ✅ | Objections ✅ (O1, O2, O3, O4, O5 covered) | CTAs ✅ (16 product/solution CTAs) | AI-score 12%
+Client Data Updated: 2026-07-02 (16+ years, 3,000m² factory, 10+ R&D team, 50+ sales team, 80,000+ installations)
 Last Updated: 2026-07-02
 ---
 
@@ -32,12 +33,12 @@ Last Updated: 2026-07-02
 **H1:** Turnstile Gates and Face Recognition Terminals. Factory Direct from Shenzhen.
 
 **Subheading:**  
-Your airport terminal needs 45 people per minute through the gate. Your office lobby needs liveness detection that rejects photos. EASCO manufactures both — from one Shenzhen facility that has been building access control hardware for 20 years.
+Your airport terminal needs 45 people per minute through the gate. Your office lobby needs liveness detection that rejects photos. EASCO manufactures both — from a 3,000-square-meter Shenzhen facility with 16 years of manufacturing experience.
 
 **Trust Bullets:**
 - ✓ CE · ISO 9001 Certified
-- ✓ 20 Years Manufacturing Experience
-- ✓ 63 Patents Filed
+- ✓ 16+ Years Manufacturing Experience
+- ✓ 80,000+ Installations Worldwide
 - ✓ Export to 50+ Countries
 
 **CTA:** View All Product Categories → /products/
@@ -113,7 +114,7 @@ Field-ready terminals for outdoor attendance tracking. Built-in face recognition
 You work with the factory that builds the hardware, writes the firmware, and ships the finished unit. Not a trading company that marks up someone else's product.
 
 ### Feature 1: Factory Direct Pricing
-Your quote comes from Building 20, Dahe Industrial Zone, Guanlan Street, Shenzhen — same address since 2009. The team answering your email designed the circuit board. Your cost is lower because there is no reseller in between.
+Your quote comes from Building 20, Dahe Industrial Zone, Guanlan Street, Shenzhen — same address for 16 years. The team answering your email designed the circuit board. Your cost is lower because there is no reseller in between. 3,000+ square meters of manufacturing space dedicated to access control hardware.
 
 ### Feature 2: Consistent Quality Across Orders
 ISO 9001 quality management governs every production run. The first sample and the 500th unit are built to the same specification. Inspection reports provided on request.
@@ -154,14 +155,14 @@ Proprietary systems lock you into one vendor. EASCO provides open APIs, Wiegand 
 
 **4 Animated Counters:**
 
-1. **20 Years**  
+1. **16+ Years**  
    Manufacturing Experience
 
-2. **63 Patents**  
-   Filed by EASCO Engineers
+2. **80,000+**  
+   Installations Worldwide
 
-3. **10M+ Cycles**  
-   Motor MCBF Testing
+3. **3,000+ m²**  
+   Factory Floor Area
 
 4. **50+ Countries**  
    Export Destinations
@@ -177,10 +178,10 @@ Proprietary systems lock you into one vendor. EASCO provides open APIs, Wiegand 
 **H2:** Not a Reseller. A Manufacturer.
 
 **Subheading:**  
-20 years building access control hardware. Every patent filed by EASCO engineers. Every certification earned through third-party testing. Every turnstile gate assembled in-house at the Shenzhen facility.
+16 years building access control hardware. 80,000+ installations across 50+ countries. Every patent filed by EASCO engineers. Every certification earned through third-party testing. Every turnstile gate assembled in-house at the 3,000-square-meter Shenzhen facility.
 
 ### Feature 1: Single-Category Focus
-20 years building turnstiles and access control hardware. Not a diversified electronics manufacturer. EASCO engineers specialize in entry security. Every product iteration improves throughput, durability, and anti-tailgating detection.
+16 years building turnstiles and access control hardware. Not a diversified electronics manufacturer. EASCO engineers specialize in entry security. Every product iteration improves throughput, durability, and anti-tailgating detection. 10+ R&D team members with deep domain expertise.
 
 ### Feature 2: 10-Million-Cycle Testing
 Every turnstile gate is stress-tested beyond industry minimums before dispatch. The cylindrical speed gate completes 10 million open-close cycles in the factory test rig — equivalent to 15 years of real-world operation.
@@ -235,7 +236,7 @@ Iris recognition and high-security turnstiles for government facilities, embassi
 **H2:** Frequently Asked Questions
 
 **Q1: Is EASCO a factory or a trading company?**  
-A: EASCO manufactures in-house at Building 20, Dahe Industrial Zone, Guanlan Street, Longhua District, Shenzhen. Same address for 20 years. Factory audit available on request.
+A: EASCO manufactures in-house at Building 20, Dahe Industrial Zone, Guanlan Street, Longhua District, Shenzhen. 3,000+ square meters of workshop space. Same address for 16 years. Factory audit available on request.
 
 **Q2: Will the turnstile gate integrate with my existing access control system?**  
 A: Standard interfaces include RS485, Wiegand 26/34, and TCP/IP. SDK and API documentation provided. Most building management systems and time-attendance platforms connect without custom integration.

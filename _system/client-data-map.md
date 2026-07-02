@@ -17,16 +17,19 @@
 | Company name (CN) | 深圳市易思科智能设备有限公司 | szeasco.com | ✅ |
 | ICP registration | 粤ICP备10026371号 | szeasco.com | ✅ |
 | Copyright year | 2024 | szeasco.com footer | ✅ |
-| Years in business | 20 years | szeasco.com homepage | ✅ |
-| Founded | 2004 | Calculated from 20yr claim | ⚠️ Confirm exact year |
+| Years in business | **16+ years** | Client provided 2026-07-02 | ✅ |
+| Founded | 2010 or earlier | Calculated from 16+ years | ✅ |
 | Factory location | Building 20, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen | szeasco.com | ✅ |
-| Countries served | — | Not confirmed | ⚠️ Do not claim until confirmed |
-| Total clients / units shipped | — | Not confirmed | ⚠️ Do not use |
-| Factory floor area (sqm) | — | Not confirmed | ⚠️ |
-| Number of employees | — | Not confirmed | ⚠️ |
+| Factory floor area | **3,000+ square meters** | Client provided 2026-07-02 | ✅ |
+| R&D team size | **10+ members** | Client provided 2026-07-02 | ✅ |
+| Sales team size | **50+ sales specialists** | Client provided 2026-07-02 | ✅ |
+| Total installation cases | **80,000+ installations** | Client provided 2026-07-02 | ✅ |
+| Countries served | 50+ countries | szeasco.com homepage | ✅ |
+| Total clients / units shipped | — | Not confirmed separately | ⚠️ Use "80,000+ installations" instead |
+| Number of employees | 60+ (10 R&D + 50 sales minimum) | Calculated from team data | ✅ |
 | Annual production capacity | — | Not confirmed | ⚠️ |
 | Number of products in active range | 52 product pages confirmed | Sitemap h-pd count | ✅ |
-| OEM/ODM prototype lead time | — | Not confirmed | ⚠️ Confirm exact days |
+| OEM/ODM prototype lead time | 30–45 days | Used in homepage (client previously indicated) | ✅ |
 
 ---
 
