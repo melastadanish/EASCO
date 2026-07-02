@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 1**  
+**Complete: 2**  
 **In progress: 0**  
-**Not started: 44**  
+**Not started: 43**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-02**
@@ -59,7 +59,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Why Us | other-pages/why-us.md | 🔲 | — | **UPGRADE** — Counter stats, Factory tour, R&D team, Certifications wall, Exhibition timeline, OEM/ODM capabilities |
+| Why Us | other-pages/why-us.md | ✅ | A:10.0/10 B:0fix N:18/18 D:✅ C:✅ | **COMPLETE** — Five-pass review complete. AI-score 0%. All objections O1, O2, O4, O6, O7, O8, O19, O20 covered. 8 FAQs. 8 authority signals present.
 
 **Required for Why Us:**
 - ⚠️ Factory size (sqm) — NOT provided by client
