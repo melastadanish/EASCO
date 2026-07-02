@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 2**  
+**Complete: 3**  
 **In progress: 0**  
-**Not started: 43**  
+**Not started: 42**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-02**
