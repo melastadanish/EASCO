@@ -108,17 +108,25 @@
 
 ---
 
-## Segment-to-Page Mapping
+## Segment-to-Page Mapping (Updated per Ayesha's Redesign)
 
 | Page | Primary Segment | Secondary Segment |
 |---|---|---|
 | Homepage | Importer/Distributor (S3) | Facility Manager (S1) |
-| Turnstile pillar | Facility Manager (S1) | System Integrator (S2) |
-| Biometrics pillar | Facility Manager (S1) | System Integrator (S2) |
-| LPR/Vehicle pillar | System Integrator (S2) | Facility Manager (S1) |
-| Attendance pillar | Facility Manager (S1) | — |
-| Custom/Airport pillar | Airport/Transit (S5) | OEM Buyer (S4) |
+| Why Us / About | Importer/Distributor (S3) | Airport/Transit (S5) |
+| Products Hub | Facility Manager (S1) | System Integrator (S2) |
+| Solutions — Commercial Buildings | Facility Manager (S1) | System Integrator (S2) |
+| Solutions — Smart Campus | Facility Manager (S1) | — |
+| Solutions — Transportation | Airport/Transit (S5) | Facility Manager (S1) |
+| Solutions — Hospitals | Facility Manager (S1) | — |
+| Solutions — Factories | Facility Manager (S1) | — |
+| Solutions — Government | Airport/Transit (S5) | Facility Manager (S1) |
+| Case Studies (all) | All segments | — |
+| Resources / FAQ | All segments | — |
+| Blog | All segments (varies by post) | — |
+| Contact | All segments | — |
 | OEM/ODM page | OEM Buyer (S4) | — |
-| SDK/API page | System Integrator (S2) | OEM Buyer (S4) |
-| About Us / Factory | Importer/Distributor (S3) | Airport/Transit (S5) |
-| Case Studies | All segments | — |
+
+---
+
+## End of Buyer Segment Table

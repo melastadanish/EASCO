@@ -1,4 +1,10 @@
-# CLAUDE.md — EASCO Content Repository
+# CLAUDE.md — EASCO Content Repository (REDESIGNED per Ayesha's Plan)
+
+> **UPDATED:** Content structure redesigned according to EASCO_Website_Redesign_Plan by AYESHA
+> **NEW FOCUS:** 9 Core Pages + Solutions by Industry + Case Studies + Product Categories
+> **Reference Site:** turbooturnstile.com
+
+---
 
 ## Session Start
 
@@ -18,23 +24,79 @@ Before writing any page, read these files in order:
 3. `_system/differentiator-card.md` — minimum 2 differentiators per page
 4. `_system/objection-map.md` — Pass C objection coverage test
 5. `_system/buyer-segment-table.md` — primary segment for the page being written
-6. `_system/sitemap.md` — confirm URL slug and silo tier before writing
+6. `_system/sitemap.md` — confirm URL slug before writing
 7. The matching template for the page type:
-   - Pillar page → `templates/pillar-page-template.md`
-   - Cluster page → `templates/cluster-page-template.md`
-   - Product page → `templates/product-page-template.md`
-   - Other page → `templates/other-page-template.md`
+   - **9 Core Pages** → `templates/other-page-template.md` (customize per page requirements)
+   - **Solutions (by Industry)** → `templates/solution-page-template.md` ← **NEW**
+   - **Case Studies** → `templates/case-study-template.md` ← **NEW**
+   - Product category page → `templates/product-page-template.md`
+   - Product detail page → `templates/cluster-page-template.md`
    - Blog / Informational → `templates/blog-template.md`
-   - Alternatives / Competitor comparison → `templates/alternative-template.md`
-   - Industry page → `templates/industry-template.md`
+   - Alternatives / Competitor → `templates/alternative-template.md`
 
 ---
 
-## Page Development Workflow
+## NEW Architecture (per Ayesha's Redesign Plan)
+
+### **9 Core Pages** (Priority 1 — CRITICAL)
+
+| # | Page | URL | Status | Template |
+|---|---|---|---|---|
+| 01 | **Homepage** (Full Redesign) | / | 🔲 | other-page-template.md |
+| 02 | **Why Us / About** (Major Upgrade) | /why-us/ | 🔲 | other-page-template.md |
+| 03 | **Products Hub** (Restructure) | /products/ | 🔲 | other-page-template.md |
+| 04 | **Solutions by Industry** (NEW) | /solutions/ | 🔲 | solution-page-template.md |
+| 05 | **Case Studies** (NEW) | /case-studies/ | ⚠️ BLOCKED | case-study-template.md |
+| 06 | **Resources / Gallery** (NEW) | /resources/ | 🔲 | other-page-template.md |
+| 07 | **Blog** (Fix + Improve) | /blog/ | 🔲 | blog-template.md |
+| 08 | **Contact** (Redesign) | /contact/ | 🔲 | other-page-template.md |
+| 09 | **Request Quote** (CTA) | /quote/ | 🔲 | other-page-template.md |
+
+### **Solutions by Industry** (6 pages — NEW)
+Critical for MOFU traffic capture. URL: `/solutions/[industry-name]/`
+
+- Commercial Buildings
+- Smart Campus / Schools
+- Transportation Hubs (Airport, Metro, Bus)
+- Hospitals
+- Factories / Warehouses
+- Government Buildings
+
+### **Case Studies** (8 pages — NEW)  
+⚠️ **BLOCKED** — requires client project photos and data
+
+- Office Buildings
+- Schools / Universities
+- Factories
+- Metro / Transit Systems
+- Airports
+- Hospitals
+- Shopping Malls
+- Government Buildings
+
+### **Product Categories** (10 categories)
+URL: `/products/[category-name]/`
+
+- Speed Gates / Flap Barriers
+- Tripod Turnstiles
+- Cylindrical Turnstiles
+- Android Turnstiles
+- Face Recognition Terminals
+- Handheld Face Recognition
+- ANPR Systems
+- Palm Vein + Iris Recognition
+- Alcohol Detection Devices
+- Visitor Registration Machines
+
+---
+
+---
+
+## Page Development Workflow (Unchanged)
 
 ### Step 0 — Brief
 - Identify primary buyer segment from `_system/buyer-segment-table.md`
-- Map keyword slot from `seo/keyword-master-list.md`
+- Map keyword slot from `seo/keyword-master-list.md` (if available)
 - Confirm section outline — present to user for approval before writing
 
 ### Step 1 — Write
@@ -68,7 +130,7 @@ One page per commit. Main branch only. No feature branches.
 
 ---
 
-## Quality Gate
+## Quality Gate (Unchanged)
 
 A page is NOT complete until:
 - [ ] All 5 Tier 1 checks passed per section
@@ -86,7 +148,7 @@ A page is NOT complete until:
 
 ---
 
-## Key Reference Files
+## Key Reference Files (Unchanged)
 
 | File | Purpose |
 |---|---|
@@ -96,9 +158,123 @@ A page is NOT complete until:
 | `_system/objection-map.md` | 20 buyer objections + spec-backed answers |
 | `_system/buyer-segment-table.md` | 5 buyer segments — pain, drivers, messaging angle |
 | `_system/competitors.md` | Competitor positioning reference |
-| `_system/sitemap.md` | URL slugs, silo tiers, internal linking rules |
-| `_system/execution-plan.md` | Phased task queue — all pages |
-| `_system/progress.md` | Completion tracker — current status of every page |
+| `_system/sitemap.md` | URL slugs, internal linking rules (REDESIGNED) |
+| `_system/execution-plan.md` | Phased task queue (REDESIGNED) |
+| `_system/progress.md` | Completion tracker (REDESIGNED) |
 | `_system/reusablesections.md` | Reusable section library |
-| `seo/keyword-master-list.md` | Keyword clusters by silo |
-| `design.md` | Visual / layout decisions for developers |
+| `seo/keyword-master-list.md` | Keyword clusters (if available) |
+
+---
+
+## NEW Templates (per Redesign)
+
+| Template | Purpose | Used For |
+|---|---|---|
+| `templates/solution-page-template.md` | **NEW** — Industry-specific solution pages | Solutions by Industry (6 pages) |
+| `templates/case-study-template.md` | **NEW** — Venue-type case studies | Case Studies (8 pages) |
+| `templates/other-page-template.md` | Core static pages | Homepage, Why Us, Contact, etc. |
+| `templates/product-page-template.md` | Product category pages | 10 product categories |
+| `templates/cluster-page-template.md` | Product detail pages | Individual products |
+| `templates/blog-template.md` | Blog posts | TOFU/MOFU/BOFU content |
+| `templates/alternative-template.md` | Competitor comparison | EASCO vs ZKTeco, etc. |
+
+---
+
+## Critical Client Data Gaps (From Ayesha's Plan)
+
+### 🔴 URGENT — Blocks Page Creation
+
+1. **Factory Information**
+   - Factory size (sqm) — NOT provided
+   - Number of employees — NOT provided
+   - Annual production capacity — NOT provided
+   - R&D team headcount — NOT provided
+
+2. **Case Study Projects** ⚠️ **CRITICAL GAP**
+   - Real project photos with locations
+   - Project names + client names (or anonymized)
+   - Products used in each project
+   - Challenge/Solution/Result for each
+
+3. **Product Assets**
+   - High-res white-background product photos (all products)
+   - Product demo videos (YouTube links)
+   - Full spec sheets
+   - Top 3 SEO-priority products confirmed
+
+4. **Company Assets**
+   - Hero video for homepage (factory tour / product demo)
+   - Factory exterior + production floor photos
+   - Team photos
+   - Exhibition booth photos (2023–2025)
+   - Certificate scans (ISO, CE, ROHS, IP54)
+
+### 🟡 IMPORTANT — Needed for Quality
+- Notable clients or reference projects
+- Awards, press mentions, plaques
+- Company registration document
+- Final export country list
+- Blog content strategy (client provides vs Napollo writes?)
+
+---
+
+## Visual Design Direction (From Ayesha's Plan — Reference: turbooturnstile.com)
+
+### Homepage Requirements
+- Dark header with clean white logo
+- Autoplay product demo video in hero (muted)
+- White background for main content sections
+- Counter animation: 63+ Patents, 20+ Years, 50+ Countries, 10+ R&D Team
+- World map with clickable pins per export country
+- CTA buttons: 'Get a Quote' (primary) + 'Learn More' (secondary)
+- Sticky floating WhatsApp button bottom right
+- Certificate badges (ISO, CE, ROHS, IP54) in a row
+
+### Why Us Requirements
+- Counter stats prominently displayed
+- Factory tour section with photos
+- R&D team section with team photo
+- Certifications wall (all certs shown visually)
+- Exhibition timeline with booth photos
+- OEM/ODM capabilities grid
+- Custom project showcase
+
+### Contact Page Requirements
+- Quote request form: Name, Email, Phone, Product Interest, Message
+- WhatsApp button prominent (+86 13711422283)
+- Google Maps embed
+- Response time promise: '1 hour during business hours'
+- All contact channels: Phone, WhatsApp, Email, Skype, LinkedIn, Facebook, YouTube
+- Social media icons
+
+---
+
+## Blog Critical Fixes (From Ayesha's Plan)
+
+**🔴 MUST FIX IMMEDIATELY:**
+- All blog page titles showing '网站' → change to proper English titles
+- No meta descriptions → add unique meta per post
+- No category system → add TOFU/MOFU/BOFU categories
+- No internal linking → link to product/solution pages
+- No related posts → add suggestions at end
+
+---
+
+## EASCO vs Turboo Comparison (Reference Benchmark)
+
+| Feature | Turboo (Reference) | EASCO Current | EASCO New Plan |
+|---|---|---|---|
+| Homepage hero | Video + trust bullets | Static slider | ✅ Video + trust bullets |
+| Products structure | 10 category sub-pages | Mixed list | ✅ 10 category sub-pages |
+| Solutions page | 4 industry sub-pages | ❌ Does NOT exist | ✅ 6 industry sub-pages |
+| Case studies | 9 venue-type sub-pages | ❌ Does NOT exist | ✅ 8 venue-type sub-pages |
+| About / Why Us | Stats + factory + certs | Text only | ✅ Full trust page + visuals |
+| World map | Interactive map | ❌ Does NOT exist | ✅ World map on homepage |
+| Resources | FAQ + Gallery | Installation only | ✅ FAQ + Gallery + Downloads |
+| Blog | Categorized, active | Exists, needs SEO fix | ✅ Categorized + SEO fixed |
+| Certificates | Prominent homepage | Text mention only | ✅ Visual badges homepage |
+| WhatsApp CTA | Floating button | Footer link only | ✅ Floating all pages |
+
+---
+
+## End of CLAUDE.md

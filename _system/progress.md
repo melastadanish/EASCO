@@ -1,8 +1,9 @@
-# Progress Tracker — EASCO
+# Progress Tracker — EASCO (REDESIGNED per Ayesha's Plan)
 
 > Updated after every completed page. One row per page.
+> **NEW STRUCTURE:** Aligned with EASCO_Website_Redesign_Plan by AYESHA — 9 Core Pages Focus
 > Commit format: `[WRITE] filename.md — five-pass complete`
-> Last Updated: 2026-06-10
+> Last Updated: 2026-07-02
 
 ---
 
@@ -20,201 +21,255 @@
 
 ## Completion Summary
 
-**Total pages: 90**
-**Complete: 5**
-**In progress: 0**
-**Not started: 68**
-**Blocked: 15**
-**Last Updated: 2026-06-21**
+**NEW ARCHITECTURE** (per Ayesha's Website Redesign Plan)
+- **9 Core Pages:** Homepage + 8 main sections
+- **Solutions by Industry:** 6 pages (NEW — MOFU traffic)
+- **Case Studies:** 8 pages (NEW — BOFU proof)
+- **Product Categories:** 10 categories
+- **Supporting:** 8 pages
+- **Blog:** 8 posts
+- **Alternatives:** 4 pages
+
+**Total pages: 53**  
+**Complete: 0**  
+**In progress: 0**  
+**Not started: 45**  
+**Blocked: 8** (needs client photos/data)
+
+**Last Updated: 2026-07-02**
 
 ---
 
-## Homepage
+## Phase 1 — 9 Core Pages (Critical Priority)
+
+### Page 01 — Homepage (FULL REDESIGN)
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Homepage | other-pages/home.md | ✅ | A:9.0 B:✅ C:✅ | AI-score 12%. System upgraded — passes N+D to run on next revision. |
+| Homepage | other-pages/home.md | 🔲 | — | **CRITICAL** — Hero video needed, Product showcase, World map, Trust signals, Industry solutions, Certifications |
+
+**Required for Homepage:**
+- ⚠️ Hero product demo video (factory tour / product in use)
+- ⚠️ 6× product category images
+- ⚠️ 4–6× industry solution images
+- ⚠️ World map graphic highlighting export countries
+- ⚠️ Certificate badge images (ISO, CE, ROHS, IP54)
+
+### Page 02 — About Us / Why EASCO (MAJOR UPGRADE)
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Why Us | other-pages/why-us.md | 🔲 | — | **UPGRADE** — Counter stats, Factory tour, R&D team, Certifications wall, Exhibition timeline, OEM/ODM capabilities |
+
+**Required for Why Us:**
+- ⚠️ Factory size (sqm) — NOT provided by client
+- ⚠️ Number of employees — NOT provided
+- ⚠️ Annual production capacity — NOT provided
+- ⚠️ R&D team exact headcount — NOT provided
+- ⚠️ Factory exterior + production floor photos
+- ⚠️ Team photo
+- ⚠️ Exhibition booth photos (2023–2025)
+- ⚠️ Certificate scans (all certificates)
+
+### Page 03 — Products Hub + Sub-Pages (RESTRUCTURE)
+
+| Category | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Products Hub | products/products-hub.md | 🔲 | — | Landing page for all product categories |
+| Flap Barrier / Speed Gates | products/speed-gates/category.md | 🔲 | — | HIGH priority |
+| Tripod Turnstiles | products/tripod-turnstiles/category.md | 🔲 | — | HIGH priority |
+| Cylindrical Turnstiles | products/cylindrical-turnstiles/category.md | 🔲 | — | MEDIUM priority |
+| Android Turnstiles | products/android-turnstiles/category.md | 🔲 | — | HIGH priority — D10 differentiator |
+| Face Recognition Terminals | products/face-recognition/category.md | 🔲 | — | HIGH priority |
+| Handheld Face Recognition | products/handheld-face-recognition/category.md | 🔲 | — | MEDIUM priority |
+| ANPR Systems | products/anpr-systems/category.md | 🔲 | — | HIGH priority |
+| Palm Vein + Iris | products/palm-vein-iris/category.md | 🔲 | — | MEDIUM priority |
+| Alcohol Detection | products/alcohol-detection/category.md | 🔲 | — | MEDIUM priority — D11 differentiator |
+| Visitor Registration | products/visitor-registration/category.md | 🔲 | — | MEDIUM priority |
+
+**Required for Product Pages:**
+- ⚠️ High-res white-background product photos for EVERY product
+- ⚠️ Multi-angle shots
+- ⚠️ Dimension diagrams
+- ⚠️ YouTube demo video links
+- ⚠️ Full spec sheets for all products
+- ⚠️ Top 3 SEO-priority product lines confirmation
+
+### Page 04 — Solutions by Industry (NEW PAGE — CRITICAL)
+
+| Solution | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Solutions Hub | solutions/solutions-hub.md | 🔲 | — | Landing page |
+| Commercial Buildings | solutions/commercial-buildings.md | 🔲 | — | **NEW** — Flap barriers, Face recognition |
+| Smart Campus / Schools | solutions/smart-campus.md | 🔲 | — | **NEW** — Attendance, Visitor mgmt |
+| Transportation Hubs | solutions/transportation.md | 🔲 | — | **NEW** — Airports, Metro, Bus terminals |
+| Hospitals | solutions/hospitals.md | 🔲 | — | **NEW** — Palm vein, Visitor registration |
+| Factories / Warehouses | solutions/factories.md | 🔲 | — | **NEW** — Attendance, Alcohol detection |
+| Government Buildings | solutions/government.md | 🔲 | — | **NEW** — Iris recognition, High security |
+
+**Required for Solutions:**
+- ⚠️ Industry context photos (office lobby with turnstile, campus entrance, airport security) — client install photos OR stock
+
+### Page 05 — Case Studies (NEW PAGE — CRITICAL)
+
+| Case Study | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Case Studies Hub | case-studies/case-studies-hub.md | ⚠️ | — | **BLOCKED** — needs sub-pages first |
+| Office Buildings | case-studies/office-buildings.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+| Schools / Universities | case-studies/schools.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+| Factories | case-studies/factories.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+| Metro / Transit | case-studies/metro.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+| Airports | case-studies/airports.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+| Hospitals | case-studies/hospitals.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+| Shopping Malls | case-studies/shopping-malls.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+| Government | case-studies/government.md | ⚠️ | — | **BLOCKED** — needs client project reference + photos |
+
+**CRITICAL CONTENT GAP:**
+- ⚠️ Client Excel states case studies needed but NOT yet provided
+- ⚠️ Must supply: Project title + location, Products used, Challenge/requirement, Solution implemented, Installation photos (minimum 3–5 per project)
+
+### Page 06 — Resources / Gallery (NEW SECTION)
+
+| Resource | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Resources Hub | other-pages/resources.md | 🔲 | — | **NEW** — combines FAQ + Gallery + Downloads |
+| FAQ (upgraded) | other-pages/faq.md | 🔲 | — | 16 existing + 6 new technical FAQs |
+| Photo Gallery | other-pages/gallery.md | ⚠️ | — | **BLOCKED** — needs product + installation photos |
+| Downloads Center | other-pages/downloads.md | 🔲 | — | Spec sheets, SDK docs, certificates |
+
+**New FAQs to Add:**
+1. What biometric modes do your turnstiles support?
+2. Can face recognition work in low light or outdoor conditions?
+3. What software platforms are compatible with your devices?
+4. Do you support MQTT / HTTP / Wiegand / RS485 protocols?
+5. What is the palm vein recognition accuracy rate?
+6. What is the anti-spoofing / liveness detection capability?
+
+### Page 07 — Blog (FIX + IMPROVE)
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Blog Hub | blogs/blog-hub.md | 🔲 | — | **CRITICAL FIX** — All '网站' titles must be fixed immediately |
+
+**Critical Issues to Fix:**
+- 🔴 Blog + FAQ titles showing '网站' (Chinese) — MUST be fixed
+- 🔴 No meta descriptions on blog posts
+- 🔴 No category system
+- 🔴 No internal linking to product pages
+- 🔴 No related posts suggestions
+
+### Page 08 — Contact (REDESIGN LAYOUT)
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Contact | other-pages/contact.md | 🔲 | — | Clean form, WhatsApp CTA, Google Maps, 1hr response promise |
+
+### Page 09 — Request Quote (CTA PAGE)
+
+| Page | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| Request Quote | other-pages/request-quote.md | 🔲 | — | Bottom of funnel conversion page |
 
 ---
 
-## Phase 1 — Core Static Pages
+## Phase 2 — Supporting Pages (Trust & Legal)
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| About Us | other-pages/about-us.md | 🔲 | — | Primary: Importer/Distributor |
-| Factory & Manufacturing | other-pages/factory.md | 🔲 | — | Primary: Importer/Distributor |
-| Why Choose EASCO | other-pages/why-choose-us.md | 🔲 | — | All segments |
-| Certifications & Standards | other-pages/certifications.md | 🔲 | — | ⚠️ Cannot publish certs section until ISO/CE confirmed |
-| FAQ | other-pages/faq.md | 🔲 | — | Must cover all 20 objections from objection-map.md |
-| Contact Us | other-pages/contact-us.md | 🔲 | — | All segments |
-| Request a Quote | other-pages/request-quote.md | 🔲 | — | Bottom of funnel |
-| Warranty & After-Sales | other-pages/warranty-after-sales.md | 🔲 | — | ⚠️ Warranty period unconfirmed |
-| Partners & Distributors | other-pages/partners-distributors.md | 🔲 | — | Primary: Importer/Distributor |
-
----
-
-## Phase 2 — SILO 1: Turnstiles
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Archive: Turnstile Gates | silos/S1-Turnstiles/turnstile-gates.md | ✅ | A:8.7 B:✅ N:10/10 D:✅ C:✅ | AI-score 11%. ⚠️ Holographic gate model number pending client. ⚠️ Gate body IP rating pending client. |
-| Archive: Biometric Access Control | silos/S2-Biometrics/biometric-access-control.md | ✅ | A:8.8 B:✅ N:9/9 D:✅ C:✅ | AI-score 12%. ⚠️ Iris recognition model number pending client. |
-| Pillar: Turnstile Gates | silos/S1-Turnstiles/pillar.md | 🔲 | — | Keyword: turnstile gate |
-| Speed Gate | silos/S1-Turnstiles/speed-gate.md | 🔲 | — | ⚠️ Full spec sheet needed |
-| Android Speed Gate | silos/S1-Turnstiles/android-speed-gate.md | 🔲 | — | D10 differentiator |
-| Cylindrical Speed Gate | silos/S1-Turnstiles/cylindrical-speed-gate.md | 🔲 | — | D9 differentiator. IP rating ⚠️ |
-| Flap Barrier | silos/S1-Turnstiles/flap-barrier.md | 🔲 | — | ⚠️ Full spec sheet needed |
-| Tripod Turnstile | silos/S1-Turnstiles/tripod-turnstile.md | 🔲 | — | ⚠️ Full spec sheet needed |
-| Holographic Gate | silos/S1-Turnstiles/holographic-gate.md | 🔲 | — | D15 differentiator |
-| Turnstile Buying Guide | silos/S1-Turnstiles/turnstile-buying-guide.md | 🔲 | — | Informational |
-| Turnstile Installation Guide | silos/S1-Turnstiles/turnstile-installation.md | 🔲 | — | Informational |
-
----
-
-## Phase 3 — SILO 2: Biometric Access Control
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Pillar: Biometric Access Control | silos/S2-Biometrics/pillar.md | 🔲 | — | D3, D4, D5 differentiators |
-| Face Recognition System | silos/S2-Biometrics/face-recognition-system.md | 🔲 | — | 99.98% accuracy ✅ |
-| Wall-Mount Face Recognition | silos/S2-Biometrics/face-recognition-wall-mount.md | 🔲 | — | |
-| Floor-Standing Face Recognition | silos/S2-Biometrics/face-recognition-floor-standing.md | 🔲 | — | |
-| Palm Vein Recognition | silos/S2-Biometrics/palm-vein-recognition.md | 🔲 | — | D12 differentiator |
-| Iris Recognition | silos/S2-Biometrics/iris-recognition.md | 🔲 | — | D4: 1-in-10M FAR ✅ |
-| Multi-Modal Biometrics | silos/S2-Biometrics/multimodal-biometrics.md | 🔲 | — | D3 differentiator |
-| Biometrics vs Traditional | silos/S2-Biometrics/biometrics-vs-traditional.md | 🔲 | — | Informational / comparison |
-| Liveness Detection | silos/S2-Biometrics/liveness-detection.md | 🔲 | — | D5 differentiator |
-
----
-
-## Phase 4 — SILO 3: Vehicle & Parking Access
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Archive: Vehicle Access Control | silos/S3-Vehicle-Access/vehicle-access-control.md | ✅ | A:8.7 B:✅ N:9/9 D:✅ C:✅ | AI-score 12%. ⚠️ Parking toll + barrier gate model numbers pending client. |
-| Pillar: Vehicle Access Control | silos/S3-Vehicle-Access/pillar.md | 🔲 | — | |
-| Number Plate Recognition | silos/S3-Vehicle-Access/number-plate-recognition.md | 🔲 | — | ES-T02/T03/T04 specs ✅ |
-| Parking Toll System | silos/S3-Vehicle-Access/parking-toll-system.md | 🔲 | — | |
-| Automatic Barrier Gate | silos/S3-Vehicle-Access/barrier-gate.md | 🔲 | — | ⚠️ Spec sheet needed |
-| LPR Buying Guide | silos/S3-Vehicle-Access/lpr-buying-guide.md | 🔲 | — | Informational |
-
----
-
-## Phase 5 — SILO 4: Attendance Management
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Archive: Attendance Management | silos/S4-Attendance/attendance-management.md | ✅ | A:8.8 B:✅ N:8/8 D:✅ C:✅ | AI-score 11%. ⚠️ Face attendance + handheld model numbers pending client. |
-| Pillar: Attendance Management | silos/S4-Attendance/pillar.md | 🔲 | — | |
-| Face Attendance Machine | silos/S4-Attendance/face-attendance-machine.md | 🔲 | — | |
-| Alcohol Detection Attendance | silos/S4-Attendance/alcohol-detection-attendance.md | 🔲 | — | D11. ESFAT specs ✅ |
-| Handheld Terminal | silos/S4-Attendance/handheld-terminal.md | 🔲 | — | ⚠️ Battery / connectivity unconfirmed |
-| Cloud Attendance Software | silos/S4-Attendance/cloud-attendance.md | 🔲 | — | |
-| Attendance Buying Guide | silos/S4-Attendance/attendance-buying-guide.md | 🔲 | — | Informational |
-
----
-
-## Phase 6 — SILO 5: Custom & Airport
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Pillar: Custom & Airport | silos/S5-Custom-Airport/pillar.md | 🔲 | — | D8 differentiator ⚠️ confirm certs |
-| Airport Boarding Kiosk | silos/S5-Custom-Airport/airport-boarding-kiosk.md | 🔲 | — | ⚠️ Display brightness unconfirmed |
-| Flight Information Display | silos/S5-Custom-Airport/flight-information-display.md | 🔲 | — | D15 differentiator |
-| Wireless Sensor Gate | silos/S5-Custom-Airport/wireless-sensor-gate.md | 🔲 | — | D13 differentiator |
-| OEM/ODM Services | silos/S5-Custom-Airport/oem-odm-services.md | 🔲 | — | D6 ⚠️ lead time unconfirmed |
-| SDK & API Integration | silos/S5-Custom-Airport/sdk-api-integration.md | 🔲 | — | Primary: System Integrator |
-
----
-
-## Phase 7 — SILO 6: Company & Trust
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Pillar: About EASCO | silos/S6-Company/pillar.md | 🔲 | — | |
-| Manufacturing Capability | silos/S6-Company/manufacturing-capability.md | 🔲 | — | ⚠️ Factory size/capacity unconfirmed |
-| OEM & ODM Partnership | silos/S6-Company/oem-odm.md | 🔲 | — | |
-| Installation & After-Sales | silos/S6-Company/installation-support.md | 🔲 | — | |
-| Certifications (Silo) | silos/S6-Company/certifications.md | 🔲 | — | ⚠️ Cannot publish until certs confirmed |
-| Case Studies | silos/S6-Company/case-studies.md | ⚠️ | — | Blocked — needs client references |
-
----
-
-## Phase 8 — Supporting & Legal
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Download Center | other-pages/download-center.md | 🔲 | — | |
-| Testimonials | other-pages/testimonials.md | ⚠️ | — | Blocked — needs client quotes |
-| Gallery | other-pages/gallery.md | ⚠️ | — | Blocked — needs product images |
-| Video Center | other-pages/video-center.md | ⚠️ | — | Blocked — needs video assets |
-| Trade Shows & Events | other-pages/trade-shows-events.md | 🔲 | — | |
-| News & Blog | other-pages/news-blog.md | 🔲 | — | Hub page only |
+| Factory Tour | other-pages/factory.md | 🔲 | — | 3,000m² manufacturing plant |
+| Certifications | other-pages/certifications.md | ⚠️ | — | **BLOCKED** — cert scans needed |
+| OEM/ODM Services | other-pages/oem-odm.md | 🔲 | — | D6 differentiator |
+| Partners & Distributors | other-pages/partners.md | 🔲 | — | Primary: Importer/Distributor segment |
+| Trade Shows & Events | other-pages/events.md | 🔲 | — | 2023–2025 exhibitions |
 | Privacy Policy | other-pages/privacy-policy.md | 🔲 | — | Legal required |
-| Terms of Service | other-pages/terms-of-service.md | 🔲 | — | Legal required |
-| Cookie Policy | other-pages/cookie-policy.md | 🔲 | — | Legal required |
-| Careers | other-pages/careers.md | 🔲 | — | Low priority |
+| Terms of Service | other-pages/terms.md | 🔲 | — | Legal required |
+| Cookie Policy | other-pages/cookies.md | 🔲 | — | Legal required |
 
 ---
 
-## Phase 9 — Alternatives
+## Phase 3 — Blog Content (TOFU/MOFU/BOFU)
 
-| Page | File | Status | Passes | Notes |
+| Category | Page | File | Status | Notes |
 |---|---|---|---|---|
-| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | 🔲 | — | Write after S1+S2 pillar complete |
-| EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | 🔲 | — | Write after S1+S2 pillar complete |
-| ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 | — | Verify competitor specs before writing |
-| Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 | — | Verify competitor specs before writing |
+| TOFU | What is a Flap Barrier Turnstile? | blogs/what-is-flap-barrier.md | 🔲 | Awareness stage |
+| TOFU | How Does Face Recognition Work? | blogs/how-face-recognition-works.md | 🔲 | Awareness stage |
+| MOFU | Flap Barrier vs Speed Gate | blogs/flap-barrier-vs-speed-gate.md | 🔲 | Consideration stage |
+| MOFU | Best Face Recognition Terminals 2025 | blogs/best-face-recognition-2025.md | 🔲 | Consideration stage |
+| BOFU | EASCO Turnstile Manufacturer — Why Choose Us | blogs/why-choose-easco.md | 🔲 | Decision stage |
+| BOFU | OEM Biometric Device Supplier Guide | blogs/oem-biometric-supplier.md | 🔲 | Decision stage |
+| TOFU | How Does ANPR Work? | blogs/how-anpr-works.md | 🔲 | Awareness stage |
+| TOFU | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | 🔲 | Awareness — AI citation target |
 
 ---
 
-## Phase 10 — Industries
+## Phase 4 — Alternatives (Competitor Comparison)
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Industries Overview | industries/industries-overview.md | 🔲 | — | Hub page — write after industry sub-pages |
-| Corporate Offices | industries/corporate-offices.md | 🔲 | — | Primary: Facility Manager |
-| Hospitals | industries/hospitals.md | 🔲 | — | Palm vein lead product |
-| Schools & Universities | industries/schools-universities.md | 🔲 | — | Primary: Facility Manager |
-| Warehouses | industries/warehouses.md | 🔲 | — | Alcohol detection relevant |
-| Construction Sites | industries/construction-sites.md | 🔲 | — | Alcohol detection + attendance lead |
-| Government Buildings | industries/government-buildings.md | 🔲 | — | Iris recognition lead product |
+| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | 🔲 | — | High-intent commercial page |
+| EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | 🔲 | — | High-intent commercial page |
+| ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 | — | Verify competitor specs first |
+| Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 | — | Verify competitor specs first |
 
 ---
 
-## Phase 11 — Blogs
+## EASCO vs Turboo — Feature Comparison (Reference)
 
-| Page | File | Status | Passes | Notes |
+This table tracks how EASCO's new site compares to Turboo (the reference site from Ayesha's plan):
+
+| Feature | Turboo (Reference) | EASCO Current | EASCO New Plan | Status |
 |---|---|---|---|---|
-| What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | 🔲 | — | Feeds S1 pillar |
-| How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | 🔲 | — | Feeds S1 pillar |
-| Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | 🔲 | — | Feeds S2 pillar |
-| Biometric Access Control Explained | blogs/biometric-access-control-explained.md | 🔲 | — | Feeds S2 pillar |
-| What Is Liveness Detection? | blogs/what-is-liveness-detection.md | 🔲 | — | High GEO value — AI citation target |
-| How Does ANPR Work? | blogs/how-does-anpr-work.md | 🔲 | — | Feeds S3 pillar |
-| Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | 🔲 | — | Feeds S4 pillar |
-| OEM vs ODM: What's the Difference? | blogs/oem-vs-odm.md | 🔲 | — | Feeds S5 pillar |
+| **Homepage hero** | Video + 4 trust bullets | Static banner slider | **Video hero + trust bullets** | 🔲 TO BUILD |
+| **Products structure** | 10 sub-pages by type | Mixed, uncategorized | **10 category sub-pages** | 🔲 TO BUILD |
+| **Solutions page** | 4 industry sub-pages | Does NOT exist | **6 industry sub-pages** | 🔲 TO BUILD |
+| **Case studies** | 9 venue-type sub-pages | Does NOT exist | **8 venue-type sub-pages** | ⚠️ BLOCKED |
+| **About / Why Us** | Stats + factory + certs | Company profile text only | **Full trust page + visuals** | 🔲 TO BUILD |
+| **World map** | Interactive with country links | Does NOT exist | **World map on homepage** | 🔲 TO BUILD |
+| **Resources / Gallery** | FAQ + Photo Gallery | Installation photos only | **FAQ + Gallery + Downloads** | 🔲 TO BUILD |
+| **Blog** | Active, categorized | Exists, SEO needs fix | **Categorized + SEO fixed** | 🔲 TO FIX |
+| **Certificate display** | Prominent on homepage | Mentioned in text only | **Visual badges on homepage** | 🔲 TO BUILD |
+| **WhatsApp CTA** | Floating button + popup | Link only in footer | **Floating button all pages** | 🔲 TO BUILD |
+| **Languages** | English only | English + Russian | **English + Russian (keep)** | ✅ KEEP |
 
 ---
 
-## Phase 12 — Case Studies
+## Critical Client Data Gaps
 
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Case Studies Hub | case-studies/index.md | ⚠️ | — | Blocked — write after sub-pages exist |
-| Office Buildings | case-studies/office-buildings.md | ⚠️ | — | Blocked — needs client project reference |
-| Schools | case-studies/schools.md | ⚠️ | — | Blocked — needs client project reference |
-| Airports & Stations | case-studies/airports-stations.md | ⚠️ | — | Blocked — needs client project reference |
-| Banks | case-studies/banks.md | ⚠️ | — | Blocked — needs client project reference |
-| Shopping Malls | case-studies/shopping-malls.md | ⚠️ | — | Blocked — needs client project reference |
-| Government Agencies | case-studies/government.md | ⚠️ | — | Blocked — needs client project reference |
-| Factories | case-studies/factories.md | ⚠️ | — | Blocked — needs client project reference |
-| Stadiums & Gyms | case-studies/stadiums-gyms.md | ⚠️ | — | Blocked — needs client project reference |
+### 🔴 URGENT — Blocks Multiple Pages
+
+1. **Factory Information**
+   - Factory size in sqm
+   - Number of employees
+   - Annual production capacity
+   - R&D team headcount
+
+2. **Case Study Projects** (CRITICAL GAP)
+   - Real project photos with locations
+   - Project names + client names (or anonymized)
+   - Products used in each project
+   - Challenge/Solution/Result for each
+
+3. **Product Assets**
+   - High-res white-background product photos (all products)
+   - Product demo videos (YouTube links)
+   - Full spec sheets
+   - Top 3 SEO-priority products
+
+4. **Company Assets**
+   - Factory exterior + production floor photos
+   - Team photos
+   - Exhibition booth photos (2023–2025)
+   - Certificate scans (ISO, CE, ROHS, IP54)
+   - Hero video for homepage
+
+### 🟡 IMPORTANT — Needed for Quality
+
+- Notable clients or reference projects
+- Awards, press mentions, plaques
+- Company registration document
+- Final export country list
+- Blog content strategy (client provides vs Napollo writes?)
 
 ---
 
-## Phase 3 Additions — S2 Biometrics
-
-| Page | File | Status | Passes | Notes |
-|---|---|---|---|---|
-| Visitor Registration System | silos/S2-Biometrics/visitor-registration.md | 🔲 | — | Quick Win #2 (5,400 vol). Confirm software vs hardware scope with client |
+## End of Progress Tracker

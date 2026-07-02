@@ -1,217 +1,217 @@
-# Sitemap & Information Architecture — EASCO
+# Sitemap & Information Architecture — EASCO (REDESIGNED per Ayesha's Plan)
 
 > Single source of truth for site structure, URL slugs, and internal linking rules.
 > Every page written must match the slug and silo tier defined here.
 > Internal links must use the exact target keyword as anchor text.
-> Last Updated: 2026-06-18
+> **Updated per EASCO_Website_Redesign_Plan by AYESHA — 9 Core Pages + Solutions + Case Studies**
+> Last Updated: 2026-07-02
 
 ---
 
-## Silo Architecture — Three Tiers
+## NEW ARCHITECTURE — Aligned with Turboo Reference
 
-```
-Tier 1 — Homepage (links down to all Tier 2 pages)
-Tier 2 — Pillar pages + Core static pages (link up to T1, down to T3)
-Tier 3 — Cluster/product pages + Blog + Alternatives (link up to T2 only)
-```
+Based on Ayesha's redesign plan, EASCO now follows:
+- **9 Core Pages** (Homepage + 8 main sections)
+- **Solutions by Industry** (NEW — MOFU traffic capture)
+- **Case Studies by Venue** (NEW — BOFU proof)
+- **Product Category Sub-Pages** (8–10 categories, each with detail pages)
+- **Resources Hub** (FAQ + Gallery + Downloads)
+- **Blog** (Categorized + SEO-fixed)
 
-**Rules:**
-- Tier 3 pages do NOT link to other Tier 3 pages in a different silo
-- Tier 3 pages in the SAME silo may cross-link (e.g. speed gate ↔ flap barrier)
-- Every Tier 3 page links back to its Tier 2 pillar
-- Every Tier 2 pillar links to all its Tier 3 cluster pages
-- Blogs link up to the relevant silo pillar — not down to products
-- Alternatives link up to the relevant silo pillar
+---
+
+## Navigation Structure
+
+**Main Navigation Bar:**
+```
+Home | Products ▼ | Solutions ▼ | Cases ▼ | Why Us | Resources ▼ | Blog | Contact | [GET A QUOTE]
+```
 
 ---
 
 ## Tier 1 — Homepage
 
-| Page | URL | File |
-|---|---|---|
-| Homepage | / | other-pages/home.md |
-
----
-
-## Tier 2 — Pillar Pages
-
-| Silo | Page | URL | File |
+| Page | URL | File | SEO Title |
 |---|---|---|---|
-| S1 | Turnstile Gates | /turnstile-gates/ | silos/S1-Turnstiles/pillar.md |
-| S2 | Biometric Access Control | /biometric-access-control/ | silos/S2-Biometrics/pillar.md |
-| S3 | Vehicle Access Control | /vehicle-access-control/ | silos/S3-Vehicle-Access/pillar.md |
-| S4 | Attendance Management | /attendance-management/ | silos/S4-Attendance/pillar.md |
-| S5 | Custom & Airport Solutions | /custom-airport-solutions/ | silos/S5-Custom-Airport/pillar.md |
-| S6 | About EASCO | /about-easco/ | silos/S6-Company/pillar.md |
+| Homepage | / | other-pages/home.md | EASCO — Turnstile Gate & Face Recognition Access Control Manufacturer \| Shenzhen |
 
 ---
 
-## Tier 2 — Core Static Pages
+## Core Pages (9 Main Pages per Ayesha's Plan)
 
-| Page | URL | File |
-|---|---|---|
-| About Us | /about-us/ | other-pages/about-us.md |
-| Factory & Manufacturing | /factory/ | other-pages/factory.md |
-| Why Choose EASCO | /why-choose-easco/ | other-pages/why-choose-us.md |
-| Certifications | /certifications/ | other-pages/certifications.md |
-| FAQ | /faq/ | other-pages/faq.md |
-| Contact Us | /contact/ | other-pages/contact-us.md |
-| Request a Quote | /request-quote/ | other-pages/request-quote.md |
-| Warranty & After-Sales | /warranty/ | other-pages/warranty-after-sales.md |
-| Partners & Distributors | /partners/ | other-pages/partners-distributors.md |
-| Industries | /industries/ | industries/industries-overview.md |
-| Blog | /blog/ | blogs/blog-hub.md |
-| Alternatives | /alternatives/ | alternatives/alternatives-hub.md |
+| # | Page Name | URL | File | Status | Type |
+|---|---|---|---|---|---|
+| 01 | **Homepage** | / | other-pages/home.md | CRITICAL | Full Redesign |
+| 02 | **About Us / Why EASCO** | /why-us/ | other-pages/why-us.md | UPGRADE | Major Upgrade |
+| 03 | **Products Hub** | /products/ | products/products-hub.md | UPGRADE | Restructure |
+| 04 | **Solutions (by Industry)** | /solutions/ | solutions/solutions-hub.md | NEW | New Page |
+| 05 | **Case Studies** | /case-studies/ | case-studies/case-studies-hub.md | NEW | New Page |
+| 06 | **Resources / Gallery** | /resources/ | other-pages/resources.md | NEW | New Section |
+| 07 | **Blog** | /blog/ | blogs/blog-hub.md | KEEP | Fix + Improve |
+| 08 | **Contact** | /contact/ | other-pages/contact.md | KEEP | Redesign Layout |
+| 09 | **Request Quote** | /quote/ | other-pages/request-quote.md | KEEP | CTA Page |
 
 ---
 
-## Tier 3 — SILO 1: Turnstiles
+## Products — Category Sub-Pages (8–10 Categories)
 
-| Page | URL | File |
-|---|---|---|
-| Speed Gate | /turnstile-gates/speed-gate/ | silos/S1-Turnstiles/speed-gate.md |
-| Android Speed Gate | /turnstile-gates/android-speed-gate/ | silos/S1-Turnstiles/android-speed-gate.md |
-| Cylindrical Speed Gate | /turnstile-gates/cylindrical-speed-gate/ | silos/S1-Turnstiles/cylindrical-speed-gate.md |
-| Flap Barrier | /turnstile-gates/flap-barrier/ | silos/S1-Turnstiles/flap-barrier.md |
-| Tripod Turnstile | /turnstile-gates/tripod-turnstile/ | silos/S1-Turnstiles/tripod-turnstile.md |
-| Holographic Gate | /turnstile-gates/holographic-gate/ | silos/S1-Turnstiles/holographic-gate.md |
-| Turnstile Buying Guide | /turnstile-gates/buying-guide/ | silos/S1-Turnstiles/turnstile-buying-guide.md |
-| Turnstile Installation Guide | /turnstile-gates/installation-guide/ | silos/S1-Turnstiles/turnstile-installation.md |
+**URL Structure:** `/products/[category-name]/[product-name]`
 
----
-
-## Tier 3 — SILO 2: Biometric Access Control
-
-| Page | URL | File |
-|---|---|---|
-| Face Recognition System | /biometric-access-control/face-recognition/ | silos/S2-Biometrics/face-recognition-system.md |
-| Wall-Mount Face Recognition | /biometric-access-control/face-recognition-wall-mount/ | silos/S2-Biometrics/face-recognition-wall-mount.md |
-| Floor-Standing Face Recognition | /biometric-access-control/face-recognition-floor-standing/ | silos/S2-Biometrics/face-recognition-floor-standing.md |
-| Palm Vein Recognition | /biometric-access-control/palm-vein-recognition/ | silos/S2-Biometrics/palm-vein-recognition.md |
-| Iris Recognition | /biometric-access-control/iris-recognition/ | silos/S2-Biometrics/iris-recognition.md |
-| Multi-Modal Biometrics | /biometric-access-control/multimodal-biometrics/ | silos/S2-Biometrics/multimodal-biometrics.md |
-| Biometrics vs Traditional | /biometric-access-control/biometrics-vs-traditional/ | silos/S2-Biometrics/biometrics-vs-traditional.md |
-| Liveness Detection | /biometric-access-control/liveness-detection/ | silos/S2-Biometrics/liveness-detection.md |
-
----
-
-## Tier 3 — SILO 3: Vehicle Access Control
-
-| Page | URL | File |
-|---|---|---|
-| Number Plate Recognition | /vehicle-access-control/number-plate-recognition/ | silos/S3-Vehicle-Access/number-plate-recognition.md |
-| Parking Toll System | /vehicle-access-control/parking-toll-system/ | silos/S3-Vehicle-Access/parking-toll-system.md |
-| Automatic Barrier Gate | /vehicle-access-control/barrier-gate/ | silos/S3-Vehicle-Access/barrier-gate.md |
-| LPR Buying Guide | /vehicle-access-control/lpr-buying-guide/ | silos/S3-Vehicle-Access/lpr-buying-guide.md |
-
----
-
-## Tier 3 — SILO 4: Attendance Management
-
-| Page | URL | File |
-|---|---|---|
-| Face Attendance Machine | /attendance-management/face-attendance-machine/ | silos/S4-Attendance/face-attendance-machine.md |
-| Alcohol Detection Attendance | /attendance-management/alcohol-detection/ | silos/S4-Attendance/alcohol-detection-attendance.md |
-| Handheld Terminal | /attendance-management/handheld-terminal/ | silos/S4-Attendance/handheld-terminal.md |
-| Cloud Attendance Software | /attendance-management/cloud-attendance/ | silos/S4-Attendance/cloud-attendance.md |
-| Attendance Buying Guide | /attendance-management/buying-guide/ | silos/S4-Attendance/attendance-buying-guide.md |
-
----
-
-## Tier 3 — SILO 5: Custom & Airport
-
-| Page | URL | File |
-|---|---|---|
-| Airport Boarding Kiosk | /custom-airport-solutions/airport-boarding-kiosk/ | silos/S5-Custom-Airport/airport-boarding-kiosk.md |
-| Flight Information Display | /custom-airport-solutions/flight-information-display/ | silos/S5-Custom-Airport/flight-information-display.md |
-| Wireless Sensor Gate | /custom-airport-solutions/wireless-sensor-gate/ | silos/S5-Custom-Airport/wireless-sensor-gate.md |
-| OEM/ODM Services | /custom-airport-solutions/oem-odm/ | silos/S5-Custom-Airport/oem-odm-services.md |
-| SDK & API Integration | /custom-airport-solutions/sdk-api/ | silos/S5-Custom-Airport/sdk-api-integration.md |
-
----
-
-## Tier 3 — SILO 6: Company & Trust
-
-| Page | URL | File |
-|---|---|---|
-| Manufacturing Capability | /about-easco/manufacturing/ | silos/S6-Company/manufacturing-capability.md |
-| OEM & ODM Partnership | /about-easco/oem-odm-partnership/ | silos/S6-Company/oem-odm.md |
-| Installation & After-Sales | /about-easco/installation-support/ | silos/S6-Company/installation-support.md |
-| Certifications | /about-easco/certifications/ | silos/S6-Company/certifications.md |
-| Case Studies | /about-easco/case-studies/ | silos/S6-Company/case-studies.md |
-
----
-
-## Blogs (Tier 3 — Informational)
-
-Blogs link UP to relevant silo pillar. They do not link down to products (use contextual text links only, not nav links).
-
-| Page | URL | File | Links to Silo |
+| Category | URL | File | Priority |
 |---|---|---|---|
-| What Is a Turnstile Gate? | /blog/what-is-a-turnstile-gate/ | blogs/what-is-a-turnstile-gate.md | S1 |
-| How to Choose a Turnstile Gate | /blog/how-to-choose-turnstile-gate/ | blogs/how-to-choose-turnstile-gate.md | S1 |
-| Face Recognition vs Fingerprint | /blog/face-recognition-vs-fingerprint/ | blogs/face-recognition-vs-fingerprint.md | S2 |
-| How Does ANPR Work? | /blog/how-does-anpr-work/ | blogs/how-does-anpr-work.md | S3 |
-| Biometric Access Control Explained | /blog/biometric-access-control-explained/ | blogs/biometric-access-control-explained.md | S2 |
-| Access Control for Construction Sites | /blog/access-control-construction-sites/ | blogs/access-control-construction-sites.md | S4 |
-| What Is Liveness Detection? | /blog/what-is-liveness-detection/ | blogs/what-is-liveness-detection.md | S2 |
-| OEM vs ODM: What's the Difference? | /blog/oem-vs-odm/ | blogs/oem-vs-odm.md | S5 |
+| Flap Barrier / Speed Gate | /products/speed-gates/ | products/speed-gates/category.md | HIGH |
+| Tripod Turnstiles | /products/tripod-turnstiles/ | products/tripod-turnstiles/category.md | HIGH |
+| Cylindrical Turnstiles | /products/cylindrical-turnstiles/ | products/cylindrical-turnstiles/category.md | MEDIUM |
+| Android Turnstiles (Face+QR+Card) | /products/android-turnstiles/ | products/android-turnstiles/category.md | HIGH |
+| Face Recognition Terminals | /products/face-recognition/ | products/face-recognition/category.md | HIGH |
+| Handheld / Mobile Face Recognition | /products/handheld-face-recognition/ | products/handheld-face-recognition/category.md | MEDIUM |
+| Number Plate Recognition (ANPR) | /products/anpr-systems/ | products/anpr-systems/category.md | HIGH |
+| Palm Vein + Iris Recognition | /products/palm-vein-iris/ | products/palm-vein-iris/category.md | MEDIUM |
+| Alcohol Detection Devices | /products/alcohol-detection/ | products/alcohol-detection/category.md | MEDIUM |
+| Visitor Registration Machines | /products/visitor-registration/ | products/visitor-registration/category.md | MEDIUM |
 
 ---
 
-## Alternatives (Tier 3 — Commercial Investigation)
+## Solutions — by Industry (NEW — Critical for MOFU Traffic)
 
-Alternatives link UP to the most relevant silo pillar. High-intent pages — buyer is comparing suppliers.
+**URL Structure:** `/solutions/[industry-name]/`
 
-| Page | URL | File | Target Keyword |
+| Industry | URL | File | Primary Products | Status |
+|---|---|---|---|---|
+| **Commercial Buildings** | /solutions/commercial-buildings/ | solutions/commercial-buildings.md | Flap barriers, Face recognition | NEW |
+| **Smart Campus / Schools** | /solutions/smart-campus/ | solutions/smart-campus.md | Attendance, Access control, Visitor mgmt | NEW |
+| **Transportation Hubs** | /solutions/transportation/ | solutions/transportation.md | Airports, Metro, Bus terminals | NEW |
+| Hospitals | /solutions/hospitals/ | solutions/hospitals.md | Palm vein, Visitor registration | NEW |
+| Factories / Warehouses | /solutions/factories/ | solutions/factories.md | Attendance, Alcohol detection | NEW |
+| Government Buildings | /solutions/government/ | solutions/government.md | Iris recognition, High security | NEW |
+
+---
+
+## Case Studies — by Venue Type (NEW — Critical for BOFU Proof)
+
+**URL Structure:** `/case-studies/[venue-type]/`
+
+| Venue Type | URL | File | Status |
 |---|---|---|---|
-| EASCO vs ZKTeco | /alternatives/easco-vs-zkteco/ | alternatives/easco-vs-zkteco.md | ZKTeco alternative |
-| EASCO vs Hikvision | /alternatives/easco-vs-hikvision/ | alternatives/easco-vs-hikvision.md | Hikvision access control alternative |
-| ZKTeco Alternative | /alternatives/zkteco-alternative/ | alternatives/zkteco-alternative.md | ZKTeco alternative supplier |
-| Hikvision Alternative | /alternatives/hikvision-alternative/ | alternatives/hikvision-alternative.md | Hikvision access control alternative |
+| **Office Buildings** | /case-studies/office-buildings/ | case-studies/office-buildings.md | ⚠️ BLOCKED — needs client photos |
+| **Schools / Universities** | /case-studies/schools/ | case-studies/schools.md | ⚠️ BLOCKED — needs client photos |
+| **Factories** | /case-studies/factories/ | case-studies/factories.md | ⚠️ BLOCKED — needs client photos |
+| Metro / Transit | /case-studies/metro/ | case-studies/metro.md | ⚠️ BLOCKED — needs client photos |
+| Airports | /case-studies/airports/ | case-studies/airports.md | ⚠️ BLOCKED — needs client photos |
+| Hospitals | /case-studies/hospitals/ | case-studies/hospitals.md | ⚠️ BLOCKED — needs client photos |
+| Shopping Malls | /case-studies/shopping-malls/ | case-studies/shopping-malls.md | ⚠️ BLOCKED — needs client photos |
+| Government | /case-studies/government/ | case-studies/government.md | ⚠️ BLOCKED — needs client photos |
 
 ---
 
-## Industries (Tier 2.5 — Commercial Investigation)
-
-Industries link to the most relevant product silo pillar pages. Written from buyer vertical, not from product.
-
-| Page | URL | File | Primary Silo |
-|---|---|---|---|
-| Industries Overview | /industries/ | industries/industries-overview.md | All silos |
-| Access Control for Corporate Offices | /industries/corporate-offices/ | industries/corporate-offices.md | S1, S2 |
-| Access Control for Hospitals | /industries/hospitals/ | industries/hospitals.md | S2, S1 |
-| Access Control for Schools & Universities | /industries/schools-universities/ | industries/schools-universities.md | S1, S2 |
-| Access Control for Warehouses | /industries/warehouses/ | industries/warehouses.md | S1, S4 |
-| Access Control for Construction Sites | /industries/construction-sites/ | industries/construction-sites.md | S4, S1 |
-| Access Control for Government Buildings | /industries/government-buildings/ | industries/government-buildings.md | S2, S1 |
-
----
-
-## Supporting & Legal Pages
+## Resources Hub (NEW Section — Combines FAQ + Gallery + Downloads)
 
 | Page | URL | File |
 |---|---|---|
-| Download Center | /downloads/ | other-pages/download-center.md |
-| Testimonials | /testimonials/ | other-pages/testimonials.md |
-| Gallery | /gallery/ | other-pages/gallery.md |
-| Video Center | /videos/ | other-pages/video-center.md |
-| Trade Shows & Events | /trade-shows/ | other-pages/trade-shows-events.md |
-| News & Blog Hub | /blog/ | other-pages/news-blog.md |
-| Privacy Policy | /privacy-policy/ | other-pages/privacy-policy.md |
-| Terms of Service | /terms/ | other-pages/terms-of-service.md |
-| Cookie Policy | /cookies/ | other-pages/cookie-policy.md |
-| Careers | /careers/ | other-pages/careers.md |
+| Resources Hub | /resources/ | other-pages/resources.md |
+| FAQ (upgraded) | /resources/faq/ | other-pages/faq.md |
+| Photo Gallery | /resources/gallery/ | other-pages/gallery.md |
+| Downloads Center | /resources/downloads/ | other-pages/downloads.md |
+| Installation Guides | /resources/installation/ | other-pages/installation-guides.md |
 
 ---
 
-## Internal Linking Rules
+## Supporting Pages (Company Trust & Legal)
+
+| Page | URL | File | Type |
+|---|---|---|---|
+| Factory Tour | /factory/ | other-pages/factory.md | Trust |
+| Certifications | /certifications/ | other-pages/certifications.md | Trust |
+| OEM/ODM Services | /oem-odm/ | other-pages/oem-odm.md | Commercial |
+| Partners & Distributors | /partners/ | other-pages/partners.md | Commercial |
+| Trade Shows & Events | /events/ | other-pages/events.md | Trust |
+| Privacy Policy | /privacy/ | other-pages/privacy-policy.md | Legal |
+| Terms of Service | /terms/ | other-pages/terms.md | Legal |
+| Cookie Policy | /cookies/ | other-pages/cookies.md | Legal |
+
+---
+
+## Blog — Categorized by Topic (SEO Fixes Required)
+
+**CRITICAL FIXES:**
+- Fix all page titles showing '网站' → proper English titles
+- Add meta descriptions to every post
+- Add category system (TOFU / MOFU / BOFU)
+- Internal linking to product/solution pages
+- Add related posts suggestions
+
+| Category | Page | URL | File | Silo Link |
+|---|---|---|---|---|
+| TOFU | What is a Flap Barrier Turnstile? | /blog/what-is-flap-barrier/ | blogs/what-is-flap-barrier.md | Products |
+| TOFU | How Does Face Recognition Work? | /blog/how-face-recognition-works/ | blogs/how-face-recognition-works.md | Products |
+| MOFU | Flap Barrier vs Speed Gate | /blog/flap-barrier-vs-speed-gate/ | blogs/flap-barrier-vs-speed-gate.md | Products |
+| MOFU | Best Face Recognition Terminals 2025 | /blog/best-face-recognition-2025/ | blogs/best-face-recognition-2025.md | Products |
+| BOFU | EASCO Turnstile Manufacturer — Why Choose Us | /blog/why-choose-easco/ | blogs/why-choose-easco.md | Why Us |
+| BOFU | OEM Biometric Device Supplier Guide | /blog/oem-biometric-supplier/ | blogs/oem-biometric-supplier.md | OEM/ODM |
+
+---
+
+## SEO Meta Titles & Descriptions (All Core Pages)
+
+| Page | Title Tag (≤60 chars) | Meta Description (≤160 chars) |
+|---|---|---|
+| **Homepage** | EASCO — Turnstile Gate & Face Recognition Access Control Manufacturer \| Shenzhen | EASCO manufactures turnstile gates, face recognition terminals, and biometric access control devices. 20 years experience, 63 patents, OEM/ODM available. Export to 50+ countries. |
+| **Why Us** | Why Choose EASCO \| Turnstile & Biometric Access Control Manufacturer Since 2009 | Since 2009, EASCO has delivered intelligent security hardware to clients worldwide. ISO certified, 63 patents, 3,000m² factory in Shenzhen. OEM/ODM services available. |
+| **Products** | Turnstile Gates & Face Recognition Access Control Products \| EASCO | Browse EASCO's full range: flap barriers, speed gates, tripod turnstiles, face recognition terminals, LPR systems, palm vein scanners, and more. |
+| **Solutions** | Access Control Solutions by Industry \| EASCO — Commercial, Campus, Airport, Factory | EASCO delivers tailored access control solutions for commercial buildings, schools, airports, hospitals, factories and more. Discover the right system for your facility. |
+| **Case Studies** | Installation Case Studies \| EASCO Turnstile & Biometric Projects Worldwide | Explore real EASCO installations: office buildings, schools, airports, banks, malls, government facilities. See how our systems solve real access control challenges. |
+| **Resources** | FAQs, Photo Gallery & Downloads \| EASCO Access Control | EASCO resources: product FAQs, installation photo gallery, SDK/API documentation, certificate downloads and product specification sheets. |
+| **Blog** | Access Control & Biometrics Blog \| EASCO | Industry insights, product guides, and technical articles on turnstile gates, face recognition, biometrics, and smart access control systems. |
+| **Contact** | Contact EASCO \| Get a Quote for Turnstile Gates & Biometric Systems | Contact EASCO for quotes on turnstile gates, face recognition terminals, and access control systems. Reply within 1 hour. WhatsApp: +86 13711422283 |
+
+---
+
+## Internal Linking Rules (Updated per Redesign)
 
 1. **Anchor text** — always use the target keyword of the destination page as anchor text. Never "click here" or "read more."
-2. **Pillar → Cluster** — every pillar page links to ALL its cluster pages in Section 4 (Product Overview table)
-3. **Cluster → Pillar** — every cluster page links back to its pillar in Section 9 (Related Products)
-4. **Cross-silo links** — allowed only when genuinely relevant (e.g. Android speed gate → SDK/API page). One cross-silo link maximum per page.
-5. **Blog → Silo** — every blog post links to the relevant silo pillar via contextual anchor text. No product links from blogs.
-6. **Alternatives → Silo** — every alternatives page links to the relevant silo pillar and to the Why Choose EASCO page.
-7. **Industries → Silos** — every industry page links to 2–3 relevant silo pillar pages.
-8. **Footer links** — pillar pages, Contact, Request a Quote, FAQ only. No product pages in footer.
+2. **Products → Solutions** — product pages link to relevant industry solution pages
+3. **Solutions → Products** — solution pages link to 3–4 recommended products
+4. **Case Studies → Solutions & Products** — case studies link to relevant solution and product pages
+5. **Blog → Solutions & Products** — blog posts link to relevant solution/product pages via contextual anchor text
+6. **Homepage → All Core Pages** — homepage links to all 9 core pages
+7. **Footer links** — Products, Solutions, Cases, Why Us, Resources, Contact, Request Quote
+8. **Floating WhatsApp CTA** — visible on ALL pages (not just contact)
+
+---
+
+## Visual Content Requirements (per Ayesha's Plan)
+
+| Page | Images / Visuals Needed | Status |
+|---|---|---|
+| **Homepage** | Hero product video, 6× product category images, 4–6× industry solution images, World map graphic, Certificate badges | ⚠️ NEEDED |
+| **Why Us** | Factory exterior, Production floor photos, Team photo, Exhibition booth photos, Certificate scans | ⚠️ NEEDED |
+| **Products** | High-res white-background product photos for EVERY product, Multi-angle shots, Dimension diagrams | ⚠️ CRITICAL |
+| **Solutions** | Industry context photos (office lobby, campus, airport) showing EASCO products | ⚠️ NEW |
+| **Case Studies** | Real project photos with location, System overview diagrams | ⚠️ CRITICAL — MISSING |
+
+---
+
+## Critical Client Action Items (From Ayesha's Plan)
+
+### 🔴 URGENT — Blocks Page Creation
+- Factory size in square meters
+- Number of total employees
+- Annual production capacity
+- R&D team exact headcount
+- **Real case study photos with project location and product info**
+- Product demo video links (YouTube URLs)
+- Top 3 SEO-priority product lines confirmed
+- High-resolution white-background product photos for all products
+
+### 🟡 IMPORTANT — Needed for Full Quality
+- Notable clients or reference projects
+- Awards, press mentions, trade show plaques
+- Company registration / business license document
+- Final list of confirmed export countries
+- Confirmation: will client provide blog content or does Napollo write all?
+- Factory exterior + production floor photos
+- Team photos and exhibition booth photos
+
+---
+
+## End of Sitemap
