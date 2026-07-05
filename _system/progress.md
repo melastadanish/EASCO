@@ -133,7 +133,7 @@
 | Resource | File | Status | Passes | Notes |
 |---|---|---|---|---|
 | Resources Hub | other-pages/resources.md | 🔲 | — | **NEW** — combines FAQ + Gallery + Downloads |
-| FAQ (upgraded) | other-pages/faq.md | 🔲 | — | 16 existing + 6 new technical FAQs |
+| FAQ (upgraded) | other-pages/faq.md | ✅ | A:10.0/10 B:0fix N:20/20 D:✅ C:✅ | **COMPLETE** — 47 Q&As cover ALL 20 objections. AI-score 3%. 7 categories. |
 | Photo Gallery | other-pages/gallery.md | ⚠️ | — | **BLOCKED** — needs product + installation photos |
 | Downloads Center | other-pages/downloads.md | 🔲 | — | Spec sheets, SDK docs, certificates |
 
