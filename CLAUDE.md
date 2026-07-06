@@ -19,20 +19,23 @@ Ask the user: **"Agent mode or manual mode?"**
 
 Before writing any page, read these files in order:
 
-1. `_system/WritingSystem.md` — brand voice, copy rules, quality system
-2. `_system/client-data-map.md` — every spec number must be verified here before use
+1. `_system/WritingSystem.md` — brand voice, copy rules, quality system, **Data Source Hierarchy, Verbatim Authority Statements, Pass N Term Lists by Product Category**
+2. Spec data per the Data Source Hierarchy: `_system/product-specs/[model].md` FIRST → `_system/client-data-map.md` → `_system/VERIFIED-COMPANY-DATA.md` (company facts)
 3. `_system/differentiator-card.md` — minimum 2 differentiators per page
 4. `_system/objection-map.md` — Pass C objection coverage test
 5. `_system/buyer-segment-table.md` — primary segment for the page being written
 6. `_system/sitemap.md` — confirm URL slug before writing
 7. The matching template for the page type:
    - **9 Core Pages** → `templates/other-page-template.md` (customize per page requirements)
-   - **Solutions (by Industry)** → `templates/solution-page-template.md` ← **NEW**
-   - **Case Studies** → `templates/case-study-template.md` ← **NEW**
-   - Product category page → `templates/product-page-template.md`
-   - Product detail page → `templates/cluster-page-template.md`
+   - **Solutions (by Industry)** → `templates/solution-page-template.md`
+   - **Case Studies** → `templates/case-study-template.md`
+   - **Product category (archive) page** → `templates/product-archive-template.md` ← 12 fixed sections
+   - **Product detail page** → `templates/product-page-template.md` ← 11 fixed sections
+   - Topic cluster page → `templates/cluster-page-template.md`
    - Blog / Informational → `templates/blog-template.md`
    - Alternatives / Competitor → `templates/alternative-template.md`
+
+Every planned page already exists as a stub with frontmatter (Status, Template, URL Slug, Keyword Ref, Data Sources) — the stub's frontmatter is the page brief. Folders: `products/[category]/category.md` + detail pages, `solutions/`, `case-studies/`, `other-pages/`, `blogs/`, `alternatives/`.
 
 ---
 
@@ -170,11 +173,12 @@ A page is NOT complete until:
 
 | Template | Purpose | Used For |
 |---|---|---|
-| `templates/solution-page-template.md` | **NEW** — Industry-specific solution pages | Solutions by Industry (6 pages) |
-| `templates/case-study-template.md` | **NEW** — Venue-type case studies | Case Studies (8 pages) |
+| `templates/solution-page-template.md` | Industry-specific solution pages | Solutions by Industry (6 pages) |
+| `templates/case-study-template.md` | Venue-type case studies | Case Studies (8 pages) |
 | `templates/other-page-template.md` | Core static pages | Homepage, Why Us, Contact, etc. |
-| `templates/product-page-template.md` | Product category pages | 10 product categories |
-| `templates/cluster-page-template.md` | Product detail pages | Individual products |
+| `templates/product-archive-template.md` | **Product category (archive) pages — 12 fixed sections** | Products Hub + 10 categories |
+| `templates/product-page-template.md` | **Product detail pages — 11 fixed sections** | Individual models (Phase 2) |
+| `templates/cluster-page-template.md` | Topic cluster pages (legacy) | Non-product clusters only |
 | `templates/blog-template.md` | Blog posts | TOFU/MOFU/BOFU content |
 | `templates/alternative-template.md` | Competitor comparison | EASCO vs ZKTeco, etc. |
 

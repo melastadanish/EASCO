@@ -1,0 +1,14 @@
+---
+Status: 🔲 To Do
+Page Type: Product Category (Archive)
+Template: templates/product-archive-template.md
+URL Slug: /products/anpr-systems/
+Primary Keyword: license plate recognition system
+Keyword Ref: seo/keyword-master-list.md §4
+Priority: HIGH
+Data Sources: _system/product-specs/es-t02-t03-t04-lpr-camera.md, unattended-parking-toll-system.md, handheld-parking-management-device.md
+Differentiators: D2, D7, D8
+Execution Plan: _system/execution-plan.md Phase 1
+---
+
+<!-- Write using templates/product-archive-template.md — read _system/WritingSystem.md first (Data Source Hierarchy, Verbatim Authority Statements, Pass N Term Lists) -->
