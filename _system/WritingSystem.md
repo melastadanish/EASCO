@@ -419,3 +419,66 @@ Pass C: Headlines ✅ | Objections ✅ | CTAs ✅ | AI-score [X]%
 Last Updated: YYYY-MM-DD
 ---
 ```
+
+---
+
+## Data Source Hierarchy (Every Number, Every Page)
+
+Check in this order. If a number is in none of these, do not write it.
+
+| Priority | Source | Use |
+|---|---|---|
+| 1 | `_system/product-specs/[model].md` | Product specs — dimensions, throughput, capacity, IP rating, interfaces |
+| 2 | `_system/VERIFIED-COMPANY-DATA.md` | Company facts — founding, patents, factory, installations, contacts |
+| 3 | `_system/client-data-map.md` + `_system/client-data-map/` | Legacy verified data — cross-check against product-specs if both exist |
+| 4 | `products data/` + `missing data/` raw manuals | Raw translated manuals — verify against a spec file before quoting; if no spec file exists, flag for extraction first |
+
+Conflict rule: product-specs wins over client-data-map. Flag the conflict in the page file with ⚠️.
+
+---
+
+## Verbatim Authority Statements (Use These Exact Strings)
+
+Approved copy — do not paraphrase the numbers, do not add claims beyond this list.
+
+| Claim | Approved copy | Source |
+|---|---|---|
+| Founded | "Founded December 2009" / "founded in December 2009" | VERIFIED-COMPANY-DATA |
+| Experience | "16+ years manufacturing experience" | VERIFIED-COMPANY-DATA |
+| Status | "National High-Tech Enterprise" | VERIFIED-COMPANY-DATA |
+| Recognition | "Guangdong Provincial Innovative SME (2023)" | VERIFIED-COMPANY-DATA |
+| IP | "63 patents and 5 software copyrights" | VERIFIED-COMPANY-DATA |
+| Scale | "80,000+ installations across 50+ countries" | VERIFIED-COMPANY-DATA |
+| Factory | "3,000+ m² factory in Shenzhen" | VERIFIED-COMPANY-DATA |
+| Team | "10+ R&D engineers" | VERIFIED-COMPANY-DATA |
+| Certs | "ISO 9001:2015 certified" / "ISO 9001, ISO 14001, and ISO 45001 certified" / "CE and FCC certified" | client-data-map/Certifications.md |
+| Accuracy | "1-in-10,000,000 iris misrecognition rate" | differentiator-card D4 |
+| OEM | "OEM/ODM prototype in 30–45 days" | differentiator-card D6 |
+
+**Banned until client confirms (do not use anywhere):**
+- "20+ years" — use 16+ years
+- ROHS certificate / badge — not yet documented
+- IP54 as a company-wide badge — use only per-product IP ratings from spec files
+- Annual production capacity, warranty periods, exact employee count beyond "60+"
+- UKCA / EAC certificates
+
+---
+
+## Pass N Term Lists by Product Category
+
+Required semantic terms per category — must appear naturally in body copy of every category archive page and product detail page. Weave in, never list or force.
+
+| Category | Required semantic terms |
+|---|---|
+| Speed gates / flap barriers | passage width · throughput (persons/min) · anti-tailgating · anti-pinch (anti-crushing) · fire-safety fail-open · servo/brushless motor · crank-link transmission · infrared sensor · Wiegand · dry contact · lane configuration |
+| Tripod turnstiles | tripod arm · drop arm (fail-safe) · waist-high · mechanical/semi-automatic/full-automatic · passage rate · RFID card reader · anti-reverse |
+| Cylindrical turnstiles | cylindrical housing · swing gate · opening speed (0.5 s) · brushless motor · 304 stainless steel · wireless sensor trigger · footprint |
+| Android turnstiles | built-in Android OS · integrated face terminal · QR code reader · IC card · offline mode · SDK · onboard controller |
+| Face recognition terminals | liveness detection · FAR / FRR · recognition distance · face capacity (database size) · binocular / dual camera · WDR (wide dynamic range) · fill light · TCP/IP · attendance integration · SDK/API |
+| Handheld face recognition | battery capacity · Android version · 4G / Wi-Fi · NFC / RFID reading · rugged (drop / IP rating) · barcode scanning · portable enrollment |
+| ANPR systems | license plate recognition (LPR) · capture rate · trigger mode (video / loop) · barrier gate integration · offline whitelist · LED display · IP rating · vehicle lane |
+| Palm vein + iris | near-infrared imaging · vein pattern · misrecognition rate · contactless verification · template capacity · multi-modal biometrics · spoof resistance |
+| Alcohol detection | breathalyzer sensor · BAC threshold · contactless blow sampling · attendance lockout · test record export · compliance log |
+| Visitor registration | ID scanning / OCR · self-service check-in · dual-screen kiosk · visitor badge · visitor log · blacklist alert · appointment pre-registration |
+
+Rule: category archive page needs all terms from its row; a product detail page needs the terms its spec file supports (never claim a capability the spec file does not confirm).
