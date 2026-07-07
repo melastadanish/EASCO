@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 19**  
+**Complete: 20**  
 **In progress: 0**  
-**Not started: 26**  
+**Not started: 25**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -104,7 +104,7 @@
 | Smart Campus / Schools | solutions/smart-campus.md | ✅ | A:8.5/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — Tripod turnstiles + face recognition attendance + visitor registration combo. |
 | Transportation Hubs | solutions/transportation.md | ✅ | A:8.7/10 B:6fix N:9/9 D:✅ C:✅ | **COMPLETE** — Speed gates + cylindrical turnstiles + ANPR combo for peak-hour throughput. |
 | Hospitals | solutions/hospitals.md | ✅ | A:8.6/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — Palm vein + face recognition + visitor registration combo, tiered by privacy zone. |
-| Factories / Warehouses | solutions/factories.md | 🔲 | — | **NEW** — Attendance, Alcohol detection |
+| Factories / Warehouses | solutions/factories.md | ✅ | A:8.7/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — ESFAT + handheld + fixed face recognition combo for site-wide attendance and safety compliance. |
 | Government Buildings | solutions/government.md | 🔲 | — | **NEW** — Iris recognition, High security |
 
 **Required for Solutions:**

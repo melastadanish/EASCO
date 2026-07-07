@@ -98,7 +98,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | Smart Campus / Schools | solutions/smart-campus.md | ✅ |
 | Transportation Hubs (Airport, Metro, Bus) | solutions/transportation.md | ✅ |
 | Hospitals | solutions/hospitals.md | ✅ |
-| Factories / Warehouses | solutions/factories.md | 🔲 |
+| Factories / Warehouses | solutions/factories.md | ✅ |
 | Government Buildings | solutions/government.md | 🔲 |
 
 ### **Page 05 — Case Studies** (NEW PAGE — CRITICAL)
