@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 13**  
+**Complete: 14**  
 **In progress: 0**  
-**Not started: 32**  
+**Not started: 31**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -85,7 +85,7 @@
 | ANPR Systems | products/anpr-systems/category.md | ✅ | A:8.9/10 B:7fix N:7/9 D:✅ C:✅ | **COMPLETE** — ES-T02 specs confirmed (MTBF 30,000hrs, IP65, 18.5" driver display, unencrypted platform-agnostic). Exact recognition speed in ms and T02/T03/T04 differences ⚠️ pending client. |
 | Palm Vein + Iris | products/palm-vein-iris/category.md | ✅ | A:9.0/10 B:6fix N:9/9 D:✅ C:✅ | **COMPLETE** — ESQV8 (FAR 0.00001%, FRR 0.0001%) and MTH8 (iris 1-in-10M) specs fully confirmed from official client parameter sheets. |
 | Alcohol Detection | products/alcohol-detection/category.md | ✅ | A:8.9/10 B:6fix N:6/7 D:✅ C:✅ | **COMPLETE** — ESFAT specs confirmed (0-400mg/100mL, ±6.0mg accuracy, 99.98% face). Operating temp conflict (5-50°C sheet vs -25/+75°C scrape) flagged for client resolution. |
-| Visitor Registration | products/visitor-registration/category.md | 🔲 | — | MEDIUM priority |
+| Visitor Registration | products/visitor-registration/category.md | ✅ | A:8.3/10 B:6fix N:5/7 D:✅ C:✅ | **COMPLETE** — #2 highest-opportunity keyword (5,400/mo). No dedicated visitor-kiosk model/software confirmed — written honestly as shared face-recognition platform repositioned for visitors. Software/badge-printing flagged as priority client question. |
 
 **Required for Product Pages:**
 - ⚠️ High-res white-background product photos for EVERY product

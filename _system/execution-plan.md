@@ -88,7 +88,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | Number Plate Recognition (ANPR) | products/anpr-systems/category.md | ✅ |
 | Palm Vein + Iris Recognition | products/palm-vein-iris/category.md | ✅ |
 | Alcohol Detection Devices | products/alcohol-detection/category.md | ✅ |
-| Visitor Registration Machines | products/visitor-registration/category.md | 🔲 |
+| Visitor Registration Machines | products/visitor-registration/category.md | ✅ |
 
 ### **Page 04 — Solutions (by Industry)** (NEW PAGE — CRITICAL)
 | Industry Sub-Page | File | Status |
