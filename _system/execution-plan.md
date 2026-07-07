@@ -93,6 +93,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 ### **Page 04 — Solutions (by Industry)** (NEW PAGE — CRITICAL)
 | Industry Sub-Page | File | Status |
 |---|---|---|
+| Solutions Hub | solutions/solutions-hub.md | ✅ |
 | Commercial Buildings | solutions/commercial-buildings.md | 🔲 |
 | Smart Campus / Schools | solutions/smart-campus.md | 🔲 |
 | Transportation Hubs (Airport, Metro, Bus) | solutions/transportation.md | 🔲 |
