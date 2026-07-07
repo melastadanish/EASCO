@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 11**  
+**Complete: 12**  
 **In progress: 0**  
-**Not started: 34**  
+**Not started: 33**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -83,7 +83,7 @@
 | Face Recognition Terminals | products/face-recognition/category.md | ✅ | A:8.9/10 B:7fix N:9/9 D:✅ C:✅ | **COMPLETE** — Shared specs across 7/8/10.1-inch models confirmed (99.98% accuracy, IP65, liveness detection). Face-specific FAR/FRR not published — flagged, not invented. |
 | Handheld Face Recognition | products/handheld-face-recognition/category.md | ✅ | A:8.8/10 B:7fix N:6/7 D:✅ C:✅ | **COMPLETE** — ESRS51 specs fully confirmed (IP67, 5000mAh, 99.98% accuracy, 4G). ESR366/860/366C dimension differences ⚠️ pending client. |
 | ANPR Systems | products/anpr-systems/category.md | ✅ | A:8.9/10 B:7fix N:7/9 D:✅ C:✅ | **COMPLETE** — ES-T02 specs confirmed (MTBF 30,000hrs, IP65, 18.5" driver display, unencrypted platform-agnostic). Exact recognition speed in ms and T02/T03/T04 differences ⚠️ pending client. |
-| Palm Vein + Iris | products/palm-vein-iris/category.md | 🔲 | — | MEDIUM priority |
+| Palm Vein + Iris | products/palm-vein-iris/category.md | ✅ | A:9.0/10 B:6fix N:9/9 D:✅ C:✅ | **COMPLETE** — ESQV8 (FAR 0.00001%, FRR 0.0001%) and MTH8 (iris 1-in-10M) specs fully confirmed from official client parameter sheets. |
 | Alcohol Detection | products/alcohol-detection/category.md | 🔲 | — | MEDIUM priority — D11 differentiator |
 | Visitor Registration | products/visitor-registration/category.md | 🔲 | — | MEDIUM priority |
 

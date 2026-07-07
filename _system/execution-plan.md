@@ -86,7 +86,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | Face Recognition Terminals | products/face-recognition/category.md | ✅ |
 | Handheld / Mobile Face Recognition | products/handheld-face-recognition/category.md | ✅ |
 | Number Plate Recognition (ANPR) | products/anpr-systems/category.md | ✅ |
-| Palm Vein + Iris Recognition | products/palm-vein-iris/category.md | 🔲 |
+| Palm Vein + Iris Recognition | products/palm-vein-iris/category.md | ✅ |
 | Alcohol Detection Devices | products/alcohol-detection/category.md | 🔲 |
 | Visitor Registration Machines | products/visitor-registration/category.md | 🔲 |
 
