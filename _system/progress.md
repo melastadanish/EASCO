@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 22**  
+**Complete: 23**  
 **In progress: 0**  
-**Not started: 23**  
+**Not started: 22**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -168,7 +168,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Request Quote | other-pages/request-quote.md | 🔲 | — | Bottom of funnel conversion page |
+| Request Quote | other-pages/request-quote.md | ✅ | A:8.8/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Quote form with product/quantity/destination fields, fixed-pricing policy, process steps. |
 
 ---
 

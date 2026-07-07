@@ -153,7 +153,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 ### **Page 09 — Request Quote** (KEEP — CTA PAGE)
 | File | Status |
 |---|---|
-| other-pages/request-quote.md | 🔲 |
+| other-pages/request-quote.md | ✅ |
 
 ---
 
