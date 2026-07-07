@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 20**  
+**Complete: 21**  
 **In progress: 0**  
-**Not started: 25**  
+**Not started: 24**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -105,7 +105,7 @@
 | Transportation Hubs | solutions/transportation.md | ✅ | A:8.7/10 B:6fix N:9/9 D:✅ C:✅ | **COMPLETE** — Speed gates + cylindrical turnstiles + ANPR combo for peak-hour throughput. |
 | Hospitals | solutions/hospitals.md | ✅ | A:8.6/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — Palm vein + face recognition + visitor registration combo, tiered by privacy zone. |
 | Factories / Warehouses | solutions/factories.md | ✅ | A:8.7/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — ESFAT + handheld + fixed face recognition combo for site-wide attendance and safety compliance. |
-| Government Buildings | solutions/government.md | 🔲 | — | **NEW** — Iris recognition, High security |
+| Government Buildings | solutions/government.md | ✅ | A:8.8/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — Iris recognition + cylindrical turnstiles + ANPR combo, tiered by security level. |
 
 **Required for Solutions:**
 - ⚠️ Industry context photos (office lobby with turnstile, campus entrance, airport security) — client install photos OR stock
