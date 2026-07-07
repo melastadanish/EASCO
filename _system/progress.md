@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 7**  
+**Complete: 8**  
 **In progress: 0**  
-**Not started: 38**  
+**Not started: 37**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -79,7 +79,7 @@
 | Flap Barrier / Speed Gates | products/speed-gates/category.md | ✅ | A:8.8/10 B:9fix N:10/10 D:✅ C:✅ | **COMPLETE** — JX flagship specs confirmed (50/min, <0.5s open, MCBF 30M+ cycles). J/JF variants covered as upgrade path; dimensional specs ⚠️ pending client. |
 | Tripod Turnstiles | products/tripod-turnstiles/category.md | ✅ | A:8.2/10 B:7fix N:7/10 D:✅ C:✅ | **COMPLETE** — Limited confirmed data: model number, throughput, passage width, IP rating, dimensions all ⚠️ pending client. Page written honestly around confirmed safety features + config options only. |
 | Cylindrical Turnstiles | products/cylindrical-turnstiles/category.md | ✅ | A:8.9/10 B:8fix N:10/10 D:✅ C:✅ | **COMPLETE** — ESYBZ/ESYAD specs confirmed (45/min, 0.3s open, 600-1500mm width, crank-link anti-crush). Gate body IP rating unconfirmed, not claimed. |
-| Android Turnstiles | products/android-turnstiles/category.md | 🔲 | — | HIGH priority — D10 differentiator |
+| Android Turnstiles | products/android-turnstiles/category.md | ✅ | A:8.5/10 B:8fix N:8/10 D:✅ C:✅ | **COMPLETE** — ESBL terminal specs fully confirmed (99.98% accuracy, IP65, 5 access methods). JF gate body dimensions/throughput ⚠️ pending client. |
 | Face Recognition Terminals | products/face-recognition/category.md | 🔲 | — | HIGH priority |
 | Handheld Face Recognition | products/handheld-face-recognition/category.md | 🔲 | — | MEDIUM priority |
 | ANPR Systems | products/anpr-systems/category.md | 🔲 | — | HIGH priority |
