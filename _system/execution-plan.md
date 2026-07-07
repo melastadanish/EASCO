@@ -81,7 +81,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | Products Hub (landing page) | products/products-hub.md | ✅ |
 | Flap Barrier / Speed Gate Turnstiles | products/speed-gates/category.md | ✅ |
 | Tripod / Single-Arm Turnstile Gates | products/tripod-turnstiles/category.md | ✅ |
-| Cylindrical Turnstile Gates | products/cylindrical-turnstiles/category.md | 🔲 |
+| Cylindrical Turnstile Gates | products/cylindrical-turnstiles/category.md | ✅ |
 | Android Turnstile Gates (Face + QR + Card) | products/android-turnstiles/category.md | 🔲 |
 | Face Recognition Terminals | products/face-recognition/category.md | 🔲 |
 | Handheld / Mobile Face Recognition | products/handheld-face-recognition/category.md | 🔲 |
