@@ -51,6 +51,9 @@
 - [x] `[SYSTEM]` Reconcile `_system/progress.md` with actual page statuses
 - [x] `[SYSTEM]` Reorganize folders to match sitemap: `solutions pages/` → `solutions/`, case-studies stubs, `products/` tree with category stubs
 - [x] `[SYSTEM]` Update `CLAUDE.md` — template mapping, folder names, data source hierarchy
+- [x] `[SYSTEM]` Create `_system/memory.md` — session memory (state, decisions, open questions, session log)
+- [x] `[SYSTEM]` Create `_system/design.md` — visual/design direction moved out of CLAUDE.md
+- [x] `[SYSTEM]` Slim `CLAUDE.md` to 21 lines — instructions only, everything else lives in `_system/`
 - [ ] `[SYSTEM]` Reconcile `seo/keyword-master-list.md` slugs + repo-file pointers with `_system/sitemap.md` (keyword list still points at `/products/flap-barrier` and `silos/...` files; sitemap is the single source of truth). Flag for the user: solutions/case-studies category sets differ (keyword list has scenic-spots, banks, stadiums-gyms — sitemap has government, metro, hospitals). User decides which set is final.
 - [ ] `[SYSTEM]` Deduplicate data layer: fold `_system/client-data-map/` folder files (ESFAT, ESQV8, L8, MTH8, Stargate) into `_system/product-specs/` where they overlap; keep Certifications.md and Contact-and-Social.md as-is
 - [ ] `[SYSTEM]` Extract specs from `products data/Facial recognition/` manuals (14 files) into `_system/product-specs/` format — needed before their detail pages can be written
@@ -133,7 +136,7 @@
 
 > Template: `templates/other-page-template.md` unless noted
 
-- [ ] `[WRITE]` `other-pages/contact.md` — form fields, WhatsApp, Google Maps, 1-hour promise, all channels (sitemap + CLAUDE.md contact requirements)
+- [ ] `[WRITE]` `other-pages/contact.md` — form fields, WhatsApp, Google Maps, 1-hour promise, all channels (`_system/design.md` § Contact)
 - [ ] `[WRITE]` `other-pages/request-quote.md` — BOFU CTA page
 - [ ] `[WRITE]` `other-pages/resources.md` — hub: FAQ + Gallery + Downloads
 - [ ] `[WRITE]` `other-pages/downloads.md` — spec sheets, SDK docs, certificates
