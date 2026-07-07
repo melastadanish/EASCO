@@ -31,12 +31,12 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 3**  
+**Complete: 4**  
 **In progress: 0**  
-**Not started: 42**  
+**Not started: 41**  
 **Blocked: 8** (needs client photos/data)
 
-**Last Updated: 2026-07-02**
+**Last Updated: 2026-07-07**
 
 ---
 
@@ -75,7 +75,7 @@
 
 | Category | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Products Hub | products/products-hub.md | 🔲 | — | Landing page for all product categories |
+| Products Hub | products/products-hub.md | ✅ | A:8.7/10 B:15fix N:28/35 D:✅ C:✅ | **COMPLETE** — Five-pass review complete. AI-score ~11%. Objections O1,O2,O5,O9,O10 covered. Links to all 10 category pages. |
 | Flap Barrier / Speed Gates | products/speed-gates/category.md | 🔲 | — | HIGH priority |
 | Tripod Turnstiles | products/tripod-turnstiles/category.md | 🔲 | — | HIGH priority |
 | Cylindrical Turnstiles | products/cylindrical-turnstiles/category.md | 🔲 | — | MEDIUM priority |
