@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 9**  
+**Complete: 10**  
 **In progress: 0**  
-**Not started: 36**  
+**Not started: 35**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -81,7 +81,7 @@
 | Cylindrical Turnstiles | products/cylindrical-turnstiles/category.md | ✅ | A:8.9/10 B:8fix N:10/10 D:✅ C:✅ | **COMPLETE** — ESYBZ/ESYAD specs confirmed (45/min, 0.3s open, 600-1500mm width, crank-link anti-crush). Gate body IP rating unconfirmed, not claimed. |
 | Android Turnstiles | products/android-turnstiles/category.md | ✅ | A:8.5/10 B:8fix N:8/10 D:✅ C:✅ | **COMPLETE** — ESBL terminal specs fully confirmed (99.98% accuracy, IP65, 5 access methods). JF gate body dimensions/throughput ⚠️ pending client. |
 | Face Recognition Terminals | products/face-recognition/category.md | ✅ | A:8.9/10 B:7fix N:9/9 D:✅ C:✅ | **COMPLETE** — Shared specs across 7/8/10.1-inch models confirmed (99.98% accuracy, IP65, liveness detection). Face-specific FAR/FRR not published — flagged, not invented. |
-| Handheld Face Recognition | products/handheld-face-recognition/category.md | 🔲 | — | MEDIUM priority |
+| Handheld Face Recognition | products/handheld-face-recognition/category.md | ✅ | A:8.8/10 B:7fix N:6/7 D:✅ C:✅ | **COMPLETE** — ESRS51 specs fully confirmed (IP67, 5000mAh, 99.98% accuracy, 4G). ESR366/860/366C dimension differences ⚠️ pending client. |
 | ANPR Systems | products/anpr-systems/category.md | 🔲 | — | HIGH priority |
 | Palm Vein + Iris | products/palm-vein-iris/category.md | 🔲 | — | MEDIUM priority |
 | Alcohol Detection | products/alcohol-detection/category.md | 🔲 | — | MEDIUM priority — D11 differentiator |
