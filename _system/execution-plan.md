@@ -148,7 +148,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | Response Time Promise | 'We reply within 1 hour' | 🔲 |
 | All Contact Channels | Phone, WhatsApp, Email, Skype, LinkedIn, Facebook, YouTube | 🔲 |
 | Social Media Icons | LinkedIn, Facebook, YouTube | 🔲 |
-| **File** | other-pages/contact.md | **🔲** |
+| **File** | other-pages/contact.md | **✅** |
 
 ### **Page 09 — Request Quote** (KEEP — CTA PAGE)
 | File | Status |
