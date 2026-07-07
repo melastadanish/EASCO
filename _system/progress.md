@@ -31,12 +31,12 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 4**  
+**Complete: 5**  
 **In progress: 0**  
-**Not started: 41**  
+**Not started: 40**  
 **Blocked: 8** (needs client photos/data)
 
-**Last Updated: 2026-07-07**
+**Last Updated: 2026-07-08**
 
 ---
 
@@ -76,7 +76,7 @@
 | Category | File | Status | Passes | Notes |
 |---|---|---|---|---|
 | Products Hub | products/products-hub.md | ✅ | A:8.7/10 B:15fix N:28/35 D:✅ C:✅ | **COMPLETE** — Five-pass review complete. AI-score ~11%. Objections O1,O2,O5,O9,O10 covered. Links to all 10 category pages. |
-| Flap Barrier / Speed Gates | products/speed-gates/category.md | 🔲 | — | HIGH priority |
+| Flap Barrier / Speed Gates | products/speed-gates/category.md | ✅ | A:8.8/10 B:9fix N:10/10 D:✅ C:✅ | **COMPLETE** — JX flagship specs confirmed (50/min, <0.5s open, MCBF 30M+ cycles). J/JF variants covered as upgrade path; dimensional specs ⚠️ pending client. |
 | Tripod Turnstiles | products/tripod-turnstiles/category.md | 🔲 | — | HIGH priority |
 | Cylindrical Turnstiles | products/cylindrical-turnstiles/category.md | 🔲 | — | MEDIUM priority |
 | Android Turnstiles | products/android-turnstiles/category.md | 🔲 | — | HIGH priority — D10 differentiator |
