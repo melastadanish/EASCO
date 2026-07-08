@@ -110,6 +110,25 @@
 | ESRS51 Rugged Handheld | products/handheld-face-recognition/esrs51.md | ✅ | A:8.5/10 | **COMPLETE** — IP67, 5000mAh detachable battery, 4G. Exact drop-height rating ⚠️ pending. |
 | ES-T02/T03/T04 ANPR Camera | products/anpr-systems/es-t02-t03-t04.md | ✅ | A:8.4/10 | **COMPLETE** — MTBF 30,000hrs, IP65, unencrypted platform-agnostic. T02/T03/T04 differences ⚠️ pending client. |
 
+**Second batch (2026-07-08) — client instruction: "each product having own separate page, its a must." Every remaining catalogued product with at least a partial confirmed feature set now has a page, even where a full spec sheet is not yet available:**
+
+| Model | File | Status | Passes | Notes |
+|---|---|---|---|---|
+| JF Series Android Speed Gate | products/speed-gates/jf-series.md | ✅ | A:8.0/10 | **COMPLETE** — Terminal specs confirmed (99.98% accuracy). Gate-body throughput, dimensions, IP rating ⚠️ pending — no fabricated values used. |
+| J Series Aluminum Speed Gate | products/speed-gates/j-series.md | ✅ | A:7.9/10 | **COMPLETE** — Modular base gate body; only material and configuration options confirmed. Full gate-body spec sheet ⚠️ pending. |
+| Luxury Stainless Speed Gate (锋影系列) | products/speed-gates/luxury-stainless-speed-gate.md | ✅ | A:7.8/10 | **COMPLETE** — Material and design features confirmed. No English model code assigned yet ⚠️. |
+| 304 Stainless Steel Swing Gate | products/cylindrical-turnstiles/stainless-swing-gate.md | ✅ | A:7.7/10 | **COMPLETE** — Material, body diameters, safety mechanism confirmed. No English model code assigned yet ⚠️. |
+| Single-Arm Turnstile | products/tripod-turnstiles/single-arm-turnstile.md | ✅ | A:7.8/10 | **COMPLETE** — First and only product identified for the tripod-turnstile category. Material and 6 safety features confirmed. No English model code assigned yet ⚠️. |
+| ESR366 Standard Handheld | products/handheld-face-recognition/esr366.md | ✅ | A:7.8/10 | **COMPLETE** — Model confirmed by client. Battery, connectivity, IP rating ⚠️ pending. |
+| ESR860 Handheld with Printer | products/handheld-face-recognition/esr860.md | ✅ | A:7.8/10 | **COMPLETE** — Model + printer feature confirmed by client. Battery, connectivity, IP rating ⚠️ pending. |
+| ESR366C Gun-Grip with Card Reader | products/handheld-face-recognition/esr366c.md | ✅ | A:7.9/10 | **COMPLETE** — Model + HF card reader capability confirmed by client. Battery, connectivity, IP rating ⚠️ pending. |
+| Standard 8-Inch Face Terminal | products/face-recognition/standard-8-inch-terminal.md | ✅ | A:8.3/10 | **COMPLETE** — Full shared specs confirmed. Maps to Chinese names 云棱/云腾/灵点 — individual English model codes ⚠️ pending. |
+| Premium 10.1-Inch Face Terminal | products/face-recognition/premium-10-inch-terminal.md | ✅ | A:8.4/10 | **COMPLETE** — Full shared specs confirmed (8MP camera, 4GB RAM). Maps to Chinese names 云极/云栖 — individual English model codes ⚠️ pending. |
+| Unattended Parking Toll System | products/anpr-systems/unattended-parking-toll-system.md | ✅ | A:8.0/10 | **COMPLETE** — Key features confirmed (IP65, one-touch admin call, 4 payment methods). No English model code assigned yet ⚠️. |
+| Handheld Parking Management Device | products/anpr-systems/handheld-parking-management-device.md | ✅ | A:7.8/10 | **COMPLETE** — Key features confirmed (all-country LPR, optional printer). Battery, connectivity, OS ⚠️ pending. No English model code assigned yet ⚠️. |
+
+> **Open structural question (not yet resolved):** Three more products have fully confirmed specs in `client-data-map.md` under "SILO 5 — Custom & Airport" — LCD Door Panel (21.5", 1920×1080), 3D Holographic Door Panel, and Airport Self Check-In Kiosk — but none of the 10 existing category folders fit them. Adding a new top-level category folder would mean deciding site structure, which is outside a content-only mandate. Flagged for the client to confirm which category these belong under (or whether a new one is authorized) before pages are written for them. Also still unaddressed: 云纹 (5-inch face terminal) and 云途掌纹 (8-inch palm print terminal, distinct from palm vein) — neither has an English model code or a confirmed spec tier match yet.
+
 **Required for Product Pages:**
 - ⚠️ High-res white-background product photos for EVERY product
 - ⚠️ Multi-angle shots
