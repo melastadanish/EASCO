@@ -78,7 +78,7 @@ A: 80,000+ installations across 50+ countries, spanning all eight venue types co
 A: Start with the venue type matching your primary use case, then review the [Solutions by Industry](/solutions/) pages for combined product recommendations.
 
 **Q: Is case study content the same as product specifications?**
-A: No. Case study pages focus on venue-specific requirements and recommended combinations. Full technical specifications are on each product's [category page](/products/).
+A: No. Case study pages focus on venue-specific requirements and recommended combinations. Full technical specifications are on each product's own category page, linked from the main navigation.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -101,7 +101,6 @@ Send your venue type and region, and EASCO will share available reference projec
 
 - Link to all 8 venue-type case study pages (listed above)
 - Link to [Solutions by Industry](/solutions/)
-- Link to [Products Hub](/products/)
 - Link to [Contact page](/contact/)
 
 ---
