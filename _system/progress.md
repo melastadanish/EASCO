@@ -213,9 +213,9 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ | A:8.2/10 B:6fix N:5/5 D:✅ C:✅ | **COMPLETE** — Rewritten conservatively after live verification found ZKTeco has palm vein + real OEM/ODM (see _system/competitors.md correction log). Original planned claims were factually wrong. |
+| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ | A:8.6/10 B:9fix N:5/5 D:✅ C:✅ | **COMPLETE (2nd correction pass, 2026-07-08)** — First pass fixed palm vein/OEM claims; second pass found and fixed 2 more errors (ZKTeco DOES have combined turnstile+biometric+ANPR AND combined alcohol+attendance — neither is unique to EASCO). ZKTeco face accuracy/FRR and factory location now confirmed. Remaining genuine edge: no dedicated ZKTeco iris product found across 3 searches. All ⚠️ flags resolved or honestly re-flagged with stronger research basis. See _system/competitors.md correction log. |
 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | ✅ | A:8.1/10 B:6fix N:5/5 D:✅ C:✅ | **COMPLETE** — Rewritten conservatively after live verification found Hikvision lists iris on select terminals + offers OEM/white-label at industry scale. |
-| ZKTeco Alternative | alternatives/zkteco-alternative.md | ✅ | A:8.0/10 B:5fix N:4/4 D:✅ C:✅ | **COMPLETE** — Same verified basis as easco-vs-zkteco.md, framed for buyers seeking an alternative supplier. |
+| ZKTeco Alternative | alternatives/zkteco-alternative.md | ✅ | A:8.3/10 B:8fix N:4/4 D:✅ C:✅ | **COMPLETE (corrected alongside easco-vs-zkteco.md)** — Had the same 2 factual errors (combined turnstile+ANPR and alcohol+attendance claimed as unique to EASCO); fixed to match. |
 | Hikvision Alternative | alternatives/hikvision-alternative.md | ✅ | A:8.1/10 B:5fix N:4/4 D:✅ C:✅ | **COMPLETE** — Same verified basis as easco-vs-hikvision.md, framed for buyers seeking an alternative supplier. **All 4 Alternatives pages now complete.** |
 
 ---

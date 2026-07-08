@@ -1,11 +1,11 @@
 ---
 Status: READY FOR DEVELOPMENT
-Pass A: 8.0/10
-Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
+Pass A: 8.3/10 (revised — second correction pass)
+Pass B: 8 fixes applied (5 original + 3 corrections after re-verifying ZKTeco specs)
 Pass N: 4/4 terms present (biometric, OEM, factory direct, iris)
-Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (iris 1-in-10M FAR) | GEO ✅
+Pass D: AI-quotable ✅ | FAQ 6 Q&As ✅ | Authority ✅ (iris — no ZKTeco equivalent found after 3 searches) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ (O1, O2, O4 covered) | CTAs ✅ (spec download → quote) | AI-score ~8%
-Client Data Verified: 2026-07-08 (Same verified basis as alternatives/easco-vs-zkteco.md — see _system/competitors.md correction log. This page is framed for buyers actively searching for an alternative supplier, not a head-to-head spec page.)
+Client Data Verified: 2026-07-08, follow-up correction pass 2026-07-08 (Same verified basis as alternatives/easco-vs-zkteco.md — see _system/competitors.md correction log. CORRECTED: this page originally claimed EASCO uniquely combines turnstile+biometric+ANPR and uniquely offers combined alcohol+attendance hardware — both are false; ZKTeco has both. Rewritten around EASCO's actual remaining edge: no dedicated ZKTeco iris product found across 3 searches.)
 Last Updated: 2026-07-08
 ---
 
@@ -50,7 +50,7 @@ Buyers looking for a ZKTeco alternative are usually evaluating a second supplier
 
 ZKTeco is a genuine factory-direct manufacturer with real OEM/ODM services and a broad product range including palm vein hardware. A serious alternative supplier needs to match that baseline: actual manufacturing (not a trading company), documented certifications, and a real OEM program. Simply being "not ZKTeco" isn't enough.
 
-What often prompts a buyer to look beyond one supplier is a specific product gap, or a second-source requirement for supply chain resilience. It's rarely a fundamental capability failure. EASCO fits that role: factory direct, with a product range that includes iris recognition and combined alcohol-plus-attendance hardware.
+What often prompts a buyer to look beyond one supplier is a specific product gap, or a second-source requirement for supply chain resilience. It's rarely a fundamental capability failure. EASCO fits that role: factory direct, with iris recognition — the one biometric category no ZKTeco product was found to offer across three separate searches.
 
 > A ZKTeco alternative worth considering needs real manufacturing capability, documented certifications, and OEM/ODM services — the same baseline ZKTeco itself offers. EASCO manufactures turnstiles, biometrics (including iris at a 1-in-10,000,000 FAR), and vehicle recognition from one Shenzhen factory.
 
@@ -67,10 +67,11 @@ What often prompts a buyer to look beyond one supplier is a specific product gap
 | Factor | EASCO | ZKTeco | Notes |
 |---|---|---|---|
 | Biometric range | Face, palm vein, iris | Face, fingerprint, palm vein | Both offer palm vein |
-| Iris FAR | 1-in-10,000,000 | ⚠️ Not found in this research pass | |
-| OEM/ODM | ✅ 30–45 day prototype | ✅ Established division | Both real programs |
-| Combined alcohol + attendance | ✅ (ESFAT) | ⚠️ Not found in this research pass | |
-| Turnstile + biometric + ANPR, one factory | ✅ | ⚠️ Not confirmed in this research pass | |
+| Iris FAR | 1-in-10,000,000 | ⚠️ No dedicated iris product found (3 searches) | EASCO's clearest specific edge |
+| OEM/ODM | ✅ 30–45 day prototype | ✅ Established division, 25+ years | Both real programs — not a differentiator |
+| Combined alcohol + attendance | ✅ ESFAT — single integrated unit | ✅ G4L + USB Alcohol Tester — modular | Both offer it; design differs, not a capability gap |
+| Turnstile + biometric + ANPR, one factory | ✅ | ✅ Mars Pro speed gates + full turnstile range + LPRS1000/E-LPRC500 | Both companies cover all three — not a differentiator |
+| Company scale | ~60+ employees, 1 facility | ~3,500 employees, dual HQ | ZKTeco operates at much larger scale |
 
 **CTA:** [Download EASCO product specifications](#) or [request them on WhatsApp](https://wa.me/8613711422283)
 
@@ -84,9 +85,9 @@ What often prompts a buyer to look beyond one supplier is a specific product gap
 
 **A second factory-direct source.** Depending on one supplier for an entire product category carries risk. EASCO offers the same factory-direct model as ZKTeco, at a different Shenzhen facility.
 
-**A specific, documented iris FAR.** 1-in-10,000,000 is a concrete, publicly stated figure — useful where a restricted zone needs a specific accuracy commitment in writing.
+**A specific, documented iris FAR.** 1-in-10,000,000 is a concrete, publicly stated figure — useful where a restricted zone needs a specific accuracy commitment in writing. No equivalent ZKTeco iris product was found across three separate searches.
 
-**A combined product range.** Turnstiles, biometrics, and ANPR from one factory simplifies procurement for a project spanning multiple categories.
+**A single-unit alcohol-and-attendance device.** The ESFAT combines a breath test and face recognition in one terminal. ZKTeco's version uses a terminal plus a separate USB attachment — a design difference worth confirming against project preference.
 
 **Differentiators used:** D2 (factory direct), D4 (iris accuracy), D7 (Shenzhen supply chain)
 
@@ -102,10 +103,13 @@ What often prompts a buyer to look beyond one supplier is a specific product gap
 A: EASCO manufactures in-house at its own Shenzhen facility, operating at the same address since December 2009. Factory audit available on request.
 
 **Q: Does EASCO's product range overlap with ZKTeco's?**
-A: Both companies manufacture turnstiles and biometric terminals. EASCO adds iris recognition and vehicle recognition (ANPR) to its range; confirm current ZKTeco offerings directly for an exact comparison.
+A: Substantially, yes. Both manufacture turnstiles, biometric terminals, and vehicle recognition (ANPR/LPR). EASCO adds iris recognition, which no ZKTeco product was found to offer across three separate searches.
 
 **Q: Why would I add a second supplier instead of just ordering more from ZKTeco?**
-A: Supply chain resilience, pricing leverage, and access to a specific product (like EASCO's iris terminals or combined alcohol-attendance hardware) are common reasons to qualify a second factory-direct source.
+A: Supply chain resilience, pricing leverage, or access to EASCO's iris recognition line (not found in ZKTeco's range) are common reasons to qualify a second factory-direct source.
+
+**Q: Does ZKTeco also offer combined turnstile, biometric, and vehicle recognition hardware?**
+A: Yes. ZKTeco's range includes the Mars Pro speed gate series, a full turnstile lineup, and LPR products (LPRS1000, E-LPRC500). This combination isn't unique to either company.
 
 **Q: Does EASCO offer the same OEM/ODM services as ZKTeco?**
 A: Yes. EASCO delivers a 30–45 day prototype with a milestone payment schedule, comparable in scope to ZKTeco's OEM/ODM program.
