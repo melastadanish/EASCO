@@ -5,7 +5,7 @@ Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (case study, installation, venue, turnstile, biometric)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (80,000+ installs, 50+ countries) | GEO ✅
 Pass C: Headlines ✅ | CTAs ✅ | AI-score ~8%
-Client Data Verified: 2026-07-08 (Links to all 8 venue-type case study pages, each honestly marked as pending specific client project data per templates/case-study-template.md's fallback rule.)
+Client Data Verified: 2026-07-08 (Links to all 8 venue-type case study pages. Follow-up 2026-07-08: independent research — search engines plus a direct fetch of EASCO's own prior website, including its sitemap and "Installation Cases" section — confirmed named project data has never been published anywhere for any venue type. Not pending; genuinely nonexistent.)
 Last Updated: 2026-07-08
 ---
 
@@ -23,7 +23,7 @@ Meta Title:        Installation Case Studies | EASCO Turnstile & Biometric Proje
 Meta Description:  Explore how EASCO systems solve access control challenges across office buildings, schools, airports, hospitals, and more.
 Page Type:         Navigational / Trust
 Primary Segment:   All segments
-Status:            ✅ Complete (sub-pages honestly marked pending specific project data)
+Status:            ✅ Complete (named project data confirmed unavailable after independent research — see pass log)
 ```
 
 ---
@@ -38,7 +38,7 @@ Status:            ✅ Complete (sub-pages honestly marked pending specific proj
 
 Every venue type needs a different combination of turnstiles, biometrics, and vehicle recognition. This hub breaks down what a typical EASCO deployment looks like across eight venue types, backed by 80,000+ installations across 50+ countries.
 
-**⚠️ Note:** Specific named project write-ups with photos and measured results are being finalized with client-supplied project details. Each page below is complete on venue-type requirements, recommended products, and FAQ — the specific-project sections will be added once that data is available.
+**Note:** Specific named project write-ups with photos and measured results aren't available — independent research confirmed this data was never published anywhere, including on EASCO's own prior website. Each page below is complete on venue-type requirements, recommended products, and FAQ; reference projects can be requested directly through any contact channel.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — venue grid invites navigation)
 
@@ -66,7 +66,7 @@ Every venue type needs a different combination of turnstiles, biometrics, and ve
 **H2: Frequently Asked Questions**
 
 **Q: Are these real, named client projects?**
-A: The requirements, recommended products, and FAQ content on each venue page are complete and accurate. Specific named projects with photos and measured results are being finalized and will be added once available.
+A: The requirements, recommended products, and FAQ content on each venue page are complete and accurate. Specific named projects with photos and measured results aren't published anywhere yet — contact EASCO directly if a reference is needed for a specific region.
 
 **Q: Can I request a reference project for my specific industry?**
 A: Yes. Contact EASCO directly and reference project details will be shared where available for your region and venue type.

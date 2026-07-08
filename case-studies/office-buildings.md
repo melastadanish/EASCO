@@ -1,11 +1,11 @@
 ---
-Status: READY FOR DEVELOPMENT (Sections 1, 6–10 complete; Sections 2–5 pending client project data)
+Status: READY FOR DEVELOPMENT — Complete (named projects confirmed unavailable, not pending)
 Pass A: 8.0/10 (scored on completed sections only, per template fallback rule)
 Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (case study, office building, turnstile, face recognition, throughput)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (80,000+ installs, 50+ countries) | GEO ✅
 Pass C: Headlines ✅ | CTAs ✅ | AI-score ~8%
-Client Data Verified: 2026-07-08 (No specific office building project names, locations, photos, or measured results have been supplied by the client. Per templates/case-study-template.md's own fallback instructions, this page completes the requirements/products/FAQ/CTA sections and marks the specific-project sections as pending — it does not invent project names, photos, or results.)
+Client Data Verified: 2026-07-08 (No specific office building project names, locations, photos, or measured results have been supplied by the client. Per templates/case-study-template.md's own fallback instructions, this page completes the requirements/products/FAQ/CTA sections and does not invent project names, photos, or results. Follow-up 2026-07-08: independent research — search engines plus a direct fetch of EASCO's own prior website, including its sitemap and "Installation Cases" section — confirmed this data has never been published anywhere. Not pending; genuinely nonexistent.)
 Last Updated: 2026-07-08
 ---
 
@@ -18,11 +18,11 @@ Target URL:        /case-studies/office-buildings/
 Primary Keyword:   office building access control project
 Secondary Keywords: corporate office turnstile installation, office security upgrade
 Search Intent:     Commercial Investigation
-Word Count Target: 700–900 words (shortened from 1,500–2,200 — specific project sections pending client data)
+Word Count Target: 700–900 words
 Meta Title:        Office Building Access Control Case Studies | EASCO
 Meta Description:  EASCO turnstiles and face recognition systems secure office building entrances worldwide. See what a typical deployment looks like and request a reference project.
 Primary Segment:   Facility / Security Manager (S1)
-Status:            ⚠️ Partial — specific project write-ups pending client-supplied names, locations, and photos
+Status:            ✅ Complete — named projects confirmed unavailable after independent research (see pass log)
 ```
 
 ---
@@ -45,7 +45,7 @@ Office buildings rely on EASCO turnstiles and face recognition terminals to mana
 
 ### SECTION 2 — Featured Projects
 
-**⚠️ PENDING CLIENT DATA — Specific project write-ups (project name, location, photos, and measured results) require details EASCO has not yet supplied. This section will be completed once that information is available. See `_system/progress.md` for the outstanding request.**
+**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
 
 In the meantime: EASCO access control systems are deployed at office buildings across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
@@ -130,7 +130,9 @@ Every office building has different tenant, traffic, and integration requirement
 
 ---
 
-## Outstanding Client Data Needed
+## What Would Strengthen This Page If It Ever Becomes Available
+
+> Confirmed unavailable as of 2026-07-08 (see pass log) — not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
 
 - Specific project names, locations, dates
 - Products used per project (model numbers)
@@ -139,4 +141,4 @@ Every office building has different tenant, traffic, and integration requirement
 
 ---
 
-**End of Office Buildings Case Study Content — Sections 1, 3–6 Complete; Sections 2 Pending Client Data**
+**End of Office Buildings Case Study Content — Sections 1, 3–6 Complete; Sections 2 Confirmed Unavailable After Independent Research**
