@@ -183,7 +183,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | 3.3 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | MOFU | ✅ |
 | 3.4 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | MOFU | ✅ |
 | 3.5 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | BOFU | ✅ |
-| 3.6 | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | BOFU | 🔲 |
+| 3.6 | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | BOFU | ✅ |
 | 3.7 | How Does ANPR Work? | blogs/how-does-anpr-work.md | TOFU | 🔲 |
 | 3.8 | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | TOFU | 🔲 |
 
