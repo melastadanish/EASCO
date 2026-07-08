@@ -45,11 +45,28 @@ Schools and campuses rely on EASCO tripod turnstiles and face recognition termin
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**Secondary School Campus — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | Secondary school, ~1,200 students, main gate + 2 side entrances |
+| Traffic Profile | Morning arrival rush, staff and visitor traffic throughout the day |
+| Products Used | Tripod turnstiles (main + side gates), face recognition terminals, visitor registration terminal |
+
+**The Challenge**
+Daily attendance tracked by hand across three entrances doesn't scale. A card-based system also can't stop one student checking in a friend who isn't actually present. Parent pickup traffic also needs screening without turning it into a security interrogation.
+
+**The Approach**
+Tripod turnstiles cover the main gate and both side entrances, each paired with a face recognition terminal for attendance. A visitor registration terminal at the main gate handles parent and visitor check-in during pickup hours.
+
+**The Outcome**
+Attendance ties to a verified face rather than a card that can be shared. The compact tripod gates fit the budget across all three entrances. Visitor registration keeps parent pickup moving without a staff member checking IDs at the gate.
 
 In the meantime: EASCO access control systems are deployed at schools and campuses across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

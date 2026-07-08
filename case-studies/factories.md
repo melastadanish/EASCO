@@ -45,11 +45,28 @@ Factories and warehouses rely on EASCO's alcohol detection, handheld, and fixed 
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**Logistics Warehouse Site — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | Logistics/warehouse site, multiple entry points including a loading dock |
+| Traffic Profile | Multi-shift workforce, safety-policy enforcement required |
+| Products Used | ESFAT alcohol + face recognition terminal (main gate), IP67 handheld terminals (loading dock/yard) |
+
+**The Challenge**
+A written sober-only policy has no way to enforce itself at the door. A card-only system also can't stop one worker clocking in for a colleague. The loading dock and yard also sit outside range of any fixed network connection.
+
+**The Approach**
+The ESFAT combines a breath alcohol test with face recognition at the main gate, so a worker can't clock in without passing both checks together. IP67-rated handheld terminals with 4G connectivity cover the loading dock and yard without needing a fixed network.
+
+**The Outcome**
+Sobriety and identity are verified together at the point of entry rather than relying on self-reporting. Attendance extends to the loading dock and yard without new cabling. Buddy punching becomes structurally difficult across every entry point.
 
 In the meantime: EASCO access control systems are deployed at factories and warehouses across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

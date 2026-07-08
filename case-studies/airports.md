@@ -45,11 +45,28 @@ Airports rely on EASCO turnstiles, biometric terminals, and ANPR vehicle recogni
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**Airport Staff & Vehicle Access — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | Airport terminal, restricted airside zone + staff parking |
+| Traffic Profile | Mixed staff, vehicle, and ground-support access requirements |
+| Products Used | Iris recognition terminals (restricted zones), ANPR cameras (staff parking) |
+
+**The Challenge**
+A restricted airside zone can't tolerate the false acceptance rate a standard biometric accepts elsewhere. Staff parking also needs continuous, reliable vehicle recognition without a fixed operator on-site around the clock.
+
+**The Approach**
+Iris recognition covers the most restricted access points at a 1-in-10,000,000 misrecognition rate. ANPR cameras rated for continuous outdoor operation manage staff parking and ground vehicle access.
+
+**The Outcome**
+The highest-security zones run on the lowest false-acceptance biometric EASCO manufactures. Vehicle access continues unattended with a 30,000-hour MTBF camera rating. Both systems report to the same overall access control platform.
 
 In the meantime: EASCO access control systems are deployed at transportation and transit-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

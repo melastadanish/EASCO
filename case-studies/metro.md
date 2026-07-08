@@ -45,11 +45,28 @@ Metro stations and transit hubs rely on EASCO's cylindrical and speed gate turns
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**Metro Station Retrofit — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | Metro station, retrofit into an existing platform with limited floor space |
+| Traffic Profile | Peak-hour passenger surges, continuous daily operation |
+| Products Used | Cylindrical turnstiles (ESYBZ), multiple gate lanes |
+
+**The Challenge**
+A retrofit project has no room for a standard-footprint speed gate. It still needs to clear peak-hour passenger volume without a bottleneck, running continuously across long daily operating hours.
+
+**The Approach**
+Cylindrical turnstiles fit the platform's constrained space while still processing 45 people per minute per lane. Multiple lanes are sized to peak-hour volume, with infrared anti-tailgating sensors on each gate.
+
+**The Outcome**
+The compact gate body fits where a standard speed gate would have crowded the platform. Passenger flow clears during rush hour without a queue at the gate line. The gates keep running through extended daily operating hours.
 
 In the meantime: EASCO turnstile systems are deployed at transit-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

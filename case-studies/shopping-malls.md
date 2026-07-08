@@ -45,11 +45,28 @@ Shopping malls rely on EASCO turnstiles for staff and service entrances, ANPR fo
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**Regional Shopping Center — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | Regional shopping mall, multi-tenant retail, dedicated parking structure |
+| Traffic Profile | Staff/service entrances separate from customer traffic, high-volume parking |
+| Products Used | Speed gates (staff/service entrances), ANPR cameras (parking structure) |
+
+**The Challenge**
+Back-of-house staff and delivery access needs its own security tier, separate from the customer-facing mall entrance. The parking structure also needs a fast, reliable read at every entry and exit lane during peak shopping hours.
+
+**The Approach**
+Speed gates with a customizable, professional-looking door panel cover staff and service entrances. ANPR cameras rated for continuous outdoor operation manage the parking structure's entry and exit lanes.
+
+**The Outcome**
+Staff and delivery traffic stay separate from customer foot traffic. The parking structure clears vehicles without a bottleneck at peak hours. Both systems report into the same overall access control platform.
 
 In the meantime: EASCO access control systems are deployed at commercial and retail facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

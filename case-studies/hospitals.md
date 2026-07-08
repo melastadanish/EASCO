@@ -45,11 +45,28 @@ Hospitals rely on EASCO's palm vein and face recognition systems to secure restr
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**General Hospital Campus — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | General hospital, general wards + restricted pharmacy/records zone |
+| Traffic Profile | 24-hour operation, staff + visitor access, emergency response |
+| Products Used | Face recognition terminals (general wards), palm vein recognition (restricted zones), visitor registration terminal |
+
+**The Challenge**
+Restricted areas like the pharmacy and records room need tighter access control. A slow credential check there costs time the facility can't spare during an emergency. Facial data collection also raises privacy questions in some of the more sensitive zones.
+
+**The Approach**
+Face recognition covers general wards and staff access at 200–300ms per scan. Palm vein recognition covers the pharmacy and records room instead, since it reads a vein pattern rather than storing a facial image. A visitor registration terminal handles check-in at the main entrance around the clock.
+
+**The Outcome**
+Staff move through general-access areas without a slowdown during shift changes. The restricted zones avoid the facial-data question entirely. Visitors can check in at any hour without a staffed desk.
 
 In the meantime: EASCO biometric access control systems are deployed at healthcare-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

@@ -45,11 +45,28 @@ Government facilities rely on EASCO's iris recognition for restricted zones and 
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**Government Administrative Building — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | Government administrative building, public wing + restricted records/server zone |
+| Traffic Profile | Public-facing counters, general staff areas, high-security restricted zones |
+| Products Used | Cylindrical turnstiles (general/public areas), iris recognition (restricted zones) |
+
+**The Challenge**
+Public-facing counters and general staff areas need throughput without a bottleneck. Restricted records and server rooms, meanwhile, can't tolerate the false acceptance rate a standard biometric accepts elsewhere. Procurement also requires documented certifications before any contract is awarded.
+
+**The Approach**
+Cylindrical turnstiles handle general staff and public traffic at 45 people per minute per lane. Iris recognition covers the most restricted zones at a 1-in-10,000,000 misrecognition rate. CE, FCC, and ISO 9001/14001/45001 certificate documentation is provided to support the procurement file.
+
+**The Outcome**
+General areas keep moving without over-securing every entrance. The most sensitive zones run on the lowest false-acceptance biometric available. Procurement documentation clears review without a follow-up request.
 
 In the meantime: EASCO high-security biometric and turnstile systems are deployed at government and institutional facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

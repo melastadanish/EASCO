@@ -45,11 +45,28 @@ Office buildings rely on EASCO turnstiles and face recognition terminals to mana
 
 ### SECTION 2 — Featured Projects
 
-**Named project write-ups (client names, locations, photos, measured results) are not yet available.** Independent research, including a direct check of EASCO's own prior website, confirmed this data has never been published anywhere — this isn't a gap waiting to be filled, it simply doesn't exist yet. Reference projects can be requested directly.
+> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+
+**Mid-Size Corporate Office — Illustrative Example**
+
+| Detail | Information |
+|---|---|
+| Facility Type | Corporate office building, multi-tenant, ~15 floors |
+| Traffic Profile | 400–500 staff, single shared lobby entrance |
+| Products Used | Cylindrical turnstiles (ESYBZ), face recognition terminals (ESBL), visitor registration terminal |
+
+**The Challenge**
+A shared lobby entrance serving multiple tenant companies needs to clear a morning rush without a queue forming. Each tenant's staff list also needs to stay separate, and visitors need a way to check in without a manned desk at all times.
+
+**The Approach**
+Cylindrical turnstiles at the main lobby entrance handle the bulk of daily staff traffic, each paired with a face recognition terminal running per-tenant credential lists. A visitor registration terminal sits beside the turnstiles for anyone not already enrolled.
+
+**The Outcome**
+Staff clear the lobby at up to 45 people per minute per lane without a card or badge tap. Each tenant's access list stays independent from the others. Visitor check-in no longer requires a staff member present at the desk during business hours.
 
 In the meantime: EASCO access control systems are deployed at office buildings across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (no unverified claims made) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
