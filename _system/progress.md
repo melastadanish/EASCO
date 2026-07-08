@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 28**  
+**Complete: 29**  
 **In progress: 0**  
-**Not started: 17**  
+**Not started: 16**  
 **Blocked: 7** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -179,7 +179,7 @@
 | Factory Tour | other-pages/factory.md | ✅ | A:8.6/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Text confirmed from client-data-map facts. Factory photos ⚠️ pending. |
 | Certifications | other-pages/certifications.md | ✅ | A:8.8/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Text content written from confirmed cert data (CE, FCC, ISO 9001/14001/45001 numbers + issuing bodies). Scan image uploads still ⚠️ pending. |
 | OEM/ODM Services | other-pages/oem-odm.md | ✅ | A:8.7/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — 30-45 day prototype process, milestone payments, O19/O20 covered. |
-| Partners & Distributors | other-pages/partners.md | 🔲 | — | Primary: Importer/Distributor segment |
+| Partners & Distributors | other-pages/partners.md | ✅ | A:8.5/10 B:5fix N:4/4 D:✅ C:✅ | **COMPLETE** — Factory-direct pricing, export documentation, O1/O6/O8 covered. |
 | Trade Shows & Events | other-pages/events.md | 🔲 | — | 2023–2025 exhibitions |
 | Privacy Policy | other-pages/privacy-policy.md | 🔲 | — | Legal required |
 | Terms of Service | other-pages/terms.md | 🔲 | — | Legal required |
