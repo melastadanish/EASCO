@@ -31,10 +31,10 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 37**  
+**Complete: 38**  
 **Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 5**  
+**Not started: 4** (4 Alternatives pages remain)  
 **Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
@@ -201,7 +201,7 @@
 | BOFU | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | ✅ | A:8.6/10 — **COMPLETE** |
 | BOFU | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | ✅ | A:8.5/10 — **COMPLETE** |
 | TOFU | How Does ANPR Work? | blogs/how-does-anpr-work.md | ✅ | A:8.6/10 — **COMPLETE** |
-| TOFU | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | 🔲 | Awareness — AI citation target |
+| TOFU | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | ✅ | A:8.7/10 — **COMPLETE** — high GEO/AI-citation priority. All 8 blog posts now complete. |
 
 ---
 
