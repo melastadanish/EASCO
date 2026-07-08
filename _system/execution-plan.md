@@ -162,7 +162,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | # | Task | File | Status |
 |---|---|---|---|
 | 2.1 | Factory Tour | other-pages/factory.md | 🔲 |
-| 2.2 | Certifications | other-pages/certifications.md | ⚠️ NEEDS CERT SCANS |
+| 2.2 | Certifications | other-pages/certifications.md | ✅ (scan images pending) |
 | 2.3 | OEM/ODM Services | other-pages/oem-odm.md | 🔲 |
 | 2.4 | Partners & Distributors | other-pages/partners.md | 🔲 |
 | 2.5 | Trade Shows & Events | other-pages/events.md | 🔲 |

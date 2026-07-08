@@ -31,10 +31,10 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 25**  
+**Complete: 26**  
 **In progress: 0**  
-**Not started: 20**  
-**Blocked: 8** (needs client photos/data)
+**Not started: 19**  
+**Blocked: 7** (needs client photos/data — Certifications unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
 
@@ -177,7 +177,7 @@
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
 | Factory Tour | other-pages/factory.md | 🔲 | — | 3,000m² manufacturing plant |
-| Certifications | other-pages/certifications.md | ⚠️ | — | **BLOCKED** — cert scans needed |
+| Certifications | other-pages/certifications.md | ✅ | A:8.8/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Text content written from confirmed cert data (CE, FCC, ISO 9001/14001/45001 numbers + issuing bodies). Scan image uploads still ⚠️ pending. |
 | OEM/ODM Services | other-pages/oem-odm.md | 🔲 | — | D6 differentiator |
 | Partners & Distributors | other-pages/partners.md | 🔲 | — | Primary: Importer/Distributor segment |
 | Trade Shows & Events | other-pages/events.md | 🔲 | — | 2023–2025 exhibitions |
