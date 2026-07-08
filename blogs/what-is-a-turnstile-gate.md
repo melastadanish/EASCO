@@ -80,7 +80,7 @@ Most gates pair with a credential reader, a card, a face recognition terminal, o
 | Retrofit with limited floor space | Cylindrical turnstile | Compact integrated-mold body fits where a standard gate would crowd the entrance |
 | Multi-credential entrance (face, card, QR) | Android-integrated gate | Onboard terminal reads multiple credential types without a separate controller box |
 
-**Soft CTA:** See the full range of turnstile types EASCO manufactures, [Products Hub](/products/)
+**Soft CTA:** See the full range of turnstile types EASCO manufactures, [Speed Gates](/speed-gates/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
@@ -128,7 +128,7 @@ A: Most gates pair with a card reader, face recognition terminal, or QR scanner 
 Traffic volume, budget, and credential type narrow the choice between gate types fast. Compare specs across EASCO's full turnstile range before deciding.
 
 > **See the full EASCO turnstile range, specifications, comparisons, and pricing.**
-> [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
+> [Speed Gates](/speed-gates/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
 
@@ -136,10 +136,10 @@ Traffic volume, budget, and credential type narrow the choice between gate types
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), mandatory, primary purpose of this article
-- Link to [Speed Gates category](/products/speed-gates/)
-- Link to [Tripod Turnstiles category](/products/tripod-turnstiles/)
-- Link to [Cylindrical Turnstiles category](/products/cylindrical-turnstiles/)
+- Link to [Speed Gates](/speed-gates/), mandatory, primary purpose of this article
+- Link to [Speed Gates category](/speed-gates/)
+- Link to [Tripod Turnstiles category](/tripod-turnstiles/)
+- Link to [Cylindrical Turnstiles category](/cylindrical-turnstiles/)
 
 ---
 

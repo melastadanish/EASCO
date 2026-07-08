@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at office buildings a
 
 **H2: EASCO Products Used in Office Building Deployments**
 
-**[Flap Barrier / Speed Gates](/products/speed-gates/)**: the JX flagship's RGB status lighting and custom door panel suit a reception area's first impression.
-**[Face Recognition Terminals](/products/face-recognition/)**: 99.98% accuracy at 200–300ms clears staff without a card reader.
-**[Visitor Registration Machines](/products/visitor-registration/)**: self-check-in for visitors without a manned desk.
+**[Flap Barrier / Speed Gates](/speed-gates/)**: the JX flagship's RGB status lighting and custom door panel suit a reception area's first impression.
+**[Face Recognition Terminals](/face-recognition/)**: 99.98% accuracy at 200–300ms clears staff without a card reader.
+**[Visitor Registration Machines](/visitor-registration/)**: self-check-in for visitors without a manned desk.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,9 +140,9 @@ Every office building has different tenant, traffic, and integration requirement
 ## Internal Links Required
 
 - Link to [Commercial Buildings solution page](/solutions/commercial-buildings/)
-- Link to [Speed Gates](/products/speed-gates/)
-- Link to [Face Recognition Terminals](/products/face-recognition/)
-- Link to [Visitor Registration Machines](/products/visitor-registration/)
+- Link to [Speed Gates](/speed-gates/)
+- Link to [Face Recognition Terminals](/face-recognition/)
+- Link to [Visitor Registration Machines](/visitor-registration/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

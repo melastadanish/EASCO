@@ -135,7 +135,6 @@ Send the product category and specification currently in use, and get back EASCO
 
 - Link to [EASCO vs Hikvision](/alternatives/easco-vs-hikvision/)
 - Link to [Why Us page](/why-us/)
-- Link to [Products Hub](/products/)
 - Link to [Contact page](/contact/)
 
 ---

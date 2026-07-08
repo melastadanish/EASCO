@@ -137,7 +137,7 @@ Whether the project needs OEM or ODM usually comes down to timeline, budget, and
 ## Internal Links Required
 
 - Link to [OEM/ODM Services page](/oem-odm/), mandatory, primary purpose of this article
-- Link to [Products Hub](/products/)
+- Link to [OEM/ODM Services](/oem-odm/)
 
 ---
 

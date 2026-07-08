@@ -117,7 +117,6 @@ Send the product category, customization scope, and expected order volume, and g
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/)
 - Link to [Why Us page](/why-us/)
 - Link to [Contact page](/contact/)
 - Link to [Request Quote](/quote/)

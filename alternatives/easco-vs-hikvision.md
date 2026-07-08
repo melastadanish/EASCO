@@ -173,7 +173,7 @@ Send your project's specific requirements and get EASCO specifications and prici
 ## Internal Links Required
 
 - Link to [Why Us page](/why-us/)
-- Link to [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
+- Link to [Palm Vein + Iris Recognition](/palm-vein-iris/)
 - Link to [Contact page](/contact/)
 
 ---

@@ -41,7 +41,7 @@ Your airport terminal needs 45 people per minute through the gate. Your office l
 - ✓ 80,000+ Installations Worldwide
 - ✓ Export to 50+ Countries
 
-**CTA:** View All Product Categories → /products/
+**CTA:** View Product Categories (opens the Products menu, no dedicated hub page in this architecture)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -68,37 +68,37 @@ Different facilities need different throughput. Speed gates for office lobbies. 
 
 #### Card 1: Face Recognition Access
 99.98% accuracy at 200–300ms recognition speed. Financial-grade liveness detection rejects photos and masks. Storage for 50,000 faces onboard.  
-**CTA:** View face recognition terminals → /products/face-recognition/
+**CTA:** View face recognition terminals → /face-recognition/
 
 #### Card 2: Aluminum Alloy Speed Gates
 Processes 45 people per minute. Opens in 0.3 seconds. Aircraft-grade aluminum frame. IP65-rated for outdoor installation.  
-**CTA:** View aluminum speed gates → /products/speed-gates/
+**CTA:** View aluminum speed gates → /speed-gates/
 
 #### Card 3: Stainless Steel Turnstiles
 Tested to 10 million cycles before dispatch. 304 stainless steel frame. IP65 weatherproof. Tripod and full-height models available.  
-**CTA:** View stainless steel turnstiles → /products/tripod-turnstiles/
+**CTA:** View stainless steel turnstiles → /tripod-turnstiles/
 
 #### Card 4: Android Turnstile Gates
 Full Android OS built into the gate. Face, QR code, and card readers onboard. No separate access controller required.  
-**CTA:** View Android turnstiles → /products/android-turnstiles/
+**CTA:** View Android turnstiles → /android-turnstiles/
 
 #### Card 5: Palm Vein Recognition
 Reads vein pattern beneath the skin using near-infrared imaging. False acceptance rate below 0.0001%. Contactless and unspoofable.  
-**CTA:** View palm vein terminals → /products/palm-vein-iris/
+**CTA:** View palm vein terminals → /palm-vein-iris/
 
 #### Card 6: Number Plate Recognition (ANPR)
 5MP camera with night vision. Millisecond plate recognition. IP65 outdoor-rated. Processes vehicles in all weather conditions.  
-**CTA:** View ANPR systems → /products/anpr-systems/
+**CTA:** View ANPR systems → /anpr-systems/
 
 #### Card 7: Alcohol Detection + Attendance
 Breath test before clock-in. Testing range 0–400 mg/100mL with ±6.0 mg/100mL accuracy. Combined with face recognition attendance.  
-**CTA:** View alcohol detection terminals → /products/alcohol-detection/
+**CTA:** View alcohol detection terminals → /alcohol-detection/
 
 #### Card 8: Handheld Face Recognition
 Field-ready terminals for outdoor attendance tracking. Built-in face recognition and barcode scanning. Rugged three-proof models available.  
-**CTA:** View handheld terminals → /products/handheld-face-recognition/
+**CTA:** View handheld terminals → /handheld-face-recognition/
 
-**Bottom CTA:** View All Product Categories → /products/
+**Bottom CTA:** View Product Categories (opens the Products menu, no dedicated hub page in this architecture)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -267,7 +267,7 @@ A: Yes. Wiegand 26/34, RS485, TCP/IP, HTTP, and MQTT supported. SDK documentatio
 
 **H2:** Request a Quote for Your Project
 
-Tell us your quantity, destination country, and product requirements. We respond within 1 business hour during office hours with pricing and shipping options.
+Send the quantity, destination country, and product requirements. A response arrives within 1 business hour during office hours, with pricing and shipping options.
 
 **Contact Channels:**
 - **WhatsApp:** +86 13711422283  
@@ -284,14 +284,14 @@ Tell us your quantity, destination country, and product requirements. We respond
 ## Internal Links Required
 
 - [x] Link to /products/ (Products Hub)
-- [x] Link to /products/face-recognition/
-- [x] Link to /products/speed-gates/
-- [x] Link to /products/tripod-turnstiles/
-- [x] Link to /products/android-turnstiles/
-- [x] Link to /products/palm-vein-iris/
-- [x] Link to /products/anpr-systems/
-- [x] Link to /products/alcohol-detection/
-- [x] Link to /products/handheld-face-recognition/
+- [x] Link to /face-recognition/
+- [x] Link to /speed-gates/
+- [x] Link to /tripod-turnstiles/
+- [x] Link to /android-turnstiles/
+- [x] Link to /palm-vein-iris/
+- [x] Link to /anpr-systems/
+- [x] Link to /alcohol-detection/
+- [x] Link to /handheld-face-recognition/
 - [x] Link to /solutions/commercial-buildings/
 - [x] Link to /solutions/smart-campus/
 - [x] Link to /solutions/transportation/

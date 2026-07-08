@@ -134,7 +134,6 @@ Product category, quantity, and destination country are enough to start a quote,
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), "product category"
 - Link to [Solutions Hub](/solutions/), for industry-specific inquiries
 - Link to [OEM/ODM page](/oem-odm/), "OEM/ODM inquiries"
 - Link to [Why Us page](/why-us/), "factory visit"

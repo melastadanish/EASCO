@@ -94,9 +94,9 @@ In the meantime: EASCO biometric access control systems are deployed at healthca
 
 **H2: EASCO Products Used in Healthcare Deployments**
 
-**[Palm Vein + Iris Recognition](/products/palm-vein-iris/)**: no facial image stored, suited to privacy-sensitive zones.
-**[Face Recognition Terminals](/products/face-recognition/)**: fast staff access for general wings.
-**[Visitor Registration Machines](/products/visitor-registration/)**: round-the-clock visitor check-in.
+**[Palm Vein + Iris Recognition](/palm-vein-iris/)**: no facial image stored, suited to privacy-sensitive zones.
+**[Face Recognition Terminals](/face-recognition/)**: fast staff access for general wings.
+**[Visitor Registration Machines](/visitor-registration/)**: round-the-clock visitor check-in.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,8 +140,8 @@ Every hospital campus has different wings, privacy requirements, and traffic pat
 ## Internal Links Required
 
 - Link to [Hospitals solution page](/solutions/hospitals/)
-- Link to [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
-- Link to [Face Recognition Terminals](/products/face-recognition/)
+- Link to [Palm Vein + Iris Recognition](/palm-vein-iris/)
+- Link to [Face Recognition Terminals](/face-recognition/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

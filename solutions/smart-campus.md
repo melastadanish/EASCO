@@ -58,13 +58,13 @@ A school entrance has to track attendance, screen visitors, and keep unauthorize
 
 **H2: The Product Combination That Fits a Campus Budget**
 
-#### [Tripod Turnstiles](/products/tripod-turnstiles/)
+#### [Tripod Turnstiles](/tripod-turnstiles/)
 **Why it fits:** A compact, lower-cost gate suits multiple lower-traffic entrances across a campus, without the cost of a full speed gate at every door.
 
-#### [Face Recognition Terminals](/products/face-recognition/)
+#### [Face Recognition Terminals](/face-recognition/)
 **Why it fits:** Attendance ties to a verified face rather than a card that can be handed to a friend, making buddy check-in structurally difficult.
 
-#### [Visitor Registration Machines](/products/visitor-registration/)
+#### [Visitor Registration Machines](/visitor-registration/)
 **Why it fits:** A parent or visitor self-registers at the gate, creating a record of who's on campus without a staff member at every entrance.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each product links to its category page)
@@ -159,13 +159,12 @@ Every campus has a different entrance count and budget. Send the number of entra
 ## SECTION 10: Related Products & Resources
 
 **Related Products:**
-- [Tripod Turnstiles](/products/tripod-turnstiles/)
-- [Face Recognition Terminals](/products/face-recognition/)
-- [Visitor Registration Machines](/products/visitor-registration/)
-- [Handheld Face Recognition Terminals](/products/handheld-face-recognition/)
+- [Tripod Turnstiles](/tripod-turnstiles/)
+- [Face Recognition Terminals](/face-recognition/)
+- [Visitor Registration Machines](/visitor-registration/)
+- [Handheld Face Recognition Terminals](/handheld-face-recognition/)
 
 **Related Resources:**
-- [Products Hub](/products/)
 - [Solutions Hub](/solutions/)
 - [Why Us](/why-us/)
 - [Contact](/contact/)

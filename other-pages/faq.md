@@ -273,14 +273,13 @@ Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Stree
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), "product category"
-- Link to [Face Recognition](/products/face-recognition/), "face recognition terminals"
-- Link to [Speed Gates](/products/speed-gates/), "speed gate"
-- Link to [Tripod Turnstiles](/products/tripod-turnstiles/), "tripod turnstiles"
-- Link to [Palm Vein](/products/palm-vein-iris/), "palm vein recognition"
-- Link to [ANPR Systems](/products/anpr-systems/), "license plate recognition"
-- Link to [Android Turnstiles](/products/android-turnstiles/), "Android turnstile"
-- Link to [Alcohol Detection](/products/alcohol-detection/), "alcohol detection"
+- Link to [Face Recognition](/face-recognition/), "face recognition terminals"
+- Link to [Speed Gates](/speed-gates/), "speed gate"
+- Link to [Tripod Turnstiles](/tripod-turnstiles/), "tripod turnstiles"
+- Link to [Palm Vein](/palm-vein-iris/), "palm vein recognition"
+- Link to [ANPR Systems](/anpr-systems/), "license plate recognition"
+- Link to [Android Turnstiles](/android-turnstiles/), "Android turnstile"
+- Link to [Alcohol Detection](/alcohol-detection/), "alcohol detection"
 - Link to [OEM/ODM page](/oem-odm/), "OEM services"
 - Link to [Why Us](/why-us/), "factory visit"
 - Link to [Certifications](/certifications/), "certificates"

@@ -138,7 +138,6 @@ Send the product category and specification you're currently sourcing from ZKTec
 
 - Link to [EASCO vs ZKTeco](/alternatives/easco-vs-zkteco/)
 - Link to [Why Us page](/why-us/)
-- Link to [Products Hub](/products/)
 - Link to [Contact page](/contact/)
 
 ---

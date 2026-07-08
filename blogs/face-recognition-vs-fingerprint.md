@@ -76,7 +76,7 @@ Face recognition solves both problems by design. A camera captures the face from
 | High-traffic entrance during shift change | Face recognition | Faster per-person scan, no queue at a shared sensor |
 | Very low-budget, low-traffic single door | Fingerprint (where available) | Lower hardware cost for basic single-door access |
 
-**Soft CTA:** See EASCO's face recognition terminal range, [Products Hub](/products/)
+**Soft CTA:** See EASCO's face recognition terminal range, [Face Recognition Terminals](/face-recognition/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
@@ -124,7 +124,7 @@ A: Iris recognition typically reaches lower false acceptance rates than face rec
 Hygiene requirements, environment, and traffic volume usually settle the choice between contactless and contact biometrics. Compare EASCO's face, palm vein, and iris options before deciding.
 
 > **See the full EASCO biometric access control range, specifications, comparisons, and pricing.**
-> [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
+> [Face Recognition Terminals](/face-recognition/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
 
@@ -132,9 +132,9 @@ Hygiene requirements, environment, and traffic volume usually settle the choice 
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), mandatory, primary purpose of this article
-- Link to [Face Recognition Terminals](/products/face-recognition/)
-- Link to [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
+- Link to [Face Recognition Terminals](/face-recognition/), mandatory, primary purpose of this article
+- Link to [Face Recognition Terminals](/face-recognition/)
+- Link to [Palm Vein + Iris Recognition](/palm-vein-iris/)
 
 ---
 

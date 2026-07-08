@@ -80,7 +80,7 @@ The hardest part of this process isn't the camera resolution. It's the second st
 | Logistics yard with muddy trailers | Strong partial occlusion handling | Plates are frequently dirty or partially obscured |
 | Retrofit into existing parking system | Unencrypted, platform-agnostic hardware | Avoids replacing the entire parking management system |
 
-**Soft CTA:** See EASCO's ANPR camera specifications, [Products Hub](/products/)
+**Soft CTA:** See EASCO's ANPR camera specifications, [ANPR Systems](/anpr-systems/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
@@ -128,7 +128,7 @@ A: Depends on the hardware. Unencrypted, platform-agnostic ANPR cameras integrat
 Environment, existing platform, and expected plate condition narrow the choice fast. Compare EASCO's ANPR camera specifications before deciding.
 
 > **See the full EASCO ANPR camera range, specifications, comparisons, and pricing.**
-> [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
+> [ANPR Systems](/anpr-systems/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
 
@@ -136,8 +136,8 @@ Environment, existing platform, and expected plate condition narrow the choice f
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), mandatory, primary purpose of this article
-- Link to [ANPR Systems category](/products/anpr-systems/)
+- Link to [ANPR Systems](/anpr-systems/), mandatory, primary purpose of this article
+- Link to [ANPR Systems category](/anpr-systems/)
 
 ---
 

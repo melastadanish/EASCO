@@ -58,13 +58,13 @@ Hospital access control has to secure restricted areas without slowing down staf
 
 **H2: The Product Combination That Balances Privacy and Speed**
 
-#### [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
+#### [Palm Vein + Iris Recognition](/palm-vein-iris/)
 **Why it fits:** ESQV8 palm vein recognition reaches a 0.00001% false acceptance rate and stores no facial image. It suits a pharmacy, records room, or research area with privacy requirements.
 
-#### [Face Recognition Terminals](/products/face-recognition/)
+#### [Face Recognition Terminals](/face-recognition/)
 **Why it fits:** 200–300ms recognition speed keeps staff moving quickly through general-access wings during shift changes and emergency response.
 
-#### [Visitor Registration Machines](/products/visitor-registration/)
+#### [Visitor Registration Machines](/visitor-registration/)
 **Why it fits:** Self-check-in creates a visitor record around the clock, without requiring a staffed desk at every hospital entrance overnight.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each product links to its category page)
@@ -159,13 +159,12 @@ Every hospital campus has different wings, privacy requirements, and traffic pat
 ## SECTION 10: Related Products & Resources
 
 **Related Products:**
-- [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
-- [Face Recognition Terminals](/products/face-recognition/)
-- [Visitor Registration Machines](/products/visitor-registration/)
-- [Handheld Face Recognition Terminals](/products/handheld-face-recognition/)
+- [Palm Vein + Iris Recognition](/palm-vein-iris/)
+- [Face Recognition Terminals](/face-recognition/)
+- [Visitor Registration Machines](/visitor-registration/)
+- [Handheld Face Recognition Terminals](/handheld-face-recognition/)
 
 **Related Resources:**
-- [Products Hub](/products/)
 - [Solutions Hub](/solutions/)
 - [Why Us](/why-us/)
 - [Contact](/contact/)

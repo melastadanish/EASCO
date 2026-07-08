@@ -37,13 +37,13 @@ This is a standard privacy policy template populated with EASCO's confirmed busi
 
 Shenzhen Easco Intelligent Equipment Co., Ltd. ("EASCO," "we," "us") operates szeasco.com. This policy explains what information is collected through this site and how it is used.
 
-**Information We Collect**
+**Information Collected**
 
 - Contact form submissions: name, email, phone, company, product interest, message content
 - Quote requests: the above, plus quantity, destination country, and installation environment
 - Standard web analytics: pages visited, browser type, approximate location (via IP address)
 
-**How We Use This Information**
+**How This Information Is Used**
 
 - To respond to quote requests and general inquiries
 - To provide product specifications, pricing, and order support

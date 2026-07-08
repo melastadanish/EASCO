@@ -80,7 +80,7 @@ Once throughput is settled, credential type narrows the choice further. A gate n
 | Speed gate (flagship) | Up to 50/min | High-traffic lobbies, transit hubs | Higher cost. Confirm ROI against actual traffic volume |
 | Android-integrated gate | Varies by base gate | Multi-credential entrances (face, card, QR) | Confirm gate body specs separately from terminal specs |
 
-**Soft CTA:** Compare EASCO's full turnstile range side by side, [Products Hub](/products/)
+**Soft CTA:** Compare EASCO's full turnstile range side by side, [Speed Gates](/speed-gates/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
@@ -128,7 +128,7 @@ A: Not necessarily. A well-designed high-speed gate still includes anti-crush an
 Traffic volume, budget, and credential type are usually enough to narrow the field to one or two models. Compare EASCO's full turnstile range before requesting a quote.
 
 > **See the full EASCO turnstile range, specifications, comparisons, and pricing.**
-> [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
+> [Speed Gates](/speed-gates/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
 
@@ -136,11 +136,11 @@ Traffic volume, budget, and credential type are usually enough to narrow the fie
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), mandatory, primary purpose of this article
-- Link to [Speed Gates category](/products/speed-gates/)
-- Link to [Tripod Turnstiles category](/products/tripod-turnstiles/)
-- Link to [Cylindrical Turnstiles category](/products/cylindrical-turnstiles/)
-- Link to [Android Turnstiles category](/products/android-turnstiles/)
+- Link to [Speed Gates](/speed-gates/), mandatory, primary purpose of this article
+- Link to [Speed Gates category](/speed-gates/)
+- Link to [Tripod Turnstiles category](/tripod-turnstiles/)
+- Link to [Cylindrical Turnstiles category](/cylindrical-turnstiles/)
+- Link to [Android Turnstiles category](/android-turnstiles/)
 
 ---
 

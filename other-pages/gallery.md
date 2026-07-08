@@ -105,7 +105,6 @@ Send the product or facility type needed, and get current photography where avai
 - Link to [Resources Hub](/resources/)
 - Link to [Case Studies](/case-studies/)
 - Link to [Factory Tour page](/factory/)
-- Link to [Products Hub](/products/)
 - Link to [Contact page](/contact/)
 
 ---

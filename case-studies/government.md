@@ -94,9 +94,9 @@ In the meantime: EASCO high-security biometric and turnstile systems are deploye
 
 **H2: EASCO Products Used in Government Deployments**
 
-**[Palm Vein + Iris Recognition](/products/palm-vein-iris/)**: the highest-accuracy biometric tier for restricted zones.
-**[Cylindrical Turnstiles](/products/cylindrical-turnstiles/)**: throughput for general staff and public areas.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: secure parking access control.
+**[Palm Vein + Iris Recognition](/palm-vein-iris/)**: the highest-accuracy biometric tier for restricted zones.
+**[Cylindrical Turnstiles](/cylindrical-turnstiles/)**: throughput for general staff and public areas.
+**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: secure parking access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,8 +140,8 @@ Every government facility has different security tiers and procurement requireme
 ## Internal Links Required
 
 - Link to [Government Buildings solution page](/solutions/government/)
-- Link to [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
-- Link to [Cylindrical Turnstiles](/products/cylindrical-turnstiles/)
+- Link to [Palm Vein + Iris Recognition](/palm-vein-iris/)
+- Link to [Cylindrical Turnstiles](/cylindrical-turnstiles/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

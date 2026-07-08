@@ -59,13 +59,13 @@ A corporate lobby has to look professional to visitors while keeping unauthorize
 
 **H2: The Product Combination That Fits an Office Lobby**
 
-#### [Flap Barrier / Speed Gates](/products/speed-gates/)
+#### [Flap Barrier / Speed Gates](/speed-gates/)
 **Why it fits:** A corporate lobby rarely needs 50-person-per-minute throughput, but it does need a professional-looking entrance. The JX flagship's RGB status lighting and custom door panel shape suit a reception area's first impression.
 
-#### [Face Recognition Terminals](/products/face-recognition/)
+#### [Face Recognition Terminals](/face-recognition/)
 **Why it fits:** Staff badge in at 200–300ms without touching a card reader. Financial-grade liveness detection stops a photo or badge-sharing attempt at the door.
 
-#### [Visitor Registration Machines](/products/visitor-registration/)
+#### [Visitor Registration Machines](/visitor-registration/)
 **Why it fits:** A visitor checks themselves in at a desktop terminal instead of waiting behind a sign-in sheet. Each visit ties to a verified face rather than a self-reported name.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each product links to its category page)
@@ -160,13 +160,12 @@ Every commercial building has different tenant, traffic, and integration require
 ## SECTION 10: Related Products & Resources
 
 **Related Products:**
-- [Flap Barrier / Speed Gates](/products/speed-gates/)
-- [Face Recognition Terminals](/products/face-recognition/)
-- [Visitor Registration Machines](/products/visitor-registration/)
-- [Android Turnstiles](/products/android-turnstiles/)
+- [Flap Barrier / Speed Gates](/speed-gates/)
+- [Face Recognition Terminals](/face-recognition/)
+- [Visitor Registration Machines](/visitor-registration/)
+- [Android Turnstiles](/android-turnstiles/)
 
 **Related Resources:**
-- [Products Hub](/products/)
 - [Solutions Hub](/solutions/)
 - [Why Us](/why-us/)
 - [Contact](/contact/)

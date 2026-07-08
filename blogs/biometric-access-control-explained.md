@@ -80,7 +80,7 @@ Two numbers describe how well a system performs this comparison. False acceptanc
 | Privacy-sensitive zones (no facial data storage) | Palm vein recognition | Reads a subsurface vein pattern, not a facial image |
 | Outdoor or industrial environments | IP65/IP67-rated terminals | Withstands dust, humidity, and temperature swings |
 
-**Soft CTA:** Compare EASCO's full biometric range, [Products Hub](/products/)
+**Soft CTA:** Compare EASCO's full biometric range, [Face Recognition Terminals](/face-recognition/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
@@ -128,7 +128,7 @@ A: Iris recognition typically reaches the lowest false acceptance rates among co
 Security tier, privacy requirements, and environment narrow the choice between biometric modes fast. Compare specs across EASCO's full biometric range before deciding.
 
 > **See the full EASCO biometric access control range, specifications, comparisons, and pricing.**
-> [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
+> [Face Recognition Terminals](/face-recognition/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
 
@@ -136,9 +136,9 @@ Security tier, privacy requirements, and environment narrow the choice between b
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), mandatory, primary purpose of this article
-- Link to [Face Recognition Terminals](/products/face-recognition/)
-- Link to [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
+- Link to [Face Recognition Terminals](/face-recognition/), mandatory, primary purpose of this article
+- Link to [Face Recognition Terminals](/face-recognition/)
+- Link to [Palm Vein + Iris Recognition](/palm-vein-iris/)
 
 ---
 

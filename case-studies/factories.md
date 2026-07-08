@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at factories and ware
 
 **H2: EASCO Products Used in Industrial Deployments**
 
-**[Alcohol Detection Devices](/products/alcohol-detection/)**: the ESFAT ties identity and sobriety checks to one motion.
-**[Handheld Face Recognition Terminals](/products/handheld-face-recognition/)**: IP67-rated, 4G-connected attendance for remote areas.
-**[Face Recognition Terminals](/products/face-recognition/)**: fixed IP65-rated terminals for main entrances.
+**[Alcohol Detection Devices](/alcohol-detection/)**: the ESFAT ties identity and sobriety checks to one motion.
+**[Handheld Face Recognition Terminals](/handheld-face-recognition/)**: IP67-rated, 4G-connected attendance for remote areas.
+**[Face Recognition Terminals](/face-recognition/)**: fixed IP65-rated terminals for main entrances.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,8 +140,8 @@ Every factory or warehouse has a different layout and workforce size. Send the s
 ## Internal Links Required
 
 - Link to [Factories / Warehouses solution page](/solutions/factories/)
-- Link to [Alcohol Detection Devices](/products/alcohol-detection/)
-- Link to [Handheld Face Recognition Terminals](/products/handheld-face-recognition/)
+- Link to [Alcohol Detection Devices](/alcohol-detection/)
+- Link to [Handheld Face Recognition Terminals](/handheld-face-recognition/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

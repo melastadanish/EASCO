@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at schools and campus
 
 **H2: EASCO Products Used in Campus Deployments**
 
-**[Tripod Turnstiles](/products/tripod-turnstiles/)**: compact, lower-cost gates for multiple campus entrances.
-**[Face Recognition Terminals](/products/face-recognition/)**: attendance that can't be shared or handed to a friend.
-**[Visitor Registration Machines](/products/visitor-registration/)**: parent and visitor self check-in.
+**[Tripod Turnstiles](/tripod-turnstiles/)**: compact, lower-cost gates for multiple campus entrances.
+**[Face Recognition Terminals](/face-recognition/)**: attendance that can't be shared or handed to a friend.
+**[Visitor Registration Machines](/visitor-registration/)**: parent and visitor self check-in.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,8 +140,8 @@ Every campus has a different entrance count and budget. Send the number of entra
 ## Internal Links Required
 
 - Link to [Smart Campus solution page](/solutions/smart-campus/)
-- Link to [Tripod Turnstiles](/products/tripod-turnstiles/)
-- Link to [Face Recognition Terminals](/products/face-recognition/)
+- Link to [Tripod Turnstiles](/tripod-turnstiles/)
+- Link to [Face Recognition Terminals](/face-recognition/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

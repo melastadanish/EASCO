@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at commercial and ret
 
 **H2: EASCO Products Used in Retail Deployments**
 
-**[Flap Barrier / Speed Gates](/products/speed-gates/)**: customizable, professional-looking staff and service entrances.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: parking access with a driver-facing display.
-**[Face Recognition Terminals](/products/face-recognition/)**: back-of-house staff access control.
+**[Flap Barrier / Speed Gates](/speed-gates/)**: customizable, professional-looking staff and service entrances.
+**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: parking access with a driver-facing display.
+**[Face Recognition Terminals](/face-recognition/)**: back-of-house staff access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,8 +140,8 @@ Every retail facility has different tenant, traffic, and parking requirements. S
 ## Internal Links Required
 
 - Link to [Commercial Buildings solution page](/solutions/commercial-buildings/), closest match, no dedicated mall solution page exists
-- Link to [ANPR Systems](/products/anpr-systems/)
-- Link to [Speed Gates](/products/speed-gates/)
+- Link to [ANPR Systems](/anpr-systems/)
+- Link to [Speed Gates](/speed-gates/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

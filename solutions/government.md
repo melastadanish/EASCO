@@ -59,13 +59,13 @@ A government facility's restricted zones can't tolerate the false acceptance rat
 
 **H2: The Product Combination Built for Tiered Security**
 
-#### [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
+#### [Palm Vein + Iris Recognition](/palm-vein-iris/)
 **Why it fits:** The MTH8's 1-in-10,000,000 misrecognition rate suits the most restricted zones, where a standard biometric's false acceptance rate isn't low enough.
 
-#### [Cylindrical Turnstiles](/products/cylindrical-turnstiles/)
+#### [Cylindrical Turnstiles](/cylindrical-turnstiles/)
 **Why it fits:** 45 persons/min throughput handles general staff and public-facing entrances without over-specifying every access point to the highest security tier.
 
-#### [Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)
+#### [Number Plate Recognition (ANPR) Systems](/anpr-systems/)
 **Why it fits:** Unencrypted, platform-agnostic hardware controls vehicle access to secure parking without forcing a proprietary system replacement.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each product links to its category page)
@@ -160,13 +160,12 @@ Every government facility has different security tiers and procurement requireme
 ## SECTION 10: Related Products & Resources
 
 **Related Products:**
-- [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
-- [Cylindrical Turnstiles](/products/cylindrical-turnstiles/)
-- [Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)
-- [Face Recognition Terminals](/products/face-recognition/)
+- [Palm Vein + Iris Recognition](/palm-vein-iris/)
+- [Cylindrical Turnstiles](/cylindrical-turnstiles/)
+- [Number Plate Recognition (ANPR) Systems](/anpr-systems/)
+- [Face Recognition Terminals](/face-recognition/)
 
 **Related Resources:**
-- [Products Hub](/products/)
 - [Solutions Hub](/solutions/)
 - [Why Us](/why-us/)
 - [Contact](/contact/)

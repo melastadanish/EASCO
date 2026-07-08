@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at transportation and
 
 **H2: EASCO Products Used in Airport-Adjacent Deployments**
 
-**[Palm Vein + Iris Recognition](/products/palm-vein-iris/)**: the highest-security biometric tier for restricted airside zones.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: continuous-duty vehicle access control.
-**[Flap Barrier / Speed Gates](/products/speed-gates/)**: high-throughput passenger and staff gates.
+**[Palm Vein + Iris Recognition](/palm-vein-iris/)**: the highest-security biometric tier for restricted airside zones.
+**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: continuous-duty vehicle access control.
+**[Flap Barrier / Speed Gates](/speed-gates/)**: high-throughput passenger and staff gates.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,8 +140,8 @@ Every airport project has different security tiers and vehicle access requiremen
 ## Internal Links Required
 
 - Link to [Transportation Hubs solution page](/solutions/transportation/)
-- Link to [Palm Vein + Iris Recognition](/products/palm-vein-iris/)
-- Link to [ANPR Systems](/products/anpr-systems/)
+- Link to [Palm Vein + Iris Recognition](/palm-vein-iris/)
+- Link to [ANPR Systems](/anpr-systems/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

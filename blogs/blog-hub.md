@@ -81,7 +81,7 @@ A: Check back periodically for new articles as they're published. [Contact EASCO
 A: Yes. Send the topic or question via WhatsApp or email, and it may be considered for a future article.
 
 **Q: Where do I go if I already know what product I need?**
-A: Skip to the [Products Hub](/products/) for full specifications, or [Solutions by Industry](/solutions/) for a recommended combination by facility type.
+A: Skip to the relevant product category in the Products menu for full specifications, or [Solutions by Industry](/solutions/) for a recommended combination by facility type.
 
 **Q: Do these articles cover competitor products fairly?**
 A: Where competitors are discussed (see the [Alternatives section](/alternatives/easco-vs-zkteco/)), only publicly verified specifications are used, with sources noted.

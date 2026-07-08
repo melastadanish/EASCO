@@ -79,9 +79,9 @@ Security tier outranks convenience. Iris recognition's 1-in-10,000,000 misrecogn
 
 **H2: The Same 10 Categories, Combined Differently Per Sector**
 
-A solution isn't a new product line. It's a combination of EASCO's existing turnstile, biometric, and vehicle access categories, matched to a sector's actual risk and traffic profile. A commercial lobby and a government building might both use face recognition. The government site just adds iris recognition for restricted zones the office building doesn't have. [Browse all 10 product categories](/products/) directly if the right combination is already clear.
+A solution isn't a new product line. It's a combination of EASCO's existing turnstile, biometric, and vehicle access categories, matched to a sector's actual risk and traffic profile. A commercial lobby and a government building might both use face recognition. The government site just adds iris recognition for restricted zones the office building doesn't have. Browse [Speed Gates](/speed-gates/), [Face Recognition Terminals](/face-recognition/), or any category in the Products menu directly if the right combination is already clear.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (link to Products Hub)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 

@@ -59,13 +59,13 @@ An airport, metro station, or bus terminal moves more people through fewer gates
 
 **H2: The Product Combination Built for Continuous High Traffic**
 
-#### [Flap Barrier / Speed Gates](/products/speed-gates/)
+#### [Flap Barrier / Speed Gates](/speed-gates/)
 **Why it fits:** The JX flagship processes 50 people per minute with a motor rated for over 30 million cycles. Built for a gate that runs all day, every day.
 
-#### [Cylindrical Turnstiles](/products/cylindrical-turnstiles/)
+#### [Cylindrical Turnstiles](/cylindrical-turnstiles/)
 **Why it fits:** A compact footprint fits a retrofit into an existing station without losing the 45-person-per-minute throughput a busy platform needs.
 
-#### [Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)
+#### [Number Plate Recognition (ANPR) Systems](/anpr-systems/)
 **Why it fits:** A 30,000-hour MTBF rating and IP65 housing handle continuous outdoor operation at a drop-off zone or staff parking entrance.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each product links to its category page)
@@ -160,13 +160,12 @@ Every transit site has different peak-hour volume and vehicle access requirement
 ## SECTION 10: Related Products & Resources
 
 **Related Products:**
-- [Flap Barrier / Speed Gates](/products/speed-gates/)
-- [Cylindrical Turnstiles](/products/cylindrical-turnstiles/)
-- [Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)
-- [Android Turnstiles](/products/android-turnstiles/)
+- [Flap Barrier / Speed Gates](/speed-gates/)
+- [Cylindrical Turnstiles](/cylindrical-turnstiles/)
+- [Number Plate Recognition (ANPR) Systems](/anpr-systems/)
+- [Android Turnstiles](/android-turnstiles/)
 
 **Related Resources:**
-- [Products Hub](/products/)
 - [Solutions Hub](/solutions/)
 - [Why Us](/why-us/)
 - [Contact](/contact/)

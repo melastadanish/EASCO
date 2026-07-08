@@ -80,7 +80,7 @@ The quality tier matters enormously here. A basic system might only check for bl
 | Bank, data center, or high-security zone | Financial-grade liveness detection | Highest resistance to photo, video, and mask spoofing |
 | Any entrance handling financial transactions | Financial-grade liveness detection | Matches the stakes of a financial-sector security standard |
 
-**Soft CTA:** Compare EASCO's face recognition terminal range, [Products Hub](/products/)
+**Soft CTA:** Compare EASCO's face recognition terminal range, [Face Recognition Terminals](/face-recognition/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
@@ -128,7 +128,7 @@ A: No. Confirm specifically whether liveness detection is included and at what q
 Security tier and spoofing risk should decide the liveness detection quality needed, not just cost. Compare EASCO's face recognition terminal range before deciding.
 
 > **See the full EASCO face recognition terminal range, specifications, comparisons, and pricing.**
-> [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
+> [Face Recognition Terminals](/face-recognition/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
 
@@ -136,8 +136,8 @@ Security tier and spoofing risk should decide the liveness detection quality nee
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), mandatory, primary purpose of this article
-- Link to [Face Recognition Terminals](/products/face-recognition/)
+- Link to [Face Recognition Terminals](/face-recognition/), mandatory, primary purpose of this article
+- Link to [Face Recognition Terminals](/face-recognition/)
 
 ---
 

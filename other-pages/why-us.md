@@ -146,7 +146,7 @@ CE mark issued by Shenzhen BKC Testing Co., Ltd., certificate BKC25104386KC cove
 
 **H2:** Custom Housing, Custom Firmware, Custom Branding. Prototype in 30–45 Days.
 
-Your brand. Our factory. Custom product development available for orders above minimum volume. Housing dimensions, material finish, display size, button layout, firmware interface, and branding customizable. Prototype delivered in 30–45 days, faster than most China-based OEM suppliers.
+Your brand. EASCO's factory. Custom product development available for orders above minimum volume. Housing dimensions, material finish, display size, button layout, firmware interface, and branding customizable. Prototype delivered in 30–45 days, faster than most China-based OEM suppliers.
 
 ### Custom Projects Built by EASCO
 
@@ -266,10 +266,9 @@ Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Stree
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), "complete access control system"
-- Link to [Face Recognition](/products/face-recognition/), "face recognition systems"
-- Link to [Speed Gates](/products/speed-gates/), "turnstile gates"
-- Link to [ANPR Systems](/products/anpr-systems/), "vehicle access control"
+- Link to [Face Recognition](/face-recognition/), "face recognition systems"
+- Link to [Speed Gates](/speed-gates/), "turnstile gates"
+- Link to [ANPR Systems](/anpr-systems/), "vehicle access control"
 - Link to [OEM/ODM page](/oem-odm/), "custom product development"
 - Link to [Factory page](/factory/), "factory audit"
 - Link to [Certifications page](/certifications/), "certificate scans"

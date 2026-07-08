@@ -80,7 +80,7 @@ Attendance accuracy carries more weight on a construction site than in most offi
 | Sober-only policy required | Combined alcohol + face recognition terminal | Ties identity and sobriety check to one motion at the door |
 | Mixed workforce with contractors | Face recognition with high enrollment capacity | Avoids re-enrolling short-term contractors repeatedly |
 
-**Soft CTA:** See EASCO's attendance and alcohol detection hardware, [Products Hub](/products/)
+**Soft CTA:** See EASCO's attendance and alcohol detection hardware, [Alcohol Detection Devices](/alcohol-detection/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
@@ -128,7 +128,7 @@ A: A worker scans their face and breathes into the sensor in one motion. Clock-i
 Site layout, network access, and any sober-only policy requirements narrow the hardware choice fast. Compare EASCO's attendance and alcohol detection range before deciding.
 
 > **See the full EASCO attendance and alcohol detection range, specifications, comparisons, and pricing.**
-> [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
+> [Alcohol Detection Devices](/alcohol-detection/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
 
@@ -136,9 +136,9 @@ Site layout, network access, and any sober-only policy requirements narrow the h
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/), mandatory, primary purpose of this article
-- Link to [Alcohol Detection Devices](/products/alcohol-detection/)
-- Link to [Handheld Face Recognition Terminals](/products/handheld-face-recognition/)
+- Link to [Alcohol Detection Devices](/alcohol-detection/), mandatory, primary purpose of this article
+- Link to [Alcohol Detection Devices](/alcohol-detection/)
+- Link to [Handheld Face Recognition Terminals](/handheld-face-recognition/)
 
 ---
 

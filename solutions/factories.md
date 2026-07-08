@@ -58,13 +58,13 @@ A factory floor needs attendance accuracy, safety compliance, and site-wide acce
 
 **H2: The Product Combination Built for Industrial Sites**
 
-#### [Alcohol Detection Devices](/products/alcohol-detection/)
+#### [Alcohol Detection Devices](/alcohol-detection/)
 **Why it fits:** The ESFAT combines a breath test with face recognition. A worker can't clock in without passing both checks in the same motion at the door.
 
-#### [Handheld Face Recognition Terminals](/products/handheld-face-recognition/)
+#### [Handheld Face Recognition Terminals](/handheld-face-recognition/)
 **Why it fits:** IP67-rated and battery-powered, the handheld terminal brings attendance to a warehouse aisle or loading dock instead of requiring a walk to a fixed point.
 
-#### [Face Recognition Terminals](/products/face-recognition/)
+#### [Face Recognition Terminals](/face-recognition/)
 **Why it fits:** A fixed IP65-rated terminal at the main gate covers general site attendance without buddy punching on a shared card.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each product links to its category page)
@@ -159,13 +159,12 @@ Every factory or warehouse has a different layout and workforce size. Send the s
 ## SECTION 10: Related Products & Resources
 
 **Related Products:**
-- [Alcohol Detection Devices](/products/alcohol-detection/)
-- [Handheld Face Recognition Terminals](/products/handheld-face-recognition/)
-- [Face Recognition Terminals](/products/face-recognition/)
-- [Visitor Registration Machines](/products/visitor-registration/)
+- [Alcohol Detection Devices](/alcohol-detection/)
+- [Handheld Face Recognition Terminals](/handheld-face-recognition/)
+- [Face Recognition Terminals](/face-recognition/)
+- [Visitor Registration Machines](/visitor-registration/)
 
 **Related Resources:**
-- [Products Hub](/products/)
 - [Solutions Hub](/solutions/)
 - [Why Us](/why-us/)
 - [Contact](/contact/)

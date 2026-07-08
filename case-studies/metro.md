@@ -94,9 +94,9 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 
 **H2: EASCO Products Used in Transit Deployments**
 
-**[Flap Barrier / Speed Gates](/products/speed-gates/)**: 50 persons/min with a 30-million-cycle motor.
-**[Cylindrical Turnstiles](/products/cylindrical-turnstiles/)**: 45 persons/min in a compact retrofit-friendly footprint.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: vehicle access for station parking and drop-off zones.
+**[Flap Barrier / Speed Gates](/speed-gates/)**: 50 persons/min with a 30-million-cycle motor.
+**[Cylindrical Turnstiles](/cylindrical-turnstiles/)**: 45 persons/min in a compact retrofit-friendly footprint.
+**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: vehicle access for station parking and drop-off zones.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,8 +140,8 @@ Every transit site has different peak-hour volume and vehicle access requirement
 ## Internal Links Required
 
 - Link to [Transportation Hubs solution page](/solutions/transportation/)
-- Link to [Speed Gates](/products/speed-gates/)
-- Link to [Cylindrical Turnstiles](/products/cylindrical-turnstiles/)
+- Link to [Speed Gates](/speed-gates/)
+- Link to [Cylindrical Turnstiles](/cylindrical-turnstiles/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---
