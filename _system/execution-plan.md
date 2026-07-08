@@ -101,17 +101,18 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | Factories / Warehouses | solutions/factories.md | ✅ |
 | Government Buildings | solutions/government.md | ✅ |
 
-### **Page 05 — Case Studies** (NEW PAGE — CRITICAL)
+### **Page 05 — Case Studies** (Written per template fallback rule — client confirmed no further data coming)
 | Venue Type | File | Status |
 |---|---|---|
-| Office Buildings | case-studies/office-buildings.md | ⚠️ BLOCKED — needs client photos |
-| Schools / Universities | case-studies/schools.md | ⚠️ BLOCKED — needs client photos |
-| Factories | case-studies/factories.md | ⚠️ BLOCKED — needs client photos |
-| Metro / Transit Systems | case-studies/metro.md | ⚠️ BLOCKED — needs client photos |
-| Airports | case-studies/airports.md | ⚠️ BLOCKED — needs client photos |
-| Hospitals | case-studies/hospitals.md | ⚠️ BLOCKED — needs client photos |
-| Shopping Malls | case-studies/shopping-malls.md | ⚠️ BLOCKED — needs client photos |
-| Government Buildings | case-studies/government.md | ⚠️ BLOCKED — needs client photos |
+| Case Studies Hub | case-studies/case-studies-hub.md | ✅ |
+| Office Buildings | case-studies/office-buildings.md | ✅ (named projects ⚠️ pending) |
+| Schools / Universities | case-studies/schools.md | ✅ (named projects ⚠️ pending) |
+| Factories | case-studies/factories.md | ✅ (named projects ⚠️ pending) |
+| Metro / Transit Systems | case-studies/metro.md | ✅ (named projects ⚠️ pending) |
+| Airports | case-studies/airports.md | ✅ (named projects ⚠️ pending) |
+| Hospitals | case-studies/hospitals.md | ✅ (named projects ⚠️ pending) |
+| Shopping Malls | case-studies/shopping-malls.md | ✅ (named projects ⚠️ pending) |
+| Government Buildings | case-studies/government.md | ✅ (named projects ⚠️ pending) |
 
 ### **Page 06 — Resources / Gallery** (NEW SECTION)
 | Sub-Section | File | Status |
