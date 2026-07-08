@@ -32,9 +32,10 @@
 
 **Total pages: 53**  
 **Complete: 30**  
+**Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 15**  
-**Blocked: 7** (needs client photos/data)
+**Not started: 12**  
+**Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
 
@@ -181,9 +182,9 @@
 | OEM/ODM Services | other-pages/oem-odm.md | ✅ | A:8.7/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — 30-45 day prototype process, milestone payments, O19/O20 covered. |
 | Partners & Distributors | other-pages/partners.md | ✅ | A:8.5/10 B:5fix N:4/4 D:✅ C:✅ | **COMPLETE** — Factory-direct pricing, export documentation, O1/O6/O8 covered. |
 | Trade Shows & Events | other-pages/events.md | ✅ | A:8.0/10 B:4fix N:3/3 D:✅ C:✅ | **COMPLETE** — Only 1 exhibition confirmed (2025 Shenzhen). 2023-2024 history + photos ⚠️ pending client. |
-| Privacy Policy | other-pages/privacy-policy.md | 🔲 | — | Legal required |
-| Terms of Service | other-pages/terms.md | 🔲 | — | Legal required |
-| Cookie Policy | other-pages/cookies.md | 🔲 | — | Legal required |
+| Privacy Policy | other-pages/privacy-policy.md | ⚠️ | — | **DRAFT** — standard boilerplate written, requires legal counsel review before publishing |
+| Terms of Service | other-pages/terms.md | ⚠️ | — | **DRAFT** — standard boilerplate written, Limitation of Liability + Governing Law need legal counsel input |
+| Cookie Policy | other-pages/cookies.md | ⚠️ | — | **DRAFT** — needs confirmation of actual tracking tech used on live site + legal counsel review |
 
 ---
 
