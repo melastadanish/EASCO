@@ -31,10 +31,10 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 36**  
+**Complete: 37**  
 **Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 6**  
+**Not started: 5**  
 **Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
@@ -200,7 +200,7 @@
 | MOFU | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | ✅ | A:8.4/10 — **COMPLETE**. Note: L8 face+fingerprint combo terminal exists but isn't yet reflected in the Face Recognition or Palm Vein+Iris category pages — flagged as a follow-up gap. |
 | BOFU | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | ✅ | A:8.6/10 — **COMPLETE** |
 | BOFU | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | ✅ | A:8.5/10 — **COMPLETE** |
-| TOFU | How Does ANPR Work? | blogs/how-does-anpr-work.md | 🔲 | Awareness stage |
+| TOFU | How Does ANPR Work? | blogs/how-does-anpr-work.md | ✅ | A:8.6/10 — **COMPLETE** |
 | TOFU | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | 🔲 | Awareness — AI citation target |
 
 ---
