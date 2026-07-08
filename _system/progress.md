@@ -31,10 +31,10 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 30**  
+**Complete: 31**  
 **Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 12**  
+**Not started: 11**  
 **Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
@@ -190,15 +190,17 @@
 
 ## Phase 3 — Blog Content (TOFU/MOFU/BOFU)
 
+> **Note (2026-07-08):** This table previously referenced filenames from before the repo reorganization. Updated below to match the actual files in `blogs/`.
+
 | Category | Page | File | Status | Notes |
 |---|---|---|---|---|
-| TOFU | What is a Flap Barrier Turnstile? | blogs/what-is-flap-barrier.md | 🔲 | Awareness stage |
-| TOFU | How Does Face Recognition Work? | blogs/how-face-recognition-works.md | 🔲 | Awareness stage |
-| MOFU | Flap Barrier vs Speed Gate | blogs/flap-barrier-vs-speed-gate.md | 🔲 | Consideration stage |
-| MOFU | Best Face Recognition Terminals 2025 | blogs/best-face-recognition-2025.md | 🔲 | Consideration stage |
-| BOFU | EASCO Turnstile Manufacturer — Why Choose Us | blogs/why-choose-easco.md | 🔲 | Decision stage |
-| BOFU | OEM Biometric Device Supplier Guide | blogs/oem-biometric-supplier.md | 🔲 | Decision stage |
-| TOFU | How Does ANPR Work? | blogs/how-anpr-works.md | 🔲 | Awareness stage |
+| TOFU | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | ✅ | A:8.6/10 — **COMPLETE** |
+| TOFU | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | 🔲 | Awareness stage |
+| MOFU | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | 🔲 | Consideration stage |
+| MOFU | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | 🔲 | Consideration stage |
+| BOFU | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | 🔲 | Decision stage — D11 alcohol detection angle |
+| BOFU | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | 🔲 | Decision stage |
+| TOFU | How Does ANPR Work? | blogs/how-does-anpr-work.md | 🔲 | Awareness stage |
 | TOFU | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | 🔲 | Awareness — AI citation target |
 
 ---

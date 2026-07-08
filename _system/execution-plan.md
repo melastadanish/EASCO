@@ -174,15 +174,17 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 
 ## Phase 3 — Blog Content (TOFU/MOFU/BOFU)
 
+> **Note (2026-07-08):** Filenames corrected to match the actual reorganized `blogs/` folder.
+
 | # | Task | File | Category | Status |
 |---|---|---|---|---|
-| 3.1 | What is a Flap Barrier Turnstile? | blogs/what-is-flap-barrier.md | TOFU | 🔲 |
-| 3.2 | How Does Face Recognition Work? | blogs/how-face-recognition-works.md | TOFU | 🔲 |
-| 3.3 | Flap Barrier vs Speed Gate | blogs/flap-barrier-vs-speed-gate.md | MOFU | 🔲 |
-| 3.4 | Best Face Recognition Terminals 2025 | blogs/best-face-recognition-2025.md | MOFU | 🔲 |
-| 3.5 | EASCO Turnstile Manufacturer — Why Choose Us | blogs/why-choose-easco.md | BOFU | 🔲 |
-| 3.6 | OEM Biometric Device Supplier Guide | blogs/oem-biometric-supplier.md | BOFU | 🔲 |
-| 3.7 | How Does ANPR Work? | blogs/how-anpr-works.md | TOFU | 🔲 |
+| 3.1 | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | TOFU | ✅ |
+| 3.2 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | TOFU | 🔲 |
+| 3.3 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | MOFU | 🔲 |
+| 3.4 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | MOFU | 🔲 |
+| 3.5 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | BOFU | 🔲 |
+| 3.6 | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | BOFU | 🔲 |
+| 3.7 | How Does ANPR Work? | blogs/how-does-anpr-work.md | TOFU | 🔲 |
 | 3.8 | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | TOFU | 🔲 |
 
 ---
