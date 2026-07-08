@@ -179,7 +179,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | # | Task | File | Category | Status |
 |---|---|---|---|---|
 | 3.1 | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | TOFU | ✅ |
-| 3.2 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | TOFU | 🔲 |
+| 3.2 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | TOFU | ✅ |
 | 3.3 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | MOFU | 🔲 |
 | 3.4 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | MOFU | 🔲 |
 | 3.5 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | BOFU | 🔲 |
