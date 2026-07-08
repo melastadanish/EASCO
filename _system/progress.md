@@ -31,10 +31,10 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 33**  
+**Complete: 34**  
 **Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 9**  
+**Not started: 8**  
 **Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
@@ -197,7 +197,7 @@
 | TOFU | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | ✅ | A:8.6/10 — **COMPLETE** |
 | TOFU | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | ✅ | A:8.5/10 — **COMPLETE** |
 | MOFU | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | ✅ | A:8.5/10 — **COMPLETE** |
-| MOFU | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | 🔲 | Consideration stage |
+| MOFU | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | ✅ | A:8.4/10 — **COMPLETE**. Note: L8 face+fingerprint combo terminal exists but isn't yet reflected in the Face Recognition or Palm Vein+Iris category pages — flagged as a follow-up gap. |
 | BOFU | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | 🔲 | Decision stage — D11 alcohol detection angle |
 | BOFU | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | 🔲 | Decision stage |
 | TOFU | How Does ANPR Work? | blogs/how-does-anpr-work.md | 🔲 | Awareness stage |
