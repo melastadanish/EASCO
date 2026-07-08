@@ -31,10 +31,10 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 38**  
+**Complete: 39**  
 **Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 4** (4 Alternatives pages remain)  
+**Not started: 3** (3 Alternatives pages remain)  
 **Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
@@ -209,7 +209,7 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | 🔲 | — | High-intent commercial page |
+| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ | A:8.2/10 B:6fix N:5/5 D:✅ C:✅ | **COMPLETE** — Rewritten conservatively after live verification found ZKTeco has palm vein + real OEM/ODM (see _system/competitors.md correction log). Original planned claims were factually wrong. |
 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | 🔲 | — | High-intent commercial page |
 | ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 | — | Verify competitor specs first |
 | Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 | — | Verify competitor specs first |

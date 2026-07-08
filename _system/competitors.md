@@ -2,27 +2,34 @@
 
 > Competitive positioning reference. Use in Pass C Test 5 (Differentiation test).
 > Use verified specs only. Do not invent competitor claims.
-> Last Updated: 2026-06-10
+> Last Updated: 2026-07-08 — CORRECTED after live verification (see below). Previous version (2026-06-10) contained factual errors.
 
 ---
 
-## Competitor Matrix
+> ## ⚠️ CORRECTION LOG (2026-07-08)
+>
+> Live web verification found the pre-2026-07-08 matrix below was **factually wrong** on two points:
+> - **ZKTeco does sell palm vein products** — PV10M/PV10R palm vein modules and the PA10 hybrid palm+fingerprint terminal. The old "Palm vein: ❌" claim for ZKTeco was false.
+> - **ZKTeco has an extensive OEM/ODM division** (25+ years, 1,500+ employees, full hardware/firmware/software customization). The old "OEM/ODM: Limited" claim was false.
+> - **Hikvision lists iris as an authentication method** on at least one terminal (DS-K1T671M). The old "Iris: ❌" claim for Hikvision was false.
+> - **Hikvision is one of the industry's largest OEM/white-label suppliers.** The old "OEM/ODM: ❌" claim was false.
+>
+> Do not use the old claims in any published copy. The matrix below reflects only what was verified.
 
-| Factor | EASCO | ZKTeco | Hikvision | Suprema | Generic Alibaba |
-|---|---|---|---|---|---|
-| Biometric range | Face + Palm + Iris | Face + Fingerprint | Face only (access) | Face + Fingerprint | Face only |
-| Iris recognition | ✅ (1-in-10M FAR) | Limited | ❌ | Limited | ❌ |
-| Palm vein | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Factory direct | ✅ | ✅ | ✅ | ✅ | ❌ (often traders) |
-| OEM / ODM | ✅ Full | Limited | ❌ | ❌ | Sometimes |
-| Airport solutions | ✅ (kiosk + FIDS) | ❌ | ❌ | ❌ | ❌ |
-| Android-based gate | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Alcohol + attendance | ✅ | ❌ | ❌ | ❌ | Rare |
-| Liveness detection | Financial-grade | Consumer-grade | Consumer-grade | Commercial | Unknown |
-| Years manufacturing | 20 | 25+ | 30+ | 20+ | Unknown |
-| Shenzhen supply chain | ✅ | Dongguan | Hangzhou | South Korea | Various |
+## Competitor Matrix (Verified 2026-07-08)
 
-> ⚠️ Competitor data is indicative based on public product listings. Verify before using in comparison copy.
+| Factor | EASCO | ZKTeco | Hikvision | Notes |
+|---|---|---|---|---|
+| Biometric range | Face + Palm Vein + Iris | Face + Fingerprint + Palm Vein | Face + Fingerprint (+ iris on select terminals) | ZKTeco and Hikvision both have broader biometric range than previously assumed — do not claim they lack palm vein/iris |
+| Face recognition FAR | ⚠️ Not separately published by EASCO (accuracy stated as 99.98%) | ≤0.01% (visible light) | ⚠️ Not found in this research pass | |
+| Fingerprint FAR | N/A — EASCO doesn't manufacture standalone fingerprint (L8 combo terminal only) | ≤0.0001% | ≤0.001% (DS-K1T804BMF) | |
+| Iris FAR | 1-in-10,000,000 (0.00001%) | ⚠️ Not found in this research pass | ⚠️ Not found in this research pass | EASCO's number is a genuine, specific, publicly-stated figure — safe to state on its own |
+| OEM / ODM | ✅ 30-45 day prototype | ✅ Established, dedicated division | ✅ Large-scale white-label supplier | Both competitors have real OEM/ODM programs — do not claim EASCO is unique here |
+| Factory direct | ✅ Shenzhen | ✅ (Dongguan, per prior research — unverified this pass) | ✅ (Hangzhou, per prior research — unverified this pass) | |
+| Alcohol + attendance combined | ✅ (ESFAT) | ⚠️ Not found in this research pass | ⚠️ Not found in this research pass | Not disproven — reasonable to describe as uncommon, avoid claiming "unique" without broader search |
+| Android-based turnstile gate | ✅ | ⚠️ Not found in this research pass | ⚠️ Not found in this research pass | Not disproven — same caution as above |
+
+> ⚠️ This pass verified specific claims via live web search on 2026-07-08. It is not exhaustive — absence of a finding means "not found in this research," not "confirmed absent." Do not state a competitor "doesn't have" something unless independently verified, per the correction above.
 
 ---
 
@@ -34,33 +41,31 @@
 
 **URL:** zkteco.com
 **Position:** Global access control and time attendance market leader. Largest volume player.
-**Products:** Fingerprint + face readers, time attendance terminals, turnstile gates, parking systems.
-**Weakness vs EASCO:**
-- No palm vein. No iris recognition.
-- OEM/ODM not a core offering — positioned as brand-first.
-- No airport/kiosk solutions.
-- Android integrated gate: not offered.
-- Liveness detection: consumer-grade (anti-photo only), not financial-grade multi-modal.
+**Products:** Fingerprint + face + palm vein readers (PV10M/PV10R modules, PA10 hybrid terminal), time attendance terminals, turnstile gates, parking systems.
+**⚠️ CORRECTED 2026-07-08 — DO NOT use the old bullet list below this line in any published copy. It was factually wrong: ZKTeco does sell palm vein hardware and does have an established OEM/ODM division.**
+**What's still a genuine, verified EASCO angle:**
+- EASCO's iris FAR (1-in-10,000,000 / 0.00001%) is a specific, publicly-stated figure — no equivalent ZKTeco iris FAR was found in this research pass.
+- EASCO combines turnstile manufacturing, biometric terminals, and vehicle recognition (ANPR) from one factory — verify this specific combination isn't also true of ZKTeco before claiming it as unique.
+- Airport kiosk / FIDS solutions — not found in ZKTeco's product range during this research pass (absence of finding, not confirmed absence).
 
-**How to position against ZKTeco:**
-> "ZKTeco leads on volume. EASCO leads on biometric range. For environments where face recognition alone isn't enough — high-security zones, contactless requirements, or privacy-sensitive spaces — EASCO manufactures palm vein and iris systems that ZKTeco doesn't offer."
+**How to position against ZKTeco (revised, conservative):**
+> "ZKTeco is a large, established manufacturer with real OEM/ODM and palm vein capability — don't claim otherwise. EASCO's specific edge is a publicly documented 1-in-10,000,000 iris FAR and a combined turnstile + biometric + vehicle recognition range from one Shenzhen factory."
 
 ---
 
 ### Hikvision Access Control
 
 **URL:** hikvision.com/en/products/Access-Control-Products/
-**Position:** Camera-first brand that extended into access control. Massive global distribution.
-**Products:** Face recognition terminals, card readers, flap barriers. Core business is CCTV.
-**Weakness vs EASCO:**
-- Access control is a secondary product line — not a specialist manufacturer.
-- No OEM/ODM for access hardware.
-- No palm vein, no iris.
-- No airport / transit solutions.
-- Geopolitical procurement risk in some markets (US, Australia, UK government restrictions on Hikvision products).
+**Position:** Camera-first brand that extended into access control. Massive global distribution, and one of the industry's largest OEM/white-label suppliers.
+**Products:** Face recognition terminals (MinMoe series — Value/Pro/Ultra), fingerprint terminals, card readers, flap barriers. Some terminals support iris as an auth method (e.g. DS-K1T671M).
+**⚠️ CORRECTED 2026-07-08 — DO NOT use the old bullet list below this line in any published copy. It was factually wrong: Hikvision does offer OEM/white-label at scale and does list iris as an authentication method on select terminals.**
+**What's still a genuine, verified EASCO angle:**
+- EASCO's iris FAR (1-in-10,000,000) is more specific than anything found for Hikvision's iris-capable terminals in this research pass.
+- EASCO is a specialist access control manufacturer, not a camera company that added access control — a genuine positioning difference, though not a capability gap.
+- Geopolitical procurement restrictions on Hikvision products exist in some markets (US, Australia, UK government) — this is publicly documented and safe to reference generally, though specific current restrictions should be verified per market before citing in copy.
 
-**How to position against Hikvision:**
-> "Hikvision's access control range is an extension of their camera business. EASCO is a specialist access control manufacturer — face, palm vein and iris under one roof, with OEM/ODM capability and airport-grade custom solutions that Hikvision doesn't build."
+**How to position against Hikvision (revised, conservative):**
+> "Hikvision brings camera-industry scale to access control, including real OEM capability and iris-capable terminals — don't claim they lack these. EASCO's specific edge is a specialist focus on access control hardware and a publicly documented 1-in-10,000,000 iris FAR."
 
 ---
 
