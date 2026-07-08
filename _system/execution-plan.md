@@ -119,7 +119,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 |---|---|---|
 | Resources Hub | other-pages/resources.md | ✅ |
 | FAQ (upgraded — 16 existing + 5 new technical) | other-pages/faq.md | ✅ |
-| Photo Gallery | other-pages/gallery.md | ⚠️ NEEDS PHOTOS |
+| Photo Gallery | other-pages/gallery.md | ✅ (text complete, found missing in 2026-07-08 re-audit — photos still ⚠️ pending) |
 | Downloads Center | other-pages/downloads.md | ✅ |
 
 **New FAQs to Add:**
@@ -131,14 +131,15 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 - What is the anti-spoofing / liveness detection capability?
 
 ### **Page 07 — Blog** (FIX + IMPROVE)
-| Task | Status |
-|---|---|
-| Fix all '网站' title tags | 🔲 CRITICAL |
-| Add meta descriptions | 🔲 |
-| Add category system (TOFU/MOFU/BOFU) | 🔲 |
-| Add internal linking to product/solution pages | 🔲 |
-| Add related posts suggestions | 🔲 |
-| Add author bio | 🔲 |
+| Task | File | Status |
+|---|---|---|
+| Blog Hub (landing page) | blogs/blog-hub.md | ✅ (found missing in 2026-07-08 re-audit, now written) |
+| Fix all '网站' title tags | — | ✅ N/A — all new content written with proper English titles from the start |
+| Add meta descriptions | — | ✅ present on all 8 posts + hub |
+| Add category system (TOFU/MOFU/BOFU) | — | ✅ hub organizes by funnel stage |
+| Add internal linking to product/solution pages | — | ✅ each post links out per blog-template.md rules |
+| Add related posts suggestions | — | ⚠️ not implemented as a dedicated section — dev/build task, not a copy gap |
+| Add author bio | — | ⚠️ no author name/bio supplied by client |
 
 ### **Page 08 — Contact** (REDESIGN LAYOUT)
 | Section | Requirements | Status |

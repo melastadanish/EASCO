@@ -30,14 +30,16 @@
 - **Blog:** 8 posts
 - **Alternatives:** 4 pages
 
-**Total pages: 53**  
-**Complete: 51** (42 previous + 9 case study pages, written per template's honest fallback rule — requirements/products/FAQ/CTA complete, named-project sections marked pending)  
-**Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — Cookie Policy also needs tracking-tech confirmation)  
+> **Note (2026-07-08, full re-audit):** The "53" figure below is the original plan's bucket count (9+6+8+10+8+8+4), which undercounts by 3 — FAQ, Photo Gallery, and Downloads Center are each distinct files nested under the single "Resources Hub" line in the 9-Core-Pages bucket, not separately tallied in that arithmetic. **Actual total distinct content files: 56.** A full re-audit (line-count check on every file + cross-reference of every row in this tracker against the actual filesystem) found and fixed 2 pages that were completely missed in earlier passes: **Blog Hub** (blogs/blog-hub.md — the /blog/ landing page, distinct from the 8 individual posts) and **Photo Gallery** (other-pages/gallery.md — never existed as a file at all, despite being marked "blocked" rather than "not started"). Both are now written and complete.
+
+**Total distinct files: 56**  
+**Complete: 53** (all core pages, 10 product categories, 6 solutions, 9 case studies, 8 blog posts + hub, 4 alternatives, 5 of 8 supporting pages)  
+**Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — these are the only 3 files not counted as "Complete" above; they have full boilerplate text but require a qualified lawyer's sign-off before publishing, which is not something more writing can substitute for)  
 **In progress: 0**  
 **Not started: 0**  
 **Blocked: 0** (client confirmed no further data will be supplied — see note above)
 
-**ALL 53 PAGES NOW HAVE WRITTEN CONTENT.** Remaining gaps are asset/sign-off items, not missing writing: (1) Case study pages need specific project names/photos/results if the client ever supplies them — the pages work fine without this, just without named social proof; (2) 3 legal pages need qualified counsel review before publishing — this is a legal requirement, not a content gap, and cannot be substituted by more writing; (3) scattered ⚠️-flagged items (cert scan images, factory/exhibition photos, a few per-model specs, visitor-registration software question) remain physically un-produced (photos not taken, scans not uploaded) — flagged per-page, not blocking publication of the surrounding text.
+**ALL 56 FILES NOW HAVE WRITTEN CONTENT — 53 fully complete, 3 legal drafts awaiting counsel review.** Remaining gaps are asset/sign-off items, not missing writing: (1) Case study pages need specific project names/photos/results if the client ever supplies them — confirmed via independent research that this data doesn't currently exist anywhere, including on EASCO's own prior website; (2) 3 legal pages need qualified counsel review before publishing; (3) scattered ⚠️-flagged items (cert scan images, factory/exhibition photos, product photos, a few per-model specs, visitor-registration software question) remain physically un-produced (photos not taken, scans not uploaded) — flagged per-page, not blocking publication of the surrounding text.
 
 **Last Updated: 2026-07-08**
 
@@ -137,9 +139,9 @@
 
 | Resource | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Resources Hub | other-pages/resources.md | ✅ | A:8.7/10 B:5fix N:6/6 D:✅ C:✅ | **COMPLETE** — Links to FAQ, Gallery (marked in-development), and Downloads. |
+| Resources Hub | other-pages/resources.md | ✅ | A:8.7/10 B:5fix N:6/6 D:✅ C:✅ | **COMPLETE** — Links to FAQ, Gallery, and Downloads. |
 | FAQ (upgraded) | other-pages/faq.md | ✅ | A:10.0/10 B:0fix N:20/20 D:✅ C:✅ | **COMPLETE** — 47 Q&As cover ALL 20 objections. AI-score 3%. 7 categories. |
-| Photo Gallery | other-pages/gallery.md | ⚠️ | — | **BLOCKED** — needs product + installation photos |
+| Photo Gallery | other-pages/gallery.md | ✅ | A:8.2/10 B:4fix N:4/4 D:✅ C:✅ | **COMPLETE (text)** — Found missing during full re-audit 2026-07-08; was never given the "text-complete, assets-pending" treatment applied elsewhere. Gallery categories structured; actual photos ⚠️ pending upload (none invented/stock-substituted). |
 | Downloads Center | other-pages/downloads.md | ✅ | A:8.4/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Spec sheet/SDK/certification categories structured; actual PDF files ⚠️ pending upload. |
 
 **New FAQs to Add:**
@@ -154,14 +156,14 @@
 
 | Page | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Blog Hub | blogs/blog-hub.md | 🔲 | — | **CRITICAL FIX** — All '网站' titles must be fixed immediately |
+| Blog Hub | blogs/blog-hub.md | ✅ | A:8.5/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Found missing during full re-audit 2026-07-08 (the 8 individual posts were done, but this landing/index page at /blog/ had been overlooked entirely). Links to all 8 posts, organized by funnel stage. |
 
-**Critical Issues to Fix:**
-- 🔴 Blog + FAQ titles showing '网站' (Chinese) — MUST be fixed
-- 🔴 No meta descriptions on blog posts
-- 🔴 No category system
-- 🔴 No internal linking to product pages
-- 🔴 No related posts suggestions
+**Critical Issues — Status:**
+- ✅ Blog + FAQ titles showing '网站' (Chinese) — N/A. All 8 posts and the hub were written fresh with proper English titles from the start; this legacy bug from the old live site never carried over into any new content.
+- ✅ Meta descriptions — present on all 8 posts + hub (see each file's Page Metadata block)
+- ✅ Category system — hub organizes posts by funnel stage (awareness / comparing / ready to specify)
+- ✅ Internal linking to product pages — each post links to 1-2 relevant category pages per blog-template.md rules
+- ⚠️ Related posts suggestions — not implemented as a dedicated section; would need to be added at dev/build stage, not a copy gap
 
 ### Page 08 — Contact (REDESIGN LAYOUT)
 
