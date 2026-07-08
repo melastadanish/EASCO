@@ -122,7 +122,7 @@
 | Solutions — Factories | Facility Manager (S1) | — |
 | Solutions — Government | Airport/Transit (S5) | Facility Manager (S1) |
 | Case Studies (all) | All segments | — |
-| Resources / FAQ | All segments | — |
+| FAQ / Gallery / Downloads | All segments | — |
 | Blog | All segments (varies by post) | — |
 | Contact | All segments | — |
 | OEM/ODM page | OEM Buyer (S4) | — |

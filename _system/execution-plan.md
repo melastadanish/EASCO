@@ -1,10 +1,10 @@
 # Execution Plan — EASCO (REDESIGNED per Ayesha's Plan)
 
-> Phased content production plan aligned with EASCO_Website_Redesign_Plan by AYESHA.
-> **NEW STRUCTURE:** 9 Core Pages + Solutions by Industry + Case Studies + Product Categories
+> Phased content production plan aligned with confirmed site architecture.
+> **CONFIRMED NAV:** Home | Products ▼ (mega menu, no hub) | About/Why Us | Solutions ▼ | Cases ▼ | FAQ | Gallery | Blog | Contact
 > Agent mode reads this file and completes the first unchecked task.
 > One page per session in agent mode. Mark complete in progress.md after each page.
-> Last Updated: 2026-07-02
+> Last Updated: 2026-07-08
 
 ---
 
@@ -73,12 +73,12 @@
 | Custom Project Showcase | Airport kiosk, holographic gate, flight display | 🔲 |
 | **File** | other-pages/why-us.md | **🔲** |
 
-### **Page 03 — Products + Sub-Pages** (RESTRUCTURE)
-Product categories (8–10) each with sub-pages. URL: `/products/[category]/[product-name]`
+### **Page 03 — Products** (10 standalone category pages — NO hub page)
+
+> There is NO /products/ hub page and NO products/products-hub.md. Do NOT create one. The Products nav item is a mega menu that links directly to each category page.
 
 | Category | File | Status |
 |---|---|---|
-| Products Hub (landing page) | products/products-hub.md | ✅ |
 | Flap Barrier / Speed Gate Turnstiles | products/speed-gates/category.md | ✅ |
 | Tripod / Single-Arm Turnstile Gates | products/tripod-turnstiles/category.md | ✅ |
 | Cylindrical Turnstile Gates | products/cylindrical-turnstiles/category.md | ✅ |
@@ -114,10 +114,10 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | Shopping Malls | case-studies/shopping-malls.md | ✅ (named projects ⚠️ pending) |
 | Government Buildings | case-studies/government.md | ✅ (named projects ⚠️ pending) |
 
-### **Page 06 — Resources / Gallery** (NEW SECTION)
+### **Page 06 — Resources Section** (FAQ + Gallery + Downloads — no hub page)
 | Sub-Section | File | Status |
 |---|---|---|
-| Resources Hub | other-pages/resources.md | ✅ |
+| ~~Resources Hub~~ | ~~other-pages/resources.md~~ | ❌ DELETED — do not recreate |
 | FAQ (upgraded — 16 existing + 5 new technical) | other-pages/faq.md | ✅ |
 | Photo Gallery | other-pages/gallery.md | ✅ (text complete, found missing in 2026-07-08 re-audit — photos still ⚠️ pending) |
 | Downloads Center | other-pages/downloads.md | ✅ |
