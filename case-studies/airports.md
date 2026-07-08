@@ -1,5 +1,5 @@
 ---
-Status: READY FOR DEVELOPMENT — Complete (named projects confirmed unavailable, not pending)
+Status: READY FOR DEVELOPMENT, Complete (named projects confirmed unavailable, not pending)
 Pass A: 8.0/10 (scored on completed sections only, per template fallback rule)
 Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 4/4 terms present (case study, throughput, ANPR, biometric)
@@ -22,7 +22,7 @@ Word Count Target: 700–900 words
 Meta Title:        Airport Access Control Case Studies | EASCO
 Meta Description:  EASCO turnstiles, biometrics, and vehicle recognition secure airport terminals and access points worldwide. See a typical deployment and request a reference project.
 Primary Segment:   Airport / Transit Authority Procurement (S5)
-Status:            ✅ Complete — named projects confirmed unavailable after independent research (see pass log)
+Status:            ✅ Complete, named projects confirmed unavailable after independent research (see pass log)
 ```
 
 ---
@@ -31,11 +31,11 @@ Status:            ✅ Complete — named projects confirmed unavailable after i
 
 ---
 
-### SECTION 1 — Hero + Overview
+### SECTION 1: Hero + Overview
 
 **H1: Airport Access Control Projects**
 
-Airports rely on EASCO turnstiles, biometric terminals, and ANPR vehicle recognition to cover passenger, staff, and vehicle access points from one factory. EASCO's hardware is deployed across 80,000+ installations in 50+ countries — this page covers what a typical airport-adjacent deployment looks like.
+Airports rely on EASCO turnstiles, biometric terminals, and ANPR vehicle recognition to cover passenger, staff, and vehicle access points from one factory. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical airport-adjacent deployment looks like.
 
 **CTA:** [Want a Similar Solution?](/quote/)
 
@@ -43,11 +43,11 @@ Airports rely on EASCO turnstiles, biometric terminals, and ANPR vehicle recogni
 
 ---
 
-### SECTION 2 — Featured Projects
+### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
 
-**Airport Staff & Vehicle Access — Illustrative Example**
+**Airport Staff & Vehicle Access: Illustrative Example**
 
 | Detail | Information |
 |---|---|
@@ -70,7 +70,7 @@ In the meantime: EASCO access control systems are deployed at transportation and
 
 ---
 
-### SECTION 3 — What Airports Need from Access Control
+### SECTION 3: What Airports Need from Access Control
 
 **H2: Common Requirements for Airport-Grade Access Control**
 
@@ -90,19 +90,19 @@ In the meantime: EASCO access control systems are deployed at transportation and
 
 ---
 
-### SECTION 4 — Recommended Products for Airports
+### SECTION 4: Recommended Products for Airports
 
 **H2: EASCO Products Used in Airport-Adjacent Deployments**
 
-**[Palm Vein + Iris Recognition](/products/palm-vein-iris/)** — the highest-security biometric tier for restricted airside zones.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)** — continuous-duty vehicle access control.
-**[Flap Barrier / Speed Gates](/products/speed-gates/)** — high-throughput passenger and staff gates.
+**[Palm Vein + Iris Recognition](/products/palm-vein-iris/)**: the highest-security biometric tier for restricted airside zones.
+**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: continuous-duty vehicle access control.
+**[Flap Barrier / Speed Gates](/products/speed-gates/)**: high-throughput passenger and staff gates.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 5 — FAQ: Airport Access Control Projects
+### SECTION 5: FAQ: Airport Access Control Projects
 
 **H2: Frequently Asked Questions**
 
@@ -119,13 +119,13 @@ A: Iris recognition reaches a 1-in-10,000,000 misrecognition rate, the highest a
 A: CE, FCC, and ISO 9001/14001/45001 certificate scans are provided with every order to support procurement documentation requirements.
 
 **Q: What's the warranty and support model?**
-A: ⚠️ Confirm current warranty terms directly with EASCO — this varies by product category and isn't yet finalized in published documentation.
+A: ⚠️ Confirm current warranty terms directly with EASCO. This varies by product category and isn't yet finalized in published documentation.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 6 — CTA: Get a Similar Solution
+### SECTION 6: CTA: Get a Similar Solution
 
 **H2: Want a Similar Access Control Solution for Your Facility?**
 
@@ -148,7 +148,7 @@ Every airport project has different security tiers and vehicle access requiremen
 
 ## What Would Strengthen This Page If It Ever Becomes Available
 
-> Confirmed unavailable as of 2026-07-08 (see pass log) — not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
+> Confirmed unavailable as of 2026-07-08 (see pass log), not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
 
 - Specific project names, locations, dates
 - Products used per project (model numbers)
@@ -157,4 +157,4 @@ Every airport project has different security tiers and vehicle access requiremen
 
 ---
 
-**End of Airports Case Study Content — Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**
+**End of Airports Case Study Content: Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**

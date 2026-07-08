@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-02 (All specs from client-data-map.md)
 Last Updated: 2026-07-02
 ---
 
-# Why Us / About EASCO — Content
+# Why Us / About EASCO: Content
 
 **Target URL:** /why-us/  
 **Primary Keyword:** Access control manufacturer  
@@ -26,17 +26,17 @@ Last Updated: 2026-07-02
 
 ---
 
-## SECTION 1 — Hero / Page Intro
+## SECTION 1: Hero / Page Intro
 
 **H1:** Built at the Same Shenzhen Facility Since December 2009
 
-You need a factory that will still answer your call in three years. EASCO manufactures turnstile gates, face recognition terminals, and biometric access control hardware at a 3,000-square-meter facility in Shenzhen — same address, same team, same production line since December 22, 2009. National High-Tech Enterprise. ISO 9001 certified. 80,000+ installations across 50+ countries. Factory audit available on request.
+You need a factory that will still answer your call in three years. EASCO manufactures turnstile gates, face recognition terminals, and biometric access control hardware at a 3,000-square-meter facility in Shenzhen, same address, same team, same production line since December 22, 2009. National High-Tech Enterprise. ISO 9001 certified. 80,000+ installations across 50+ countries. Factory audit available on request.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit in "available on request")
 
 ---
 
-## SECTION 2 — Counter Stats Strip
+## SECTION 2: Counter Stats Strip
 
 **Visual Element: Animated Counter Stats**
 
@@ -64,15 +64,15 @@ R&D Team
 Quality Management  
 *(ISO 9001:2015 Valid to Jun 2026)*
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a — stats strip)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, stats strip)
 
 ---
 
-## SECTION 3 — Three Core Product Lines
+## SECTION 3: Three Core Product Lines
 
 **H2:** Three Flagship Product Lines. From One Factory Floor.
 
-Most suppliers specialize in one category. EASCO manufactures face recognition systems, turnstile gates, and vehicle access control under one roof — so you can source the complete access control system from the factory that built every component.
+Most suppliers specialize in one category. EASCO manufactures face recognition systems, turnstile gates, and vehicle access control under one roof, so you can source the complete access control system from the factory that built every component.
 
 ### Face Recognition Access Control Systems
 
@@ -83,7 +83,7 @@ IR illumination enables recognition in complete darkness. Operating temperature 
 
 ### Intelligent Electric Turnstile Gates
 
-Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance — mechanical protection, not software-dependent. Processes 45 people per minute. Opens in 0.3 seconds. IR sensor array detects anti-tailgating attempts — gate re-closes before second person passes. Full-circuit non-contact control extends service life beyond 10 million cycles. Manual operation capability during power outages.
+Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance, mechanical protection, not software-dependent. Processes 45 people per minute. Opens in 0.3 seconds. IR sensor array detects anti-tailgating attempts, gate re-closes before second person passes. Full-circuit non-contact control extends service life beyond 10 million cycles. Manual operation capability during power outages.
 
 **Key Technology:**  
 Brushless servo motor with encoder feedback. Aircraft-grade aluminum alloy or 304 stainless steel housing. Wiegand 26/34, RS485, TCP/IP, WiFi, MQTT interfaces onboard.
@@ -99,7 +99,7 @@ Handles partial plate occlusion and low-light conditions. RS-485 transparent tra
 
 ---
 
-## SECTION 4 — Factory & R&D Team
+## SECTION 4: Factory & R&D Team
 
 **H2:** 3,000 Square Meters. 60+ Employees. R&D to Shipping Under One Roof.
 
@@ -107,25 +107,25 @@ Your supplier is either a factory or a middleman. EASCO operates a 3,000-square-
 
 ### Integrated R&D and Manufacturing
 
-R&D team sits 50 meters from the production floor. Prototype to production happens in weeks, not months. 63 patents filed and granted. 5 software copyrights registered. Latest product series launched in 2025 — Cloud Series biometric terminals and Star Series speed gates.
+R&D team sits 50 meters from the production floor. Prototype to production happens in weeks, not months. 63 patents filed and granted. 5 software copyrights registered. Latest product series launched in 2025, Cloud Series biometric terminals and Star Series speed gates.
 
 ### Quality Control at Every Stage
 
-ISO 9001:2015 quality management system governs every production run — certificate valid to June 14, 2026. ISO 14001:2015 environmental management. ISO 45001:2018 occupational health and safety. Each unit tested before packing. Inspection reports provided on request.
+ISO 9001:2015 quality management system governs every production run, certificate valid to June 14, 2026. ISO 14001:2015 environmental management. ISO 45001:2018 occupational health and safety. Each unit tested before packing. Inspection reports provided on request.
 
 ### Factory Visits Welcome
 
-Video factory tour available for international buyers who cannot travel. In-person factory audit by appointment — bring your quality inspector. Same facility, same address since December 2009. No shell company. No trading middleman.
+Video factory tour available for international buyers who cannot travel. In-person factory audit by appointment, bring your quality inspector. Same facility, same address since December 2009. No shell company. No trading middleman.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit in "video tour available")
 
 ---
 
-## SECTION 5 — Certifications Wall
+## SECTION 5: Certifications Wall
 
 **H2:** Documented and Auditable. Not Printed from a Template.
 
-CE mark issued by Shenzhen BKC Testing Co., Ltd. — certificate BKC25104386KC covers 21 product models under RED 2014/53/EU directive. FCC Part 15B compliance documented by Shenzhen DL Testing Technology — certificate DL-2020051171C. ISO 9001, ISO 14001, and ISO 45001 certificates issued by Wozhong Certification — all valid to June 14, 2026. Certificate scans provided with every order.
+CE mark issued by Shenzhen BKC Testing Co., Ltd., certificate BKC25104386KC covers 21 product models under RED 2014/53/EU directive. FCC Part 15B compliance documented by Shenzhen DL Testing Technology, certificate DL-2020051171C. ISO 9001, ISO 14001, and ISO 45001 certificates issued by Wozhong Certification, all valid to June 14, 2026. Certificate scans provided with every order.
 
 **Certified Products Include:**
 - Face recognition terminals: ESK, ES-QV8, ES-LV8, ESFPR, ESFAT
@@ -142,11 +142,11 @@ CE mark issued by Shenzhen BKC Testing Co., Ltd. — certificate BKC25104386KC c
 
 ---
 
-## SECTION 6 — OEM/ODM Capabilities
+## SECTION 6: OEM/ODM Capabilities
 
 **H2:** Custom Housing, Custom Firmware, Custom Branding. Prototype in 30–45 Days.
 
-Your brand. Our factory. Custom product development available for orders above minimum volume. Housing dimensions, material finish, display size, button layout, firmware interface, and branding customizable. Prototype delivered in 30–45 days — faster than most China-based OEM suppliers.
+Your brand. Our factory. Custom product development available for orders above minimum volume. Housing dimensions, material finish, display size, button layout, firmware interface, and branding customizable. Prototype delivered in 30–45 days, faster than most China-based OEM suppliers.
 
 ### Custom Projects Built by EASCO
 
@@ -163,10 +163,10 @@ Full HD 1920×1080 resolution. 3mm tempered glass. Android OS. Supports JPG, JPE
 
 - Custom enclosure design and CNC machining
 - PCB layout modification for specific interface requirements
-- Firmware customization — attendance rules, access logic, UI branding
+- Firmware customization, attendance rules, access logic, UI branding
 - SDK and API documentation for third-party software integration
 - Custom packaging and product labeling
-- Milestone payment schedule — prototype, tooling, production
+- Milestone payment schedule, prototype, tooling, production
 
 **Contact for OEM Inquiry:** [Request OEM quote via WhatsApp](https://wa.me/8613711422283)
 
@@ -174,7 +174,7 @@ Full HD 1920×1080 resolution. 3mm tempered glass. Android OS. Supports JPG, JPE
 
 ---
 
-## SECTION 7 — Why Factory Direct Matters
+## SECTION 7: Why Factory Direct Matters
 
 **H2:** No Middleman Between You and the Production Floor
 
@@ -198,11 +198,11 @@ Bring your quality inspector. Schedule a factory visit. Walk the production floo
 
 ---
 
-## SECTION 8 — Recognition and Credentials
+## SECTION 8: Recognition and Credentials
 
 **H2:** National High-Tech Enterprise. Guangdong Provincial Innovative SME.
 
-EASCO holds National High-Tech Enterprise status — certificate valid until 2025. Recognized as a Guangdong Provincial Innovative Small and Medium Enterprise in 2023. A-level taxpayer status maintained for consecutive years. Registered with ICP filing number 粤ICP备10026371号.
+EASCO holds National High-Tech Enterprise status, certificate valid until 2025. Recognized as a Guangdong Provincial Innovative Small and Medium Enterprise in 2023. A-level taxpayer status maintained for consecutive years. Registered with ICP filing number 粤ICP备10026371号.
 
 ### Export Markets Served
 
@@ -212,16 +212,16 @@ North America, Europe, Middle East, and Southeast Asia. 80,000+ installations ac
 
 Exhibited at the 2025 Shenzhen International Intelligent Security Exhibition. Active member of the intelligent security and traffic management industry. Product development aligned with international access control and biometric standards.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a — credentials section)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, credentials section)
 
 ---
 
-## SECTION 9 — FAQ
+## SECTION 9: FAQ
 
 **H2:** Frequently Asked Questions
 
 **Q: Is EASCO a factory or a trading company?**  
-A: EASCO manufactures in-house at a 3,000-square-meter facility in Shenzhen — same address since December 22, 2009. Factory audit available by appointment. Not a trading company.
+A: EASCO manufactures in-house at a 3,000-square-meter facility in Shenzhen, same address since December 22, 2009. Factory audit available by appointment. Not a trading company.
 
 **Q: Can I visit the factory before placing an order?**  
 A: Factory visits welcome by appointment. Video factory tour available for international buyers who cannot travel to Shenzhen. Contact via WhatsApp +86 13711422283 to schedule.
@@ -242,13 +242,13 @@ A: ISO 9001:2015 quality management system governs every production run. Each un
 A: 50+ countries across North America, Europe, Middle East, and Southeast Asia. Export documentation and customs compliance support provided for international orders.
 
 **Q: Do you provide technical support after delivery?**  
-A: Remote diagnosis via WhatsApp or video call first — most issues resolved without return. SDK and API documentation available for software integration. Spare parts shipped internationally. Contact the factory directly for support.
+A: Remote diagnosis via WhatsApp or video call first, most issues resolved without return. SDK and API documentation available for software integration. Spare parts shipped internationally. Contact the factory directly for support.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit in contact info)
 
 ---
 
-## SECTION 10 — CTA
+## SECTION 10: CTA
 
 **H2:** Schedule a Factory Visit or Request a Quote
 
@@ -266,15 +266,15 @@ Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Stree
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/) — "complete access control system"
-- Link to [Face Recognition](/products/face-recognition/) — "face recognition systems"
-- Link to [Speed Gates](/products/speed-gates/) — "turnstile gates"
-- Link to [ANPR Systems](/products/anpr-systems/) — "vehicle access control"
-- Link to [OEM/ODM page](/oem-odm/) — "custom product development"
-- Link to [Factory page](/factory/) — "factory audit"
-- Link to [Certifications page](/certifications/) — "certificate scans"
-- Link to [Contact page](/contact/) — "quote requests"
+- Link to [Products Hub](/products/), "complete access control system"
+- Link to [Face Recognition](/products/face-recognition/), "face recognition systems"
+- Link to [Speed Gates](/products/speed-gates/), "turnstile gates"
+- Link to [ANPR Systems](/products/anpr-systems/), "vehicle access control"
+- Link to [OEM/ODM page](/oem-odm/), "custom product development"
+- Link to [Factory page](/factory/), "factory audit"
+- Link to [Certifications page](/certifications/), "certificate scans"
+- Link to [Contact page](/contact/), "quote requests"
 
 ---
 
-**End of Why Us Content — Ready for Five-Pass Review**
+**End of Why Us Content: Ready for Five-Pass Review**

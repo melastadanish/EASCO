@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (Contact details from _system/WritingSystem.md 
 Last Updated: 2026-07-08
 ---
 
-# Contact — Content
+# Contact: Content
 
 ## Page Metadata
 
@@ -33,17 +33,17 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero / Page Intro
+### SECTION 1: Hero / Page Intro
 
 **H1: Contact EASCO**
 
 A quote request sent here gets a reply within one hour during business hours. That's not a three-day wait for a form submission to reach someone who can answer it. Send the product category, quantity, and destination for pricing, or ask a technical question directly.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — response time promise invites contact)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, response time promise invites contact)
 
 ---
 
-### SECTION 2 — Request a Quote
+### SECTION 2: Request a Quote
 
 **H2: Send Your Product, Quantity, and Destination**
 
@@ -62,23 +62,23 @@ Pricing is quoted in writing and stays fixed once confirmed. Shipping is quoted 
 
 ---
 
-### SECTION 3 — Direct Contact Channels
+### SECTION 3: Direct Contact Channels
 
-**H2: Reach EASCO Directly — No Call Center in Between**
+**H2: Reach EASCO Directly: No Call Center in Between**
 
-**WhatsApp Business:** [+86 13711422283](https://wa.me/8613711422283) — fastest response, especially for buyers outside China business hours
+**WhatsApp Business:** [+86 13711422283](https://wa.me/8613711422283), fastest response, especially for buyers outside China business hours
 **Email:** [hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
 **Skype:** 1662258884@qq.com
 **LinkedIn:** [EASCO on LinkedIn](https://www.linkedin.com/feed/)
 **Facebook:** [EASCO on Facebook](https://www.facebook.com/turnstilemanufacturer/)
 
-A message on any of these channels reaches the same team — not a reseller or call center relaying it onward.
+A message on any of these channels reaches the same team, not a reseller or call center relaying it onward.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (WhatsApp link)
 
 ---
 
-### SECTION 4 — Factory Address
+### SECTION 4: Factory Address
 
 **H2: Visit the Factory or Request a Video Tour**
 
@@ -88,15 +88,15 @@ Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Stree
 **Address (Chinese):**
 广东省深圳市龙华新区观澜街道环观南路大和工业区20栋2楼
 
-*(Google Maps embed placeholder — add live embed for this address before publishing.)*
+*(Google Maps embed placeholder, add live embed for this address before publishing.)*
 
-Factory visits are welcome by appointment. A video factory tour is available for buyers who cannot travel to Shenzhen — request one through any contact channel above.
+Factory visits are welcome by appointment. A video factory tour is available for buyers who cannot travel to Shenzhen. Request one through any contact channel above.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — tour request invites contact)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, tour request invites contact)
 
 ---
 
-### SECTION 5 — FAQ
+### SECTION 5: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -113,17 +113,17 @@ A: Send the product and quantity needed through any contact channel to discuss s
 A: Yes. Select "OEM/ODM" as the product interest in the quote form, or mention it directly via WhatsApp or email.
 
 **Q: Can I schedule a factory visit or video tour?**
-A: Yes. Factory visits are welcome by appointment, and a video tour is available for international buyers — request either through any contact channel above.
+A: Yes. Factory visits are welcome by appointment, and a video tour is available for international buyers. Request either through any contact channel above.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 6 — CTA
+### SECTION 6: CTA
 
 **H2: Send Your Requirements Now**
 
-Product category, quantity, and destination country are enough to start a quote — a reply comes back within one hour during business hours.
+Product category, quantity, and destination country are enough to start a quote, a reply comes back within one hour during business hours.
 
 > **Get a Quote**
 > [WhatsApp: +86 13711422283](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com) · [Fill Out the Form Above](#quote-form)
@@ -134,12 +134,12 @@ Product category, quantity, and destination country are enough to start a quote 
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/) — "product category"
-- Link to [Solutions Hub](/solutions/) — for industry-specific inquiries
-- Link to [OEM/ODM page](/oem-odm/) — "OEM/ODM inquiries"
-- Link to [Why Us page](/why-us/) — "factory visit"
-- Link to [Request Quote page](/quote/) — dedicated quote CTA page
+- Link to [Products Hub](/products/), "product category"
+- Link to [Solutions Hub](/solutions/), for industry-specific inquiries
+- Link to [OEM/ODM page](/oem-odm/), "OEM/ODM inquiries"
+- Link to [Why Us page](/why-us/), "factory visit"
+- Link to [Request Quote page](/quote/), dedicated quote CTA page
 
 ---
 
-**End of Contact Content — Five-Pass Review Complete**
+**End of Contact Content: Five-Pass Review Complete**

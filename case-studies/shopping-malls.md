@@ -1,11 +1,11 @@
 ---
-Status: READY FOR DEVELOPMENT — Complete (named projects confirmed unavailable, not pending)
+Status: READY FOR DEVELOPMENT, Complete (named projects confirmed unavailable, not pending)
 Pass A: 7.9/10 (scored on completed sections only, per template fallback rule)
 Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 4/4 terms present (case study, ANPR, visitor registration, face recognition)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (80,000+ installs, 50+ countries) | GEO ✅
 Pass C: Headlines ✅ | CTAs ✅ | AI-score ~8%
-Client Data Verified: 2026-07-08 (No specific shopping mall project names, locations, photos, or measured results supplied. No dedicated Solutions page exists for this venue type — linked to Commercial Buildings solution as the closest match. Follow-up 2026-07-08: independent research — search engines plus a direct fetch of EASCO's own prior website, including its sitemap and "Installation Cases" section — confirmed this data has never been published anywhere. Not pending; genuinely nonexistent.)
+Client Data Verified: 2026-07-08 (No specific shopping mall project names, locations, photos, or measured results supplied. No dedicated Solutions page exists for this venue type, linked to Commercial Buildings solution as the closest match. Follow-up 2026-07-08: independent research, search engines plus a direct fetch of EASCO's own prior website, including its sitemap and "Installation Cases" section, confirmed this data has never been published anywhere. Not pending; genuinely nonexistent.)
 Last Updated: 2026-07-08
 ---
 
@@ -22,7 +22,7 @@ Word Count Target: 700–900 words
 Meta Title:        Shopping Mall Access Control Case Studies | EASCO
 Meta Description:  EASCO turnstiles, ANPR, and visitor systems manage staff, vehicle, and foot traffic at shopping centers worldwide. See a typical deployment.
 Primary Segment:   Facility / Security Manager (S1)
-Status:            ✅ Complete — named projects confirmed unavailable after independent research (see pass log)
+Status:            ✅ Complete, named projects confirmed unavailable after independent research (see pass log)
 ```
 
 ---
@@ -31,11 +31,11 @@ Status:            ✅ Complete — named projects confirmed unavailable after i
 
 ---
 
-### SECTION 1 — Hero + Overview
+### SECTION 1: Hero + Overview
 
 **H1: Shopping Mall Access Control Projects**
 
-Shopping malls rely on EASCO turnstiles for staff and service entrances, ANPR for vehicle parking access, and biometric terminals for back-of-house security — without slowing the customer-facing experience. EASCO's hardware is deployed across 80,000+ installations in 50+ countries — this page covers what a typical retail deployment looks like.
+Shopping malls rely on EASCO turnstiles for staff and service entrances, ANPR for vehicle parking access, and biometric terminals for back-of-house security, without slowing the customer-facing experience. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical retail deployment looks like.
 
 **CTA:** [Want a Similar Solution?](/quote/)
 
@@ -43,11 +43,11 @@ Shopping malls rely on EASCO turnstiles for staff and service entrances, ANPR fo
 
 ---
 
-### SECTION 2 — Featured Projects
+### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
 
-**Regional Shopping Center — Illustrative Example**
+**Regional Shopping Center: Illustrative Example**
 
 | Detail | Information |
 |---|---|
@@ -70,7 +70,7 @@ In the meantime: EASCO access control systems are deployed at commercial and ret
 
 ---
 
-### SECTION 3 — What Shopping Malls Need from Access Control
+### SECTION 3: What Shopping Malls Need from Access Control
 
 **H2: Common Requirements for Retail Facilities**
 
@@ -90,19 +90,19 @@ In the meantime: EASCO access control systems are deployed at commercial and ret
 
 ---
 
-### SECTION 4 — Recommended Products for Shopping Malls
+### SECTION 4: Recommended Products for Shopping Malls
 
 **H2: EASCO Products Used in Retail Deployments**
 
-**[Flap Barrier / Speed Gates](/products/speed-gates/)** — customizable, professional-looking staff and service entrances.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)** — parking access with a driver-facing display.
-**[Face Recognition Terminals](/products/face-recognition/)** — back-of-house staff access control.
+**[Flap Barrier / Speed Gates](/products/speed-gates/)**: customizable, professional-looking staff and service entrances.
+**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: parking access with a driver-facing display.
+**[Face Recognition Terminals](/products/face-recognition/)**: back-of-house staff access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 5 — FAQ: Shopping Mall Access Control Projects
+### SECTION 5: FAQ: Shopping Mall Access Control Projects
 
 **H2: Frequently Asked Questions**
 
@@ -119,13 +119,13 @@ A: Yes. Face recognition terminals support per-tenant and per-group access rules
 A: Discuss training and onboarding requirements directly with EASCO as part of the order process.
 
 **Q: What's the warranty and support model?**
-A: ⚠️ Confirm current warranty terms directly with EASCO — this varies by product category and isn't yet finalized in published documentation.
+A: ⚠️ Confirm current warranty terms directly with EASCO. This varies by product category and isn't yet finalized in published documentation.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 6 — CTA: Get a Similar Solution
+### SECTION 6: CTA: Get a Similar Solution
 
 **H2: Want a Similar Access Control Solution for Your Facility?**
 
@@ -139,7 +139,7 @@ Every retail facility has different tenant, traffic, and parking requirements. S
 
 ## Internal Links Required
 
-- Link to [Commercial Buildings solution page](/solutions/commercial-buildings/) — closest match, no dedicated mall solution page exists
+- Link to [Commercial Buildings solution page](/solutions/commercial-buildings/), closest match, no dedicated mall solution page exists
 - Link to [ANPR Systems](/products/anpr-systems/)
 - Link to [Speed Gates](/products/speed-gates/)
 - Link to [Case Studies Hub](/case-studies/)
@@ -148,7 +148,7 @@ Every retail facility has different tenant, traffic, and parking requirements. S
 
 ## What Would Strengthen This Page If It Ever Becomes Available
 
-> Confirmed unavailable as of 2026-07-08 (see pass log) — not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
+> Confirmed unavailable as of 2026-07-08 (see pass log), not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
 
 - Specific project names, locations, dates
 - Products used per project (model numbers)
@@ -157,4 +157,4 @@ Every retail facility has different tenant, traffic, and parking requirements. S
 
 ---
 
-**End of Shopping Malls Case Study Content — Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**
+**End of Shopping Malls Case Study Content: Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**

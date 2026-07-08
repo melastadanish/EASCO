@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (JX/星际 specs from Stargate_Speed_Gate_Produ
 Last Updated: 2026-07-08
 ---
 
-# Flap Barrier / Speed Gate Turnstiles — Category Page
+# Flap Barrier / Speed Gate Turnstiles: Category Page
 
 ## Page Metadata
 
@@ -20,9 +20,9 @@ Secondary Keywords: flap barrier turnstile, aluminum speed gate, Android speed g
 Schema Markup:     Product
 Search Intent:     Commercial (Transactional)
 Word Count Target: 900–1,300 words
-Meta Title:        Flap Barrier & Speed Gate Turnstiles — EASCO
+Meta Title:        Flap Barrier & Speed Gate Turnstiles, EASCO
 Meta Description:  EASCO speed gate turnstiles process 50 people per minute with a 30-million-cycle motor. Aluminum body, optional Android face terminal. Factory direct from Shenzhen.
-Silo:              S1 — Turnstile Gates
+Silo:              S1, Turnstile Gates
 Model Numbers:     JX (flagship), J3/J4 (base gate body), JF1–JF5 (Android-integrated)
 Primary Segment:   Facility / Security Manager (S1)
 Secondary Segment: System Integrator / Contractor (S2)
@@ -37,11 +37,11 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Product Header
+### SECTION 1: Product Header
 
 **H1: Flap Barrier & Speed Gate Turnstiles**
 
-50 people per minute through a gate that opens in under 0.5 seconds — built on a motor rated for 30 million open-close cycles.
+50 people per minute through a gate that opens in under 0.5 seconds, built on a motor rated for 30 million open-close cycles.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -50,36 +50,36 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 2 — Product Overview
+### SECTION 2: Product Overview
 
 **H2: One Gate Body, Three Access Levels**
 
 A lobby entrance rarely needs the same gate twice. The base J-series aluminum gate handles card-only access. Add the ESBL terminal and it becomes a JF Android gate reading face, card, QR code, and password. Upgrade to the flagship JX and the same footprint gains a direct-drive servo motor, RGB status lighting, and an optional 100,000-face Android terminal. All three share the same aluminum chassis, so a facility can start with card access and add biometrics later without replacing the gate body.
 
-> EASCO manufactures the JX speed gate turnstile at 50 persons/min throughput, opening in under 0.5 seconds — a direct-drive servo motor rated for 30 million cycles — for corporate lobbies, hotels, and exhibition centers worldwide. Factory direct from Shenzhen, upgradable from card-only to full Android biometric access.
+> EASCO manufactures the JX speed gate turnstile at 50 persons/min throughput, opening in under 0.5 seconds, a direct-drive servo motor rated for 30 million cycles, for corporate lobbies, hotels, and exhibition centers worldwide. Factory direct from Shenzhen, upgradable from card-only to full Android biometric access.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — upgrade path invites inquiry)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, upgrade path invites inquiry)
 
 ---
 
-### SECTION 3 — Key Features
+### SECTION 3: Key Features
 
 **H2: Built to Run for Years, Not Just Pass Inspection**
 
 - **Nobody waits at the door.** The JX processes 50 people per minute, faster than EASCO's own cylindrical gate line. Passage width adjusts from 650mm to 900mm.
-- **The motor outlasts the warranty period on most competing gates.** Direct-drive servo motor rated for over 30 million continuous cycles — roughly 16 years at 500 cycles a day.
+- **The motor outlasts the warranty period on most competing gates.** Direct-drive servo motor rated for over 30 million continuous cycles, roughly 16 years at 500 cycles a day.
 - **Nobody slips through behind an authorized entry.** Seven pairs of infrared sensors (ten optional) detect anti-tailgating attempts, and the gate resets automatically after each pass.
 - **A pinched hand doesn't happen twice.** Automatic anti-pinch detection stops the panel before it makes contact, and the gate fails open on power loss.
 - **The gate still runs the same in a Shenzhen summer or a Nordic winter.** Operating range covers -20°C to +75°C, at up to 90% humidity with no condensation.
 - **Nobody hears it operating from across the lobby.** Noise level stays under 40dB per pass.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — spec density invites comparison)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, spec density invites comparison)
 
 ---
 
-### SECTION 4 — Technical Specifications
+### SECTION 4: Technical Specifications
 
-**H2: JX Flagship Speed Gate — Confirmed Specifications**
+**H2: JX Flagship Speed Gate: Confirmed Specifications**
 
 *(Values below are for the JX / 星际 flagship model, sourced from the official Stargate product parameter sheet. J and JF variants share the aluminum chassis; dimensional specs for J3/J4/JF1–JF5 are ⚠️ pending client confirmation and are not listed here.)*
 
@@ -87,9 +87,9 @@ A lobby entrance rarely needs the same gate twice. The base J-series aluminum ga
 |---|---|
 | Model No. | JX |
 | Dimensions (L×W×H) | 1500 × 138 × 1000 mm |
-| Material — Chassis | Full aluminum alloy, custom mold (10mm top cover, 3mm column) |
-| Material — Baffle | 8mm tempered glass |
-| Material — Door Panel | 10mm acrylic or tempered glass |
+| Material (Chassis) | Full aluminum alloy, custom mold (10mm top cover, 3mm column) |
+| Material (Baffle) | 8mm tempered glass |
+| Material (Door Panel) | 10mm acrylic or tempered glass |
 | Throughput | 50 persons/min |
 | Passage Width | 650–900mm (customizable) |
 | Gate Opening Speed | Under 0.5 seconds (adjustable) |
@@ -108,7 +108,7 @@ A lobby entrance rarely needs the same gate twice. The base J-series aluminum ga
 
 ---
 
-### SECTION 5 — Applications
+### SECTION 5: Applications
 
 **H2: Where the Gate Body Matters as Much as the Technology**
 
@@ -118,11 +118,11 @@ A hotel lobby and a factory staff entrance don't need the same gate. The JX's RG
 - **Retail flagships and exhibition centers:** Sub-40dB noise level keeps the entrance quiet during events; 50 persons/min clears a rush without a queue forming.
 - **Schools, hospitals, and government buildings:** The JF Android variant reads face, card, QR code, and password from one terminal, without a separate controller box.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — venue fit invites inquiry)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, venue fit invites inquiry)
 
 ---
 
-### SECTION 6 — Customization Options
+### SECTION 6: Customization Options
 
 **H2: Start with Card Access. Add Biometrics Later.**
 
@@ -134,20 +134,20 @@ The same aluminum gate body upgrades in stages. Order the J-series with just a c
 
 ---
 
-### SECTION 7 — Downloads
+### SECTION 7: Downloads
 
 **H2: Documentation**
 
-- [ ] JX speed gate specification sheet (PDF) — ⚠️ add when finalized
-- [ ] Installation manual (PDF) — ⚠️ add when finalized
-- [ ] SDK/API documentation — see [Contact page](/contact/) to request
-- [ ] Certification documents — see [Certifications page](/certifications/)
+- [ ] JX speed gate specification sheet (PDF), ⚠️ add when finalized
+- [ ] Installation manual (PDF), ⚠️ add when finalized
+- [ ] SDK/API documentation. See [Contact page](/contact/) to request
+- [ ] Certification documents. See [Certifications page](/certifications/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 8 — FAQ
+### SECTION 8: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -164,7 +164,7 @@ A: Automatic anti-pinch detection stops the panel before contact. Seven pairs of
 A: Operating range covers -20°C to +75°C at up to 90% humidity with no condensation, suitable for covered outdoor entrances in most climates.
 
 **Q: Does it integrate with our existing access control software?**
-A: Yes. Communication interfaces include RS485, RS232, and IO. SDK and API documentation is available for custom integration — request it through the [Contact page](/contact/).
+A: Yes. Communication interfaces include RS485, RS232, and IO. SDK and API documentation is available for custom integration. Request it through the [Contact page](/contact/).
 
 **Q: Can we add our company logo or brand colours to the gate?**
 A: Custom logo engraving and door panel shape are available on the JX line, along with a configurable RGB lighting colour scheme. Discuss requirements through the [OEM/ODM program](/oem-odm/).
@@ -173,19 +173,19 @@ A: Custom logo engraving and door panel shape are available on the JX line, alon
 
 ---
 
-### SECTION 9 — Related Products
+### SECTION 9: Related Products
 
 **H2: Related Products**
 
-- [Cylindrical Turnstiles](/cylindrical-turnstiles/) — higher-throughput rotating-drum alternative
-- [Android Turnstiles](/android-turnstiles/) — dedicated Android + biometric gate line
-- [Face Recognition Terminals](/face-recognition/) — standalone terminals for the ESBL upgrade path
+- [Cylindrical Turnstiles](/cylindrical-turnstiles/), higher-throughput rotating-drum alternative
+- [Android Turnstiles](/android-turnstiles/), dedicated Android + biometric gate line
+- [Face Recognition Terminals](/face-recognition/), standalone terminals for the ESBL upgrade path
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 10 — Final CTA
+### SECTION 10: Final CTA
 
 **H2: Get Pricing for the Speed Gate That Fits Your Entrance**
 
@@ -241,4 +241,4 @@ Send the entrance width and whether card-only or Android biometric access is nee
 
 ---
 
-**End of Speed Gates Category Content — Five-Pass Review Complete**
+**End of Speed Gates Category Content: Five-Pass Review Complete**

@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 8.0/10
 Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
-Pass N: 4/6 terms present (unattended, Android, IP65, payment methods; dimensions and operating temperature not applicable — unconfirmed)
+Pass N: 4/6 terms present (unattended, Android, IP65, payment methods; dimensions and operating temperature not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (IP65, one-touch admin call) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ (O1, O5 — addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
-Client Data Verified: 2026-07-08 (Features confirmed via _system/product-specs/unattended-parking-toll-system.md, EASCO Product Catalogue 2025 p.31. No English model number exists yet for this product — flagged, not invented. Dimensions, operating temperature, power supply, and camera resolution are also unconfirmed.)
+Pass C: Headlines ✅ | Objections ✅ (O1, O5, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
+Client Data Verified: 2026-07-08 (Features confirmed via _system/product-specs/unattended-parking-toll-system.md, EASCO Product Catalogue 2025 p.31. No English model number exists yet for this product, flagged, not invented. Dimensions, operating temperature, power supply, and camera resolution are also unconfirmed.)
 Last Updated: 2026-07-08
 ---
 
-# Unattended Parking Toll System — Product Page
+# Unattended Parking Toll System: Product Page
 
 ## Page Metadata
 
@@ -19,14 +19,14 @@ Primary Keyword:   unattended parking toll system
 Secondary Keywords: automatic parking barrier payment, unmanned parking management
 Search Intent:     Commercial Investigation
 Word Count Target: 800–1,200 words
-Meta Title:        Unattended Parking Toll System — No Gatehouse Staff | EASCO
-Meta Description:  EASCO's unattended parking toll system combines plate recognition, payment, and barrier control in one unit — removing the gatehouse staffing cost entirely.
-Silo:              S3 — Vehicle & Parking Access
+Meta Title:        Unattended Parking Toll System, No Gatehouse Staff | EASCO
+Meta Description:  EASCO's unattended parking toll system combines plate recognition, payment, and barrier control in one unit, removing the gatehouse staffing cost entirely.
+Silo:              S3, Vehicle & Parking Access
 Pillar Page:       /anpr-systems/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D7
 Objections:        O1, O5
-Status:            ✅ Complete (⚠️ no English model number confirmed yet — dimensions, operating temperature, and camera resolution pending client spec sheet)
+Status:            ✅ Complete (⚠️ no English model number confirmed yet, dimensions, operating temperature, and camera resolution pending client spec sheet)
 ```
 
 ---
@@ -35,7 +35,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet �
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: Unattended Parking Toll System**
 
@@ -48,7 +48,7 @@ A staffed parking gatehouse is a recurring payroll cost for a task a machine can
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ A staffed parking gatehouse is a recurring payroll cost for a task a machine can
 
 ---
 
-### SECTION 3 — What Is This System?
+### SECTION 3: What Is This System?
 
 **H2: Recognition, Payment, and Barrier Control From One Unmanned System**
 
-This system automates the entire vehicle toll process — recognizing a license plate, processing payment, and controlling the barrier gate — without a staffed booth. It runs on Android with secondary development support for custom platform integration, in an aviation-grade aluminum housing rated IP65 for outdoor use. A high-definition camera, microphone, and one-touch call button let a driver reach a remote administrator instantly if a problem occurs, addressing the main hesitation buyers have about removing staff from a gatehouse entirely.
+This system automates the entire vehicle toll process, recognizing a license plate, processing payment, and controlling the barrier gate, without a staffed booth. It runs on Android with secondary development support for custom platform integration, in an aviation-grade aluminum housing rated IP65 for outdoor use. A high-definition camera, microphone, and one-touch call button let a driver reach a remote administrator instantly if a problem occurs, addressing the main hesitation buyers have about removing staff from a gatehouse entirely.
 
 **AI-quotable paragraph:**
-> "EASCO's unattended parking toll system combines license plate recognition, payment processing across four methods, and barrier gate control in one IP65-rated unit — removing gatehouse staffing costs while keeping a one-touch call button connecting drivers to a remote administrator."
+> "EASCO's unattended parking toll system combines license plate recognition, payment processing across four methods, and barrier gate control in one IP65-rated unit, removing gatehouse staffing costs while keeping a one-touch call button connecting drivers to a remote administrator."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Removes the Gatehouse Without Removing Driver Support**
 
@@ -87,13 +87,13 @@ This system automates the entire vehicle toll process — recognizing a license 
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
 | Parameter | Specification |
 |---|---|
-| Model No. | ⚠️ Not yet assigned an English model code — contact EASCO |
+| Model No. | ⚠️ Not yet assigned an English model code. Contact EASCO |
 | Operating System | Android |
 | Material | Aviation-grade aluminum alloy, integrated mold |
 | IP Rating | IP65 |
@@ -102,10 +102,10 @@ This system automates the entire vehicle toll process — recognizing a license 
 | Call Button | One-touch, driver to administrator |
 | Secondary Development | SDK supported |
 | Payment Methods | POS, change machine, coin machine, card swallowing machine |
-| Mobile Payment (QR/WeChat Pay/Alipay) | ⚠️ Not yet confirmed — contact EASCO |
-| Dimensions | ⚠️ Not yet confirmed — contact EASCO |
-| Operating Temperature | ⚠️ Not yet confirmed — contact EASCO |
-| Power Supply | ⚠️ Not yet confirmed — contact EASCO |
+| Mobile Payment (QR/WeChat Pay/Alipay) | ⚠️ Not yet confirmed. Contact EASCO |
+| Dimensions | ⚠️ Not yet confirmed. Contact EASCO |
+| Operating Temperature | ⚠️ Not yet confirmed. Contact EASCO |
+| Power Supply | ⚠️ Not yet confirmed. Contact EASCO |
 
 *(This system pairs with EASCO's [ES-T02/T03/T04 LPR camera](/anpr-systems/es-t02-t03-t04/) for a full plate-recognition entry/exit system. This page will be updated with a model number and full specs once EASCO provides them.)*
 
@@ -115,7 +115,7 @@ This system automates the entire vehicle toll process — recognizing a license 
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: From Plate Recognition to Barrier Release, No Staff Required**
 
@@ -128,7 +128,7 @@ This system automates the entire vehicle toll process — recognizing a license 
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where Gatehouse Staffing Is a Recurring Cost Center**
 
@@ -141,7 +141,7 @@ This system automates the entire vehicle toll process — recognizing a license 
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Pairs With EASCO's LPR Camera for a Full Entry/Exit System**
 
@@ -151,11 +151,11 @@ This system is designed to pair with the [ES-T02/T03/T04 LPR camera](/anpr-syste
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: Vehicle Access Alongside Pedestrian Access, From One Supplier**
 
-Removing gatehouse staff only works if drivers still have a reliable way to reach help when something goes wrong — a one-touch call button to a remote administrator addresses that directly. EASCO manufactures this system factory-direct alongside its full pedestrian turnstile and biometric range, so a mixed vehicle-and-pedestrian site works with a single supplier.
+Removing gatehouse staff only works if drivers still have a reliable way to reach help when something goes wrong, a one-touch call button to a remote administrator addresses that directly. EASCO manufactures this system factory-direct alongside its full pedestrian turnstile and biometric range, so a mixed vehicle-and-pedestrian site works with a single supplier.
 
 **Differentiators used:** D2, D7
 **Objections addressed:** O1, O5
@@ -164,7 +164,7 @@ Removing gatehouse staff only works if drivers still have a reliable way to reac
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -187,19 +187,19 @@ A: Yes. It's designed to pair with the ES-T02/T03/T04 LPR camera for a complete 
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [ANPR Systems category](/anpr-systems/) — back to the full range
-- [ES-T02/T03/T04 LPR Camera](/anpr-systems/es-t02-t03-t04/) — pairs with this system for full entry/exit coverage
-- [Handheld Parking Management Device](/anpr-systems/handheld-parking-management-device/) — mobile alternative for overflow or informal parking
+- [ANPR Systems category](/anpr-systems/), back to the full range
+- [ES-T02/T03/T04 LPR Camera](/anpr-systems/es-t02-t03-t04/), pairs with this system for full entry/exit coverage
+- [Handheld Parking Management Device](/anpr-systems/handheld-parking-management-device/), mobile alternative for overflow or informal parking
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the Unattended Parking Toll System**
 
@@ -228,4 +228,4 @@ Send your parking volume and preferred payment methods, and EASCO will confirm c
 
 ---
 
-**End of Unattended Parking Toll System Content — Five-Pass Review Complete**
+**End of Unattended Parking Toll System Content: Five-Pass Review Complete**

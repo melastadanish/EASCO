@@ -1,27 +1,27 @@
 ---
-Status: DRAFT — LEGAL REVIEW REQUIRED BEFORE PUBLISHING
-Pass A: N/A — legal boilerplate, not marketing copy subject to Tier 2 scoring
+Status: DRAFT, LEGAL REVIEW REQUIRED BEFORE PUBLISHING
+Pass A: N/A, legal boilerplate, not marketing copy subject to Tier 2 scoring
 Pass B: N/A
 Pass N: N/A
 Pass D: Freshness date set ✅
 Pass C: N/A
-Client Data Verified: 2026-07-08 (Company name, address, and contact details from client-data-map.md. Legal clauses below are standard boilerplate, NOT verified by qualified legal counsel — see disclaimer.)
+Client Data Verified: 2026-07-08 (Company name, address, and contact details from client-data-map.md. Legal clauses below are standard boilerplate, NOT verified by qualified legal counsel. See disclaimer.)
 Last Updated: 2026-07-08
 ---
 
-# Privacy Policy — Content
+# Privacy Policy: Content
 
 ## Page Metadata
 
 ```
 Target URL:        /privacy/
 Page Type:         Legal
-Status:            ⚠️ DRAFT — requires legal counsel review before publishing
+Status:            ⚠️ DRAFT, requires legal counsel review before publishing
 ```
 
 ---
 
-## ⚠️ IMPORTANT — Read Before Publishing
+## ⚠️ IMPORTANT: Read Before Publishing
 
 This is a standard privacy policy template populated with EASCO's confirmed business details. It has **not been reviewed by qualified legal counsel** and should not be published as-is. Data protection requirements vary significantly by jurisdiction (GDPR in the EU, CCPA in California, PIPL in China, and others depending on EASCO's markets). Have this reviewed by a lawyer familiar with the jurisdictions EASCO operates in before it goes live.
 
@@ -77,4 +77,4 @@ Email: [hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
 
 ---
 
-**End of Privacy Policy Content — DRAFT, Pending Legal Review**
+**End of Privacy Policy Content: DRAFT, Pending Legal Review**

@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (Source: _system/product-specs/esrs51-rugged-ha
 Last Updated: 2026-07-08
 ---
 
-# Handheld Face Recognition Terminals — Category Page
+# Handheld Face Recognition Terminals: Category Page
 
 ## Page Metadata
 
@@ -20,9 +20,9 @@ Secondary Keywords: rugged handheld scanner, mobile attendance terminal, field b
 Schema Markup:     Product
 Search Intent:     Commercial (Transactional)
 Word Count Target: 900–1,200 words
-Meta Title:        Handheld Face Recognition Terminals — IP67 Rugged | EASCO
+Meta Title:        Handheld Face Recognition Terminals, IP67 Rugged | EASCO
 Meta Description:  EASCO handheld face recognition terminals run IP67-rated, 5000mAh, with 4G and 99.98% accuracy. Built for warehouses, construction sites, and field operations. Factory direct.
-Silo:              S4 — Attendance Management
+Silo:              S4, Attendance Management
 Model Numbers:     ESR366, ESRS51 (ESR51), ESR860, ESR366C
 Primary Segment:   System Integrator / Contractor (S2)
 Secondary Segment: Facility / Security Manager (S1)
@@ -37,11 +37,11 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Product Header
+### SECTION 1: Product Header
 
 **H1: Handheld Face Recognition Terminals**
 
-The terminal goes to the worker, not the other way around — IP67-rated, 5000mAh battery, 4G onboard, no WiFi dependency.
+The terminal goes to the worker, not the other way around, IP67-rated, 5000mAh battery, 4G onboard, no WiFi dependency.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -50,19 +50,19 @@ The terminal goes to the worker, not the other way around — IP67-rated, 5000mA
 
 ---
 
-### SECTION 2 — Product Overview
+### SECTION 2: Product Overview
 
 **H2: Attendance Doesn't Stop at the Fixed Terminal**
 
 A construction site, a warehouse aisle, or a field service call rarely has a wall to mount a terminal on. EASCO's handheld line moves the same 99.98%-accuracy face recognition engine into a rugged, IP67-rated body. A detachable 5000mAh battery and a 4G SIM slot mean a supervisor logs attendance without WiFi or a fixed power source nearby. The base ESR366 covers standard field use. The ESRS51 adds three-proof rugged housing for harsher sites. The ESR860 adds a receipt printer, and the ESR366C swaps in a gun-grip form factor with an HF card reader for flexible label scanning.
 
-> EASCO manufactures IP67-rated handheld face recognition terminals with a 5000mAh detachable battery, 4G connectivity, and 99.98% recognition accuracy — for construction sites, warehouses, and field service teams worldwide. Factory direct from Shenzhen, running Android 13 with SDK/API support.
+> EASCO manufactures IP67-rated handheld face recognition terminals with a 5000mAh detachable battery, 4G connectivity, and 99.98% recognition accuracy, for construction sites, warehouses, and field service teams worldwide. Factory direct from Shenzhen, running Android 13 with SDK/API support.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — model range invites comparison)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, model range invites comparison)
 
 ---
 
-### SECTION 3 — Key Features
+### SECTION 3: Key Features
 
 **H2: Field-Grade Hardware, Not a Phone in a Case**
 
@@ -73,13 +73,13 @@ A construction site, a warehouse aisle, or a field service call rarely has a wal
 - **One device replaces three.** Face recognition, barcode scanning, and optional NFC or QR code reading all run on the same handheld.
 - **GPS confirms where the scan happened, not just when.** Built-in GPS, GLONASS, and BeiDou positioning timestamps and locates every clock-in.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — spec density invites comparison)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, spec density invites comparison)
 
 ---
 
-### SECTION 4 — Technical Specifications
+### SECTION 4: Technical Specifications
 
-**H2: ESRS51 — Confirmed Specifications (Shared Platform Across the Handheld Range)**
+**H2: ESRS51: Confirmed Specifications (Shared Platform Across the Handheld Range)**
 
 *(ESR366, ESR860, and ESR366C share this recognition and hardware platform. Exact dimension/weight differences beyond the ESRS51 are ⚠️ pending client confirmation.)*
 
@@ -108,7 +108,7 @@ A construction site, a warehouse aisle, or a field service call rarely has a wal
 
 ---
 
-### SECTION 5 — Applications
+### SECTION 5: Applications
 
 **H2: Where a Fixed Terminal Can't Reach**
 
@@ -117,11 +117,11 @@ A construction site, a warehouse aisle, or a field service call rarely has a wal
 - **Retail and inventory:** The ESR366C's HF card reader handles flexible label scanning for stock checks and loss prevention.
 - **Field operations and utilities:** GPS and 4G connectivity keep attendance and location data syncing from remote sites with no fixed network.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — venue fit invites inquiry)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, venue fit invites inquiry)
 
 ---
 
-### SECTION 6 — Customization Options
+### SECTION 6: Customization Options
 
 **H2: Add the Module the Job Actually Needs**
 
@@ -133,20 +133,20 @@ NFC, a QR code reader, a receipt or ticket printer, and a UHF reader are all opt
 
 ---
 
-### SECTION 7 — Downloads
+### SECTION 7: Downloads
 
 **H2: Documentation**
 
-- [ ] ESRS51 handheld terminal specification sheet (PDF) — ⚠️ add when finalized
-- [ ] Per-model spec sheets for ESR366, ESR860, ESR366C — ⚠️ pending client confirmation
-- [ ] SDK/API documentation — see [Contact page](/contact/) to request
-- [ ] Certification documents — see [Certifications page](/certifications/)
+- [ ] ESRS51 handheld terminal specification sheet (PDF), ⚠️ add when finalized
+- [ ] Per-model spec sheets for ESR366, ESR860, ESR366C, ⚠️ pending client confirmation
+- [ ] SDK/API documentation. See [Contact page](/contact/) to request
+- [ ] Certification documents. See [Certifications page](/certifications/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 8 — FAQ
+### SECTION 8: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -154,7 +154,7 @@ NFC, a QR code reader, a receipt or ticket printer, and a UHF reader are all opt
 A: ESR366 is the standard handheld face terminal. ESRS51 adds three-proof rugged housing (IP67). ESR860 adds a receipt/ticket printer. ESR366C uses a gun-grip form factor with an HF card reader for flexible label scanning.
 
 **Q: How rugged is it really?**
-A: IP67-rated against water and dust intrusion, with shock-resistant housing on the ESRS51 variant — built for construction sites and warehouse floors, not office desks.
+A: IP67-rated against water and dust intrusion, with shock-resistant housing on the ESRS51 variant, built for construction sites and warehouse floors, not office desks.
 
 **Q: How long does the battery last on a full shift?**
 A: The detachable 5000mAh battery is built for a full working shift, and a spare swaps in seconds rather than waiting for a recharge.
@@ -172,19 +172,19 @@ A: Built-in GPS, GLONASS, and BeiDou positioning timestamps and locates every sc
 
 ---
 
-### SECTION 9 — Related Products
+### SECTION 9: Related Products
 
 **H2: Related Products**
 
-- [Face Recognition Terminals](/face-recognition/) — fixed-installation version of the same recognition engine
-- [Alcohol Detection Devices](/alcohol-detection/) — combine with handheld attendance for site safety compliance
-- [Visitor Registration Machines](/visitor-registration/) — fixed-desk alternative for front-of-site check-in
+- [Face Recognition Terminals](/face-recognition/), fixed-installation version of the same recognition engine
+- [Alcohol Detection Devices](/alcohol-detection/), combine with handheld attendance for site safety compliance
+- [Visitor Registration Machines](/visitor-registration/), fixed-desk alternative for front-of-site check-in
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 10 — Final CTA
+### SECTION 10: Final CTA
 
 **H2: Get Pricing for a Handheld Face Recognition Terminal**
 
@@ -214,4 +214,4 @@ Send the site environment (construction, warehouse, retail, or field service) an
 
 ---
 
-**End of Handheld Face Recognition Terminals Category Content — Five-Pass Review Complete**
+**End of Handheld Face Recognition Terminals Category Content: Five-Pass Review Complete**

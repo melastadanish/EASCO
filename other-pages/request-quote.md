@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (Contact details and pricing policy from _syste
 Last Updated: 2026-07-08
 ---
 
-# Request Quote — Content
+# Request Quote: Content
 
 ## Page Metadata
 
@@ -19,7 +19,7 @@ Primary Keyword:   request a quote turnstile
 Secondary Keywords: EASCO pricing, access control system quote, bulk order pricing
 Search Intent:     Commercial (Transactional)
 Word Count Target: 400–700 words
-Meta Title:        Request a Quote — Turnstile & Access Control Pricing | EASCO
+Meta Title:        Request a Quote, Turnstile & Access Control Pricing | EASCO
 Meta Description:  Get factory-direct pricing on turnstile gates, face recognition terminals, and access control systems. Fixed quotes, no hidden charges. Reply within 1 hour.
 Page Type:         Conversion (CTA page)
 Primary Segment:   All segments
@@ -33,17 +33,17 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero / Page Intro
+### SECTION 1: Hero / Page Intro
 
 **H1: Request a Quote**
 
-A quote from EASCO stays fixed once confirmed in writing — no price increase between the quote and the invoice. Send the product, quantity, and destination below for pricing within one business day.
+A quote from EASCO stays fixed once confirmed in writing, no price increase between the quote and the invoice. Send the product, quantity, and destination below for pricing within one business day.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — pricing promise invites form completion)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, pricing promise invites form completion)
 
 ---
 
-### SECTION 2 — Quote Request Form
+### SECTION 2: Quote Request Form
 
 **H2: Tell Us What You Need**
 
@@ -58,39 +58,39 @@ A quote from EASCO stays fixed once confirmed in writing — no price increase b
 - Installation Environment (Indoor / Outdoor / Both)
 - Additional Requirements (free text)
 
-Submitting this form routes directly to EASCO's sales team — not a third-party reseller relaying the request onward.
+Submitting this form routes directly to EASCO's sales team, not a third-party reseller relaying the request onward.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (form is the CTA)
 
 ---
 
-### SECTION 3 — What Happens After You Submit
+### SECTION 3: What Happens After You Submit
 
 **H2: From Quote Request to Confirmed Order**
 
-**Step 1 — Reply within one business day.** A sales specialist reviews the requirement and responds with product recommendations and pricing.
+**Step 1, Reply within one business day.** A sales specialist reviews the requirement and responds with product recommendations and pricing.
 
-**Step 2 — Pricing confirmed in writing.** The quoted price is fixed once confirmed. Shipping is quoted separately based on the confirmed destination and volume.
+**Step 2, Pricing confirmed in writing.** The quoted price is fixed once confirmed. Shipping is quoted separately based on the confirmed destination and volume.
 
-**Step 3 — Sample or spec sheet on request.** Confirm product fit before committing to a full order volume.
+**Step 3, Sample or spec sheet on request.** Confirm product fit before committing to a full order volume.
 
-**Step 4 — Order and production timeline confirmed.** Standard products and OEM/custom orders each follow a separate, confirmed production timeline.
+**Step 4, Order and production timeline confirmed.** Standard products and OEM/custom orders each follow a separate, confirmed production timeline.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — process clarity invites submission)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, process clarity invites submission)
 
 ---
 
-### SECTION 4 — Why Pricing Stays Fixed
+### SECTION 4: Why Pricing Stays Fixed
 
 **H2: No Surprises Between Quote and Invoice**
 
 A quoted price changing at invoice stage is one of the most common complaints against overseas suppliers. EASCO's quoted price is fixed in writing once confirmed. Shipping is quoted separately based on the confirmed destination and volume, with no hidden charges added later. Factory-direct pricing also means no reseller markup sitting between the production line and the invoice.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — pricing transparency invites trust)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, pricing transparency invites trust)
 
 ---
 
-### SECTION 5 — FAQ
+### SECTION 5: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -113,11 +113,11 @@ A: Yes. Select "OEM/ODM" as the product category and describe the customization 
 
 ---
 
-### SECTION 6 — CTA
+### SECTION 6: CTA
 
 **H2: Get Your Quote Today**
 
-Product, quantity, and destination are enough to start — pricing comes back within one business day, fixed in writing.
+Product, quantity, and destination are enough to start, pricing comes back within one business day, fixed in writing.
 
 > **Submit Your Quote Request Above, or Contact Directly**
 > [WhatsApp: +86 13711422283](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
@@ -128,9 +128,9 @@ Product, quantity, and destination are enough to start — pricing comes back wi
 
 ## Internal Links Required
 
-- Link to [OEM/ODM page](/oem-odm/) — "OEM/ODM custom orders"
-- Link to [Contact page](/contact/) — alternate contact channels
+- Link to [OEM/ODM page](/oem-odm/), "OEM/ODM custom orders"
+- Link to [Contact page](/contact/), alternate contact channels
 
 ---
 
-**End of Request Quote Content — Five-Pass Review Complete**
+**End of Request Quote Content: Five-Pass Review Complete**

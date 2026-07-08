@@ -5,11 +5,11 @@ Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 4/4 terms present (exhibition, trade show, booth, industry event)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (16+ years exporting, factory direct) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ (O1, O11 covered) | CTAs ✅ (schedule meeting → contact) | AI-score ~9%
-Client Data Verified: 2026-07-08 (No specific confirmed exhibition dates, booth numbers, or event names are available in client-data-map.md — this page is structured to be honest about that gap rather than inventing show names or years.)
+Client Data Verified: 2026-07-08 (No specific confirmed exhibition dates, booth numbers, or event names are available in client-data-map.md, this page is structured to be honest about that gap rather than inventing show names or years.)
 Last Updated: 2026-07-08
 ---
 
-# Events & Exhibitions — Content
+# Events & Exhibitions: Content
 
 ## Page Metadata
 
@@ -33,17 +33,17 @@ Status:            ✅ Complete (pending confirmed event calendar from client)
 
 ---
 
-### SECTION 1 — Hero / Page Intro
+### SECTION 1: Hero / Page Intro
 
 **H1: Events & Exhibitions**
 
-Meeting a supplier in person, before committing to a container-sized order, changes the conversation. This page lists EASCO's confirmed trade show appearances as they're scheduled — contact the sales team directly to arrange a meeting in the meantime.
+Meeting a supplier in person, before committing to a container-sized order, changes the conversation. This page lists EASCO's confirmed trade show appearances as they're scheduled. Contact the sales team directly to arrange a meeting in the meantime.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — in-person meeting invites contact)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, in-person meeting invites contact)
 
 ---
 
-### SECTION 2 — Upcoming Events
+### SECTION 2: Upcoming Events
 
 **H2: Where to Meet EASCO**
 
@@ -55,7 +55,7 @@ No events are currently confirmed for publication. Contact EASCO directly to ask
 
 ---
 
-### SECTION 3 — Meet Us Without Waiting for a Show
+### SECTION 3: Meet Us Without Waiting for a Show
 
 **H2: A Video Call or Factory Visit Works Just as Well**
 
@@ -65,7 +65,7 @@ A trade show only happens a few times a year. EASCO offers a video call with the
 
 ---
 
-### SECTION 4 — FAQ
+### SECTION 4: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -88,11 +88,11 @@ A: Yes. Send the show name and dates, and the sales team will confirm whether EA
 
 ---
 
-### SECTION 5 — CTA
+### SECTION 5: CTA
 
 **H2: Schedule a Meeting Directly**
 
-Skip waiting for the next show — a video call or factory visit can happen this week.
+Skip waiting for the next show, a video call or factory visit can happen this week.
 
 > **Schedule a Meeting**
 > [WhatsApp: +86 13711422283](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
@@ -115,4 +115,4 @@ Skip waiting for the next show — a video call or factory visit can happen this
 
 ---
 
-**End of Events & Exhibitions Content — Five-Pass Review Complete**
+**End of Events & Exhibitions Content: Five-Pass Review Complete**

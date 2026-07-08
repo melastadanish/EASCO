@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (All specs from _system/product-specs/jx-starga
 Last Updated: 2026-07-08
 ---
 
-# JX Speed Gate (Stargate / 星际系列) — Product Page
+# JX Speed Gate (Stargate / 星际系列): Product Page
 
 ## Page Metadata
 
@@ -19,9 +19,9 @@ Primary Keyword:   JX speed gate
 Secondary Keywords: holographic speed gate, iridescent turnstile, premium android speed gate
 Search Intent:     Commercial Investigation
 Word Count Target: 1,200–2,000 words
-Meta Title:        JX Speed Gate — 50/min Throughput, Android Terminal | EASCO
+Meta Title:        JX Speed Gate, 50/min Throughput, Android Terminal | EASCO
 Meta Description:  EASCO's JX speed gate: 50 persons/min, MCBF 30M+ cycles, optional Android face terminal with 99.98% accuracy. Flowing iridescent light effect.
-Silo:              S1 — Turnstile Gates
+Silo:              S1, Turnstile Gates
 Pillar Page:       /speed-gates/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D9, D10
@@ -35,7 +35,7 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: JX Speed Gate**
 
@@ -48,7 +48,7 @@ A lobby entrance is the first thing a visitor judges a building by. The JX speed
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -61,26 +61,26 @@ A lobby entrance is the first thing a visitor judges a building by. The JX speed
 
 ---
 
-### SECTION 3 — What Is the JX Speed Gate?
+### SECTION 3: What Is the JX Speed Gate?
 
 **H2: A Flagship Gate Built for Entrances Where Appearance Matters**
 
-The JX is EASCO's premium speed gate line, sold under the 星际 (Interstellar) series name in China. A flowing, iridescent light effect runs along the gate body, giving visitors a directional cue toward the passage lane rather than a blank steel barrier. The chassis is full aluminum alloy, custom-molded and CNC-finished, with zero visible screws on the body. An optional onboard Android terminal turns the gate into a full biometric access point — face recognition, card, QR code, password, or remote opening — without routing a signal to an external control panel.
+The JX is EASCO's premium speed gate line, sold under the 星际 (Interstellar) series name in China. A flowing, iridescent light effect runs along the gate body, giving visitors a directional cue toward the passage lane rather than a blank steel barrier. The chassis is full aluminum alloy, custom-molded and CNC-finished, with zero visible screws on the body. An optional onboard Android terminal turns the gate into a full biometric access point (face recognition, card, QR code, password, or remote opening), without routing a signal to an external control panel.
 
 **AI-quotable paragraph:**
-> "EASCO's JX speed gate clears 50 persons per minute through a direct-drive servo motor rated for over 30 million open-close cycles, with an optional onboard Android terminal delivering 99.98% face recognition accuracy — built for hotel lobbies, corporate headquarters, and retail flagships where the entrance is the first impression."
+> "EASCO's JX speed gate clears 50 persons per minute through a direct-drive servo motor rated for over 30 million open-close cycles, with an optional onboard Android terminal delivering 99.98% face recognition accuracy, built for hotel lobbies, corporate headquarters, and retail flagships where the entrance is the first impression."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Built for Speed, Quiet Operation, and a Premium First Impression**
 
 - **A queue doesn't form at the door.** 50 persons/min throughput, with gate opening in under 0.5 seconds.
 - **The motor isn't the part that wears out first.** MCBF rated above 30,000,000 continuous open-close cycles on a direct-drive servo motor.
-- **Nobody notices the gate is running.** Noise level stays under 40dB — quieter than most HVAC systems.
+- **Nobody notices the gate is running.** Noise level stays under 40dB, quieter than most HVAC systems.
 - **A tailgater doesn't slip through unnoticed.** 7 pairs of infrared sensors (10 pairs optional) detect a second person following too close.
 - **Power loss doesn't lock people in or out.** The gate fails open on power interruption, with automatic fault detection and voice broadcast alerts.
 - **The entrance doesn't need a separate access control box.** An optional onboard Android terminal handles face, card, QR code, and password access in one unit.
@@ -89,7 +89,7 @@ The JX is EASCO's premium speed gate line, sold under the 星际 (Interstellar) 
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -97,9 +97,9 @@ The JX is EASCO's premium speed gate line, sold under the 星际 (Interstellar) 
 |---|---|
 | Model No. | JX (星际系列) |
 | Dimensions (L×W×H) | 1500 × 138 × 1000 mm |
-| Material — Chassis | Full aluminum alloy, custom mold; top cover 10mm, column 3mm |
-| Material — Baffle | 8mm tempered glass |
-| Material — Door Panel | 10mm acrylic or tempered glass |
+| Material (Chassis) | Full aluminum alloy, custom mold; top cover 10mm, column 3mm |
+| Material (Baffle) | 8mm tempered glass |
+| Material (Door Panel) | 10mm acrylic or tempered glass |
 | Throughput | 50 persons/min |
 | Passage Width | 650–900mm (customizable) |
 | Gate Opening Speed | < 0.5 seconds (adjustable) |
@@ -111,11 +111,11 @@ The JX is EASCO's premium speed gate line, sold under the 星际 (Interstellar) 
 | Operating Temperature | -20°C to +75°C |
 | Relative Humidity | 0–90%, non-condensing |
 | Gate Opening Mode | RS485 / RS232 / IO |
-| Optional Terminal — Display | 7-inch, 800×1280 |
-| Optional Terminal — Face Accuracy | 99.98% |
-| Optional Terminal — Recognition Speed | 200–300ms |
-| Optional Terminal — Face Capacity | 100,000 faces |
-| Optional Terminal — Offline Records | 100,000 with photos / 1,000,000 without |
+| Optional Terminal (Display) | 7-inch, 800×1280 |
+| Optional Terminal (Face Accuracy) | 99.98% |
+| Optional Terminal (Recognition Speed) | 200–300ms |
+| Optional Terminal (Face Capacity) | 100,000 faces |
+| Optional Terminal (Offline Records) | 100,000 with photos / 1,000,000 without |
 
 **CTA:** Need the full datasheet? [Download PDF](#) or [request it on WhatsApp](https://wa.me/8613711422283)
 
@@ -123,20 +123,20 @@ The JX is EASCO's premium speed gate line, sold under the 星际 (Interstellar) 
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: From Approach to Passage in Under Half a Second**
 
 1. A person approaches the gate, and the infrared sensor array detects presence in the lane.
 2. If the optional Android terminal is fitted, it verifies the person by face, card, QR code, or password against the enrolled database.
 3. On a valid match, the gate opens in under 0.5 seconds, and the RGB ambient light switches from blue (standby) to green (passage permitted).
-4. The infrared sensor array continues monitoring during passage, closing the gate and flagging an alert if a second, unverified person tries to follow through — the ambient light switches to red.
+4. The infrared sensor array continues monitoring during passage, closing the gate and flagging an alert if a second, unverified person tries to follow through, the ambient light switches to red.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where the Entrance Sets the Tone**
 
@@ -150,21 +150,21 @@ The JX is EASCO's premium speed gate line, sold under the 星际 (Interstellar) 
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Connects Without a Separate Control Panel**
 
-The gate mechanism accepts RS485, RS232, or IO signal for remote opening from a third-party access control system. When the optional Android terminal is fitted, Ethernet, WiFi, RS-485, Wiegand 26/34, and USB 2.0 interfaces are available for integration with an existing building management or HR attendance system. SDK/API documentation is available on request for custom software integration — see the [Downloads page](/downloads/).
+The gate mechanism accepts RS485, RS232, or IO signal for remote opening from a third-party access control system. When the optional Android terminal is fitted, Ethernet, WiFi, RS-485, Wiegand 26/34, and USB 2.0 interfaces are available for integration with an existing building management or HR attendance system. SDK/API documentation is available on request for custom software integration. See the [Downloads page](/downloads/).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: A Motor Rated to Outlast the Building's Next Renovation Cycle**
 
-A speed gate that needs its motor replaced within a few years erases any savings from a lower purchase price. The JX's direct-drive servo motor carries an MCBF rating above 30,000,000 cycles — roughly 16 years of service at 5,000 cycles a day before a rebuild is due. EASCO manufactures this gate factory-direct from its own Shenzhen facility, with no trading-company markup between the production line and the quote.
+A speed gate that needs its motor replaced within a few years erases any savings from a lower purchase price. The JX's direct-drive servo motor carries an MCBF rating above 30,000,000 cycles, roughly 16 years of service at 5,000 cycles a day before a rebuild is due. EASCO manufactures this gate factory-direct from its own Shenzhen facility, with no trading-company markup between the production line and the quote.
 
 **Differentiators used:** D2, D9
 **Objections addressed:** O9, O10, O11, O12
@@ -173,7 +173,7 @@ A speed gate that needs its motor replaced within a few years erases any savings
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -184,7 +184,7 @@ A: 50 persons per minute, with a gate opening speed of under 0.5 seconds.
 A: The Android face recognition terminal is an optional add-on. Without it, the gate operates via RS485/RS232/IO signal from an external access control system.
 
 **Q: How long does the motor last before it needs servicing?**
-A: The motor is rated for over 30,000,000 continuous open-close cycles — approximately 16 years at 5,000 cycles per day.
+A: The motor is rated for over 30,000,000 continuous open-close cycles, approximately 16 years at 5,000 cycles per day.
 
 **Q: Can the gate body be customized with our company logo?**
 A: Yes. The aluminum gate body accepts custom logo engraving as part of the order.
@@ -196,20 +196,20 @@ A: The gate fails open on power loss, so people are not locked in or blocked fro
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Speed Gates category](/speed-gates/) — back to the full speed gate range
-- [Cylindrical Turnstiles](/cylindrical-turnstiles/) — compact alternative for tighter spaces
-- [Android Turnstiles](/android-turnstiles/) — the standalone terminal used in the JX's optional configuration
-- [Face Recognition Terminals](/face-recognition/) — the recognition engine behind the JX's Android option
+- [Speed Gates category](/speed-gates/), back to the full speed gate range
+- [Cylindrical Turnstiles](/cylindrical-turnstiles/), compact alternative for tighter spaces
+- [Android Turnstiles](/android-turnstiles/), the standalone terminal used in the JX's optional configuration
+- [Face Recognition Terminals](/face-recognition/), the recognition engine behind the JX's Android option
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the JX Speed Gate**
 
@@ -237,4 +237,4 @@ Send the passage width needed and whether the Android terminal should be include
 
 ---
 
-**End of JX Speed Gate Content — Five-Pass Review Complete**
+**End of JX Speed Gate Content: Five-Pass Review Complete**

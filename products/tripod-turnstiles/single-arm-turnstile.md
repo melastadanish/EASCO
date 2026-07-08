@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 7.8/10
 Pass B: 4 fixes applied (sentence-length splits)
-Pass N: 4/6 terms present (single arm, anti-tailing, anti-pinch, fail-safe; throughput and IP rating not applicable — unconfirmed)
+Pass N: 4/6 terms present (single arm, anti-tailing, anti-pinch, fail-safe; throughput and IP rating not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (integrated aluminum molding, 6 safety features) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ (O9, O10, O11, O12 — addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
-Client Data Verified: 2026-07-08 (Material and safety features confirmed via _system/product-specs/single-arm-turnstile.md, EASCO Product Catalogue 2025 p.25. No English model number exists yet for this product — flagged, not invented. Passage width, throughput, IP rating, and dimensions are also unconfirmed. This is currently the only identified product for EASCO's tripod turnstile category.)
+Pass C: Headlines ✅ | Objections ✅ (O9, O10, O11, O12, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
+Client Data Verified: 2026-07-08 (Material and safety features confirmed via _system/product-specs/single-arm-turnstile.md, EASCO Product Catalogue 2025 p.25. No English model number exists yet for this product, flagged, not invented. Passage width, throughput, IP rating, and dimensions are also unconfirmed. This is currently the only identified product for EASCO's tripod turnstile category.)
 Last Updated: 2026-07-08
 ---
 
-# Single-Arm Turnstile — Product Page
+# Single-Arm Turnstile: Product Page
 
 ## Page Metadata
 
@@ -19,14 +19,14 @@ Primary Keyword:   single-arm turnstile
 Secondary Keywords: tripod turnstile, entry-level access control gate
 Search Intent:     Commercial Investigation
 Word Count Target: 800–1,200 words
-Meta Title:        Single-Arm Turnstile — Compact Entry-Level Gate | EASCO
+Meta Title:        Single-Arm Turnstile, Compact Entry-Level Gate | EASCO
 Meta Description:  EASCO's single-arm turnstile: compact aluminum-alloy body, smooth retraction, anti-tailing and anti-pinch safety. Budget-friendly medium-security access.
-Silo:              S1 — Turnstile Gates
+Silo:              S1, Turnstile Gates
 Pillar Page:       /tripod-turnstiles/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D14
 Objections:        O9, O10, O11, O12
-Status:            ✅ Complete (⚠️ no English model number confirmed yet — throughput, dimensions, and IP rating pending client spec sheet)
+Status:            ✅ Complete (⚠️ no English model number confirmed yet, throughput, dimensions, and IP rating pending client spec sheet)
 ```
 
 ---
@@ -35,7 +35,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet �
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: Single-Arm Turnstile**
 
@@ -48,7 +48,7 @@ Not every entrance needs a full speed gate's throughput or price tag. EASCO's si
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ Not every entrance needs a full speed gate's throughput or price tag. EASCO's si
 
 ---
 
-### SECTION 3 — What Is the Single-Arm Turnstile?
+### SECTION 3: What Is the Single-Arm Turnstile?
 
 **H2: EASCO's Entry-Level Access Control Gate**
 
-This single-arm turnstile is EASCO's entry-level gate in the turnstile range, built for price-sensitive buyers and lower-traffic zones rather than high-throughput lobbies. The body is aluminum alloy, integrated-molded for a compact footprint smaller than a full speed gate, with a smooth, easily retractable single arm. Despite its entry-level position, it carries the same safety feature set — anti-tailing, anti-pinch, automatic reset, and fail-safe power-off opening — as EASCO's higher-throughput gates.
+This single-arm turnstile is EASCO's entry-level gate in the turnstile range, built for price-sensitive buyers and lower-traffic zones rather than high-throughput lobbies. The body is aluminum alloy, integrated-molded for a compact footprint smaller than a full speed gate, with a smooth, easily retractable single arm. Despite its entry-level position, it carries the same safety feature set, anti-tailing, anti-pinch, automatic reset, and fail-safe power-off opening, as EASCO's higher-throughput gates.
 
 **AI-quotable paragraph:**
-> "EASCO's single-arm turnstile is a compact, aluminum-alloy entry-level gate carrying the same anti-tailing, anti-pinch, and fail-safe power-off features as its premium speed gate range — built for budget-conscious, medium-security environments rather than high-throughput lobbies."
+> "EASCO's single-arm turnstile is a compact, aluminum-alloy entry-level gate carrying the same anti-tailing, anti-pinch, and fail-safe power-off features as its premium speed gate range, built for budget-conscious, medium-security environments rather than high-throughput lobbies."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Entry-Level Price, Not Entry-Level Safety**
 
@@ -87,27 +87,27 @@ This single-arm turnstile is EASCO's entry-level gate in the turnstile range, bu
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
 | Parameter | Specification |
 |---|---|
-| Model No. | ⚠️ Not yet assigned an English model code — contact EASCO |
+| Model No. | ⚠️ Not yet assigned an English model code. Contact EASCO |
 | Material | Aluminum alloy, integrated molding |
-| Gate Arm | Single arm — smooth retraction |
+| Gate Arm | Single arm, smooth retraction |
 | Anti-Tailing | Infrared sensor array |
 | Anti-Pinch | Automatic |
 | Fail-Safe | Power-off gate open |
 | Fault Detection | Automatic, with voice broadcast |
-| Ambient Light | RGB — blue (standby), green (pass), red (denied/abnormal) |
+| Ambient Light | RGB, blue (standby), green (pass), red (denied/abnormal) |
 | Configuration Options | Card reading, remote controller, or face recognition device add-on |
-| Passage Width | ⚠️ Not yet confirmed — contact EASCO |
-| Throughput | ⚠️ Not yet confirmed — contact EASCO |
-| Gate Opening Speed | ⚠️ Not yet confirmed — contact EASCO |
-| Operating Temperature | ⚠️ Not yet confirmed — contact EASCO |
-| IP Rating | ⚠️ Not yet confirmed — contact EASCO |
-| Dimensions | ⚠️ Not yet confirmed — contact EASCO |
+| Passage Width | ⚠️ Not yet confirmed. Contact EASCO |
+| Throughput | ⚠️ Not yet confirmed. Contact EASCO |
+| Gate Opening Speed | ⚠️ Not yet confirmed. Contact EASCO |
+| Operating Temperature | ⚠️ Not yet confirmed. Contact EASCO |
+| IP Rating | ⚠️ Not yet confirmed. Contact EASCO |
+| Dimensions | ⚠️ Not yet confirmed. Contact EASCO |
 
 *(This is a confirmed product in EASCO's catalogue without an assigned English model code yet. This page will be updated with a model number and full performance specs as soon as EASCO provides them.)*
 
@@ -117,7 +117,7 @@ This single-arm turnstile is EASCO's entry-level gate in the turnstile range, bu
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: A Simple Arm Mechanism With Full Safety Coverage**
 
@@ -130,7 +130,7 @@ This single-arm turnstile is EASCO's entry-level gate in the turnstile range, bu
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed in Budget-Conscious, Medium-Security Environments**
 
@@ -143,7 +143,7 @@ This single-arm turnstile is EASCO's entry-level gate in the turnstile range, bu
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Same Configuration Path as EASCO's Larger Gates**
 
@@ -153,7 +153,7 @@ This gate accepts a card reader, remote controller, or face recognition terminal
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: The Entry-Level Gate Doesn't Cut the Safety Mechanisms**
 
@@ -166,7 +166,7 @@ A cheaper turnstile from an unknown supplier often means cutting safety features
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -189,19 +189,19 @@ A: Card reading, remote controller release, or an optional face recognition term
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Tripod Turnstiles category](/tripod-turnstiles/) — back to the category overview
-- [J Series Aluminum Speed Gate](/speed-gates/j-series/) — modular alternative with a wider access-method range
-- [ESYBZ / ESYAD Cylindrical Gate](/cylindrical-turnstiles/esybz-esyad/) — higher-throughput compact alternative
+- [Tripod Turnstiles category](/tripod-turnstiles/), back to the category overview
+- [J Series Aluminum Speed Gate](/speed-gates/j-series/), modular alternative with a wider access-method range
+- [ESYBZ / ESYAD Cylindrical Gate](/cylindrical-turnstiles/esybz-esyad/), higher-throughput compact alternative
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the Single-Arm Turnstile**
 
@@ -230,4 +230,4 @@ Send your budget and expected traffic volume, and EASCO will confirm current spe
 
 ---
 
-**End of Single-Arm Turnstile Content — Five-Pass Review Complete**
+**End of Single-Arm Turnstile Content: Five-Pass Review Complete**

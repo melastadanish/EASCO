@@ -16,7 +16,7 @@ Last Updated: 2026-07-02
 **Secondary Keywords:** face recognition access control, speed gate turnstile, biometric access control manufacturer, access control hardware factory  
 **Search Intent:** Commercial / Navigational  
 **Word Count Target:** 1,200–1,500 words  
-**Meta Title:** EASCO — Turnstile Gate & Biometric Access Control Manufacturer | Shenzhen  
+**Meta Title:** EASCO, Turnstile Gate & Biometric Access Control Manufacturer | Shenzhen  
 **Meta Description:** EASCO manufactures turnstile gates, face recognition terminals, and biometric access control devices. 20 years experience, ISO certified, OEM/ODM available. Factory direct from Shenzhen.  
 **Page Type:** Conversion  
 **Primary Segment:** Importer/Distributor (S3)  
@@ -26,14 +26,14 @@ Last Updated: 2026-07-02
 
 ---
 
-## SECTION 1 — Hero Section
+## SECTION 1: Hero Section
 
 **Label:** FACTORY DIRECT ACCESS CONTROL
 
 **H1:** Turnstile Gates and Face Recognition Terminals. Factory Direct from Shenzhen.
 
 **Subheading:**  
-Your airport terminal needs 45 people per minute through the gate. Your office lobby needs liveness detection that rejects photos. EASCO manufactures both — from a 3,000-square-meter Shenzhen facility. Founded December 2009. National High-Tech Enterprise.
+Your airport terminal needs 45 people per minute through the gate. Your office lobby needs liveness detection that rejects photos. EASCO manufactures both, from a 3,000-square-meter Shenzhen facility. Founded December 2009. National High-Tech Enterprise.
 
 **Trust Bullets:**
 - ✓ CE · ISO 9001 Certified
@@ -47,15 +47,15 @@ Your airport terminal needs 45 people per minute through the gate. Your office l
 
 ---
 
-## SECTION 2 — Client Logo Strip
+## SECTION 2: Client Logo Strip
 
 **Label:** Trusted By:
 
-[Client logos to be provided — 6 logos in marquee scroll]
+[Client logos to be provided, 6 logos in marquee scroll]
 
 ---
 
-## SECTION 3 — Product Categories
+## SECTION 3: Product Categories
 
 **Section Label:** OUR PRODUCTS
 
@@ -104,7 +104,7 @@ Field-ready terminals for outdoor attendance tracking. Built-in face recognition
 
 ---
 
-## SECTION 4 — Why Choose EASCO (Factory Direct Section)
+## SECTION 4: Why Choose EASCO (Factory Direct Section)
 
 **Section Label:** WHY ORDER FROM EASCO
 
@@ -114,32 +114,32 @@ Field-ready terminals for outdoor attendance tracking. Built-in face recognition
 You work with the factory that builds the hardware, writes the firmware, and ships the finished unit. Not a trading company that marks up someone else's product.
 
 ### Feature 1: Factory Direct Pricing
-Your quote comes from Building 20, Dahe Industrial Zone, Guanlan Street, Shenzhen — same address since December 2009. The team answering your email designed the circuit board. Your cost is lower because there is no reseller in between. 3,000+ square meters of manufacturing space dedicated to access control hardware.
+Your quote comes from Building 20, Dahe Industrial Zone, Guanlan Street, Shenzhen, same address since December 2009. The team answering your email designed the circuit board. Your cost is lower because there is no reseller in between. 3,000+ square meters of manufacturing space dedicated to access control hardware.
 
 ### Feature 2: Consistent Quality Across Orders
 ISO 9001 quality management governs every production run. The first sample and the 500th unit are built to the same specification. Inspection reports provided on request.
 
 ### Feature 3: Single-Source Supply Chain
-Eliminate delays caused by multi-vendor coordination. EASCO handles hardware assembly, biometric module integration, software APIs, and international shipping from one facility. RS485, Wiegand 26/34, and TCP/IP interfaces are standard — your existing access control software connects without custom integration.
+Eliminate delays caused by multi-vendor coordination. EASCO handles hardware assembly, biometric module integration, software APIs, and international shipping from one facility. RS485, Wiegand 26/34, and TCP/IP interfaces are standard, your existing access control software connects without custom integration.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-## SECTION 5 — Core Technology
+## SECTION 5: Core Technology
 
 **Section Label:** CORE TECHNOLOGY
 
 **H2:** Financial-Grade Liveness Detection. 10-Million-Cycle Motors.
 
 **Subheading:**  
-Basic face recognition is a security risk. A photo on a phone screen fools consumer-grade systems. EASCO terminals use dual-lens cameras with 3D depth analysis — the system verifies a live human is present.
+Basic face recognition is a security risk. A photo on a phone screen fools consumer-grade systems. EASCO terminals use dual-lens cameras with 3D depth analysis. The system verifies a live human is present.
 
 ### Technology 1: Financial-Grade Liveness Detection
-Dual-lens cameras with 3D depth analysis verify that a live human is present — not a photograph, video replay, or printed mask. Tested to financial-sector standards. Not consumer-grade software.
+Dual-lens cameras with 3D depth analysis verify that a live human is present, not a photograph, video replay, or printed mask. Tested to financial-sector standards. Not consumer-grade software.
 
 ### Technology 2: Brushless DC Motor Precision
-Brushless DC motors last longer than standard drives. The cylindrical speed gate opens in 0.3 seconds. Mean Cycles Between Failures (MCBF) exceeds 10 million operations — equivalent to 15 years in a building processing 2,000 entries daily. Gate automatically opens during power outages.
+Brushless DC motors last longer than standard drives. The cylindrical speed gate opens in 0.3 seconds. Mean Cycles Between Failures (MCBF) exceeds 10 million operations, equivalent to 15 years in a building processing 2,000 entries daily. Gate automatically opens during power outages.
 
 ### Technology 3: Intelligent Anti-Tailgating
 High-density infrared sensor arrays monitor the passage zone in real-time. The logic controller differentiates between authorized luggage and an unauthorized trailing person. Alarm triggers before the breach completes.
@@ -151,7 +151,7 @@ Proprietary systems lock you into one vendor. EASCO provides open APIs, Wiegand 
 
 ---
 
-## SECTION 6 — Stats Counter Section
+## SECTION 6: Stats Counter Section
 
 **4 Animated Counters:**
 
@@ -171,7 +171,7 @@ Proprietary systems lock you into one vendor. EASCO provides open APIs, Wiegand 
 
 ---
 
-## SECTION 7 — Why EASCO (Factory Trust Section)
+## SECTION 7: Why EASCO (Factory Trust Section)
 
 **Section Label:** WHY EASCO
 
@@ -184,10 +184,10 @@ Founded December 2009. 80,000+ installations across 50+ countries. National High
 16 years building turnstiles and access control hardware. Not a diversified electronics manufacturer. EASCO engineers specialize in entry security and traffic management. Every product iteration improves throughput, durability, and anti-tailgating detection. 10+ R&D team members with deep domain expertise.
 
 ### Feature 2: 10-Million-Cycle Testing
-Every turnstile gate is stress-tested beyond industry minimums before dispatch. The cylindrical speed gate completes 10 million open-close cycles in the factory test rig — equivalent to 15 years of real-world operation.
+Every turnstile gate is stress-tested beyond industry minimums before dispatch. The cylindrical speed gate completes 10 million open-close cycles in the factory test rig, equivalent to 15 years of real-world operation.
 
 ### Feature 3: Verified Certifications
-CE (RED 2014/53/EU), FCC Part 15B, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018. Certificates issued by accredited third-party bodies — not self-declared compliance. CE certified by Shenzhen BKC Testing Co. ISO 9001 certified by Wozhong Certification (certificate 033823Q01861R0SPVLCVG). Valid until 14 June 2026. Documentation provided with every order.
+CE (RED 2014/53/EU), FCC Part 15B, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018. Certificates issued by accredited third-party bodies, not self-declared compliance. CE certified by Shenzhen BKC Testing Co. ISO 9001 certified by Wozhong Certification (certificate 033823Q01861R0SPVLCVG). Valid until 14 June 2026. Documentation provided with every order.
 
 ### Feature 4: OEM/ODM Available
 Custom housing dimensions, material finish, biometric module selection, and firmware interface available within the OEM program. Prototype lead time 30–45 days. Flexible MOQ for established projects.
@@ -196,7 +196,7 @@ Custom housing dimensions, material finish, biometric module selection, and firm
 
 ---
 
-## SECTION 8 — Solutions by Industry
+## SECTION 8: Solutions by Industry
 
 **Section Label:** SOLUTIONS BY INDUSTRY
 
@@ -231,7 +231,7 @@ Iris recognition and high-security turnstiles for government facilities, embassi
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
-## SECTION 9 — FAQ
+## SECTION 9: FAQ
 
 **H2:** Frequently Asked Questions
 
@@ -242,7 +242,7 @@ A: EASCO manufactures in-house at Building 20, Dahe Industrial Zone, Guanlan Str
 A: Standard interfaces include RS485, Wiegand 26/34, and TCP/IP. SDK and API documentation provided. Most building management systems and time-attendance platforms connect without custom integration.
 
 **Q3: What is the lead time for a standard order?**  
-A: Standard products typically ship within 15–20 business days after order confirmation. OEM/custom orders require prototype approval first — prototype lead time 30–45 days.
+A: Standard products typically ship within 15–20 business days after order confirmation. OEM/custom orders require prototype approval first, prototype lead time 30–45 days.
 
 **Q4: Are the certifications real?**  
 A: Certificates issued by accredited bodies. CE by Shenzhen BKC Testing Co., Ltd. (certificate BKC25104386KC). ISO 9001 by Wozhong Certification (certificate 033823Q01861R0SPVLCVG, valid until 14 June 2026). Documentation provided with every order.
@@ -251,7 +251,7 @@ A: Certificates issued by accredited bodies. CE by Shenzhen BKC Testing Co., Ltd
 A: Factory visits welcome by appointment. Video factory tour available for international buyers who cannot travel. Contact via WhatsApp +86 13711422283 or email hwenyin280@gmail.com.
 
 **Q6: What happens if a unit fails after delivery?**  
-A: Remote diagnosis via WhatsApp or video call first — most issues resolved without return. Spare parts shipped internationally. Warranty period varies by product category — confirm at quote stage.
+A: Remote diagnosis via WhatsApp or video call first, most issues resolved without return. Spare parts shipped internationally. Warranty period varies by product category. Confirm at quote stage.
 
 **Q7: What biometric modes are available?**  
 A: Face recognition (99.98% accuracy), palm vein recognition (FAR below 0.0001%), iris recognition (1-in-10,000,000 misrecognition rate), fingerprint, and card/QR code readers. Multi-modal terminals available.
@@ -263,7 +263,7 @@ A: Yes. Wiegand 26/34, RS485, TCP/IP, HTTP, and MQTT supported. SDK documentatio
 
 ---
 
-## SECTION 10 — Final CTA
+## SECTION 10: Final CTA
 
 **H2:** Request a Quote for Your Project
 

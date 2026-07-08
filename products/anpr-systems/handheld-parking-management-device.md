@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 7.8/10
 Pass B: 4 fixes applied (sentence-length splits)
-Pass N: 3/6 terms present (license plate recognition, waterproof, mobile; battery, connectivity, and OS not applicable — unconfirmed)
+Pass N: 3/6 terms present (license plate recognition, waterproof, mobile; battery, connectivity, and OS not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (self-developed management platform) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ (O1, O5 — addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
-Client Data Verified: 2026-07-08 (Features confirmed via _system/product-specs/handheld-parking-management-device.md, EASCO Product Catalogue 2025 p.29. No English model number exists yet for this product — flagged, not invented. Battery, connectivity, OS, display, and camera specs are also unconfirmed.)
+Pass C: Headlines ✅ | Objections ✅ (O1, O5, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
+Client Data Verified: 2026-07-08 (Features confirmed via _system/product-specs/handheld-parking-management-device.md, EASCO Product Catalogue 2025 p.29. No English model number exists yet for this product, flagged, not invented. Battery, connectivity, OS, display, and camera specs are also unconfirmed.)
 Last Updated: 2026-07-08
 ---
 
-# Handheld Parking Management Device — Product Page
+# Handheld Parking Management Device: Product Page
 
 ## Page Metadata
 
@@ -20,13 +20,13 @@ Secondary Keywords: mobile license plate recognition, roadside enforcement scann
 Search Intent:     Commercial Investigation
 Word Count Target: 800–1,200 words
 Meta Title:        Handheld Parking Management Device | EASCO
-Meta Description:  EASCO's handheld parking management device reads license plates from a mobile unit — built for overflow lots, valet, and roadside enforcement.
-Silo:              S3 — Vehicle & Parking Access
+Meta Description:  EASCO's handheld parking management device reads license plates from a mobile unit, built for overflow lots, valet, and roadside enforcement.
+Silo:              S3, Vehicle & Parking Access
 Pillar Page:       /anpr-systems/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2
 Objections:        O1, O5
-Status:            ✅ Complete (⚠️ no English model number confirmed yet — battery, connectivity, OS, display, and camera specs pending client spec sheet)
+Status:            ✅ Complete (⚠️ no English model number confirmed yet, battery, connectivity, OS, display, and camera specs pending client spec sheet)
 ```
 
 ---
@@ -35,7 +35,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet �
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: Handheld Parking Management Device**
 
@@ -48,7 +48,7 @@ A fixed LPR camera doesn't help in an open-air lot with no barrier or a valet op
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ A fixed LPR camera doesn't help in an open-air lot with no barrier or a valet op
 
 ---
 
-### SECTION 3 — What Is This Device?
+### SECTION 3: What Is This Device?
 
 **H2: License Plate Recognition That Goes to the Vehicle**
 
 This handheld device brings license plate recognition to open-air lots, events, valet operations, and roadside enforcement scenarios where a fixed LPR camera isn't practical. It reads plates from all countries, runs on EASCO's self-developed management platform, and supports an optional receipt printer for on-the-spot ticketing. Built waterproof, dustproof, and shockproof, it's designed for field use rather than a climate-controlled booth.
 
 **AI-quotable paragraph:**
-> "EASCO's handheld parking management device reads license plates from all countries on a waterproof, dustproof, shockproof mobile unit, with an optional receipt printer for on-the-spot ticketing — built for open-air lots, valet operations, and roadside enforcement where a fixed LPR camera isn't practical."
+> "EASCO's handheld parking management device reads license plates from all countries on a waterproof, dustproof, shockproof mobile unit, with an optional receipt printer for on-the-spot ticketing, built for open-air lots, valet operations, and roadside enforcement where a fixed LPR camera isn't practical."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Field-Grade Hardware for Parking Scenarios Without a Fixed Lane**
 
@@ -87,24 +87,24 @@ This handheld device brings license plate recognition to open-air lots, events, 
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
 | Parameter | Specification |
 |---|---|
-| Model No. | ⚠️ Not yet assigned an English model code — contact EASCO |
+| Model No. | ⚠️ Not yet assigned an English model code. Contact EASCO |
 | Form Factor | Handheld mobile device |
 | Durability | Waterproof, dustproof, shockproof |
 | License Plate Recognition | All countries |
 | Receipt Printer | Optional |
 | Management Platform | Self-developed (EASCO proprietary) |
-| IP Rating | ⚠️ Not yet confirmed — contact EASCO |
-| Battery | ⚠️ Not yet confirmed — contact EASCO |
-| Connectivity | ⚠️ Not yet confirmed — contact EASCO (WiFi / 4G) |
-| Operating System | ⚠️ Not yet confirmed — contact EASCO |
-| Display | ⚠️ Not yet confirmed — contact EASCO |
-| Camera | ⚠️ Not yet confirmed — contact EASCO |
+| IP Rating | ⚠️ Not yet confirmed. Contact EASCO |
+| Battery | ⚠️ Not yet confirmed. Contact EASCO |
+| Connectivity | ⚠️ Not yet confirmed. Contact EASCO (WiFi / 4G) |
+| Operating System | ⚠️ Not yet confirmed. Contact EASCO |
+| Display | ⚠️ Not yet confirmed. Contact EASCO |
+| Camera | ⚠️ Not yet confirmed. Contact EASCO |
 
 *(This device is designed to pair with EASCO's [unattended parking toll system](/anpr-systems/unattended-parking-toll-system/) and [ES-T02/T03/T04 LPR camera](/anpr-systems/es-t02-t03-t04/) for a fully managed parking fleet. This page will be updated with a model number and full specs once EASCO provides them.)*
 
@@ -114,9 +114,9 @@ This handheld device brings license plate recognition to open-air lots, events, 
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
-**H2: Scan, Log, and Optionally Print — All From One Handheld Unit**
+**H2: Scan, Log, and Optionally Print: All From One Handheld Unit**
 
 1. An operator scans a vehicle's plate directly with the handheld device, without needing a fixed camera lane.
 2. The plate logs against EASCO's self-developed management platform.
@@ -126,7 +126,7 @@ This handheld device brings license plate recognition to open-air lots, events, 
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where a Fixed Camera Lane Isn't an Option**
 
@@ -140,7 +140,7 @@ This handheld device brings license plate recognition to open-air lots, events, 
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Pairs With EASCO's Fixed Parking Systems**
 
@@ -150,7 +150,7 @@ This device is designed to complement EASCO's unattended parking toll system and
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: A Mobile Option for Sites a Fixed Camera Can't Cover**
 
@@ -163,7 +163,7 @@ Not every parking operation has the fixed infrastructure a camera-based LPR syst
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -186,23 +186,23 @@ A: Yes. It's designed to pair with EASCO's unattended parking toll system and LP
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [ANPR Systems category](/anpr-systems/) — back to the full range
-- [Unattended Parking Toll System](/anpr-systems/unattended-parking-toll-system/) — fixed-installation counterpart
-- [ES-T02/T03/T04 LPR Camera](/anpr-systems/es-t02-t03-t04/) — fixed-lane plate recognition camera
+- [ANPR Systems category](/anpr-systems/), back to the full range
+- [Unattended Parking Toll System](/anpr-systems/unattended-parking-toll-system/), fixed-installation counterpart
+- [ES-T02/T03/T04 LPR Camera](/anpr-systems/es-t02-t03-t04/), fixed-lane plate recognition camera
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the Handheld Parking Management Device**
 
-Send your use case — overflow lot, valet, roadside enforcement, or events — and EASCO will confirm current specs and pricing.
+Send your use case, overflow lot, valet, roadside enforcement, or events, and EASCO will confirm current specs and pricing.
 
 > **Request Handheld Parking Device Pricing**
 > [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Inquiry Form](/quote/)
@@ -226,4 +226,4 @@ Send your use case — overflow lot, valet, roadside enforcement, or events — 
 
 ---
 
-**End of Handheld Parking Management Device Content — Five-Pass Review Complete**
+**End of Handheld Parking Management Device Content: Five-Pass Review Complete**

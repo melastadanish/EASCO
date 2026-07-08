@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 7.7/10
 Pass B: 4 fixes applied (sentence-length splits)
-Pass N: 3/6 terms present (waterproof, stainless steel, hydraulic; throughput, IP rating, dimensions not applicable — unconfirmed)
+Pass N: 3/6 terms present (waterproof, stainless steel, hydraulic; throughput, IP rating, dimensions not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (304 stainless, dual diameter options) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ (O9, O10 — addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
-Client Data Verified: 2026-07-08 (Material, body diameters, and safety mechanism confirmed via _system/product-specs/stainless-swing-gate-304.md, EASCO Product Catalogue 2025 p.22/24. No English model number exists yet for this product — flagged, not invented. Passage width, throughput, IP rating, and operating temperature are also unconfirmed.)
+Pass C: Headlines ✅ | Objections ✅ (O9, O10, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
+Client Data Verified: 2026-07-08 (Material, body diameters, and safety mechanism confirmed via _system/product-specs/stainless-swing-gate-304.md, EASCO Product Catalogue 2025 p.22/24. No English model number exists yet for this product, flagged, not invented. Passage width, throughput, IP rating, and operating temperature are also unconfirmed.)
 Last Updated: 2026-07-08
 ---
 
-# 304 Stainless Steel Swing Gate — Product Page
+# 304 Stainless Steel Swing Gate: Product Page
 
 ## Page Metadata
 
@@ -19,14 +19,14 @@ Primary Keyword:   stainless steel swing gate turnstile
 Secondary Keywords: waterproof turnstile, 304 stainless cylindrical gate
 Search Intent:     Commercial Investigation
 Word Count Target: 800–1,200 words
-Meta Title:        304 Stainless Steel Swing Gate — Waterproof Turnstile | EASCO
+Meta Title:        304 Stainless Steel Swing Gate, Waterproof Turnstile | EASCO
 Meta Description:  EASCO's 304 stainless steel swing gate: waterproof, hydraulic lifting rods, 108mm or 168mm cylindrical body. Built for outdoor and damp environments.
-Silo:              S1 — Turnstile Gates
+Silo:              S1, Turnstile Gates
 Pillar Page:       /cylindrical-turnstiles/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2
 Objections:        O9, O10
-Status:            ✅ Complete (⚠️ no English model number confirmed yet — throughput, IP rating, and dimensions pending client spec sheet)
+Status:            ✅ Complete (⚠️ no English model number confirmed yet, throughput, IP rating, and dimensions pending client spec sheet)
 ```
 
 ---
@@ -35,7 +35,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet �
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: 304 Stainless Steel Swing Gate**
 
@@ -48,7 +48,7 @@ An aluminum gate left outdoors in a coastal or high-humidity climate corrodes fa
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,7 +60,7 @@ An aluminum gate left outdoors in a coastal or high-humidity climate corrodes fa
 
 ---
 
-### SECTION 3 — What Is This Gate?
+### SECTION 3: What Is This Gate?
 
 **H2: A Waterproof Alternative to EASCO's Aluminum Turnstile Range**
 
@@ -73,7 +73,7 @@ This 304 stainless steel swing gate is built for outdoor and damp environments w
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Built for Environments an Aluminum Gate Wasn't**
 
@@ -87,25 +87,25 @@ This 304 stainless steel swing gate is built for outdoor and damp environments w
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
 | Parameter | Specification |
 |---|---|
-| Model No. | ⚠️ Not yet assigned an English model code — contact EASCO |
+| Model No. | ⚠️ Not yet assigned an English model code. Contact EASCO |
 | Chinese Product Names | 168不锈钢圆柱摆闸 (168mm) / 不锈钢圆角摆闸 / 不锈钢直角摆闸 |
 | Material | 304 stainless steel |
 | Body Diameter | 108mm or 168mm |
 | Waterproof | Yes |
 | Infrared Sensors | Distributed up and down the column |
 | Arm Mechanism | Hydraulic lifting rods |
-| Passage Width | ⚠️ Not yet confirmed — contact EASCO |
-| Throughput | ⚠️ Not yet confirmed — contact EASCO |
-| Gate Opening Speed | ⚠️ Not yet confirmed — contact EASCO |
-| Operating Temperature | ⚠️ Not yet confirmed — contact EASCO |
-| IP Rating | ⚠️ Not yet confirmed — contact EASCO |
-| Power Supply | ⚠️ Not yet confirmed — contact EASCO |
+| Passage Width | ⚠️ Not yet confirmed. Contact EASCO |
+| Throughput | ⚠️ Not yet confirmed. Contact EASCO |
+| Gate Opening Speed | ⚠️ Not yet confirmed. Contact EASCO |
+| Operating Temperature | ⚠️ Not yet confirmed. Contact EASCO |
+| IP Rating | ⚠️ Not yet confirmed. Contact EASCO |
+| Power Supply | ⚠️ Not yet confirmed. Contact EASCO |
 
 *(This is a confirmed product in EASCO's catalogue without an assigned English model code yet. This page will be updated with a model number and full performance specs as soon as EASCO provides them.)*
 
@@ -115,7 +115,7 @@ This 304 stainless steel swing gate is built for outdoor and damp environments w
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: A Hydraulic Arm, Not a Spring**
 
@@ -127,7 +127,7 @@ This 304 stainless steel swing gate is built for outdoor and damp environments w
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where an Aluminum Gate Wouldn't Hold Up**
 
@@ -139,7 +139,7 @@ This 304 stainless steel swing gate is built for outdoor and damp environments w
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Same Configuration Options as EASCO's Aluminum Range**
 
@@ -149,7 +149,7 @@ This gate accepts a card reader, remote controller, or face recognition terminal
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: A Material Choice for Climates Aluminum Wasn't Built For**
 
@@ -162,7 +162,7 @@ Specifying an aluminum gate for a coastal or high-humidity site trades a lower p
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -173,7 +173,7 @@ A: An English model code has not yet been assigned. Contact EASCO to confirm cur
 A: Both share the same material and mechanism; the diameter affects the installation footprint. Confirm with EASCO which fits your specific passage width requirement.
 
 **Q: Is this gate rated for direct rain exposure?**
-A: It's built waterproof for outdoor use. A formal IP rating is not yet confirmed — contact EASCO before specifying an uncovered, high-exposure installation.
+A: It's built waterproof for outdoor use. A formal IP rating is not yet confirmed. Contact EASCO before specifying an uncovered, high-exposure installation.
 
 **Q: What access methods does it support?**
 A: Card reading, remote controller release, or an optional face recognition terminal add-on.
@@ -185,19 +185,19 @@ A: Stainless steel resists corrosion better in coastal, humid, or heavily washed
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Cylindrical Turnstiles category](/cylindrical-turnstiles/) — back to the full range
-- [ESYBZ / ESYAD Cylindrical Gate](/cylindrical-turnstiles/esybz-esyad/) — aluminum alternative with confirmed throughput
-- [Luxury Stainless Speed Gate](/speed-gates/luxury-stainless-speed-gate/) — premium stainless alternative
+- [Cylindrical Turnstiles category](/cylindrical-turnstiles/), back to the full range
+- [ESYBZ / ESYAD Cylindrical Gate](/cylindrical-turnstiles/esybz-esyad/), aluminum alternative with confirmed throughput
+- [Luxury Stainless Speed Gate](/speed-gates/luxury-stainless-speed-gate/), premium stainless alternative
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the Stainless Steel Swing Gate**
 
@@ -226,4 +226,4 @@ Send your installation environment and preferred body diameter, and EASCO will c
 
 ---
 
-**End of 304 Stainless Steel Swing Gate Content — Five-Pass Review Complete**
+**End of 304 Stainless Steel Swing Gate Content: Five-Pass Review Complete**

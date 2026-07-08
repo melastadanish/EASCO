@@ -1,5 +1,5 @@
 ---
-Status: READY FOR DEVELOPMENT — Complete (named projects confirmed unavailable, not pending)
+Status: READY FOR DEVELOPMENT, Complete (named projects confirmed unavailable, not pending)
 Pass A: 8.1/10 (scored on completed sections only, per template fallback rule)
 Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 4/4 terms present (case study, throughput, turnstile, anti-tailgating)
@@ -22,7 +22,7 @@ Word Count Target: 700–900 words
 Meta Title:        Metro & Transit Access Control Case Studies | EASCO
 Meta Description:  EASCO high-throughput turnstiles handle peak-hour passenger flow at metro and transit stations worldwide. See a typical deployment and request a reference project.
 Primary Segment:   Airport / Transit Authority Procurement (S5)
-Status:            ✅ Complete — named projects confirmed unavailable after independent research (see pass log)
+Status:            ✅ Complete, named projects confirmed unavailable after independent research (see pass log)
 ```
 
 ---
@@ -31,11 +31,11 @@ Status:            ✅ Complete — named projects confirmed unavailable after i
 
 ---
 
-### SECTION 1 — Hero + Overview
+### SECTION 1: Hero + Overview
 
 **H1: Metro and Transit System Access Control Projects**
 
-Metro stations and transit hubs rely on EASCO's cylindrical and speed gate turnstiles to clear peak-hour passenger volume without a bottleneck at the gate line. EASCO's hardware is deployed across 80,000+ installations in 50+ countries — this page covers what a typical transit deployment looks like.
+Metro stations and transit hubs rely on EASCO's cylindrical and speed gate turnstiles to clear peak-hour passenger volume without a bottleneck at the gate line. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical transit deployment looks like.
 
 **CTA:** [Want a Similar Solution?](/quote/)
 
@@ -43,11 +43,11 @@ Metro stations and transit hubs rely on EASCO's cylindrical and speed gate turns
 
 ---
 
-### SECTION 2 — Featured Projects
+### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
 
-**Metro Station Retrofit — Illustrative Example**
+**Metro Station Retrofit: Illustrative Example**
 
 | Detail | Information |
 |---|---|
@@ -70,7 +70,7 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 
 ---
 
-### SECTION 3 — What Metro and Transit Systems Need from Access Control
+### SECTION 3: What Metro and Transit Systems Need from Access Control
 
 **H2: Common Requirements for High-Traffic Transit Gates**
 
@@ -90,19 +90,19 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 
 ---
 
-### SECTION 4 — Recommended Products for Metro and Transit Systems
+### SECTION 4: Recommended Products for Metro and Transit Systems
 
 **H2: EASCO Products Used in Transit Deployments**
 
-**[Flap Barrier / Speed Gates](/products/speed-gates/)** — 50 persons/min with a 30-million-cycle motor.
-**[Cylindrical Turnstiles](/products/cylindrical-turnstiles/)** — 45 persons/min in a compact retrofit-friendly footprint.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)** — vehicle access for station parking and drop-off zones.
+**[Flap Barrier / Speed Gates](/products/speed-gates/)**: 50 persons/min with a 30-million-cycle motor.
+**[Cylindrical Turnstiles](/products/cylindrical-turnstiles/)**: 45 persons/min in a compact retrofit-friendly footprint.
+**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: vehicle access for station parking and drop-off zones.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 5 — FAQ: Metro and Transit Access Control Projects
+### SECTION 5: FAQ: Metro and Transit Access Control Projects
 
 **H2: Frequently Asked Questions**
 
@@ -110,22 +110,22 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 A: Timeline depends on gate count and station layout. Contact EASCO directly for a project-specific schedule.
 
 **Q: Can the gate handle passenger volume during rush hour?**
-A: Multiple gate lanes scale throughput — the JX processes 50 people per minute and the ESYBZ processes 45, so lane count is sized to peak-hour volume.
+A: Multiple gate lanes scale throughput. The JX processes 50 people per minute and the ESYBZ processes 45, so lane count is sized to peak-hour volume.
 
 **Q: What happens during a power outage?**
-A: Gate fail-safe behavior (open or locked on power loss) is configurable per project — confirm the required behavior before installation.
+A: Gate fail-safe behavior (open or locked on power loss) is configurable per project. Confirm the required behavior before installation.
 
 **Q: Do you provide training for station staff?**
 A: Discuss training and onboarding requirements directly with EASCO as part of the order process.
 
 **Q: What's the warranty and support model?**
-A: ⚠️ Confirm current warranty terms directly with EASCO — this varies by product category and isn't yet finalized in published documentation.
+A: ⚠️ Confirm current warranty terms directly with EASCO. This varies by product category and isn't yet finalized in published documentation.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 6 — CTA: Get a Similar Solution
+### SECTION 6: CTA: Get a Similar Solution
 
 **H2: Want a Similar Access Control Solution for Your Transit Facility?**
 
@@ -148,7 +148,7 @@ Every transit site has different peak-hour volume and vehicle access requirement
 
 ## What Would Strengthen This Page If It Ever Becomes Available
 
-> Confirmed unavailable as of 2026-07-08 (see pass log) — not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
+> Confirmed unavailable as of 2026-07-08 (see pass log), not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
 
 - Specific project names, locations, dates
 - Products used per project (model numbers)
@@ -157,4 +157,4 @@ Every transit site has different peak-hour volume and vehicle access requirement
 
 ---
 
-**End of Metro / Transit Case Study Content — Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**
+**End of Metro / Transit Case Study Content: Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**

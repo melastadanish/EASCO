@@ -19,7 +19,7 @@ Primary Keyword:   how does ANPR work
 Secondary Keywords: ANPR camera system, number plate recognition explained, LPR system
 Search Intent:     Informational
 Word Count Target: 1,000–1,400 words
-Meta Title:        How Does ANPR Work? — EASCO Guide
+Meta Title:        How Does ANPR Work?, EASCO Guide
 Meta Description:  ANPR cameras capture, read, and match number plates in real time. Learn how the technology works and what to check before buying a system.
 Primary Segment:   Facility Manager (S1), System Integrator (S2)
 Silo Link:         Vehicle & Parking Access
@@ -32,31 +32,31 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Intro / Hook
+### SECTION 1: Intro / Hook
 
 **H1: How Does ANPR Work?**
 
 ANPR (Automatic Number Plate Recognition), also called LPR (License Plate Recognition), captures a vehicle's plate with a camera. It converts the image to readable text and matches it against a database to grant or deny access. Anyone evaluating vehicle access control for a parking facility, gated community, or logistics yard will find the core process and buying considerations covered here.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a — informational intro)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational intro)
 
 ---
 
-### SECTION 2 — The Three Steps Behind Every ANPR Read
+### SECTION 2: The Three Steps Behind Every ANPR Read
 
 **H2: Capture, Recognize, Match**
 
-Every ANPR system follows the same basic sequence, regardless of brand. First, a camera captures an image of the vehicle's plate as it approaches, usually triggered by a motion or loop sensor. Second, recognition software isolates the plate region and converts the characters into text, compensating for angle, dirt, and lighting variation. Third, the system checks that text against a database — a whitelist, a paid-parking record, or a blacklist. It then triggers the barrier or logs the entry accordingly.
+Every ANPR system follows the same basic sequence, regardless of brand. First, a camera captures an image of the vehicle's plate as it approaches, usually triggered by a motion or loop sensor. Second, recognition software isolates the plate region and converts the characters into text, compensating for angle, dirt, and lighting variation. Third, the system checks that text against a database, a whitelist, a paid-parking record, or a blacklist. It then triggers the barrier or logs the entry accordingly.
 
 The hardest part of this process isn't the camera resolution. It's the second step: recognition accuracy under imperfect real-world conditions. A plate partially covered in mud, angled awkwardly, or lit by headlight glare needs more than a sharp image. It needs software tuned for exactly those failure cases.
 
 > ANPR works in three steps: image capture, character recognition (converting the plate image to text), and database matching to grant or deny access. System reliability depends less on camera resolution and more on how well the recognition software handles partial occlusion, glare, and low light.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a — informational)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational)
 
 ---
 
-### SECTION 3 — Four Things That Separate a Reliable System from a Cheap One
+### SECTION 3: Four Things That Separate a Reliable System from a Cheap One
 
 **H2: What to Check Before Buying an ANPR Camera**
 
@@ -65,11 +65,11 @@ The hardest part of this process isn't the camera resolution. It's the second st
 3. **IP rating for the housing:** Confirm the camera housing is genuinely rated for the installation environment, particularly for uncovered lanes.
 4. **Platform compatibility:** Confirm whether the hardware integrates with the parking or gate platform already in use, or whether it requires a proprietary system replacement.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a — informational)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational)
 
 ---
 
-### SECTION 4 — Matching ANPR to the Installation
+### SECTION 4: Matching ANPR to the Installation
 
 **H2: Where the Details Matter Most**
 
@@ -80,25 +80,25 @@ The hardest part of this process isn't the camera resolution. It's the second st
 | Logistics yard with muddy trailers | Strong partial occlusion handling | Plates are frequently dirty or partially obscured |
 | Retrofit into existing parking system | Unencrypted, platform-agnostic hardware | Avoids replacing the entire parking management system |
 
-**Soft CTA:** See EASCO's ANPR camera specifications — [Products Hub](/products/)
+**Soft CTA:** See EASCO's ANPR camera specifications, [Products Hub](/products/)
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft — orientation only)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft, orientation only)
 
 ---
 
-### SECTION 5 — How EASCO Approaches ANPR Reliability
+### SECTION 5: How EASCO Approaches ANPR Reliability
 
 **H2: Built for Five Years of Outdoor Operation**
 
-EASCO's ES-T02 ANPR camera is rated for a 30,000-hour MTBF, with an average lifespan exceeding 50,000 hours — over five years of continuous operation. Partial occlusion handling keeps recognition working through dirt, glare, and awkward mounting angles. The hardware also ships unencrypted, so it docks into whatever parking management platform is already running rather than forcing a system replacement.
+EASCO's ES-T02 ANPR camera is rated for a 30,000-hour MTBF, with an average lifespan exceeding 50,000 hours, over five years of continuous operation. Partial occlusion handling keeps recognition working through dirt, glare, and awkward mounting angles. The hardware also ships unencrypted, so it docks into whatever parking management platform is already running rather than forcing a system replacement.
 
 **Differentiators used:** D2 (factory direct), D7 (Shenzhen supply chain)
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a — perspective section)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, perspective section)
 
 ---
 
-### SECTION 6 — FAQ
+### SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -121,13 +121,13 @@ A: Depends on the hardware. Unencrypted, platform-agnostic ANPR cameras integrat
 
 ---
 
-### SECTION 7 — Soft CTA
+### SECTION 7: Soft CTA
 
 **H2: Ready to Specify?**
 
 Environment, existing platform, and expected plate condition narrow the choice fast. Compare EASCO's ANPR camera specifications before deciding.
 
-> **See the full EASCO ANPR camera range — specifications, comparisons, and pricing.**
+> **See the full EASCO ANPR camera range, specifications, comparisons, and pricing.**
 > [Products Hub](/products/) · [WhatsApp](https://wa.me/8613711422283) for project-specific questions
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (soft)
@@ -136,7 +136,7 @@ Environment, existing platform, and expected plate condition narrow the choice f
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/) — mandatory, primary purpose of this article
+- Link to [Products Hub](/products/), mandatory, primary purpose of this article
 - Link to [ANPR Systems category](/products/anpr-systems/)
 
 ---
@@ -158,4 +158,4 @@ Environment, existing platform, and expected plate condition narrow the choice f
 
 ---
 
-**End of Blog Content — Five-Pass Review Complete**
+**End of Blog Content: Five-Pass Review Complete**

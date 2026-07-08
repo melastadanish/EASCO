@@ -5,11 +5,11 @@ Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (turnstile, biometric, access control, TOFU/MOFU/BOFU categorization, OEM)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (16+ years, links to 8 verified posts) | GEO ✅
 Pass C: Headlines ✅ | CTAs ✅ | AI-score ~8%
-Client Data Verified: 2026-07-08 (This is the Blog Hub / landing page for the 9 Core Pages plan — distinct from the 8 individual blog posts, which were already complete. This specific landing page had been missed in an earlier pass; caught during a full-content re-audit. All 8 post titles are proper English from the start, so the project's historic "网站" Chinese-title bug does not apply to any of this content.)
+Client Data Verified: 2026-07-08 (This is the Blog Hub / landing page for the 9 Core Pages plan, distinct from the 8 individual blog posts, which were already complete. This specific landing page had been missed in an earlier pass; caught during a full-content re-audit. All 8 post titles are proper English from the start, so the project's historic "网站" Chinese-title bug does not apply to any of this content.)
 Last Updated: 2026-07-08
 ---
 
-# Blog Hub — Content
+# Blog Hub: Content
 
 ## Page Metadata
 
@@ -32,47 +32,47 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero / Page Intro
+### SECTION 1: Hero / Page Intro
 
 **H1: Access Control & Biometrics Blog**
 
-Choosing a turnstile, comparing biometric technologies, or scoping an OEM project all start with the same problem: knowing what to ask before requesting a quote. These articles cover the mechanics, the buying considerations, and the questions worth raising with any supplier — not just EASCO.
+Choosing a turnstile, comparing biometric technologies, or scoping an OEM project all start with the same problem: knowing what to ask before requesting a quote. These articles cover the mechanics, the buying considerations, and the questions worth raising with any supplier, not just EASCO.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — article grid invites reading)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, article grid invites reading)
 
 ---
 
-### SECTION 2 — Articles by Stage
+### SECTION 2: Articles by Stage
 
 **H2: Start Wherever the Project Is**
 
 #### Just Getting Started
 
-- [What Is a Turnstile Gate?](/blog/what-is-a-turnstile-gate/) — the core mechanics, main types, and how they work
-- [Biometric Access Control Explained](/blog/biometric-access-control-explained/) — how face, palm vein, and iris recognition actually verify identity
-- [How Does ANPR Work?](/blog/how-does-anpr-work/) — the three-step process behind vehicle plate recognition
-- [What Is Liveness Detection?](/blog/what-is-liveness-detection/) — how systems tell a live person from a photo or mask
+- [What Is a Turnstile Gate?](/blog/what-is-a-turnstile-gate/), the core mechanics, main types, and how they work
+- [Biometric Access Control Explained](/blog/biometric-access-control-explained/), how face, palm vein, and iris recognition actually verify identity
+- [How Does ANPR Work?](/blog/how-does-anpr-work/), the three-step process behind vehicle plate recognition
+- [What Is Liveness Detection?](/blog/what-is-liveness-detection/), how systems tell a live person from a photo or mask
 
 #### Comparing Options
 
-- [How to Choose a Turnstile Gate](/blog/how-to-choose-turnstile-gate/) — matching gate type to traffic volume and budget
-- [Face Recognition vs Fingerprint Access Control](/blog/face-recognition-vs-fingerprint/) — contactless vs. contact biometrics compared
+- [How to Choose a Turnstile Gate](/blog/how-to-choose-turnstile-gate/), matching gate type to traffic volume and budget
+- [Face Recognition vs Fingerprint Access Control](/blog/face-recognition-vs-fingerprint/), contactless vs. contact biometrics compared
 
 #### Ready to Specify
 
-- [Access Control for Construction Sites](/blog/access-control-for-construction-sites/) — attendance, safety compliance, and hardware built for harsh conditions
-- [OEM vs ODM — What's the Difference?](/blog/oem-vs-odm/) — which custom manufacturing path fits a project
+- [Access Control for Construction Sites](/blog/access-control-for-construction-sites/), attendance, safety compliance, and hardware built for harsh conditions
+- [OEM vs ODM, What's the Difference?](/blog/oem-vs-odm/), which custom manufacturing path fits a project
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each article links out)
 
 ---
 
-### SECTION 3 — FAQ
+### SECTION 3: FAQ
 
 **H2: Frequently Asked Questions**
 
 **Q: Are these articles specific to EASCO products?**
-A: Most articles are informational first — covering how a technology works or how to evaluate suppliers generally. EASCO's own products are referenced in a dedicated section within each article, not throughout.
+A: Most articles are informational first, covering how a technology works or how to evaluate suppliers generally. EASCO's own products are referenced in a dedicated section within each article, not throughout.
 
 **Q: How often is new content added?**
 A: Check back periodically for new articles as they're published. [Contact EASCO](/contact/) directly for questions not yet covered.
@@ -90,7 +90,7 @@ A: Where competitors are discussed (see the [Alternatives section](/alternatives
 
 ---
 
-### SECTION 4 — CTA
+### SECTION 4: CTA
 
 **H2: Have a Project-Specific Question?**
 
@@ -113,4 +113,4 @@ These articles cover the general case. For a specific facility, traffic volume, 
 
 ---
 
-**End of Blog Hub Content — Five-Pass Review Complete**
+**End of Blog Hub Content: Five-Pass Review Complete**

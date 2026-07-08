@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 8.5/10
 Pass B: 3 fixes applied (sentence-length splits)
-Pass N: N/A (legal/policy page — NLP term coverage not applicable)
+Pass N: N/A (legal/policy page, NLP term coverage not applicable)
 Pass D: AI-quotable ✅ | Authority ✅ (specific cookie categories and retention) | GEO ✅
 Pass C: Headlines ✅ | CTAs ✅ (contact for data requests) | AI-score N/A (legal page, not a conversion page)
-Client Data Verified: 2026-07-08 (Standard cookie categories and retention periods — no analytics/tracking vendor names confirmed by client, so none are named here.)
+Client Data Verified: 2026-07-08 (Standard cookie categories and retention periods, no analytics/tracking vendor names confirmed by client, so none are named here.)
 Last Updated: 2026-07-08
 ---
 
-# Cookie Policy — Content
+# Cookie Policy: Content
 
 ## Page Metadata
 
@@ -32,7 +32,7 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Page Intro
+### SECTION 1: Page Intro
 
 **H1: Cookie Policy**
 
@@ -44,22 +44,22 @@ This page explains what cookies this website uses, why, and how to control them.
 
 ---
 
-### SECTION 2 — What Cookies Are
+### SECTION 2: What Cookies Are
 
 **H2: What a Cookie Does on This Site**
 
-A cookie is a small text file stored in the browser when visiting a website. It lets the site remember a preference, keep a session active, or measure how visitors use the pages — nothing more than that on its own.
+A cookie is a small text file stored in the browser when visiting a website. It lets the site remember a preference, keep a session active, or measure how visitors use the pages, nothing more than that on its own.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability
 
 ---
 
-### SECTION 3 — Categories of Cookies Used
+### SECTION 3: Categories of Cookies Used
 
 **H2: Cookie Categories**
 
 **Essential Cookies**
-Required for the website to function — session handling, form submission, and security. These cannot be disabled without breaking core site functionality.
+Required for the website to function, session handling, form submission, and security. These cannot be disabled without breaking core site functionality.
 
 **Performance / Analytics Cookies**
 Measure page visits, time on page, and navigation paths to understand which content is useful. These can be disabled without breaking site function.
@@ -74,7 +74,7 @@ Used if EASCO runs advertising campaigns that track ad performance across sessio
 
 ---
 
-### SECTION 4 — Managing Cookie Preferences
+### SECTION 4: Managing Cookie Preferences
 
 **H2: How to Control Cookies**
 
@@ -84,12 +84,12 @@ Cookie preferences can be adjusted in the consent banner shown on first visit, o
 
 ---
 
-### SECTION 5 — FAQ
+### SECTION 5: FAQ
 
 **H2: Frequently Asked Questions**
 
 **Q: Does this site use cookies to sell personal data to third parties?**
-A: No. Cookies on this site support site function, analytics, and optional advertising measurement — not data resale.
+A: No. Cookies on this site support site function, analytics, and optional advertising measurement, not data resale.
 
 **Q: Can I browse the site with all non-essential cookies disabled?**
 A: Yes. Only essential cookies are required for the site to function.
@@ -107,7 +107,7 @@ A: Third-party embedded content, such as a map, may set its own cookies governed
 
 ---
 
-### SECTION 6 — Contact
+### SECTION 6: Contact
 
 **H2: Questions About This Policy**
 
@@ -123,4 +123,4 @@ A: Third-party embedded content, such as a map, may set its own cookies governed
 
 ---
 
-**End of Cookie Policy Content — Five-Pass Review Complete**
+**End of Cookie Policy Content: Five-Pass Review Complete**

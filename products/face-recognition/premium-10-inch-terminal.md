@@ -5,11 +5,11 @@ Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (face recognition, liveness detection, camera resolution, capacity, accuracy)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (99.98% accuracy, 8MP camera) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ (O13, O14 covered) | CTAs ✅ (spec sheet → quote) | AI-score ~9%
-Client Data Verified: 2026-07-08 (Specs confirmed via _system/client-data-map.md shared Face Recognition Systems table, source h-pd-45. Chinese product names — 云极, 云栖 (×2) — map to this shared 10.1-inch spec tier, but exact English model codes for each are NOT yet confirmed individually.)
+Client Data Verified: 2026-07-08 (Specs confirmed via _system/client-data-map.md shared Face Recognition Systems table, source h-pd-45. Chinese product names, 云极, 云栖 (×2), map to this shared 10.1-inch spec tier, but exact English model codes for each are NOT yet confirmed individually.)
 Last Updated: 2026-07-08
 ---
 
-# Premium Face Recognition Terminal (10.1-inch) — Product Page
+# Premium Face Recognition Terminal (10.1-inch): Product Page
 
 ## Page Metadata
 
@@ -20,13 +20,13 @@ Secondary Keywords: 10.1-inch biometric terminal, high-resolution face recogniti
 Search Intent:     Commercial Investigation
 Word Count Target: 1,000–1,500 words
 Meta Title:        Premium 10.1-Inch Face Recognition Terminal | EASCO
-Meta Description:  EASCO's premium 10.1-inch face recognition terminal: 8MP camera, 99.98% accuracy, Android 13, 4GB RAM — for high-traffic or brand-forward entrances.
-Silo:              S2 — Biometric Access Control
+Meta Description:  EASCO's premium 10.1-inch face recognition terminal: 8MP camera, 99.98% accuracy, Android 13, 4GB RAM, for high-traffic or brand-forward entrances.
+Silo:              S2, Biometric Access Control
 Pillar Page:       /face-recognition/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D5
 Objections:        O13, O14
-Status:            ✅ Complete (⚠️ individual Chinese model names mapping to this spec tier — 云极, 云栖 — pending confirmed English model codes)
+Status:            ✅ Complete (⚠️ individual Chinese model names mapping to this spec tier, 云极, 云栖, pending confirmed English model codes)
 ```
 
 ---
@@ -35,7 +35,7 @@ Status:            ✅ Complete (⚠️ individual Chinese model names mapping t
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: Premium Face Recognition Terminal (10.1-inch)**
 
@@ -48,7 +48,7 @@ A lobby that doubles as a brand's first impression deserves more than a small ut
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ A lobby that doubles as a brand's first impression deserves more than a small ut
 
 ---
 
-### SECTION 3 — What Is This Terminal?
+### SECTION 3: What Is This Terminal?
 
 **H2: EASCO's Higher-Specification Face Recognition Platform**
 
 This is EASCO's premium 10.1-inch face recognition terminal, sharing the same 99.98% recognition accuracy and 200–300ms speed as the standard tier, but with a higher-resolution 8MP wide-dynamic camera, more onboard memory, and Android 13. It suits high-traffic entrances or brand-forward lobbies where display size and interface responsiveness matter alongside verification accuracy.
 
 **AI-quotable paragraph:**
-> "EASCO's premium 10.1-inch face recognition terminal delivers 99.98% recognition accuracy with an 8MP wide-dynamic camera, 4GB RAM, and Android 13 — a higher-specification tier of the same recognition engine used across EASCO's standard terminal range."
+> "EASCO's premium 10.1-inch face recognition terminal delivers 99.98% recognition accuracy with an 8MP wide-dynamic camera, 4GB RAM, and Android 13, a higher-specification tier of the same recognition engine used across EASCO's standard terminal range."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: More Camera Resolution and Processing Headroom, Same Verified Accuracy**
 
@@ -87,7 +87,7 @@ This is EASCO's premium 10.1-inch face recognition terminal, sharing the same 99
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -111,7 +111,7 @@ This is EASCO's premium 10.1-inch face recognition terminal, sharing the same 99
 | Communication | Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0 |
 | Installation | Wall-mount, desktop, floor-standing, turnstile-integrated |
 
-*(⚠️ This spec tier is shared across at least two Chinese product names in EASCO's catalogue — 云极 and 云栖 — whose distinct English model codes are not yet confirmed. Contact EASCO to confirm the exact commercial model name for a specific order.)*
+*(⚠️ This spec tier is shared across at least two Chinese product names in EASCO's catalogue, 云极 and 云栖, whose distinct English model codes are not yet confirmed. Contact EASCO to confirm the exact commercial model name for a specific order.)*
 
 **CTA:** Need the full datasheet? [Download PDF](#) or [request it on WhatsApp](https://wa.me/8613711422283)
 
@@ -119,7 +119,7 @@ This is EASCO's premium 10.1-inch face recognition terminal, sharing the same 99
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: Higher-Resolution Capture, Same Verification Speed**
 
@@ -132,7 +132,7 @@ This is EASCO's premium 10.1-inch face recognition terminal, sharing the same 99
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where Display Size and Image Quality Matter**
 
@@ -145,17 +145,17 @@ This is EASCO's premium 10.1-inch face recognition terminal, sharing the same 99
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Same Standard Interfaces as the Rest of the Range**
 
-Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with existing access control panels and HR attendance systems. SDK/API documentation is available for custom integration — see the [Downloads page](/downloads/).
+Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with existing access control panels and HR attendance systems. SDK/API documentation is available for custom integration. See the [Downloads page](/downloads/).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: A Premium Tier Built on the Same Verified Engine**
 
@@ -168,7 +168,7 @@ Upgrading to a larger screen and better camera shouldn't mean stepping onto an u
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -176,7 +176,7 @@ Upgrading to a larger screen and better camera shouldn't mean stepping onto an u
 A: This is EASCO's premium 10.1-inch spec tier, shared across at least two catalogue product names. Contact EASCO to confirm the exact commercial model code for your order.
 
 **Q: Is the recognition accuracy better than the standard 8-inch terminal?**
-A: Recognition accuracy and speed are identical across both tiers — 99.98% at 200–300ms. The premium tier's advantage is camera resolution, display size, and processing headroom.
+A: Recognition accuracy and speed are identical across both tiers, 99.98% at 200–300ms. The premium tier's advantage is camera resolution, display size, and processing headroom.
 
 **Q: Does the larger display and camera affect the operating temperature range?**
 A: No. Both tiers share the same -25°C to +75°C operating range and IP65 rating.
@@ -191,19 +191,19 @@ A: Yes. The higher-resolution camera and additional processing headroom suit hig
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Face Recognition category](/face-recognition/) — back to the full range
-- [Standard 8-Inch Face Recognition Terminal](/face-recognition/standard-8-inch-terminal/) — cost-effective alternative with the same accuracy
-- [L8 Face + Fingerprint Terminal](/face-recognition/l8/) — dual biometric alternative
+- [Face Recognition category](/face-recognition/), back to the full range
+- [Standard 8-Inch Face Recognition Terminal](/face-recognition/standard-8-inch-terminal/), cost-effective alternative with the same accuracy
+- [L8 Face + Fingerprint Terminal](/face-recognition/l8/), dual biometric alternative
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the Premium 10.1-Inch Terminal**
 
@@ -226,8 +226,8 @@ Send your installation environment and expected traffic volume, and get back a c
 
 ## Outstanding Client Data Needed
 
-- Confirm exact English model codes for 云极 and 云栖 — the Chinese product names mapping to this shared 10.1-inch spec tier
+- Confirm exact English model codes for 云极 and 云栖, the Chinese product names mapping to this shared 10.1-inch spec tier
 
 ---
 
-**End of Premium 10.1-Inch Terminal Content — Five-Pass Review Complete**
+**End of Premium 10.1-Inch Terminal Content: Five-Pass Review Complete**

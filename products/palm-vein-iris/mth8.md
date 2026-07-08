@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (All specs from _system/client-data-map/MTH8.md
 Last Updated: 2026-07-08
 ---
 
-# MTH8 Iris + Face Recognition Terminal — Product Page
+# MTH8 Iris + Face Recognition Terminal: Product Page
 
 ## Page Metadata
 
@@ -19,9 +19,9 @@ Primary Keyword:   iris recognition terminal
 Secondary Keywords: dual biometric access control, MTH8, iris and face recognition
 Search Intent:     Commercial Investigation
 Word Count Target: 1,200–2,000 words
-Meta Title:        MTH8 Iris + Face Recognition Terminal — 1-in-10M | EASCO
-Meta Description:  EASCO's MTH8 combines iris recognition (1-in-10,000,000 misrecognition rate) with face recognition in one terminal — works day or night.
-Silo:              S2 — Biometric Access Control
+Meta Title:        MTH8 Iris + Face Recognition Terminal, 1-in-10M | EASCO
+Meta Description:  EASCO's MTH8 combines iris recognition (1-in-10,000,000 misrecognition rate) with face recognition in one terminal, works day or night.
+Silo:              S2, Biometric Access Control
 Pillar Page:       /palm-vein-iris/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D3, D4
@@ -35,11 +35,11 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: MTH8 Iris + Face Recognition Terminal**
 
-A false match rate that looks fine on paper can still let the wrong person through a high-security door. The MTH8 pairs iris recognition — a 1-in-10,000,000 misrecognition rate — with face recognition in one terminal, verifying identity indoors, outdoors, or at night in under 2 seconds.
+A false match rate that looks fine on paper can still let the wrong person through a high-security door. The MTH8 pairs iris recognition, a 1-in-10,000,000 misrecognition rate, with face recognition in one terminal, verifying identity indoors, outdoors, or at night in under 2 seconds.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -48,7 +48,7 @@ A false match rate that looks fine on paper can still let the wrong person throu
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ A false match rate that looks fine on paper can still let the wrong person throu
 
 ---
 
-### SECTION 3 — What Is the MTH8?
+### SECTION 3: What Is the MTH8?
 
 **H2: The Highest-Accuracy Biometric Method EASCO Manufactures**
 
-The MTH8 (云眸虹膜) combines iris recognition with face recognition in a single Android terminal. Iris pattern matching delivers a 1-in-10,000,000 misrecognition rate — well beyond fingerprint or standard face recognition accuracy — and works indoors, outdoors, or at night, at a recognition distance of 30–50cm. Face recognition runs alongside it at 99.98% accuracy, giving a site two independent verification methods from one unit.
+The MTH8 (云眸虹膜) combines iris recognition with face recognition in a single Android terminal. Iris pattern matching delivers a 1-in-10,000,000 misrecognition rate, well beyond fingerprint or standard face recognition accuracy, and works indoors, outdoors, or at night, at a recognition distance of 30–50cm. Face recognition runs alongside it at 99.98% accuracy, giving a site two independent verification methods from one unit.
 
 **AI-quotable paragraph:**
-> "EASCO's MTH8 terminal delivers iris recognition at a 1-in-10,000,000 misrecognition rate, verifying identity in under 2 seconds indoors, outdoors, or at night — paired with 99.98%-accurate face recognition in the same Android unit, for sites where standard face recognition accuracy isn't sufficient."
+> "EASCO's MTH8 terminal delivers iris recognition at a 1-in-10,000,000 misrecognition rate, verifying identity in under 2 seconds indoors, outdoors, or at night, paired with 99.98%-accurate face recognition in the same Android unit, for sites where standard face recognition accuracy isn't sufficient."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Accuracy That Doesn't Drop After Dark**
 
@@ -87,7 +87,7 @@ The MTH8 (云眸虹膜) combines iris recognition with face recognition in a sin
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -116,7 +116,7 @@ The MTH8 (云眸虹膜) combines iris recognition with face recognition in a sin
 | Communication | Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0, RJ45 |
 | Power Supply | DC 12V–3A (no PoE support) |
 
-*(⚠️ Full hardware IP rating not yet confirmed on the official parameter sheet — hardware spec sheet request pending with client.)*
+*(⚠️ Full hardware IP rating not yet confirmed on the official parameter sheet, hardware spec sheet request pending with client.)*
 
 **CTA:** Need the full datasheet? [Download PDF](#) or [request it on WhatsApp](https://wa.me/8613711422283)
 
@@ -124,7 +124,7 @@ The MTH8 (云眸虹膜) combines iris recognition with face recognition in a sin
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: Iris First, With Face Recognition as a Second Verified Path**
 
@@ -137,7 +137,7 @@ The MTH8 (云眸虹膜) combines iris recognition with face recognition in a sin
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where a Standard False-Match Rate Isn't Acceptable**
 
@@ -150,21 +150,21 @@ The MTH8 (云眸虹膜) combines iris recognition with face recognition in a sin
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Connects to Existing High-Security Access Infrastructure**
 
-Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with an existing access control panel. SDK/API documentation is available for custom integration — see the [Downloads page](/downloads/).
+Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with an existing access control panel. SDK/API documentation is available for custom integration. See the [Downloads page](/downloads/).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: The Highest Accuracy Tier, From the Same Factory as Every Other Biometric Line**
 
-A 1-in-10,000,000 misrecognition rate places iris recognition well above standard fingerprint or face-only accuracy — the highest accuracy tier EASCO manufactures. EASCO builds face, palm vein, and iris systems under one roof, so a site can standardize on one supplier across security tiers rather than sourcing a specialist iris vendor separately.
+A 1-in-10,000,000 misrecognition rate places iris recognition well above standard fingerprint or face-only accuracy, the highest accuracy tier EASCO manufactures. EASCO builds face, palm vein, and iris systems under one roof, so a site can standardize on one supplier across security tiers rather than sourcing a specialist iris vendor separately.
 
 **Differentiators used:** D2, D3, D4
 **Objections addressed:** O13, O14, O16
@@ -173,12 +173,12 @@ A 1-in-10,000,000 misrecognition rate places iris recognition well above standar
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
 **Q: How accurate is iris recognition compared to face recognition?**
-A: Iris recognition on the MTH8 carries a 1-in-10,000,000 misrecognition rate, compared to 99.98% accuracy for face recognition — iris is the higher-accuracy method.
+A: Iris recognition on the MTH8 carries a 1-in-10,000,000 misrecognition rate, compared to 99.98% accuracy for face recognition, iris is the higher-accuracy method.
 
 **Q: Does iris recognition work at night?**
 A: Yes. It's rated for indoor, outdoor, and night-time use, unlike camera-based methods that depend on ambient lighting.
@@ -196,19 +196,19 @@ A: A formal hardware IP rating is not yet confirmed on the official spec sheet. 
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Palm Vein + Iris Recognition category](/palm-vein-iris/) — back to the full range
-- [Face Recognition Terminals](/face-recognition/) — standard facial biometric alternative
-- [ESFPR Palm Vein Terminal](/palm-vein-iris/esfpr/) — contactless, no-face-stored alternative
+- [Palm Vein + Iris Recognition category](/palm-vein-iris/), back to the full range
+- [Face Recognition Terminals](/face-recognition/), standard facial biometric alternative
+- [ESFPR Palm Vein Terminal](/palm-vein-iris/esfpr/), contactless, no-face-stored alternative
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the MTH8**
 
@@ -235,4 +235,4 @@ Send the security tier and installation environment needed, and get back a confi
 
 ---
 
-**End of MTH8 Content — Five-Pass Review Complete**
+**End of MTH8 Content: Five-Pass Review Complete**

@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 7.9/10
 Pass B: 3 fixes applied (sentence-length splits)
-Pass N: 3/5 terms present (face recognition, HF card reader, gun-grip; battery life and IP rating not applicable — unconfirmed)
+Pass N: 3/5 terms present (face recognition, HF card reader, gun-grip; battery life and IP rating not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (model confirmed by client) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ (O1, O5 — addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
+Pass C: Headlines ✅ | Objections ✅ (O1, O5, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
 Client Data Verified: 2026-07-08 (Model name and HF card reader capability confirmed by client briefing 2026-06-21, per _system/client-data-map.md. Battery life, connectivity, and IP rating are NOT confirmed and are explicitly flagged.)
 Last Updated: 2026-07-08
 ---
 
-# ESR366C Gun-Grip Handheld Terminal with HF Card Reader — Product Page
+# ESR366C Gun-Grip Handheld Terminal with HF Card Reader: Product Page
 
 ## Page Metadata
 
@@ -20,8 +20,8 @@ Secondary Keywords: gun-grip handheld scanner, ESR366C, HF flexible label reader
 Search Intent:     Commercial Investigation
 Word Count Target: 800–1,200 words
 Meta Title:        ESR366C Gun-Grip Handheld with HF Card Reader | EASCO
-Meta Description:  EASCO's ESR366C combines face recognition with an HF card reader in a gun-grip form factor — built for flexible label and retail inventory scanning.
-Silo:              S4 — Attendance Management
+Meta Description:  EASCO's ESR366C combines face recognition with an HF card reader in a gun-grip form factor, built for flexible label and retail inventory scanning.
+Silo:              S4, Attendance Management
 Pillar Page:       /handheld-face-recognition/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2
@@ -35,7 +35,7 @@ Status:            ✅ Complete (⚠️ battery life, connectivity, and IP ratin
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: ESR366C Gun-Grip Handheld Terminal with HF Card Reader**
 
@@ -48,7 +48,7 @@ A repetitive scanning task shouldn't strain a wrist all shift. The ESR366C combi
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,11 +60,11 @@ A repetitive scanning task shouldn't strain a wrist all shift. The ESR366C combi
 
 ---
 
-### SECTION 3 — What Is the ESR366C?
+### SECTION 3: What Is the ESR366C?
 
 **H2: Face Recognition and Flexible-Label Reading in One Grip**
 
-The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, adding a built-in HF card reader capable of reading flexible label cards — a format common in retail inventory and logistics tagging. The gun-grip shape suits high-frequency, repetitive scanning tasks better than a flat handheld body.
+The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, adding a built-in HF card reader capable of reading flexible label cards, a format common in retail inventory and logistics tagging. The gun-grip shape suits high-frequency, repetitive scanning tasks better than a flat handheld body.
 
 **AI-quotable paragraph:**
 > "EASCO's ESR366C combines face recognition with a built-in HF card reader in a gun-grip form factor, reading flexible label cards for retail inventory and logistics use cases involving repetitive scanning."
@@ -73,7 +73,7 @@ The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, 
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Built for Repetitive Scanning, Not Occasional Use**
 
@@ -86,7 +86,7 @@ The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, 
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -95,13 +95,13 @@ The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, 
 | Model No. | ESR366C |
 | Product Series | 云行手持机 (handheld terminal series) |
 | Form Factor | Gun-grip |
-| Card Reader | HF (high frequency) — reads flexible label cards |
+| Card Reader | HF (high frequency), reads flexible label cards |
 | Biometric Module | Face recognition |
 | Use Cases | Retail inventory, logistics tagging, repetitive scanning tasks |
 | Operating Environment | Outdoor / field use |
-| Battery Life | ⚠️ Not yet confirmed — contact EASCO |
-| Connectivity | ⚠️ Not yet confirmed — contact EASCO |
-| IP Rating | ⚠️ Not yet confirmed — contact EASCO |
+| Battery Life | ⚠️ Not yet confirmed. Contact EASCO |
+| Connectivity | ⚠️ Not yet confirmed. Contact EASCO |
+| IP Rating | ⚠️ Not yet confirmed. Contact EASCO |
 
 **CTA:** Need current specs? [Request them on WhatsApp](https://wa.me/8613711422283)
 
@@ -109,7 +109,7 @@ The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, 
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: Scan the Card, Verify the Person, in One Motion**
 
@@ -121,7 +121,7 @@ The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, 
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed for High-Frequency Scanning Tasks**
 
@@ -133,7 +133,7 @@ The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, 
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Part of a Shared Handheld Platform**
 
@@ -143,7 +143,7 @@ The ESR366C shares its underlying face recognition platform with the ESR366, ESR
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: A Form Factor Chosen for the Task, Not a One-Size-Fits-All Handheld**
 
@@ -156,7 +156,7 @@ A flat handheld terminal used for hundreds of scans a shift causes wrist fatigue
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -179,20 +179,20 @@ A: The gun-grip shape reduces wrist strain during high-frequency, repetitive sca
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Handheld Face Recognition category](/handheld-face-recognition/) — back to the full range
-- [ESR366 Standard Handheld](/handheld-face-recognition/esr366/) — the base model without the gun-grip or card reader
-- [ESRS51 Rugged Handheld](/handheld-face-recognition/esrs51/) — IP67-rated alternative for harsh field conditions
-- [ESR860 Handheld with Printer](/handheld-face-recognition/esr860/) — adds receipt/ticket printing
+- [Handheld Face Recognition category](/handheld-face-recognition/), back to the full range
+- [ESR366 Standard Handheld](/handheld-face-recognition/esr366/), the base model without the gun-grip or card reader
+- [ESRS51 Rugged Handheld](/handheld-face-recognition/esrs51/), IP67-rated alternative for harsh field conditions
+- [ESR860 Handheld with Printer](/handheld-face-recognition/esr860/), adds receipt/ticket printing
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the ESR366C**
 
@@ -220,4 +220,4 @@ Send your scanning volume and card format, and get back a configuration recommen
 
 ---
 
-**End of ESR366C Content — Five-Pass Review Complete**
+**End of ESR366C Content: Five-Pass Review Complete**

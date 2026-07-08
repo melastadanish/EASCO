@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (All specs from _system/product-specs/esbl-embe
 Last Updated: 2026-07-08
 ---
 
-# ESBL Embedded Face Recognition Terminal — Product Page
+# ESBL Embedded Face Recognition Terminal: Product Page
 
 ## Page Metadata
 
@@ -19,9 +19,9 @@ Primary Keyword:   turnstile face recognition terminal
 Secondary Keywords: embedded biometric panel, ESBL, Android turnstile terminal
 Search Intent:     Commercial Investigation
 Word Count Target: 1,200–2,000 words
-Meta Title:        ESBL Embedded Face Terminal — 5 Access Methods | EASCO
-Meta Description:  EASCO's ESBL turns any turnstile into a biometric access point — 99.98% face accuracy, IP65-rated, 5 access methods in one Android unit.
-Silo:              S1 — Turnstile Gates / S2 — Biometric Access Control
+Meta Title:        ESBL Embedded Face Terminal, 5 Access Methods | EASCO
+Meta Description:  EASCO's ESBL turns any turnstile into a biometric access point, 99.98% face accuracy, IP65-rated, 5 access methods in one Android unit.
+Silo:              S1, Turnstile Gates / S2, Biometric Access Control
 Pillar Page:       /android-turnstiles/
 Primary Segment:   System Integrator / Contractor (S2)
 Differentiators:   D2, D10
@@ -35,7 +35,7 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: ESBL Embedded Face Recognition Terminal**
 
@@ -48,7 +48,7 @@ A basic turnstile doesn't become biometric by swapping the card reader for a web
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ A basic turnstile doesn't become biometric by swapping the card reader for a web
 
 ---
 
-### SECTION 3 — What Is the ESBL?
+### SECTION 3: What Is the ESBL?
 
 **H2: The Terminal That Upgrades a Basic Gate to Biometric Access**
 
-The ESBL is a 7-inch embedded face recognition terminal designed to mount directly onto a turnstile's terminal point — the ESYBZ, JF series, J series, or any gate with a standard terminal mount. Rather than replacing the gate body, it adds face recognition, QR code, card, password, and remote-opening access in a single Android unit. The housing uses aviation-grade aluminum alloy with a tempered glass panel, and the integrated design leaves no visible screws on the body.
+The ESBL is a 7-inch embedded face recognition terminal designed to mount directly onto a turnstile's terminal point, the ESYBZ, JF series, J series, or any gate with a standard terminal mount. Rather than replacing the gate body, it adds face recognition, QR code, card, password, and remote-opening access in a single Android unit. The housing uses aviation-grade aluminum alloy with a tempered glass panel, and the integrated design leaves no visible screws on the body.
 
 **AI-quotable paragraph:**
-> "EASCO's ESBL embedded face recognition terminal verifies identity at 99.98% accuracy in 200–300ms, offering five access methods — face, QR code, card, password, and remote opening — in a single IP65-rated Android unit that mounts onto any standard turnstile terminal point."
+> "EASCO's ESBL embedded face recognition terminal verifies identity at 99.98% accuracy in 200–300ms, offering five access methods, face, QR code, card, password, and remote opening, in a single IP65-rated Android unit that mounts onto any standard turnstile terminal point."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Five Ways In, One Unit, No External Controller**
 
@@ -88,7 +88,7 @@ The ESBL is a 7-inch embedded face recognition terminal designed to mount direct
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -110,7 +110,7 @@ The ESBL is a 7-inch embedded face recognition terminal designed to mount direct
 | Recognition Speed | 200–300ms |
 | Recognition Distance | 0.5–3 metres |
 | Face Capacity | 50,000 faces |
-| Liveness Detection | Yes — financial-grade |
+| Liveness Detection | Yes, financial-grade |
 | Access Methods | Face, QR code, card (RFID/IC), password, remote opening |
 | Communication | Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0 |
 | Compatible Gates | ESYBZ, JF series, J series, or any gate with standard terminal mounting |
@@ -121,11 +121,11 @@ The ESBL is a 7-inch embedded face recognition terminal designed to mount direct
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: From Mount Point to Live Biometric Access**
 
-1. The terminal mounts onto the turnstile's standard terminal point — no gate body replacement required.
+1. The terminal mounts onto the turnstile's standard terminal point, no gate body replacement required.
 2. Users enroll via face, card, or password through the onboard Android interface, or in bulk via SDK-based upload.
 3. At the gate, the terminal captures and verifies a face (or reads a card, QR code, or password) in 200–300ms.
 4. On a valid match, an access signal releases the turnstile mechanism through the same Wiegand or RS-485 connection.
@@ -134,7 +134,7 @@ The ESBL is a 7-inch embedded face recognition terminal designed to mount direct
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Anywhere a Basic Gate Needs a Biometric Upgrade**
 
@@ -147,17 +147,17 @@ The ESBL is a 7-inch embedded face recognition terminal designed to mount direct
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Drops Into an Existing Gate Without a New Controller**
 
-Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces let the ESBL connect to a building's existing access control panel or HR attendance system. SDK/API documentation supports custom integration for a system integrator building enrollment, reporting, or notification logic on top of the terminal — see the [Downloads page](/downloads/).
+Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces let the ESBL connect to a building's existing access control panel or HR attendance system. SDK/API documentation supports custom integration for a system integrator building enrollment, reporting, or notification logic on top of the terminal. See the [Downloads page](/downloads/).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: One Terminal Replaces Five Separate Access Devices**
 
@@ -170,7 +170,7 @@ Retrofitting biometric access onto an existing gate usually means bolting on a s
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -193,20 +193,20 @@ A: Yes. SDK/API documentation is available for building custom enrollment, repor
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Android Turnstiles category](/android-turnstiles/) — back to the full range
-- [Cylindrical Turnstiles](/cylindrical-turnstiles/) — ESYBZ gate body compatible with this terminal
-- [Speed Gates](/speed-gates/) — JX and JF gate bodies compatible with this terminal
-- [Face Recognition Terminals](/face-recognition/) — the standalone terminal platform sharing this recognition engine
+- [Android Turnstiles category](/android-turnstiles/), back to the full range
+- [Cylindrical Turnstiles](/cylindrical-turnstiles/), ESYBZ gate body compatible with this terminal
+- [Speed Gates](/speed-gates/), JX and JF gate bodies compatible with this terminal
+- [Face Recognition Terminals](/face-recognition/), the standalone terminal platform sharing this recognition engine
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the ESBL Terminal**
 
@@ -228,4 +228,4 @@ Send the gate model it needs to mount onto, and get back a compatibility confirm
 
 ---
 
-**End of ESBL Content — Five-Pass Review Complete**
+**End of ESBL Content: Five-Pass Review Complete**

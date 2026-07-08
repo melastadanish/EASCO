@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 8.2/10
 Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
-Pass N: 5/6 terms present (barrier gate, crank-link, anti-crushing, fail-safe, non-contact control; throughput/lane width not applicable — unconfirmed)
+Pass N: 5/6 terms present (barrier gate, crank-link, anti-crushing, fail-safe, non-contact control; throughput/lane width not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (named as one of EASCO's 3 flagship product lines) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ (O1, O9, O11 — addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~9%
-Client Data Verified: 2026-07-08 (Confirmed via _system/VERIFIED-COMPANY-DATA.md and _system/client-data-map.md "Three Flagship Product Lines" table — Intelligent Electric Barriers is one of EASCO's three core product lines. No specific model number, boom length, lane width, or cycle-speed figures are confirmed yet and are explicitly flagged, not invented.)
+Pass C: Headlines ✅ | Objections ✅ (O1, O9, O11, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~9%
+Client Data Verified: 2026-07-08 (Confirmed via _system/VERIFIED-COMPANY-DATA.md and _system/client-data-map.md "Three Flagship Product Lines" table, Intelligent Electric Barriers is one of EASCO's three core product lines. No specific model number, boom length, lane width, or cycle-speed figures are confirmed yet and are explicitly flagged, not invented.)
 Last Updated: 2026-07-08
 ---
 
-# Car Park Barrier (Intelligent Electric Barriers) — Category Page
+# Car Park Barrier (Intelligent Electric Barriers): Category Page
 
 ## Page Metadata
 
@@ -19,9 +19,9 @@ Primary Keyword:   car park barrier gate
 Secondary Keywords: automatic boom barrier, electric parking barrier, anti-crushing barrier gate
 Search Intent:     Commercial Investigation
 Word Count Target: 800–1,200 words
-Meta Title:        Car Park Barrier Gates — Anti-Crushing Protection | EASCO
-Meta Description:  EASCO's intelligent electric barriers use crank-link transmission and automatic anti-crushing protection — one of EASCO's three flagship product lines.
-Silo:              S3 — Vehicle & Parking Access
+Meta Title:        Car Park Barrier Gates, Anti-Crushing Protection | EASCO
+Meta Description:  EASCO's intelligent electric barriers use crank-link transmission and automatic anti-crushing protection, one of EASCO's three flagship product lines.
+Silo:              S3, Vehicle & Parking Access
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2
 Objections:        O1, O9, O11
@@ -34,7 +34,7 @@ Status:            ✅ Complete (⚠️ model number, boom length, lane width, a
 
 ---
 
-### SECTION 1 — Product Header
+### SECTION 1: Product Header
 
 **H1: Car Park Barrier**
 
@@ -47,19 +47,19 @@ A barrier arm that doesn't stop when it meets resistance is a liability, not a c
 
 ---
 
-### SECTION 2 — Product Overview
+### SECTION 2: Product Overview
 
 **H2: One of EASCO's Three Core Product Lines, Not a Side Product**
 
 EASCO names Intelligent Electric Barriers as one of its three flagship product lines, alongside face recognition access control and parking toll systems. The barrier mechanism uses crank-link transmission paired with magnetic-sensitive limit control, giving it precise, repeatable stopping points rather than relying on a simple timer or basic limit switch. Full-circuit non-contact control reduces mechanical wear points compared to a contact-switch design, and automatic anti-crushing protection stops the arm the instant it meets resistance. A manual operation mode keeps the barrier usable during a power outage, rather than leaving vehicles stuck at a dead gate.
 
-> EASCO manufactures intelligent electric barriers as one of its three flagship product lines — crank-link transmission, magnetic-sensitive limit control, automatic anti-crushing protection, and manual failsafe operation during power outages — for car parks, gated communities, and logistics yards worldwide.
+> EASCO manufactures intelligent electric barriers as one of its three flagship product lines, crank-link transmission, magnetic-sensitive limit control, automatic anti-crushing protection, and manual failsafe operation during power outages, for car parks, gated communities, and logistics yards worldwide.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3 — Key Features
+### SECTION 3: Key Features
 
 **H2: Built Around Precision Control and Fail-Safe Operation**
 
@@ -73,7 +73,7 @@ EASCO names Intelligent Electric Barriers as one of its three flagship product l
 
 ---
 
-### SECTION 4 — Technical Specifications
+### SECTION 4: Technical Specifications
 
 **H2: Confirmed Mechanism, Pending Full Spec Sheet**
 
@@ -85,13 +85,13 @@ EASCO names Intelligent Electric Barriers as one of its three flagship product l
 | Control Circuit | Full-circuit non-contact control |
 | Anti-Crushing Protection | Automatic |
 | Power-Outage Operation | Manual operation supported |
-| Model Number | ⚠️ Not yet confirmed — contact EASCO |
-| Boom Arm Length | ⚠️ Not yet confirmed — contact EASCO |
-| Lane Width | ⚠️ Not yet confirmed — contact EASCO |
-| Opening/Closing Speed | ⚠️ Not yet confirmed — contact EASCO |
-| IP Rating | ⚠️ Not yet confirmed — contact EASCO |
-| Operating Temperature | ⚠️ Not yet confirmed — contact EASCO |
-| Power Supply | ⚠️ Not yet confirmed — contact EASCO |
+| Model Number | ⚠️ Not yet confirmed. Contact EASCO |
+| Boom Arm Length | ⚠️ Not yet confirmed. Contact EASCO |
+| Lane Width | ⚠️ Not yet confirmed. Contact EASCO |
+| Opening/Closing Speed | ⚠️ Not yet confirmed. Contact EASCO |
+| IP Rating | ⚠️ Not yet confirmed. Contact EASCO |
+| Operating Temperature | ⚠️ Not yet confirmed. Contact EASCO |
+| Power Supply | ⚠️ Not yet confirmed. Contact EASCO |
 
 *(This page will be updated with a model number, boom length, lane width, and cycle-speed figures as soon as EASCO provides a full spec sheet for this product line. Pairs with EASCO's [ES-T02/T03/T04 LPR camera](/anpr-systems/es-t02-t03-t04/) and [unattended parking toll system](/anpr-systems/unattended-parking-toll-system/) for a complete vehicle entry/exit solution.)*
 
@@ -101,7 +101,7 @@ EASCO names Intelligent Electric Barriers as one of its three flagship product l
 
 ---
 
-### SECTION 5 — Applications
+### SECTION 5: Applications
 
 **H2: Deployed Wherever Vehicle Access Needs a Controlled Stop**
 
@@ -114,7 +114,7 @@ EASCO names Intelligent Electric Barriers as one of its three flagship product l
 
 ---
 
-### SECTION 6 — Customization Options
+### SECTION 6: Customization Options
 
 **H2: Confirm Configuration Directly With EASCO**
 
@@ -126,18 +126,18 @@ Boom arm length, mounting configuration, and control system integration can be d
 
 ---
 
-### SECTION 7 — Downloads
+### SECTION 7: Downloads
 
 **H2: Documentation**
 
-- [ ] Full spec sheet — ⚠️ pending client confirmation of model number and dimensions
-- [ ] Certification documents — see [Certifications page](/certifications/)
+- [ ] Full spec sheet, ⚠️ pending client confirmation of model number and dimensions
+- [ ] Certification documents. See [Certifications page](/certifications/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 8 — FAQ
+### SECTION 8: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -160,19 +160,19 @@ A: Yes. It's designed to work alongside the ES-T02/T03/T04 LPR camera and EASCO'
 
 ---
 
-### SECTION 9 — Related Products
+### SECTION 9: Related Products
 
 **H2: Related Products**
 
-- [ANPR Systems](/anpr-systems/) — license plate recognition to pair with this barrier
-- [Unattended Parking Toll System](/anpr-systems/unattended-parking-toll-system/) — payment and access control counterpart
-- [Handheld Parking Management Device](/anpr-systems/handheld-parking-management-device/) — mobile alternative for overflow or informal lots
+- [ANPR Systems](/anpr-systems/), license plate recognition to pair with this barrier
+- [Unattended Parking Toll System](/anpr-systems/unattended-parking-toll-system/), payment and access control counterpart
+- [Handheld Parking Management Device](/anpr-systems/handheld-parking-management-device/), mobile alternative for overflow or informal lots
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 10 — Final CTA
+### SECTION 10: Final CTA
 
 **H2: Get Pricing for a Car Park Barrier**
 
@@ -200,4 +200,4 @@ Send your lane width and expected daily vehicle volume, and EASCO will confirm c
 
 ---
 
-**End of Car Park Barrier Category Content — Five-Pass Review Complete**
+**End of Car Park Barrier Category Content: Five-Pass Review Complete**

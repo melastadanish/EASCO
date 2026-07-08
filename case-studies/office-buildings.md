@@ -1,11 +1,11 @@
 ---
-Status: READY FOR DEVELOPMENT — Complete (named projects confirmed unavailable, not pending)
+Status: READY FOR DEVELOPMENT, Complete (named projects confirmed unavailable, not pending)
 Pass A: 8.0/10 (scored on completed sections only, per template fallback rule)
 Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (case study, office building, turnstile, face recognition, throughput)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (80,000+ installs, 50+ countries) | GEO ✅
 Pass C: Headlines ✅ | CTAs ✅ | AI-score ~8%
-Client Data Verified: 2026-07-08 (No specific office building project names, locations, photos, or measured results have been supplied by the client. Per templates/case-study-template.md's own fallback instructions, this page completes the requirements/products/FAQ/CTA sections and does not invent project names, photos, or results. Follow-up 2026-07-08: independent research — search engines plus a direct fetch of EASCO's own prior website, including its sitemap and "Installation Cases" section — confirmed this data has never been published anywhere. Not pending; genuinely nonexistent.)
+Client Data Verified: 2026-07-08 (No specific office building project names, locations, photos, or measured results have been supplied by the client. Per templates/case-study-template.md's own fallback instructions, this page completes the requirements/products/FAQ/CTA sections and does not invent project names, photos, or results. Follow-up 2026-07-08: independent research, search engines plus a direct fetch of EASCO's own prior website, including its sitemap and "Installation Cases" section, confirmed this data has never been published anywhere. Not pending; genuinely nonexistent.)
 Last Updated: 2026-07-08
 ---
 
@@ -22,7 +22,7 @@ Word Count Target: 700–900 words
 Meta Title:        Office Building Access Control Case Studies | EASCO
 Meta Description:  EASCO turnstiles and face recognition systems secure office building entrances worldwide. See what a typical deployment looks like and request a reference project.
 Primary Segment:   Facility / Security Manager (S1)
-Status:            ✅ Complete — named projects confirmed unavailable after independent research (see pass log)
+Status:            ✅ Complete, named projects confirmed unavailable after independent research (see pass log)
 ```
 
 ---
@@ -31,11 +31,11 @@ Status:            ✅ Complete — named projects confirmed unavailable after i
 
 ---
 
-### SECTION 1 — Hero + Overview
+### SECTION 1: Hero + Overview
 
 **H1: Office Building Access Control Projects**
 
-Office buildings rely on EASCO turnstiles and face recognition terminals to manage staff flow, visitor check-in, and lobby security without turning the entrance into a checkpoint. EASCO's hardware is deployed across 80,000+ installations in 50+ countries — this page covers what a typical office building deployment looks like.
+Office buildings rely on EASCO turnstiles and face recognition terminals to manage staff flow, visitor check-in, and lobby security without turning the entrance into a checkpoint. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical office building deployment looks like.
 
 **CTA:** [Want a Similar Solution?](/quote/)
 
@@ -43,11 +43,11 @@ Office buildings rely on EASCO turnstiles and face recognition terminals to mana
 
 ---
 
-### SECTION 2 — Featured Projects
+### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
 
-**Mid-Size Corporate Office — Illustrative Example**
+**Mid-Size Corporate Office: Illustrative Example**
 
 | Detail | Information |
 |---|---|
@@ -70,7 +70,7 @@ In the meantime: EASCO access control systems are deployed at office buildings a
 
 ---
 
-### SECTION 3 — What Office Buildings Need from Access Control
+### SECTION 3: What Office Buildings Need from Access Control
 
 **H2: Common Requirements for Office Lobbies**
 
@@ -90,19 +90,19 @@ In the meantime: EASCO access control systems are deployed at office buildings a
 
 ---
 
-### SECTION 4 — Recommended Products for Office Buildings
+### SECTION 4: Recommended Products for Office Buildings
 
 **H2: EASCO Products Used in Office Building Deployments**
 
-**[Flap Barrier / Speed Gates](/products/speed-gates/)** — the JX flagship's RGB status lighting and custom door panel suit a reception area's first impression.
-**[Face Recognition Terminals](/products/face-recognition/)** — 99.98% accuracy at 200–300ms clears staff without a card reader.
-**[Visitor Registration Machines](/products/visitor-registration/)** — self-check-in for visitors without a manned desk.
+**[Flap Barrier / Speed Gates](/products/speed-gates/)**: the JX flagship's RGB status lighting and custom door panel suit a reception area's first impression.
+**[Face Recognition Terminals](/products/face-recognition/)**: 99.98% accuracy at 200–300ms clears staff without a card reader.
+**[Visitor Registration Machines](/products/visitor-registration/)**: self-check-in for visitors without a manned desk.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 5 — FAQ: Office Building Access Control Projects
+### SECTION 5: FAQ: Office Building Access Control Projects
 
 **H2: Frequently Asked Questions**
 
@@ -113,19 +113,19 @@ A: Timeline depends on entrance count and integration scope. Contact EASCO direc
 A: Standard interfaces (Wiegand 26/34, RS485, TCP/IP) cover most existing platforms, with SDK/API documentation available for custom integration.
 
 **Q: What happens during a power outage?**
-A: Gate fail-safe behavior (open or locked on power loss) is configurable per project — confirm the required behavior before installation.
+A: Gate fail-safe behavior (open or locked on power loss) is configurable per project. Confirm the required behavior before installation.
 
 **Q: Do you provide training for building staff?**
 A: Discuss training and onboarding requirements directly with EASCO as part of the order process.
 
 **Q: What's the warranty and support model?**
-A: ⚠️ Confirm current warranty terms directly with EASCO — this varies by product category and is not yet finalized in published documentation.
+A: ⚠️ Confirm current warranty terms directly with EASCO. This varies by product category and is not yet finalized in published documentation.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 6 — CTA: Get a Similar Solution
+### SECTION 6: CTA: Get a Similar Solution
 
 **H2: Want a Similar Access Control Solution for Your Office Building?**
 
@@ -149,7 +149,7 @@ Every office building has different tenant, traffic, and integration requirement
 
 ## What Would Strengthen This Page If It Ever Becomes Available
 
-> Confirmed unavailable as of 2026-07-08 (see pass log) — not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
+> Confirmed unavailable as of 2026-07-08 (see pass log), not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
 
 - Specific project names, locations, dates
 - Products used per project (model numbers)
@@ -158,4 +158,4 @@ Every office building has different tenant, traffic, and integration requirement
 
 ---
 
-**End of Office Buildings Case Study Content — Sections 1, 3–6 Complete; Sections 2 Confirmed Unavailable After Independent Research**
+**End of Office Buildings Case Study Content: Sections 1, 3–6 Complete; Sections 2 Confirmed Unavailable After Independent Research**

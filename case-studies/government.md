@@ -1,5 +1,5 @@
 ---
-Status: READY FOR DEVELOPMENT — Complete (named projects confirmed unavailable, not pending)
+Status: READY FOR DEVELOPMENT, Complete (named projects confirmed unavailable, not pending)
 Pass A: 8.1/10 (scored on completed sections only, per template fallback rule)
 Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 4/4 terms present (case study, iris recognition, FAR, certification)
@@ -22,7 +22,7 @@ Word Count Target: 700–900 words
 Meta Title:        Government Building Access Control Case Studies | EASCO
 Meta Description:  EASCO iris recognition and high-throughput turnstiles secure government facilities requiring the highest security tier. See a typical deployment.
 Primary Segment:   Airport / Transit Authority Procurement (S5)
-Status:            ✅ Complete — named projects confirmed unavailable after independent research (see pass log)
+Status:            ✅ Complete, named projects confirmed unavailable after independent research (see pass log)
 ```
 
 ---
@@ -31,11 +31,11 @@ Status:            ✅ Complete — named projects confirmed unavailable after i
 
 ---
 
-### SECTION 1 — Hero + Overview
+### SECTION 1: Hero + Overview
 
 **H1: Government Building Access Control Projects**
 
-Government facilities rely on EASCO's iris recognition for restricted zones and cylindrical turnstiles for general staff traffic, backed by documented certifications for procurement review. EASCO's hardware is deployed across 80,000+ installations in 50+ countries — this page covers what a typical high-security deployment looks like.
+Government facilities rely on EASCO's iris recognition for restricted zones and cylindrical turnstiles for general staff traffic, backed by documented certifications for procurement review. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical high-security deployment looks like.
 
 **CTA:** [Want a Similar Solution?](/quote/)
 
@@ -43,11 +43,11 @@ Government facilities rely on EASCO's iris recognition for restricted zones and 
 
 ---
 
-### SECTION 2 — Featured Projects
+### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE — NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available — do not present this as a completed client project.
+> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
 
-**Government Administrative Building — Illustrative Example**
+**Government Administrative Building: Illustrative Example**
 
 | Detail | Information |
 |---|---|
@@ -70,7 +70,7 @@ In the meantime: EASCO high-security biometric and turnstile systems are deploye
 
 ---
 
-### SECTION 3 — What Government Buildings Need from Access Control
+### SECTION 3: What Government Buildings Need from Access Control
 
 **H2: Common Requirements for High-Security Facilities**
 
@@ -90,19 +90,19 @@ In the meantime: EASCO high-security biometric and turnstile systems are deploye
 
 ---
 
-### SECTION 4 — Recommended Products for Government Buildings
+### SECTION 4: Recommended Products for Government Buildings
 
 **H2: EASCO Products Used in Government Deployments**
 
-**[Palm Vein + Iris Recognition](/products/palm-vein-iris/)** — the highest-accuracy biometric tier for restricted zones.
-**[Cylindrical Turnstiles](/products/cylindrical-turnstiles/)** — throughput for general staff and public areas.
-**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)** — secure parking access control.
+**[Palm Vein + Iris Recognition](/products/palm-vein-iris/)**: the highest-accuracy biometric tier for restricted zones.
+**[Cylindrical Turnstiles](/products/cylindrical-turnstiles/)**: throughput for general staff and public areas.
+**[Number Plate Recognition (ANPR) Systems](/products/anpr-systems/)**: secure parking access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 5 — FAQ: Government Building Access Control Projects
+### SECTION 5: FAQ: Government Building Access Control Projects
 
 **H2: Frequently Asked Questions**
 
@@ -119,13 +119,13 @@ A: Iris recognition reaches a 1-in-10,000,000 misrecognition rate, the highest a
 A: Yes. General staff and public areas can use cylindrical turnstiles while restricted zones use iris recognition, all reporting to the same platform.
 
 **Q: What's the warranty and support model?**
-A: ⚠️ Confirm current warranty terms directly with EASCO — this varies by product category and isn't yet finalized in published documentation.
+A: ⚠️ Confirm current warranty terms directly with EASCO. This varies by product category and isn't yet finalized in published documentation.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 6 — CTA: Get a Similar Solution
+### SECTION 6: CTA: Get a Similar Solution
 
 **H2: Want a Similar Access Control Solution for Your Facility?**
 
@@ -148,7 +148,7 @@ Every government facility has different security tiers and procurement requireme
 
 ## What Would Strengthen This Page If It Ever Becomes Available
 
-> Confirmed unavailable as of 2026-07-08 (see pass log) — not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
+> Confirmed unavailable as of 2026-07-08 (see pass log), not an active request, just documenting what real project data would add if EASCO ever chooses to develop it.
 
 - Specific project names, locations, dates
 - Products used per project (model numbers)
@@ -157,4 +157,4 @@ Every government facility has different security tiers and procurement requireme
 
 ---
 
-**End of Government Case Study Content — Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**
+**End of Government Case Study Content: Sections 1, 3–6 Complete; Section 2 Confirmed Unavailable After Independent Research**

@@ -1,27 +1,27 @@
 ---
-Status: DRAFT — LEGAL REVIEW REQUIRED BEFORE PUBLISHING
-Pass A: N/A — legal boilerplate, not marketing copy subject to Tier 2 scoring
+Status: DRAFT, LEGAL REVIEW REQUIRED BEFORE PUBLISHING
+Pass A: N/A, legal boilerplate, not marketing copy subject to Tier 2 scoring
 Pass B: N/A
 Pass N: N/A
 Pass D: Freshness date set ✅
 Pass C: N/A
-Client Data Verified: 2026-07-08 (Company name, address, and OEM/pricing policy from client-data-map.md and WritingSystem.md. Legal clauses below are standard boilerplate, NOT verified by qualified legal counsel — see disclaimer.)
+Client Data Verified: 2026-07-08 (Company name, address, and OEM/pricing policy from client-data-map.md and WritingSystem.md. Legal clauses below are standard boilerplate, NOT verified by qualified legal counsel. See disclaimer.)
 Last Updated: 2026-07-08
 ---
 
-# Terms of Service — Content
+# Terms of Service: Content
 
 ## Page Metadata
 
 ```
 Target URL:        /terms/
 Page Type:         Legal
-Status:            ⚠️ DRAFT — requires legal counsel review before publishing
+Status:            ⚠️ DRAFT, requires legal counsel review before publishing
 ```
 
 ---
 
-## ⚠️ IMPORTANT — Read Before Publishing
+## ⚠️ IMPORTANT: Read Before Publishing
 
 This is a standard terms of service template populated with EASCO's confirmed business details. It has **not been reviewed by qualified legal counsel** and should not be published as-is. Terms covering international sales, warranty, and liability should be reviewed by a lawyer familiar with the jurisdictions EASCO ships to before publishing.
 
@@ -39,7 +39,7 @@ These terms govern use of szeasco.com and any quote, order, or inquiry submitted
 
 **Website Use**
 
-Content on this site — product specifications, pricing references, and company information — is provided for informational purposes. Final pricing and specifications are confirmed in writing at the quote stage, not on the website alone.
+Content on this site, product specifications, pricing references, and company information, is provided for informational purposes. Final pricing and specifications are confirmed in writing at the quote stage, not on the website alone.
 
 **Quotes and Orders**
 
@@ -80,8 +80,8 @@ Email: [hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
 ## Outstanding Work Needed
 
 - Legal counsel review, particularly Limitation of Liability and Governing Law sections
-- Confirmed warranty period per product category (flagged as unconfirmed across the project — see client-data-map.md)
+- Confirmed warranty period per product category (flagged as unconfirmed across the project. See client-data-map.md)
 
 ---
 
-**End of Terms of Service Content — DRAFT, Pending Legal Review**
+**End of Terms of Service Content: DRAFT, Pending Legal Review**

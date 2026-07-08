@@ -5,11 +5,11 @@ Pass B: 4 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (face recognition, liveness detection, IP65, capacity, accuracy)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (99.98% accuracy, IP65) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ (O13, O14 covered) | CTAs ✅ (spec sheet → quote) | AI-score ~9%
-Client Data Verified: 2026-07-08 (Specs confirmed via _system/client-data-map.md shared Face Recognition Systems table, sources h-pd-30, h-pd-44. Several Chinese product names — 云棱, 云腾, 灵点 — map to this shared 8-inch spec tier, but exact English model codes for each are NOT yet confirmed individually.)
+Client Data Verified: 2026-07-08 (Specs confirmed via _system/client-data-map.md shared Face Recognition Systems table, sources h-pd-30, h-pd-44. Several Chinese product names, 云棱, 云腾, 灵点, map to this shared 8-inch spec tier, but exact English model codes for each are NOT yet confirmed individually.)
 Last Updated: 2026-07-08
 ---
 
-# Standard Face Recognition Terminal (8-inch) — Product Page
+# Standard Face Recognition Terminal (8-inch): Product Page
 
 ## Page Metadata
 
@@ -21,12 +21,12 @@ Search Intent:     Commercial Investigation
 Word Count Target: 1,000–1,500 words
 Meta Title:        Standard 8-Inch Face Recognition Terminal | EASCO
 Meta Description:  EASCO's standard 8-inch face recognition terminal: 99.98% accuracy, IP65-rated, 50,000-face capacity, financial-grade liveness detection.
-Silo:              S2 — Biometric Access Control
+Silo:              S2, Biometric Access Control
 Pillar Page:       /face-recognition/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D5
 Objections:        O13, O14
-Status:            ✅ Complete (⚠️ individual Chinese model names mapping to this spec tier — 云棱, 云腾, 灵点 — pending confirmed English model codes)
+Status:            ✅ Complete (⚠️ individual Chinese model names mapping to this spec tier, 云棱, 云腾, 灵点, pending confirmed English model codes)
 ```
 
 ---
@@ -35,11 +35,11 @@ Status:            ✅ Complete (⚠️ individual Chinese model names mapping t
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: Standard Face Recognition Terminal (8-inch)**
 
-Most access points don't need a premium display — they need reliable verification that doesn't fail in daily use. EASCO's standard 8-inch face recognition terminal delivers 99.98% accuracy in 200–300ms, backed by financial-grade liveness detection, in an IP65-rated housing built for indoor or outdoor installation.
+Most access points don't need a premium display, they need reliable verification that doesn't fail in daily use. EASCO's standard 8-inch face recognition terminal delivers 99.98% accuracy in 200–300ms, backed by financial-grade liveness detection, in an IP65-rated housing built for indoor or outdoor installation.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -48,7 +48,7 @@ Most access points don't need a premium display — they need reliable verificat
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ Most access points don't need a premium display — they need reliable verificat
 
 ---
 
-### SECTION 3 — What Is This Terminal?
+### SECTION 3: What Is This Terminal?
 
 **H2: EASCO's Baseline Face Recognition Platform**
 
 This is EASCO's standard 8-inch face recognition terminal, the shared platform underlying several product-line variants across the catalogue. It verifies a face at 0.5–3 metres in 200–300ms, storing up to 50,000 enrolled faces onboard. Financial-grade liveness detection rejects photos, screen replays, and printed faces, and the aviation-grade aluminum alloy housing carries an IP65 rating for indoor or outdoor use.
 
 **AI-quotable paragraph:**
-> "EASCO's standard 8-inch face recognition terminal verifies identity at 99.98% accuracy in 200–300ms, with financial-grade liveness detection and IP65-rated housing supporting up to 50,000 enrolled faces — EASCO's baseline biometric access control platform."
+> "EASCO's standard 8-inch face recognition terminal verifies identity at 99.98% accuracy in 200–300ms, with financial-grade liveness detection and IP65-rated housing supporting up to 50,000 enrolled faces, EASCO's baseline biometric access control platform."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: A Verified Baseline, Not a Stripped-Down Budget Option**
 
@@ -87,7 +87,7 @@ This is EASCO's standard 8-inch face recognition terminal, the shared platform u
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -111,7 +111,7 @@ This is EASCO's standard 8-inch face recognition terminal, the shared platform u
 | Communication | Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0 |
 | Installation | Wall-mount, desktop, floor-standing, turnstile-integrated |
 
-*(⚠️ This spec tier is shared across several Chinese product names in EASCO's catalogue — 云棱, 云腾, 灵点 — whose distinct English model codes are not yet confirmed. Contact EASCO to confirm the exact commercial model name for a specific order.)*
+*(⚠️ This spec tier is shared across several Chinese product names in EASCO's catalogue, 云棱, 云腾, 灵点, whose distinct English model codes are not yet confirmed. Contact EASCO to confirm the exact commercial model name for a specific order.)*
 
 **CTA:** Need the full datasheet? [Download PDF](#) or [request it on WhatsApp](https://wa.me/8613711422283)
 
@@ -119,7 +119,7 @@ This is EASCO's standard 8-inch face recognition terminal, the shared platform u
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: Face Capture to Access Signal in Under a Second**
 
@@ -132,7 +132,7 @@ This is EASCO's standard 8-inch face recognition terminal, the shared platform u
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed as the Default Access Point Across Most Facility Types**
 
@@ -145,21 +145,21 @@ This is EASCO's standard 8-inch face recognition terminal, the shared platform u
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Standard Interfaces for Standard Integrations**
 
-Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with most existing access control panels and HR attendance systems. SDK/API documentation is available for custom integration — see the [Downloads page](/downloads/).
+Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with most existing access control panels and HR attendance systems. SDK/API documentation is available for custom integration. See the [Downloads page](/downloads/).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: The Same Verified Accuracy as EASCO's Premium Terminals**
 
-A "standard" terminal shouldn't mean a lower accuracy rate — it should mean fewer optional extras. EASCO's standard 8-inch terminal runs the same 99.98%-accurate recognition engine and financial-grade liveness detection as its premium 10.1-inch model, manufactured factory-direct from the same Shenzhen facility.
+A "standard" terminal shouldn't mean a lower accuracy rate, it should mean fewer optional extras. EASCO's standard 8-inch terminal runs the same 99.98%-accurate recognition engine and financial-grade liveness detection as its premium 10.1-inch model, manufactured factory-direct from the same Shenzhen facility.
 
 **Differentiators used:** D2, D5
 **Objections addressed:** O13, O14
@@ -168,7 +168,7 @@ A "standard" terminal shouldn't mean a lower accuracy rate — it should mean fe
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -191,19 +191,19 @@ A: Up to 50,000 faces.
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Face Recognition category](/face-recognition/) — back to the full range
-- [Premium 10.1-Inch Face Recognition Terminal](/face-recognition/premium-10-inch-terminal/) — larger display, higher-resolution camera
-- [L8 Face + Fingerprint Terminal](/face-recognition/l8/) — dual biometric alternative
+- [Face Recognition category](/face-recognition/), back to the full range
+- [Premium 10.1-Inch Face Recognition Terminal](/face-recognition/premium-10-inch-terminal/), larger display, higher-resolution camera
+- [L8 Face + Fingerprint Terminal](/face-recognition/l8/), dual biometric alternative
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the Standard 8-Inch Terminal**
 
@@ -226,8 +226,8 @@ Send your installation environment and expected user count, and get back a confi
 
 ## Outstanding Client Data Needed
 
-- Confirm exact English model codes for 云棱, 云腾, and 灵点 — the Chinese product names mapping to this shared 8-inch spec tier
+- Confirm exact English model codes for 云棱, 云腾, and 灵点, the Chinese product names mapping to this shared 8-inch spec tier
 
 ---
 
-**End of Standard 8-Inch Terminal Content — Five-Pass Review Complete**
+**End of Standard 8-Inch Terminal Content: Five-Pass Review Complete**

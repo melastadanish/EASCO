@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (Source: _system/client-data-map/ESQV8.md and _
 Last Updated: 2026-07-08
 ---
 
-# Palm Vein + Iris Recognition — Category Page
+# Palm Vein + Iris Recognition: Category Page
 
 ## Page Metadata
 
@@ -20,9 +20,9 @@ Secondary Keywords: iris recognition system, contactless biometric access contro
 Schema Markup:     Product
 Search Intent:     Commercial (Transactional)
 Word Count Target: 900–1,300 words
-Meta Title:        Palm Vein & Iris Recognition Systems — EASCO
+Meta Title:        Palm Vein & Iris Recognition Systems, EASCO
 Meta Description:  EASCO palm vein and iris recognition terminals reach a 1-in-10,000,000 misrecognition rate with no facial image stored. IP65-rated, factory direct from Shenzhen.
-Silo:              S2 — Biometric Access Control
+Silo:              S2, Biometric Access Control
 Model Numbers:     ESQV8 (palm + face), MTH8 (iris + face), ESFPR (palm vein)
 Primary Segment:   Facility / Security Manager (S1)
 Secondary Segment: System Integrator / Contractor (S2)
@@ -37,11 +37,11 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Product Header
+### SECTION 1: Product Header
 
 **H1: Palm Vein + Iris Recognition**
 
-A misrecognition rate of 1 in 10,000,000 — the highest accuracy across EASCO's biometric range, with nothing to photograph and nothing to spoof.
+A misrecognition rate of 1 in 10,000,000, the highest accuracy across EASCO's biometric range, with nothing to photograph and nothing to spoof.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -50,41 +50,41 @@ A misrecognition rate of 1 in 10,000,000 — the highest accuracy across EASCO's
 
 ---
 
-### SECTION 2 — Product Overview
+### SECTION 2: Product Overview
 
 **H2: Biometrics for Sites Where Face Recognition Isn't Enough**
 
 Some entrances need more than a face scan. Palm vein recognition reads the vein pattern beneath the skin using near-infrared light. There's no surface to photograph and no facial image stored, which matters for sites with strict privacy or regulatory requirements. Iris recognition pushes accuracy further still, reaching a 1-in-10,000,000 misrecognition rate on the MTH8 terminal. Both technologies ship combined with face recognition on the same 8-inch Android terminal. A facility isn't forced to choose one biometric mode for the whole site.
 
-> EASCO manufactures palm vein and iris recognition terminals with a false acceptance rate as low as 0.00001% on palm vein (ESQV8) and a 1-in-10,000,000 misrecognition rate on iris (MTH8) — for banks, data centers, and government facilities worldwide. Factory direct from Shenzhen, combined with face recognition on the same terminal.
+> EASCO manufactures palm vein and iris recognition terminals with a false acceptance rate as low as 0.00001% on palm vein (ESQV8) and a 1-in-10,000,000 misrecognition rate on iris (MTH8), for banks, data centers, and government facilities worldwide. Factory direct from Shenzhen, combined with face recognition on the same terminal.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — dual-model range invites comparison)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, dual-model range invites comparison)
 
 ---
 
-### SECTION 3 — Key Features
+### SECTION 3: Key Features
 
 **H2: Higher Security Tier Without a Separate Terminal**
 
 - **The wrong person can't get in.** ESQV8 palm vein recognition reaches a 0.00001% false acceptance rate and a 0.0001% false rejection rate.
-- **Nothing to steal and nothing to fake.** Palm vein reads a subsurface vein pattern — there's no print or photo to lift and replay.
+- **Nothing to steal and nothing to fake.** Palm vein reads a subsurface vein pattern, there's no print or photo to lift and replay.
 - **The highest accuracy in EASCO's range.** MTH8 iris recognition misidentifies at a rate of 1 in 10,000,000, verified in under 2 seconds.
 - **No facial image gets stored.** Palm vein suits sites with privacy or regulatory concerns around facial data collection.
 - **One terminal, two ways in.** Both ESQV8 and MTH8 combine their specialty biometric with 99.98%-accuracy face recognition on the same unit.
 - **It still works in a server room or an unheated corridor.** Operating range covers -25°C to +75°C, IP65-rated on the ESQV8.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — spec density invites comparison)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, spec density invites comparison)
 
 ---
 
-### SECTION 4 — Technical Specifications
+### SECTION 4: Technical Specifications
 
-**H2: ESQV8 (Palm + Face) and MTH8 (Iris + Face) — Confirmed Specifications**
+**H2: ESQV8 (Palm + Face) and MTH8 (Iris + Face): Confirmed Specifications**
 
 | Parameter | ESQV8 (Palm Vein + Face) | MTH8 (Iris + Face) |
 |---|---|---|
-| Specialty Biometric FAR | 0.00001% (1e-05) | — (misrecognition: 1 in 10,000,000) |
-| Specialty Biometric FRR | 0.0001% | — |
+| Specialty Biometric FAR | 0.00001% (1e-05) |, (misrecognition: 1 in 10,000,000) |
+| Specialty Biometric FRR | 0.0001% |, |
 | Specialty Recognition Speed | Under 0.5 seconds | Under 2 seconds |
 | Specialty Capacity / Range | 10,000 palm veins, 140–400mm distance | 30–50cm distance, 13cm cover height |
 | Liveness Detection | Supported | Supported |
@@ -107,7 +107,7 @@ Some entrances need more than a face scan. Palm vein recognition reads the vein 
 
 ---
 
-### SECTION 5 — Applications
+### SECTION 5: Applications
 
 **H2: Where the Highest Security Tier Justifies the Cost**
 
@@ -116,11 +116,11 @@ Some entrances need more than a face scan. Palm vein recognition reads the vein 
 - **Government facilities:** Both technologies pair with face recognition on one terminal, covering high-security and standard-tier zones from a single product line.
 - **Healthcare facilities with strict privacy rules:** Palm vein stores no facial image, avoiding the regulatory questions that facial data collection can raise.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — venue fit invites inquiry)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, venue fit invites inquiry)
 
 ---
 
-### SECTION 6 — Customization Options
+### SECTION 6: Customization Options
 
 **H2: Combine with Face Recognition or Run Standalone**
 
@@ -132,20 +132,20 @@ Both ESQV8 and MTH8 ship with face recognition active by default. Either special
 
 ---
 
-### SECTION 7 — Downloads
+### SECTION 7: Downloads
 
 **H2: Documentation**
 
-- [ ] ESQV8 specification sheet (PDF) — ⚠️ add when finalized
-- [ ] MTH8 specification sheet (PDF) — ⚠️ add when finalized
-- [ ] SDK/API documentation — see [Contact page](/contact/) to request
-- [ ] Certification documents — see [Certifications page](/certifications/)
+- [ ] ESQV8 specification sheet (PDF), ⚠️ add when finalized
+- [ ] MTH8 specification sheet (PDF), ⚠️ add when finalized
+- [ ] SDK/API documentation. See [Contact page](/contact/) to request
+- [ ] Certification documents. See [Certifications page](/certifications/)
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 8 — FAQ
+### SECTION 8: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -165,25 +165,25 @@ A: Palm vein reads in under 0.5 seconds. Iris recognition takes under 2 seconds.
 A: The ESQV8 is IP65-rated for indoor and outdoor use. The MTH8's iris module is confirmed for indoor, outdoor, and night-time recognition environments.
 
 **Q: Does it integrate with existing access control systems?**
-A: Yes. Both terminals support Ethernet, WiFi, RS-485, Wiegand 26/34, USB 2.0, and RJ45 — covering most existing platforms without custom middleware.
+A: Yes. Both terminals support Ethernet, WiFi, RS-485, Wiegand 26/34, USB 2.0, and RJ45, covering most existing platforms without custom middleware.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Related Products
+### SECTION 9: Related Products
 
 **H2: Related Products**
 
-- [Face Recognition Terminals](/face-recognition/) — standalone face-only alternative
-- [Android Turnstiles](/android-turnstiles/) — pair with a turnstile-integrated terminal
-- [Alcohol Detection Devices](/alcohol-detection/) — combine with biometric access for high-security sites
+- [Face Recognition Terminals](/face-recognition/), standalone face-only alternative
+- [Android Turnstiles](/android-turnstiles/), pair with a turnstile-integrated terminal
+- [Alcohol Detection Devices](/alcohol-detection/), combine with biometric access for high-security sites
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 10 — Final CTA
+### SECTION 10: Final CTA
 
 **H2: Get Pricing for Palm Vein or Iris Recognition**
 
@@ -212,4 +212,4 @@ Send the security tier needed and preferred installation style, and get back a m
 
 ---
 
-**End of Palm Vein + Iris Recognition Category Content — Five-Pass Review Complete**
+**End of Palm Vein + Iris Recognition Category Content: Five-Pass Review Complete**

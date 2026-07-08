@@ -5,11 +5,11 @@ Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (distributor, OEM, partner, dealer, territory)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (16+ years, factory direct, existing partner network) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ (O8, O11 covered) | CTAs ✅ (apply → contact) | AI-score ~9%
-Client Data Verified: 2026-07-08 (Partnership terms structured from _system/WritingSystem.md and objection-map.md O8/O11. No specific named partner list is confirmed — this page invites applications rather than naming existing partners, which is NOT confirmed data.)
+Client Data Verified: 2026-07-08 (Partnership terms structured from _system/WritingSystem.md and objection-map.md O8/O11. No specific named partner list is confirmed, this page invites applications rather than naming existing partners, which is NOT confirmed data.)
 Last Updated: 2026-07-08
 ---
 
-# Partners — Content
+# Partners: Content
 
 ## Page Metadata
 
@@ -19,7 +19,7 @@ Primary Keyword:   turnstile distributor partnership
 Secondary Keywords: become an EASCO dealer, access control reseller program, OEM partnership China
 Search Intent:     Commercial / B2B Partnership
 Word Count Target: 500–800 words
-Meta Title:        Become a Partner — Distributor & Reseller Program | EASCO
+Meta Title:        Become a Partner, Distributor & Reseller Program | EASCO
 Meta Description:  Partner with EASCO as a distributor, reseller, or OEM manufacturer. Factory-direct pricing, territory support, and 16+ years of manufacturing experience.
 Page Type:         Partnership / Lead-gen
 Primary Segment:   Importer / Distributor (S3)
@@ -33,17 +33,17 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero / Page Intro
+### SECTION 1: Hero / Page Intro
 
 **H1: Become a Partner**
 
-A distributor competing against three other importers of the same product line isn't a partnership — it's a race to the bottom on price. EASCO works with a limited number of partners per territory, with factory-direct pricing and dedicated support behind each one.
+A distributor competing against three other importers of the same product line isn't a partnership, it's a race to the bottom on price. EASCO works with a limited number of partners per territory, with factory-direct pricing and dedicated support behind each one.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — territory limitation invites application)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, territory limitation invites application)
 
 ---
 
-### SECTION 2 — Partnership Types
+### SECTION 2: Partnership Types
 
 **H2: Three Ways to Work With EASCO**
 
@@ -60,7 +60,7 @@ Get SDK/API documentation, technical support, and priority quote turnaround for 
 
 ---
 
-### SECTION 3 — Why Partner With EASCO
+### SECTION 3: Why Partner With EASCO
 
 **H2: What a Partner Gets That an Individual Order Doesn't**
 
@@ -73,21 +73,21 @@ Get SDK/API documentation, technical support, and priority quote turnaround for 
 
 ---
 
-### SECTION 4 — How to Apply
+### SECTION 4: How to Apply
 
 **H2: Apply in Three Steps**
 
-**Step 1 — Send your business details.** Company name, target territory, and current product focus.
+**Step 1. Send your business details.** Company name, target territory, and current product focus.
 
-**Step 2 — Discuss terms.** A sales specialist reviews volume expectations and confirms pricing and territory terms.
+**Step 2. Discuss terms.** A sales specialist reviews volume expectations and confirms pricing and territory terms.
 
-**Step 3 — Confirm and onboard.** Once terms are agreed, a partner gets a dedicated contact, pricing sheet, and marketing materials.
+**Step 3. Confirm and onboard.** Once terms are agreed, a partner gets a dedicated contact, pricing sheet, and marketing materials.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — step clarity invites application)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, step clarity invites application)
 
 ---
 
-### SECTION 5 — FAQ
+### SECTION 5: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -110,7 +110,7 @@ A: Onboarding timelines depend on the partnership type and territory discussion.
 
 ---
 
-### SECTION 6 — CTA
+### SECTION 6: CTA
 
 **H2: Apply to Become a Partner**
 
@@ -131,4 +131,4 @@ Send your company details and target territory, and hear back from a sales speci
 
 ---
 
-**End of Partners Content — Five-Pass Review Complete**
+**End of Partners Content: Five-Pass Review Complete**

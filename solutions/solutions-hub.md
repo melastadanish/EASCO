@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (All company facts traced to client-data-map.md
 Last Updated: 2026-07-08
 ---
 
-# Solutions Hub — Content
+# Solutions Hub: Content
 
 ## Page Metadata
 
@@ -33,17 +33,17 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero / Page Intro
+### SECTION 1: Hero / Page Intro
 
 **H1: Access Control Solutions by Industry**
 
-A hospital, an airport, and a factory don't need the same access control setup. EASCO builds the hardware for all three — turnstiles, face recognition, palm vein, iris, and vehicle recognition — and pairs the right combination to the sector. Every configuration below draws from the same 10 product categories, backed by 16+ years of manufacturing and 80,000+ installations across 50+ countries.
+A hospital, an airport, and a factory don't need the same access control setup. EASCO builds the hardware for all three, turnstiles, face recognition, palm vein, iris, and vehicle recognition, and pairs the right combination to the sector. Every configuration below draws from the same 10 product categories, backed by 16+ years of manufacturing and 80,000+ installations across 50+ countries.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — sector grid invites navigation)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, sector grid invites navigation)
 
 ---
 
-### SECTION 2 — Industries Served
+### SECTION 2: Industries Served
 
 **H2: Six Sectors, Six Different Priorities**
 
@@ -75,7 +75,7 @@ Security tier outranks convenience. Iris recognition's 1-in-10,000,000 misrecogn
 
 ---
 
-### SECTION 3 — How Solutions Are Built
+### SECTION 3: How Solutions Are Built
 
 **H2: The Same 10 Categories, Combined Differently Per Sector**
 
@@ -85,17 +85,17 @@ A solution isn't a new product line. It's a combination of EASCO's existing turn
 
 ---
 
-### SECTION 4 — Why Buy the Solution from One Factory
+### SECTION 4: Why Buy the Solution from One Factory
 
 **H2: One Factory Audit Covers Every Sector's Hardware**
 
 A hospital project and a government project sourced from two different suppliers means two factory audits, two support contacts, and two sets of integration documentation. EASCO manufactures every category used across all six sectors at the same Shenzhen facility. One point of contact covers a turnstile, a biometric terminal, and a vehicle recognition camera on the same purchase order. It ships factory direct, with no trading company markup between the production line and the invoice.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — factory-direct language invites inquiry)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, factory-direct language invites inquiry)
 
 ---
 
-### SECTION 5 — FAQ
+### SECTION 5: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -103,7 +103,7 @@ A hospital project and a government project sourced from two different suppliers
 A: Traffic volume, security tier, and indoor/outdoor environment narrow it down fast. Each industry page below lists the specific product combination recommended for that sector.
 
 **Q: Can a solution combine products from different categories?**
-A: Yes. Most sector solutions combine 2–3 product categories — for example, turnstiles plus face recognition plus visitor registration for a corporate lobby.
+A: Yes. Most sector solutions combine 2–3 product categories, for example, turnstiles plus face recognition plus visitor registration for a corporate lobby.
 
 **Q: Does EASCO customize a solution for a project that spans multiple buildings?**
 A: Custom configuration is available through the OEM/ODM program. Send the site layout and buyer requirements for a tailored recommendation.
@@ -114,11 +114,11 @@ A: Yes. Ordering multiple product categories on one purchase order still ships f
 **Q: What if my industry isn't listed here?**
 A: The six sectors listed cover EASCO's primary solution focus, but the same 10 product categories apply to most access control projects. Contact EASCO directly to discuss a sector not listed.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit — contact for edge cases)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit. Contact for edge cases)
 
 ---
 
-### SECTION 6 — CTA
+### SECTION 6: CTA
 
 **H2: Find the Right Solution for Your Facility**
 
@@ -145,4 +145,4 @@ Send the facility type, traffic volume, and security requirements, and get back 
 
 ---
 
-**End of Solutions Hub Content — Five-Pass Review Complete**
+**End of Solutions Hub Content: Five-Pass Review Complete**

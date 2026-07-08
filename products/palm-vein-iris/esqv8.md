@@ -9,7 +9,7 @@ Client Data Verified: 2026-07-08 (All specs from official ESQV8 Product Paramete
 Last Updated: 2026-07-08
 ---
 
-# ESQV8 Palm Vein + Face Recognition Terminal — Product Page
+# ESQV8 Palm Vein + Face Recognition Terminal: Product Page
 
 ## Page Metadata
 
@@ -19,9 +19,9 @@ Primary Keyword:   palm vein and face recognition terminal
 Secondary Keywords: dual biometric access control, ESQV8
 Search Intent:     Commercial Investigation
 Word Count Target: 1,200–2,000 words
-Meta Title:        ESQV8 Palm Vein + Face Terminal — FAR 0.00001% | EASCO
+Meta Title:        ESQV8 Palm Vein + Face Terminal, FAR 0.00001% | EASCO
 Meta Description:  EASCO's ESQV8 combines palm vein (FAR 0.00001%) and face recognition (99.98%) in one IP65-rated terminal, indoor or outdoor.
-Silo:              S2 — Biometric Access Control
+Silo:              S2, Biometric Access Control
 Pillar Page:       /palm-vein-iris/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D3, D12
@@ -35,11 +35,11 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: ESQV8 Palm Vein + Face Recognition Terminal**
 
-Two independent biometric methods catch what one method misses. The ESQV8 pairs palm vein recognition — a false acceptance rate of 0.00001% — with 99.98%-accurate face recognition, in one IP65-rated terminal built for both indoor and outdoor installation.
+Two independent biometric methods catch what one method misses. The ESQV8 pairs palm vein recognition, a false acceptance rate of 0.00001%, with 99.98%-accurate face recognition, in one IP65-rated terminal built for both indoor and outdoor installation.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -48,7 +48,7 @@ Two independent biometric methods catch what one method misses. The ESQV8 pairs 
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ Two independent biometric methods catch what one method misses. The ESQV8 pairs 
 
 ---
 
-### SECTION 3 — What Is the ESQV8?
+### SECTION 3: What Is the ESQV8?
 
 **H2: Palm Vein and Face Recognition From a Single Terminal**
 
 The ESQV8 runs palm vein recognition and face recognition side by side, giving a site two independent, contactless biometric methods without installing separate devices. Palm vein verification completes in under 0.5 seconds with a false acceptance rate of 0.00001%, while face recognition runs at 99.98% accuracy across a 0.5–3 metre range. Both indoor and outdoor installation are supported, with a desktop, wall-mount, floor-standing, or turnstile-integrated form factor.
 
 **AI-quotable paragraph:**
-> "EASCO's ESQV8 combines palm vein recognition — false acceptance rate 0.00001%, under 0.5-second verification — with 99.98%-accurate face recognition in one IP65-rated terminal, supporting both indoor and outdoor installation."
+> "EASCO's ESQV8 combines palm vein recognition, false acceptance rate 0.00001%, under 0.5-second verification, with 99.98%-accurate face recognition in one IP65-rated terminal, supporting both indoor and outdoor installation."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: Two Contactless Methods, One Terminal, No External Wiring**
 
@@ -87,7 +87,7 @@ The ESQV8 runs palm vein recognition and face recognition side by side, giving a
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -123,7 +123,7 @@ The ESQV8 runs palm vein recognition and face recognition side by side, giving a
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: Palm Vein as the Primary Check, Face Recognition as a Verified Second**
 
@@ -136,7 +136,7 @@ The ESQV8 runs palm vein recognition and face recognition side by side, giving a
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where Two Verified Methods Beat One**
 
@@ -149,17 +149,17 @@ The ESQV8 runs palm vein recognition and face recognition side by side, giving a
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Connects to Existing Access Control Infrastructure**
 
-Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0, and RJ45 interfaces support integration with an existing access control panel or building management system. SDK/API documentation is available for custom integration — see the [Downloads page](/downloads/).
+Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, USB 2.0, and RJ45 interfaces support integration with an existing access control panel or building management system. SDK/API documentation is available for custom integration. See the [Downloads page](/downloads/).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: Two Biometric Methods Under One CE-Certified Terminal**
 
@@ -172,7 +172,7 @@ Running palm vein and face recognition from separate devices means separate moun
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -195,19 +195,19 @@ A: Wall-mount, floor-standing pillar, desktop, and turnstile-integrated installa
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Palm Vein + Iris Recognition category](/palm-vein-iris/) — back to the full range
-- [ESFPR Palm Vein Terminal](/palm-vein-iris/esfpr/) — trimodal alternative with card reading
-- [MTH8 Iris + Face Terminal](/palm-vein-iris/mth8/) — higher-accuracy alternative for high-security zones
+- [Palm Vein + Iris Recognition category](/palm-vein-iris/), back to the full range
+- [ESFPR Palm Vein Terminal](/palm-vein-iris/esfpr/), trimodal alternative with card reading
+- [MTH8 Iris + Face Terminal](/palm-vein-iris/mth8/), higher-accuracy alternative for high-security zones
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the ESQV8**
 
@@ -228,4 +228,4 @@ Send the installation environment and expected user count, and get back a config
 
 ---
 
-**End of ESQV8 Content — Five-Pass Review Complete**
+**End of ESQV8 Content: Five-Pass Review Complete**

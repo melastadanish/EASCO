@@ -5,11 +5,11 @@ Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/5 terms present (alcohol testing, breath test, face recognition, attendance, accuracy)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (±6.0mg/100mL, combined attendance) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ (O17, O18 covered) | CTAs ✅ (spec sheet → quote) | AI-score ~8%
-Client Data Verified: 2026-07-08 (All specs from _system/client-data-map/ESFAT.md, official ESFAT Product Parameter sheet. Operating temperature conflict between sheet (5-50°C) and older scrape (-25/+75°C) is flagged, not resolved by assumption — device operating range stated as 5-50°C per the alcohol module, which governs the combined unit.)
+Client Data Verified: 2026-07-08 (All specs from _system/client-data-map/ESFAT.md, official ESFAT Product Parameter sheet. Operating temperature conflict between sheet (5-50°C) and older scrape (-25/+75°C) is flagged, not resolved by assumption, device operating range stated as 5-50°C per the alcohol module, which governs the combined unit.)
 Last Updated: 2026-07-08
 ---
 
-# ESFAT Alcohol Detection + Face Recognition Terminal — Product Page
+# ESFAT Alcohol Detection + Face Recognition Terminal: Product Page
 
 ## Page Metadata
 
@@ -20,8 +20,8 @@ Secondary Keywords: breathalyzer access control, ESFAT, alcohol testing face rec
 Search Intent:     Commercial Investigation
 Word Count Target: 1,200–2,000 words
 Meta Title:        ESFAT Alcohol + Face Recognition Terminal | EASCO
-Meta Description:  EASCO's ESFAT mandates a breath test before biometric clock-in — 0–400mg/100mL range, ±6.0mg accuracy, 99.98% face recognition.
-Silo:              S4 — Attendance Management
+Meta Description:  EASCO's ESFAT mandates a breath test before biometric clock-in, 0–400mg/100mL range, ±6.0mg accuracy, 99.98% face recognition.
+Silo:              S4, Attendance Management
 Pillar Page:       /alcohol-detection/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2, D11
@@ -35,11 +35,11 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: ESFAT Alcohol Detection + Face Recognition Terminal**
 
-A construction site or logistics yard can't rely on an honor system for sobriety checks. The ESFAT combines a breath alcohol test — 0–400mg/100mL range, ±6.0mg/100mL accuracy — with 99.98%-accurate face recognition, so a worker can't clock in without passing both checks tied to their own identity.
+A construction site or logistics yard can't rely on an honor system for sobriety checks. The ESFAT combines a breath alcohol test, 0–400mg/100mL range, ±6.0mg/100mL accuracy, with 99.98%-accurate face recognition, so a worker can't clock in without passing both checks tied to their own identity.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -48,7 +48,7 @@ A construction site or logistics yard can't rely on an honor system for sobriety
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,20 +60,20 @@ A construction site or logistics yard can't rely on an honor system for sobriety
 
 ---
 
-### SECTION 3 — What Is the ESFAT?
+### SECTION 3: What Is the ESFAT?
 
 **H2: A Breath Test Tied to a Verified Face, Not a Shared Device**
 
 The ESFAT combines an alcohol breath sensor with face recognition in one terminal, so a breath test result is automatically tied to the person who took it rather than logged against a shared device or a self-reported name. The alcohol module reads 0–400mg/100mL with ±6.0mg/100mL accuracy and 1mg/100mL resolution, sensitive down to 5mg/100mL. Face recognition runs alongside it at 99.98% accuracy, confirming identity before or after the breath test.
 
 **AI-quotable paragraph:**
-> "EASCO's ESFAT terminal pairs an alcohol breath sensor — 0–400mg/100mL range, ±6.0mg/100mL accuracy — with 99.98%-accurate face recognition, tying every breath test result to a verified identity rather than a shared device, for construction, logistics, and industrial sites enforcing sobriety before clock-in."
+> "EASCO's ESFAT terminal pairs an alcohol breath sensor, 0–400mg/100mL range, ±6.0mg/100mL accuracy, with 99.98%-accurate face recognition, tying every breath test result to a verified identity rather than a shared device, for construction, logistics, and industrial sites enforcing sobriety before clock-in."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: A Sobriety Check That Can't Be Passed Around**
 
@@ -87,7 +87,7 @@ The ESFAT combines an alcohol breath sensor with face recognition in one termina
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
@@ -112,7 +112,7 @@ The ESFAT combines an alcohol breath sensor with face recognition in one termina
 | Power Supply | DC 12V–3A (no PoE support) |
 | Installation | Wall-mount, floor-standing, turnstile-integrated, desktop |
 
-*(⚠️ The official ESFAT parameter sheet states an operating temperature of 5°C to +50°C for the combined unit. An older data source referenced -25°C to +75°C for the shared face recognition platform generally — that figure applies to the face recognition module elsewhere in EASCO's range, not confirmed for the alcohol sensor specifically. The 5–50°C range is used here as it comes from the ESFAT-specific official sheet.)*
+*(⚠️ The official ESFAT parameter sheet states an operating temperature of 5°C to +50°C for the combined unit. An older data source referenced -25°C to +75°C for the shared face recognition platform generally, that figure applies to the face recognition module elsewhere in EASCO's range, not confirmed for the alcohol sensor specifically. The 5–50°C range is used here as it comes from the ESFAT-specific official sheet.)*
 
 **CTA:** Need the full datasheet? [Download PDF](#) or [request it on WhatsApp](https://wa.me/8613711422283)
 
@@ -120,20 +120,20 @@ The ESFAT combines an alcohol breath sensor with face recognition in one termina
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: Breath Test and Face Verification in One Clock-In Step**
 
 1. A worker approaches the terminal and breathes into the alcohol sensor.
 2. The sensor reads a result between 0 and 400mg/100mL at ±6.0mg/100mL accuracy.
 3. Face recognition verifies identity at the same time, tying the reading to a specific enrolled worker rather than a shared device.
-4. The combined result — identity plus breath reading — logs to the attendance record, with a failed test flagged for a supervisor before clock-in completes.
+4. The combined result, identity plus breath reading, logs to the attendance record, with a failed test flagged for a supervisor before clock-in completes.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where Sobriety Enforcement Needs a Verified Record**
 
@@ -146,17 +146,17 @@ The ESFAT combines an alcohol breath sensor with face recognition in one termina
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Connects to Existing HR and Attendance Systems**
 
-Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with an existing HR attendance or access control platform. SDK/API documentation is available for custom integration — see the [Downloads page](/downloads/).
+Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support integration with an existing HR attendance or access control platform. SDK/API documentation is available for custom integration. See the [Downloads page](/downloads/).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: The Only Combined Alcohol + Attendance Terminal in EASCO's Range**
 
@@ -169,7 +169,7 @@ Running a separate breathalyzer alongside a face recognition clock-in system mea
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -192,19 +192,19 @@ A: Yes. IP65-rated housing supports dust and water exposure typical of outdoor s
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Alcohol Detection category](/alcohol-detection/) — back to the full range
-- [Face Recognition Terminals](/face-recognition/) — standard biometric terminal without alcohol testing
-- [Handheld Face Recognition](/handheld-face-recognition/) — mobile attendance option for field sites
+- [Alcohol Detection category](/alcohol-detection/), back to the full range
+- [Face Recognition Terminals](/face-recognition/), standard biometric terminal without alcohol testing
+- [Handheld Face Recognition](/handheld-face-recognition/), mobile attendance option for field sites
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the ESFAT**
 
@@ -231,4 +231,4 @@ Send your site type and expected daily worker volume, and get back a configurati
 
 ---
 
-**End of ESFAT Content — Five-Pass Review Complete**
+**End of ESFAT Content: Five-Pass Review Complete**

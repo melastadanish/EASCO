@@ -2,14 +2,14 @@
 Status: READY FOR DEVELOPMENT
 Pass A: 7.8/10
 Pass B: 4 fixes applied (sentence-length splits)
-Pass N: 3/6 terms present (stainless steel, ambience lighting, premium finish; throughput, IP rating, dimensions not applicable — unconfirmed)
+Pass N: 3/6 terms present (stainless steel, ambience lighting, premium finish; throughput, IP rating, dimensions not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (thicker 304 stainless, zero visible screws) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ (O9, O10 — addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
-Client Data Verified: 2026-07-08 (Material and design features confirmed via _system/product-specs/luxury-stainless-speed-gate.md, EASCO Product Catalogue 2025 p.23. No English model number exists yet for this product — flagged, not invented. Passage width, throughput, IP rating, and dimensions are also unconfirmed.)
+Pass C: Headlines ✅ | Objections ✅ (O9, O10, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~10%
+Client Data Verified: 2026-07-08 (Material and design features confirmed via _system/product-specs/luxury-stainless-speed-gate.md, EASCO Product Catalogue 2025 p.23. No English model number exists yet for this product, flagged, not invented. Passage width, throughput, IP rating, and dimensions are also unconfirmed.)
 Last Updated: 2026-07-08
 ---
 
-# Luxury Stainless Steel Speed Gate (锋影系列) — Product Page
+# Luxury Stainless Steel Speed Gate (锋影系列): Product Page
 
 ## Page Metadata
 
@@ -19,14 +19,14 @@ Primary Keyword:   luxury stainless steel speed gate
 Secondary Keywords: premium turnstile, high-end lobby gate, 锋影速通门
 Search Intent:     Commercial Investigation
 Word Count Target: 800–1,200 words
-Meta Title:        Luxury Stainless Steel Speed Gate — Zero-Screw Finish | EASCO
+Meta Title:        Luxury Stainless Steel Speed Gate, Zero-Screw Finish | EASCO
 Meta Description:  EASCO's luxury 304 stainless steel speed gate: zero visible screws, thicker premium-grade steel, ambience lighting. Built for high-end lobbies.
-Silo:              S1 — Turnstile Gates
+Silo:              S1, Turnstile Gates
 Pillar Page:       /speed-gates/
 Primary Segment:   Facility / Security Manager (S1)
 Differentiators:   D2
 Objections:        O9, O10
-Status:            ✅ Complete (⚠️ no English model number confirmed yet — throughput, dimensions, and IP rating pending client spec sheet)
+Status:            ✅ Complete (⚠️ no English model number confirmed yet, throughput, dimensions, and IP rating pending client spec sheet)
 ```
 
 ---
@@ -35,7 +35,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet �
 
 ---
 
-### SECTION 1 — Hero
+### SECTION 1: Hero
 
 **H1: Luxury Stainless Steel Speed Gate (锋影系列)**
 
@@ -48,7 +48,7 @@ A hotel lobby or a private members' club notices a visible screw head on an entr
 
 ---
 
-### SECTION 2 — Stats Bar
+### SECTION 2: Stats Bar
 
 | Stat | Value | Outcome |
 |---|---|---|
@@ -60,11 +60,11 @@ A hotel lobby or a private members' club notices a visible screw head on an entr
 
 ---
 
-### SECTION 3 — What Is This Gate?
+### SECTION 3: What Is This Gate?
 
 **H2: EASCO's Premium Stainless Alternative to the Iridescent JX**
 
-This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and the standard ESYBZ cylindrical gate — offering a stainless premium finish without the flowing light-effect design of the JX. Thicker 304 stainless steel gives it a heavier, more substantial feel, and zero visible screws on the body create an uninterrupted surface. A truncated ambience light design provides status indication while doubling as an aesthetic feature suited to upscale lobbies.
+This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and the standard ESYBZ cylindrical gate, offering a stainless premium finish without the flowing light-effect design of the JX. Thicker 304 stainless steel gives it a heavier, more substantial feel, and zero visible screws on the body create an uninterrupted surface. A truncated ambience light design provides status indication while doubling as an aesthetic feature suited to upscale lobbies.
 
 **AI-quotable paragraph:**
 > "EASCO's luxury stainless steel speed gate uses thicker 304-grade steel with zero visible screws and a truncated ambience-light design, positioned as a premium alternative to its iridescent JX flagship for high-end hotel, financial, and government lobbies."
@@ -73,7 +73,7 @@ This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and 
 
 ---
 
-### SECTION 4 — Key Features
+### SECTION 4: Key Features
 
 **H2: A Premium Finish Built Into the Material, Not Applied Over It**
 
@@ -86,25 +86,25 @@ This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and 
 
 ---
 
-### SECTION 5 — Technical Specifications
+### SECTION 5: Technical Specifications
 
 **H2: Full Specifications**
 
 | Parameter | Specification |
 |---|---|
-| Model No. | ⚠️ Not yet assigned an English model code — likely 锋影 series, contact EASCO to confirm |
+| Model No. | ⚠️ Not yet assigned an English model code, likely 锋影 series. Contact EASCO to confirm |
 | Chinese Product Name | 锋影速通门系列 |
 | Material | Thicker 304 stainless steel |
 | Visible Screws | Zero |
-| Ambience Lighting | Yes — truncated design |
-| Passage Width | ⚠️ Not yet confirmed — contact EASCO |
-| Throughput | ⚠️ Not yet confirmed — contact EASCO |
-| Gate Opening Speed | ⚠️ Not yet confirmed — contact EASCO |
-| Door Panel Material | ⚠️ Not yet confirmed — contact EASCO |
-| Motor Type | ⚠️ Not yet confirmed — contact EASCO |
-| Operating Temperature | ⚠️ Not yet confirmed — contact EASCO |
-| IP Rating | ⚠️ Not yet confirmed — contact EASCO |
-| Dimensions | ⚠️ Not yet confirmed — contact EASCO |
+| Ambience Lighting | Yes, truncated design |
+| Passage Width | ⚠️ Not yet confirmed. Contact EASCO |
+| Throughput | ⚠️ Not yet confirmed. Contact EASCO |
+| Gate Opening Speed | ⚠️ Not yet confirmed. Contact EASCO |
+| Door Panel Material | ⚠️ Not yet confirmed. Contact EASCO |
+| Motor Type | ⚠️ Not yet confirmed. Contact EASCO |
+| Operating Temperature | ⚠️ Not yet confirmed. Contact EASCO |
+| IP Rating | ⚠️ Not yet confirmed. Contact EASCO |
+| Dimensions | ⚠️ Not yet confirmed. Contact EASCO |
 
 *(This is a confirmed product in EASCO's catalogue without an assigned English model code yet. This page will be updated with a model number and full performance specs as soon as EASCO provides them.)*
 
@@ -114,11 +114,11 @@ This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and 
 
 ---
 
-### SECTION 6 — How It Works
+### SECTION 6: How It Works
 
 **H2: A Premium Finish on the Same Access Fundamentals**
 
-1. A person presents credentials — card, face terminal, or remote release — at the gate.
+1. A person presents credentials, card, face terminal, or remote release, at the gate.
 2. On a valid match, the gate mechanism releases, with the ambience light switching to indicate passage status.
 3. The gate body's finish and lighting operate independently of the underlying access method chosen.
 
@@ -126,7 +126,7 @@ This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and 
 
 ---
 
-### SECTION 7 — Applications
+### SECTION 7: Applications
 
 **H2: Deployed Where the Entrance Is Part of the Brand Experience**
 
@@ -139,7 +139,7 @@ This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and 
 
 ---
 
-### SECTION 8 — Integration & Compatibility
+### SECTION 8: Integration & Compatibility
 
 **H2: Compatible With EASCO's Standard Access Terminals**
 
@@ -149,7 +149,7 @@ This gate is expected to pair with the same terminal options as EASCO's other sp
 
 ---
 
-### SECTION 9 — Why EASCO
+### SECTION 9: Why EASCO
 
 **H2: A Premium Tier Alongside the Standard Range, Not a Separate Supplier**
 
@@ -162,7 +162,7 @@ Sourcing a premium-finish gate from a boutique supplier separate from the rest o
 
 ---
 
-### SECTION 10 — FAQ
+### SECTION 10: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -185,19 +185,19 @@ A: It's expected to support the same terminal options as EASCO's other speed gat
 
 ---
 
-### SECTION 11 — Related Products
+### SECTION 11: Related Products
 
 **H2: Related Products**
 
-- [Speed Gates category](/speed-gates/) — back to the full range
-- [JX Speed Gate](/speed-gates/jx/) — flagship iridescent-effect alternative
-- [Stainless Steel Swing Gate](/cylindrical-turnstiles/stainless-swing-gate/) — waterproof stainless alternative for outdoor use
+- [Speed Gates category](/speed-gates/), back to the full range
+- [JX Speed Gate](/speed-gates/jx/), flagship iridescent-effect alternative
+- [Stainless Steel Swing Gate](/cylindrical-turnstiles/stainless-swing-gate/), waterproof stainless alternative for outdoor use
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 12 — Final CTA
+### SECTION 12: Final CTA
 
 **H2: Get Pricing for the Luxury Stainless Speed Gate**
 
@@ -225,4 +225,4 @@ Send your lobby dimensions and design requirements, and EASCO will confirm curre
 
 ---
 
-**End of Luxury Stainless Steel Speed Gate Content — Five-Pass Review Complete**
+**End of Luxury Stainless Steel Speed Gate Content: Five-Pass Review Complete**

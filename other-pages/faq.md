@@ -9,14 +9,14 @@ Client Data Verified: 2026-07-02
 Last Updated: 2026-07-02
 ---
 
-# FAQ — Frequently Asked Questions
+# FAQ: Frequently Asked Questions
 
 **Target URL:** /resources/faq/  
 **Primary Keyword:** Access control FAQ  
 **Secondary Keywords:** Turnstile gate questions, face recognition FAQ, biometric access control questions  
 **Search Intent:** Informational  
 **Word Count Target:** 1,800–2,200 words  
-**Meta Title:** FAQ — Turnstile Gates & Biometric Access Control Questions | EASCO  
+**Meta Title:** FAQ, Turnstile Gates & Biometric Access Control Questions | EASCO  
 **Meta Description:** Answers to common questions about EASCO turnstile gates, face recognition terminals, biometric systems, certifications, OEM services, and technical specifications.  
 **Page Type:** Resource / Trust  
 **Primary Segment:** All segments  
@@ -25,7 +25,7 @@ Last Updated: 2026-07-02
 
 ---
 
-## SECTION 1 — Hero / Page Intro
+## SECTION 1: Hero / Page Intro
 
 **H1:** Frequently Asked Questions About Turnstile Gates and Biometric Access Control
 
@@ -35,13 +35,13 @@ Your project has specific requirements. Your facility has unique constraints. Th
 
 ---
 
-## SECTION 2 — Company & Trust Questions
+## SECTION 2: Company & Trust Questions
 
-**H2:** About EASCO — Factory, Certifications, and Quality
+**H2:** About EASCO, Factory, Certifications, and Quality
 
 ### Q: Is EASCO a factory or a trading company?
 
-EASCO manufactures in-house at a 3,000-square-meter facility in Shenzhen — same address since December 22, 2009. Factory audit available by appointment. Not a trading company.
+EASCO manufactures in-house at a 3,000-square-meter facility in Shenzhen, same address since December 22, 2009. Factory audit available by appointment. Not a trading company.
 
 ### Q: Can I visit the factory before placing an order?
 
@@ -61,7 +61,7 @@ ISO 9001:2015 quality management system governs every production run. Each unit 
 
 ### Q: What happens if something fails after delivery?
 
-Remote diagnosis via WhatsApp or video call first — most issues resolved without return. Spare parts shipped internationally. SDK and API documentation available for software integration. Contact the factory directly for support.
+Remote diagnosis via WhatsApp or video call first, most issues resolved without return. Spare parts shipped internationally. SDK and API documentation available for software integration. Contact the factory directly for support.
 
 ### Q: How long has EASCO been manufacturing access control hardware?
 
@@ -75,13 +75,13 @@ Founded December 22, 2009. 16+ years manufacturing experience. National High-Tec
 
 ---
 
-## SECTION 3 — Product Specifications & Technical Questions
+## SECTION 3: Product Specifications & Technical Questions
 
-**H2:** Technical Specifications — Turnstiles, Biometrics, and Performance
+**H2:** Technical Specifications, Turnstiles, Biometrics, and Performance
 
 ### Q: What biometric modes do your turnstiles support?
 
-Face recognition, palm vein recognition, iris recognition, fingerprint (via external reader), RFID card, QR code, and barcode. Multi-modal verification supported — face + card or palm + PIN combinations available.
+Face recognition, palm vein recognition, iris recognition, fingerprint (via external reader), RFID card, QR code, and barcode. Multi-modal verification supported, face + card or palm + PIN combinations available.
 
 ### Q: Can face recognition work in low light or outdoor conditions?
 
@@ -89,7 +89,7 @@ IR illumination enables recognition in complete darkness. IP65-rated models avai
 
 ### Q: What is the face recognition accuracy rate?
 
-99.98% accuracy at 200–300ms recognition speed. Storage for 50,000 faces onboard. False acceptance rate (FAR) for iris recognition: 1 in 10,000,000 — the highest accuracy in commercial biometrics.
+99.98% accuracy at 200–300ms recognition speed. Storage for 50,000 faces onboard. False acceptance rate (FAR) for iris recognition: 1 in 10,000,000, the highest accuracy in commercial biometrics.
 
 ### Q: What is the palm vein recognition accuracy rate?
 
@@ -101,15 +101,15 @@ Financial-grade liveness detection rejects photos, screen replays, silicone mask
 
 ### Q: Will the turnstile handle the throughput we need?
 
-Speed gate processes 45 people per minute. Opens in 0.3 seconds. Tripod turnstile processes 30 people per minute. For metro and transit requirements above this, contact for project-specific configuration.
+Speed gate processes 45 people per minute. Opens in 0.3 seconds. Tripod turnstile processes 30 people per minute. For metro and transit requirements above this. Contact for project-specific configuration.
 
 ### Q: Will the turnstile work outdoors in our climate?
 
 IP65-rated models available for outdoor installation. Operating temperature range -20°C to +65°C for vehicle systems, -25°C to +75°C for biometric terminals. Tested for dust, rain, and direct sunlight.
 
-### Q: Is the turnstile safe — can someone get hurt by the gate?
+### Q: Is the turnstile safe: can someone get hurt by the gate?
 
-Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance. Anti-crushing protection is mechanical — not software-dependent. Tested to 10 million cycles before dispatch.
+Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance. Anti-crushing protection is mechanical, not software-dependent. Tested to 10 million cycles before dispatch.
 
 ### Q: Will someone be able to tailgate through the turnstile?
 
@@ -135,9 +135,9 @@ Standard interfaces ensure compatibility with most access control platforms. Wie
 
 ---
 
-## SECTION 4 — Ordering, Pricing & Lead Times
+## SECTION 4: Ordering, Pricing & Lead Times
 
-**H2:** Ordering Process — Pricing, MOQ, and Delivery
+**H2:** Ordering Process, Pricing, MOQ, and Delivery
 
 ### Q: What is your minimum order quantity (MOQ)?
 
@@ -153,7 +153,7 @@ Standard products ship within quoted production time based on order volume. OEM/
 
 ### Q: What payment terms do you accept?
 
-T/T (bank transfer), PayPal for small orders, and L/C for large projects. Milestone payment schedule available for OEM/custom orders — prototype, tooling, production stages.
+T/T (bank transfer), PayPal for small orders, and L/C for large projects. Milestone payment schedule available for OEM/custom orders, prototype, tooling, production stages.
 
 ### Q: Do you provide samples before bulk orders?
 
@@ -167,9 +167,9 @@ Express (DHL, FedEx, UPS) for samples and small orders. Sea freight for bulk ord
 
 ---
 
-## SECTION 5 — Integration & Technical Support
+## SECTION 5: Integration & Technical Support
 
-**H2:** Integration & After-Sales — Technical Support and Troubleshooting
+**H2:** Integration & After-Sales, Technical Support and Troubleshooting
 
 ### Q: Do you provide technical documentation and SDK?
 
@@ -181,11 +181,11 @@ Biometric clock-in cannot be delegated. The face, palm, or iris present must mat
 
 ### Q: Is the alcohol detection legally defensible for workplace safety?
 
-Testing range 0–400 mg/100mL with ±6.0 mg/100mL accuracy. Resolution 1 mg/100mL. Sensor operates at 5°C to +50°C. Recommended for safety enforcement — confirm regulatory compliance for your jurisdiction before deployment.
+Testing range 0–400 mg/100mL with ±6.0 mg/100mL accuracy. Resolution 1 mg/100mL. Sensor operates at 5°C to +50°C. Recommended for safety enforcement. Confirm regulatory compliance for your jurisdiction before deployment.
 
 ### Q: Can we customize the attendance rules and access logic?
 
-Yes. Attendance rules, shift schedules, holiday calendars, and overtime calculation customizable via software. Access logic programmable — time zones, anti-passback, multi-factor verification. SDK available for advanced customization.
+Yes. Attendance rules, shift schedules, holiday calendars, and overtime calculation customizable via software. Access logic programmable, time zones, anti-passback, multi-factor verification. SDK available for advanced customization.
 
 ### Q: What happens if the device loses network connection?
 
@@ -193,15 +193,15 @@ Offline operation supported. Face and card data stored onboard. Access decisions
 
 ### Q: Do you provide training for installation and configuration?
 
-Installation manuals and video guides provided with every order. Remote training via video call available. On-site training available for large projects — contact for details.
+Installation manuals and video guides provided with every order. Remote training via video call available. On-site training available for large projects. Contact for details.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-## SECTION 6 — OEM/ODM & Custom Solutions
+## SECTION 6: OEM/ODM & Custom Solutions
 
-**H2:** OEM/ODM Services — Custom Hardware and Branding
+**H2:** OEM/ODM Services, Custom Hardware and Branding
 
 ### Q: Do you offer OEM or ODM services?
 
@@ -219,7 +219,7 @@ Housing dimensions, material finish (aluminum or stainless steel), display size,
 
 Custom housing, firmware, and branding all available within the OEM program. Scope confirmed at prototype stage. Contract ensures specification adherence.
 
-### Q: Have you worked with OEM clients before — or will our project be the first?
+### Q: Have you worked with OEM clients before: or will our project be the first?
 
 80,000+ installations across 50+ countries include OEM projects. Custom airport kiosks, holographic gate displays, and LCD door panels built to client specifications. Reference projects available on request.
 
@@ -227,21 +227,21 @@ Custom housing, firmware, and branding all available within the OEM program. Sco
 
 ---
 
-## SECTION 7 — Product-Specific Questions
+## SECTION 7: Product-Specific Questions
 
-**H2:** Product Categories — Turnstiles, Biometrics, and Attendance
+**H2:** Product Categories, Turnstiles, Biometrics, and Attendance
 
 ### Q: What is the difference between a flap barrier and a speed gate?
 
-Flap barriers use acrylic or glass flaps. Speed gates use sliding glass panels. Speed gates process 45 people per minute — faster throughput. Flap barriers more compact footprint. Both available in IP65 outdoor-rated models.
+Flap barriers use acrylic or glass flaps. Speed gates use sliding glass panels. Speed gates process 45 people per minute, faster throughput. Flap barriers more compact footprint. Both available in IP65 outdoor-rated models.
 
 ### Q: What is the difference between tripod and cylindrical turnstiles?
 
-Tripod turnstiles use rotating arms — suitable for factories and construction sites. Cylindrical turnstiles use sliding cylindrical doors — suitable for office lobbies and transit stations. Cylindrical gates process higher throughput at 45 people per minute.
+Tripod turnstiles use rotating arms, suitable for factories and construction sites. Cylindrical turnstiles use sliding cylindrical doors, suitable for office lobbies and transit stations. Cylindrical gates process higher throughput at 45 people per minute.
 
-### Q: Which biometric method is most secure — face, palm vein, or iris?
+### Q: Which biometric method is most secure: face, palm vein, or iris?
 
-Iris recognition delivers 1-in-10,000,000 false acceptance rate — highest accuracy. Palm vein cannot be photographed or replicated. Face recognition offers fastest throughput at 200–300ms. Choose based on security level required and user convenience.
+Iris recognition delivers 1-in-10,000,000 false acceptance rate, highest accuracy. Palm vein cannot be photographed or replicated. Face recognition offers fastest throughput at 200–300ms. Choose based on security level required and user convenience.
 
 ### Q: Can the Android turnstile operate without an external controller?
 
@@ -255,7 +255,7 @@ DC brushless servo motor tested to 10 million cycles before dispatch. Full-circu
 
 ---
 
-## SECTION 8 — CTA
+## SECTION 8: CTA
 
 **H2:** Still Have Questions? Contact EASCO Directly.
 
@@ -273,18 +273,18 @@ Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Stree
 
 ## Internal Links Required
 
-- Link to [Products Hub](/products/) — "product category"
-- Link to [Face Recognition](/products/face-recognition/) — "face recognition terminals"
-- Link to [Speed Gates](/products/speed-gates/) — "speed gate"
-- Link to [Tripod Turnstiles](/products/tripod-turnstiles/) — "tripod turnstiles"
-- Link to [Palm Vein](/products/palm-vein-iris/) — "palm vein recognition"
-- Link to [ANPR Systems](/products/anpr-systems/) — "license plate recognition"
-- Link to [Android Turnstiles](/products/android-turnstiles/) — "Android turnstile"
-- Link to [Alcohol Detection](/products/alcohol-detection/) — "alcohol detection"
-- Link to [OEM/ODM page](/oem-odm/) — "OEM services"
-- Link to [Why Us](/why-us/) — "factory visit"
-- Link to [Certifications](/certifications/) — "certificates"
-- Link to [Contact](/contact/) — "contact"
+- Link to [Products Hub](/products/), "product category"
+- Link to [Face Recognition](/products/face-recognition/), "face recognition terminals"
+- Link to [Speed Gates](/products/speed-gates/), "speed gate"
+- Link to [Tripod Turnstiles](/products/tripod-turnstiles/), "tripod turnstiles"
+- Link to [Palm Vein](/products/palm-vein-iris/), "palm vein recognition"
+- Link to [ANPR Systems](/products/anpr-systems/), "license plate recognition"
+- Link to [Android Turnstiles](/products/android-turnstiles/), "Android turnstile"
+- Link to [Alcohol Detection](/products/alcohol-detection/), "alcohol detection"
+- Link to [OEM/ODM page](/oem-odm/), "OEM services"
+- Link to [Why Us](/why-us/), "factory visit"
+- Link to [Certifications](/certifications/), "certificates"
+- Link to [Contact](/contact/), "contact"
 
 ---
 
@@ -292,4 +292,4 @@ Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Stree
 **Categories: 7**  
 **All 20 objections covered: ✅**
 
-**End of FAQ Content — Ready for Five-Pass Review**
+**End of FAQ Content: Ready for Five-Pass Review**
