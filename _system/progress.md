@@ -31,9 +31,9 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 23**  
+**Complete: 25**  
 **In progress: 0**  
-**Not started: 22**  
+**Not started: 20**  
 **Blocked: 8** (needs client photos/data)
 
 **Last Updated: 2026-07-08**
@@ -132,10 +132,10 @@
 
 | Resource | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Resources Hub | other-pages/resources.md | 🔲 | — | **NEW** — combines FAQ + Gallery + Downloads |
+| Resources Hub | other-pages/resources.md | ✅ | A:8.7/10 B:5fix N:6/6 D:✅ C:✅ | **COMPLETE** — Links to FAQ, Gallery (marked in-development), and Downloads. |
 | FAQ (upgraded) | other-pages/faq.md | ✅ | A:10.0/10 B:0fix N:20/20 D:✅ C:✅ | **COMPLETE** — 47 Q&As cover ALL 20 objections. AI-score 3%. 7 categories. |
 | Photo Gallery | other-pages/gallery.md | ⚠️ | — | **BLOCKED** — needs product + installation photos |
-| Downloads Center | other-pages/downloads.md | 🔲 | — | Spec sheets, SDK docs, certificates |
+| Downloads Center | other-pages/downloads.md | ✅ | A:8.4/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Spec sheet/SDK/certification categories structured; actual PDF files ⚠️ pending upload. |
 
 **New FAQs to Add:**
 1. What biometric modes do your turnstiles support?

@@ -116,10 +116,10 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 ### **Page 06 — Resources / Gallery** (NEW SECTION)
 | Sub-Section | File | Status |
 |---|---|---|
-| Resources Hub | other-pages/resources.md | 🔲 |
-| FAQ (upgraded — 16 existing + 5 new technical) | other-pages/faq.md | 🔲 |
+| Resources Hub | other-pages/resources.md | ✅ |
+| FAQ (upgraded — 16 existing + 5 new technical) | other-pages/faq.md | ✅ |
 | Photo Gallery | other-pages/gallery.md | ⚠️ NEEDS PHOTOS |
-| Downloads Center | other-pages/downloads.md | 🔲 |
+| Downloads Center | other-pages/downloads.md | ✅ |
 
 **New FAQs to Add:**
 - What biometric modes do your turnstiles support?
