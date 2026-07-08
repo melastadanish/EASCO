@@ -196,7 +196,7 @@ Product categories (8–10) each with sub-pages. URL: `/products/[category]/[pro
 | 4.1 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ |
 | 4.2 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | ✅ |
 | 4.3 | ZKTeco Alternative | alternatives/zkteco-alternative.md | ✅ |
-| 4.4 | Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 |
+| 4.4 | Hikvision Alternative | alternatives/hikvision-alternative.md | ✅ |
 
 ---
 

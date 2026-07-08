@@ -31,11 +31,13 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 41**  
+**Complete: 42**  
 **Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 1** (1 Alternatives page remains)  
-**Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
+**Not started: 0**  
+**Blocked: 8** (all 8 Case Studies — needs client project photos/details; genuinely cannot be written without this)
+
+**ALL NON-BLOCKED CONTENT COMPLETE.** The only remaining work is: (1) 8 Case Studies, blocked on client-supplied project photos/details — no amount of writing time resolves this; (2) 3 legal pages need qualified counsel review before publishing; (3) legal warranty periods, cert scan images, factory/exhibition photos, and a few per-model spec gaps flagged throughout as ⚠️ — see individual page notes above.
 
 **Last Updated: 2026-07-08**
 
@@ -212,7 +214,7 @@
 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ | A:8.2/10 B:6fix N:5/5 D:✅ C:✅ | **COMPLETE** — Rewritten conservatively after live verification found ZKTeco has palm vein + real OEM/ODM (see _system/competitors.md correction log). Original planned claims were factually wrong. |
 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | ✅ | A:8.1/10 B:6fix N:5/5 D:✅ C:✅ | **COMPLETE** — Rewritten conservatively after live verification found Hikvision lists iris on select terminals + offers OEM/white-label at industry scale. |
 | ZKTeco Alternative | alternatives/zkteco-alternative.md | ✅ | A:8.0/10 B:5fix N:4/4 D:✅ C:✅ | **COMPLETE** — Same verified basis as easco-vs-zkteco.md, framed for buyers seeking an alternative supplier. |
-| Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 | — | Verify competitor specs first |
+| Hikvision Alternative | alternatives/hikvision-alternative.md | ✅ | A:8.1/10 B:5fix N:4/4 D:✅ C:✅ | **COMPLETE** — Same verified basis as easco-vs-hikvision.md, framed for buyers seeking an alternative supplier. **All 4 Alternatives pages now complete.** |
 
 ---
 
