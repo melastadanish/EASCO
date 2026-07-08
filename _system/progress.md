@@ -31,10 +31,10 @@
 - **Alternatives:** 4 pages
 
 **Total pages: 53**  
-**Complete: 40**  
+**Complete: 41**  
 **Draft — pending legal counsel review: 3** (Privacy Policy, Terms, Cookie Policy — boilerplate written, not publish-ready)  
 **In progress: 0**  
-**Not started: 2** (2 Alternatives pages remain)  
+**Not started: 1** (1 Alternatives page remains)  
 **Blocked: 7** (needs client photos/data — 8 case studies, minus Certifications now unblocked via text-only approach)
 
 **Last Updated: 2026-07-08**
@@ -211,7 +211,7 @@
 |---|---|---|---|---|
 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ | A:8.2/10 B:6fix N:5/5 D:✅ C:✅ | **COMPLETE** — Rewritten conservatively after live verification found ZKTeco has palm vein + real OEM/ODM (see _system/competitors.md correction log). Original planned claims were factually wrong. |
 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | ✅ | A:8.1/10 B:6fix N:5/5 D:✅ C:✅ | **COMPLETE** — Rewritten conservatively after live verification found Hikvision lists iris on select terminals + offers OEM/white-label at industry scale. |
-| ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 | — | Verify competitor specs first |
+| ZKTeco Alternative | alternatives/zkteco-alternative.md | ✅ | A:8.0/10 B:5fix N:4/4 D:✅ C:✅ | **COMPLETE** — Same verified basis as easco-vs-zkteco.md, framed for buyers seeking an alternative supplier. |
 | Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 | — | Verify competitor specs first |
 
 ---
