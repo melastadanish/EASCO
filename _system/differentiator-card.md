@@ -15,7 +15,7 @@
 | D3 | Multi-modal biometrics — face + palm + iris under one roof | "Most suppliers offer face recognition. EASCO manufactures face, palm vein and iris systems — so you can spec the right technology for each security zone, from one source." | ✅ |
 | D4 | Iris recognition: 1 in 10,000,000 misrecognition rate | "The iris recognition system delivers a 1-in-10,000,000 misrecognition rate — the highest accuracy available in commercial biometrics." | ✅ from szeasco.com |
 | D5 | Financial-grade liveness detection | "Liveness detection built to financial-sector standards — rejects photos, videos, silicone masks and 3D prints. Not consumer-grade." | ✅ from szeasco.com |
-| D6 | OEM/ODM with 30–45 day prototype | "Custom housing, firmware and branding available. Prototype in 30–45 days — faster than most China-based OEM suppliers." | ✅ |
+| D6 | OEM/ODM with 30–45 day prototype | "Custom housing, firmware and branding available. Prototype in 30–45 days — faster than most China-based OEM suppliers." | ⚠️ Confirm with client (see client-data-map.md) |
 | D7 | Shenzhen supply chain advantage | "Built in Shenzhen — the global hub for electronics manufacturing. Component lead times and quality checks that factories elsewhere cannot match." | ✅ |
 | D8 | 80,000+ installations across 50+ countries | "80,000+ installations across 50+ countries — proof that the hardware works in real-world conditions, not just lab tests." | ✅ Client provided 2026-07-02 |
 
@@ -44,18 +44,9 @@
 
 ---
 
-## EASCO vs Competitors — Quick Reference
+## EASCO vs Competitors
 
-| Factor | EASCO | ZKTeco | Hikvision | Generic Alibaba |
-|---|---|---|---|---|
-| Biometric range | Face + Palm + Iris | Face + Fingerprint | Face only | Face only |
-| Factory direct | ✅ | ✅ | ✅ | ❌ (often traders) |
-| OEM/ODM | ✅ | Limited | ❌ | Sometimes |
-| Installations | 80,000+ | ⚠️ Unknown | ⚠️ Unknown | ⚠️ Unknown |
-| Iris accuracy (FAR) | 1 in 10M | ⚠️ Varies | ⚠️ Varies | ⚠️ Unknown |
-| Android-based gate | ✅ | ❌ | ❌ | ❌ |
-| Alcohol + attendance | ✅ | ❌ | ❌ | Rare |
-| Years manufacturing | 16+ | 23 | 30+ | Unknown |
-| Factory size | 3,000+ m² | ⚠️ Unknown | Large | Unknown |
-
-> ⚠️ Competitor data is indicative. Verify before using in comparison copy.
+> Full, actively-verified competitor matrix lives in `_system/competitors.md` — read that file for
+> any comparison copy, not this card. It has already caught and corrected false claims twice
+> (ZKTeco palm vein, ZKTeco/Hikvision OEM-ODM, Hikvision iris) that used to live in this section.
+> Do not maintain a second competitor table here — it will drift out of sync again.
