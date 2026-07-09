@@ -26,7 +26,11 @@
 - ✅ Industry single page template (tier 2) — `Real Solutions data/industry-page-template.md`
   (Hero → Browse Other Industries → Challenges → Solutions/Product Grid →
   Why Choose EASCO for [Industry] → Talk to an Expert → CTA → FAQ)
-- 🔲 Category × Industry sub-page template (tier 3) — next up
+- ✅ Category × Industry sub-page template (tier 3) — `Real Solutions data/category-industry-page-template.md`
+  (Hero → Issues in [Industry] (1 paragraph) → Why [Category] Fits [Industry]
+  → Relevant Products → Why Choose EASCO (standalone, distinct angle from
+  tier 2's version) → FAQ → CTA). 700–1,000 words, deliberately short to
+  avoid thin/duplicate content across the 26 sub-pages.
 - ✅ `Real Solutions data/` folder skeleton created — 8 industries, 26 sub-page
   placeholders, hub file placeholder (all empty, pending tier 3 template + content)
 
