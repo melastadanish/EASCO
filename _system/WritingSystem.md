@@ -157,9 +157,9 @@ Trace every factual claim to `_system/client-data-map.md`.
 Every performance claim must reach Level 3 on the Specificity Ladder (Section 5).
 
 **EASCO special rules:**
-- Do not claim founding year until confirmed in client-data-map.md (currently ⚠️)
-- Do not claim countries served until confirmed
-- Do not claim any certification until confirmed in client-data-map.md
+- Founding year (December 22, 2009) ✅ confirmed — use freely
+- Countries served (50+) ✅ confirmed — use freely
+- Certifications — use only what's ✅ in client-data-map.md's Certifications table (CE, ISO 9001/14001/45001 confirmed; RoHS/UKCA/EAC not yet)
 - Iris FAR (1 in 10,000,000) ✅ — use freely
 - Face recognition accuracy (99.98%) ✅ — use freely
 - OEM prototype (30–45 days) — use with ⚠️ until client confirms

@@ -41,7 +41,7 @@
 | Latest product series (2025) | "Cloud Series" biometric products & "Star Series" speed gates | Client official data 2026-07-02 | ✅ |
 | Exhibition attendance | 2025 Shenzhen International Exhibition | Client official data 2026-07-02 | ✅ |
 | Annual production capacity | — | Not confirmed | ⚠️ |
-| OEM/ODM prototype lead time | 30–45 days | Used in homepage | ✅ |
+| OEM/ODM prototype lead time | 30–45 days | Used in homepage | ⚠️ Confirm with client |
 
 ---
 
@@ -461,14 +461,10 @@
 > Items that could not be confirmed from website scrape. Request from EASCO before writing these spec claims.
 
 **Company:**
-- [ ] Exact founding year (is it 2004?)
-- [ ] Confirmed countries served (number)
-- [ ] Factory floor area (sqm)
-- [ ] Total employees
 - [ ] Annual production capacity (units/year)
-- [ ] OEM/ODM prototype lead time (confirmed days)
+- [ ] OEM/ODM prototype lead time — confirm the 30–45 day figure with client before treating as ✅ (see Company Facts row)
 - [ ] Warranty period per product category
-- [ ] All certifications — issuing body, certificate number, scope
+- [ ] RoHS / UKCA / EAC certificates (see Certifications table for what's already confirmed)
 
 **Products:**
 - [ ] English model codes for all face panels: 云纹, 云棱, 云眸, 云腾, 云途, 云影, 灵点, 云极, 云栖 (×2), 15.6" large screen

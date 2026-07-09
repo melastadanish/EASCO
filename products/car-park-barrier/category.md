@@ -5,7 +5,7 @@ Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
 Pass N: 5/6 terms present (barrier gate, crank-link, anti-crushing, fail-safe, non-contact control; throughput/lane width not applicable, unconfirmed)
 Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (named as one of EASCO's 3 flagship product lines) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ (O1, O9, O11, addressed honestly with flags) | CTAs ✅ (spec sheet → quote) | AI-score ~9%
-Client Data Verified: 2026-07-08 (Confirmed via _system/VERIFIED-COMPANY-DATA.md and _system/client-data-map.md "Three Flagship Product Lines" table, Intelligent Electric Barriers is one of EASCO's three core product lines. No specific model number, boom length, lane width, or cycle-speed figures are confirmed yet and are explicitly flagged, not invented.)
+Client Data Verified: 2026-07-08 (Confirmed via _system/client-data-map.md "Three Flagship Product Lines" table, Intelligent Electric Barriers is one of EASCO's three core product lines. No specific model number, boom length, lane width, or cycle-speed figures are confirmed yet and are explicitly flagged, not invented.)
 Last Updated: 2026-07-08
 ---
 
