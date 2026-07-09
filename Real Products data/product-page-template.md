@@ -26,14 +26,15 @@ Last Updated: YYYY-MM-DD
 
 ```
 Target URL:        /[category-slug]/[product-slug]/
+Slug:              [product-slug] (lowercase, hyphenated, keyword-first, e.g. "aluminum-speed-gate-nebula-waterdrop")
 Category:           [Aluminum alloy turnstile / Stainless steel turnstile / Facial recognition / Handheld device / Gate opener]
 Primary Keyword:   [Category keyword, e.g. "Aluminum Speed Gate"]
 Secondary Keywords:
 Schema Markup:     Product
 Search Intent:     Commercial (Transactional)
 Word Count Target: 800–1,500 words
-Meta Title:        [Category Keyword] — [Series Name] | EASCO (max 60 chars)
-Meta Description:  [Product] + [Key spec] + [CTA] (max 160 chars)
+SEO Title:         [Category Keyword] — [Series Name] | EASCO (max 60 chars, keyword-first, matches H1 intent)
+SEO Description:   [Product] + [Key spec] + [CTA] (max 160 chars, includes primary keyword + a number/spec for CTR)
 Model Number:      [From client-data-map/products data source file]
 Primary Segment:   [From buyer-segment-table.md]
 Differentiators:   [D-codes]
@@ -255,6 +256,13 @@ Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
 **H2: Frequently Asked Questions**
 
 *(Minimum 5 Q&As. FAQPage schema. Direct answer first, max 3 sentences.)*
+
+**Written for AI SEO / GEO (Generative Engine Optimization):**
+- Phrase each question exactly as a buyer would type or speak it to an AI assistant (natural language, not keyword-stuffed).
+- Answer must stand alone as a complete, quotable fact in the first sentence — no "it depends" or reference back to the question. An AI engine should be able to lift the first sentence verbatim as the answer.
+- Include the product name/model and one concrete spec or number in the answer where relevant, so the answer is self-identifying if quoted out of context.
+- Avoid marketing fluff in the answer — state the fact, then (optionally) one supporting sentence.
+- Mirror the product slug/keyword naturally in at least one Q&A (e.g. referencing "[Slug/Primary Keyword]") to reinforce topical relevance for both traditional SEO and AI answer engines.
 
 **Q: [Product-specific question 1]?**
 A:
