@@ -53,16 +53,17 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 ## Section Checklist
 
 - [ ] Section 1 — Hero / Banner — written, Tier 1 ✅, approved
-- [ ] Section 2 — Overview — written, Tier 1 ✅, approved
-- [ ] Section 3 — Product Demo Video — written, Tier 1 ✅, approved
-- [ ] Section 4 — Feature Deep-Dive Blocks — written, Tier 1 ✅, approved
-- [ ] Section 5 — Applications (4×2) — written, Tier 1 ✅, approved
-- [ ] Section 6 — Why Choose EASCO — written, Tier 1 ✅, approved
-- [ ] Section 7 — Expert Bio — written, Tier 1 ✅, approved
-- [ ] Section 8 — CTA (two forms) — written, Tier 1 ✅, approved
-- [ ] Section 9 — Technical Specifications — written, Tier 1 ✅, approved
-- [ ] Section 10 — You May Also Like — written, Tier 1 ✅, approved
-- [ ] Section 11 — FAQ (min 5 Q&As) — written, Tier 1 ✅, approved
+- [ ] Section 2 — Identification Modes (icon row) — written, Tier 1 ✅, approved
+- [ ] Section 3 — Overview — written, Tier 1 ✅, approved
+- [ ] Section 4 — Product Demo Video — written, Tier 1 ✅, approved
+- [ ] Section 5 — Feature Deep-Dive Blocks — written, Tier 1 ✅, approved
+- [ ] Section 6 — Applications (4×2) — written, Tier 1 ✅, approved
+- [ ] Section 7 — Why Choose EASCO — written, Tier 1 ✅, approved
+- [ ] Section 8 — Expert Bio — written, Tier 1 ✅, approved
+- [ ] Section 9 — CTA (two forms) — written, Tier 1 ✅, approved
+- [ ] Section 10 — Technical Specifications — written, Tier 1 ✅, approved
+- [ ] Section 11 — You May Also Like — written, Tier 1 ✅, approved
+- [ ] Section 12 — FAQ (min 5 Q&As) — written, Tier 1 ✅, approved
 - [ ] Pass A complete
 - [ ] Pass B complete
 - [ ] Pass N complete
@@ -105,7 +106,17 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 
 ---
 
-### SECTION 2 — Overview
+### SECTION 2 — Identification Modes
+
+*(Icon row — applies to all 5 categories. Just icon + name per mode, no descriptions. Modes and count vary by product per its source file in `_system/client-data-map/products data/` — e.g. a facial terminal may show Face Recognition / IC-ID Card / Temperature Detection / QR; a gate opener may show Remote / App / Card / Fingerprint.)*
+
+[Icon] [Mode name] · [Icon] [Mode name] · [Icon] [Mode name] · [Icon] [Mode name]
+
+**Tier 1 checks:** ☐ Claims verified (modes must exist in source file)
+
+---
+
+### SECTION 3 — Overview
 
 **H2: [Outcome-led headline]**
 
@@ -120,7 +131,7 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 
 ---
 
-### SECTION 3 — Product Demo Video
+### SECTION 4 — Product Demo Video
 
 **H2: See [Product Name] in Action**
 
@@ -133,11 +144,11 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 
 ---
 
-### SECTION 4 — Feature Deep-Dive Blocks
+### SECTION 5 — Feature Deep-Dive Blocks
 
 **H2: [Outcome-led headline per block]**
 
-*(2–3 blocks, alternating image/text layout. Plain descriptive paragraphs — no bullet points here; bullets are reserved for Section 2 Overview only.)*
+*(2–3 blocks, alternating image/text layout. Plain descriptive paragraphs — no bullet points here; bullets are reserved for Section 3 Overview only.)*
 
 [80–120 words per block. Feature explained as a paragraph — problem it solves, how it works, spec woven in naturally.]
 
@@ -145,7 +156,7 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 
 ---
 
-### SECTION 5 — Applications
+### SECTION 6 — Applications
 
 **H2: Where [Product Name] Is Used**
 
@@ -160,7 +171,7 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 
 ---
 
-### SECTION 6 — Why Choose EASCO
+### SECTION 7 — Why Choose EASCO
 
 **H2: Why Buy From EASCO**
 
@@ -170,7 +181,7 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 
 ---
 
-### SECTION 7 — Expert Bio (EEAT)
+### SECTION 8 — Expert Bio (EEAT)
 
 **H2: Talk to Our Product Specialist**
 
@@ -184,7 +195,7 @@ Model/SKU code shown as a small badge under the H1 — never merged into the H1 
 
 ---
 
-### SECTION 8 — CTA (Two Forms)
+### SECTION 9 — CTA (Two Forms)
 
 **H2: Ready to Move Forward?**
 
@@ -200,7 +211,7 @@ Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
 
 ---
 
-### SECTION 9 — Technical Specifications
+### SECTION 10 — Technical Specifications
 
 **H2: Technical Specifications**
 
@@ -224,7 +235,7 @@ Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
 
 ---
 
-### SECTION 10 — You May Also Like
+### SECTION 11 — You May Also Like
 
 **H2: You May Also Like**
 
@@ -239,7 +250,7 @@ Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
 
 ---
 
-### SECTION 11 — FAQ
+### SECTION 12 — FAQ
 
 **H2: Frequently Asked Questions**
 
