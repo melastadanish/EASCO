@@ -38,7 +38,7 @@ These apply to every page on the site. A buyer from any country landing on any p
 **The fear:** First sample is good. Production batch is different. No recourse once goods are shipped.
 
 **The answer:**
-> ISO 9001 quality management system governs every production run. *(⚠️ confirm ISO status)* Each unit is tested before packing. Inspection reports provided on request.
+> ISO 9001:2015 quality management system governs every production run (certified by Wozhong Certification, valid to 14 Jun 2026 — see `_system/client-data-map.md` Certifications table). Each unit is tested before packing. Inspection reports provided on request.
 
 **Where to answer:** Why Choose Us, Factory page, product pages
 **Differentiator:** D1, D7
@@ -62,7 +62,7 @@ These apply to every page on the site. A buyer from any country landing on any p
 **The fear:** CE marks and ISO certificates are faked or bought from certificate mills. Goods fail customs or compliance audits on arrival.
 
 **The answer:**
-> Certificates issued by accredited bodies — documentation provided with every order. *(⚠️ List specific issuing bodies once confirmed)*
+> CE (RED 2014/53/EU, Shenzhen BKC Testing Co.) and ISO 9001/14001/45001 (Wozhong Certification) confirmed — see `_system/client-data-map.md` Certifications table for certificate numbers and model scope. RoHS, UKCA and EAC not yet provided by client — do not claim these until confirmed.
 
 **Where to answer:** Certifications page, product pages (near spec table), footer
 **Differentiator:** D1
@@ -119,8 +119,8 @@ These apply to every page on the site. A buyer from any country landing on any p
 ### O9 — "Will it handle the throughput we need?"
 
 **The answer:**
-> Speed gate: 30 persons/min. Flap barrier: 40 persons/min. *(⚠️ Confirm)*
-> For metro/transit requirements above this, cylindrical gate + anti-tailgating combination recommended — contact for project spec.
+> Cylindrical speed gate: 45 persons/min (confirmed — `_system/client-data-map.md` SILO 1). Standard speed gate / flap barrier throughput not yet confirmed — do not state a figure until client provides the spec sheet.
+> For metro/transit requirements, cylindrical gate + anti-tailgating combination recommended — contact for project spec.
 
 **Where to answer:** S1 pillar page, individual product pages, buying guide
 
@@ -189,7 +189,7 @@ These apply to every page on the site. A buyer from any country landing on any p
 ### O16 — "How accurate is it really — what's the false acceptance rate?"
 
 **The answer:**
-> Iris: 1 in 10,000,000 false acceptance rate. Face: *(⚠️ confirm FAR)*. Palm vein: *(⚠️ confirm FAR)*.
+> Iris: 1 in 10,000,000 false acceptance rate. Palm vein (ESFPR): < 0.0001% FAR. Face: not separately published by EASCO — accuracy stated as 99.98% instead.
 
 **Where to answer:** S2 pillar comparison table, individual product pages
 **Differentiator:** D4 ✅
