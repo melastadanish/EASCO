@@ -51,14 +51,20 @@
 ## Page Architecture
 
 ### 9 Core Pages
+> Full, current URL/file map lives in `_system/sitemap.md` — treat it as the single source
+> of truth for site structure. Two items below are **not** hub pages despite the numbering:
+> Products (03) is a mega-menu linking directly to 10 category pages — there is no
+> `/products/` hub file. Resources (06) is FAQ + Gallery + Downloads as separate standalone
+> pages — there is no `/resources/` hub file either. Do not create either hub page.
+
 | # | Page | URL | Template |
 |---|---|---|---|
 | 01 | Homepage | / | other-page-template.md |
 | 02 | Why Us / About | /why-us/ | other-page-template.md |
-| 03 | Products Hub | /products/ | other-page-template.md |
+| 03 | Products (10 category pages, no hub) | /[category-slug]/ | product-page-template.md |
 | 04 | Solutions by Industry | /solutions/ | solution-page-template.md |
 | 05 | Case Studies ⚠️ BLOCKED | /case-studies/ | case-study-template.md |
-| 06 | Resources / Gallery | /resources/ | other-page-template.md |
+| 06 | Resources (FAQ + Gallery + Downloads, no hub) | /faq/, /gallery/, /downloads/ | other-page-template.md |
 | 07 | Blog | /blog/ | blog-template.md |
 | 08 | Contact | /contact/ | other-page-template.md |
 | 09 | Request Quote | /quote/ | other-page-template.md |

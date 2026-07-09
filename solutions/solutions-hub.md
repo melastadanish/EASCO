@@ -139,7 +139,6 @@ Send the facility type, traffic volume, and security requirements, and get back 
 - Link to [Hospitals](/solutions/hospitals/)
 - Link to [Factories / Warehouses](/solutions/factories/)
 - Link to [Government Buildings](/solutions/government/)
-- Link to [Products Hub](/products/)
 - Link to [OEM/ODM page](/oem-odm/)
 - Link to [Request Quote](/quote/)
 

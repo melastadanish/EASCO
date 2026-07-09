@@ -142,7 +142,7 @@
 
 | Solution | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Solutions Hub | solutions/solutions-hub.md | ✅ | A:8.7/10 B:6fix N:10/10 D:✅ C:✅ | **COMPLETE** — Links to all 6 industry pages + Products Hub. |
+| Solutions Hub | solutions/solutions-hub.md | ✅ | A:8.7/10 B:6fix N:10/10 D:✅ C:✅ | **COMPLETE** — Links to all 6 industry pages. (2026-07-09: removed stale link to a /products/ hub page that doesn't exist in this architecture.) |
 | Commercial Buildings | solutions/commercial-buildings.md | ✅ | A:8.6/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — Speed gates + face recognition + visitor registration combo. |
 | Smart Campus / Schools | solutions/smart-campus.md | ✅ | A:8.5/10 B:6fix N:8/8 D:✅ C:✅ | **COMPLETE** — Tripod turnstiles + face recognition attendance + visitor registration combo. |
 | Transportation Hubs | solutions/transportation.md | ✅ | A:8.7/10 B:6fix N:9/9 D:✅ C:✅ | **COMPLETE** — Speed gates + cylindrical turnstiles + ANPR combo for peak-hour throughput. |
@@ -179,7 +179,7 @@
 
 | Resource | File | Status | Passes | Notes |
 |---|---|---|---|---|
-| Resources Hub | other-pages/resources.md | ✅ | A:8.7/10 B:5fix N:6/6 D:✅ C:✅ | **COMPLETE** — Links to FAQ, Gallery, and Downloads. |
+| ~~Resources Hub~~ | ~~other-pages/resources.md~~ | ❌ | — | **DELETED, do not recreate** — no /resources/ hub page in this architecture (see execution-plan.md Page 06, sitemap.md). FAQ, Gallery, Downloads exist as separate standalone pages instead. |
 | FAQ (upgraded) | other-pages/faq.md | ✅ | A:10.0/10 B:0fix N:20/20 D:✅ C:✅ | **COMPLETE** — 47 Q&As cover ALL 20 objections. AI-score 3%. 7 categories. |
 | Photo Gallery | other-pages/gallery.md | ✅ | A:8.2/10 B:4fix N:4/4 D:✅ C:✅ | **COMPLETE (text)** — Found missing during full re-audit 2026-07-08; was never given the "text-complete, assets-pending" treatment applied elsewhere. Gallery categories structured; actual photos ⚠️ pending upload (none invented/stock-substituted). |
 | Downloads Center | other-pages/downloads.md | ✅ | A:8.4/10 B:5fix N:5/5 D:✅ C:✅ | **COMPLETE** — Spec sheet/SDK/certification categories structured; actual PDF files ⚠️ pending upload. |
