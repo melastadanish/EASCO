@@ -26,14 +26,16 @@ Last Updated: YYYY-MM-DD
 
 ```
 Target URL:        /blog/[slug]/
+Slug:              [slug] (lowercase, hyphenated, e.g. "what-is-a-turnstile-gate")
 Primary Keyword:   [informational long-tail keyword]
 Secondary Keywords:
+Schema Markup:     Article
 Search Intent:     Informational
 Word Count Target: 1,200–2,000 words
-Meta Title:        [Question or How-to] — EASCO Guide (max 60 chars)
-Meta Description:  [What this article answers] + [key fact] (max 160 chars)
+SEO Title:         [Question or How-to] — EASCO Guide (max 60 chars, keyword-first)
+SEO Description:   [What this article answers] + [key fact] (max 160 chars)
 Primary Segment:   [From buyer-segment-table.md — who searches this question?]
-Silo Link:         [Which silo pillar does this article support?]
+Related Category:  [Which of the 5 real product categories does this article support, if any — Aluminum Alloy Turnstile / Stainless Steel Turnstile / Facial Recognition / Handheld Device / Gate Opener / General]
 Status:            🔲 To Do
 ```
 
@@ -66,11 +68,11 @@ Status:            🔲 To Do
 ## SEO
 
 ```
-Meta Title:
-Meta Description:
+SEO Title:
+SEO Description:
 Primary Keyword:
 Secondary Keywords:
-Internal links out: [relevant silo pillar page, 1–2 relevant product pages max]
+Internal links out: [relevant category archive page, 1–2 relevant product pages max]
 Schema: Article (JSON-LD)
 ```
 
@@ -130,7 +132,7 @@ Schema: Article (JSON-LD)
 | [Scenario 2] | [Option] | [Spec/reason] |
 | [Scenario 3] | [Option] | [Spec/reason] |
 
-**Soft CTA:** "See which systems EASCO manufactures — [[relevant silo pillar]]"
+**Soft CTA:** "See which systems EASCO manufactures — [[relevant category archive page]]"
 
 **Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first ☐ CTA
 
@@ -153,6 +155,13 @@ Schema: Article (JSON-LD)
 **H2: Frequently Asked Questions**
 
 *(Minimum 5 Q&As. Target long-tail + People Also Ask. Direct answer first, max 3 sentences.)*
+
+**Written for AI SEO / GEO (Generative Engine Optimization):**
+- Phrase each question as a buyer would type or speak it to an AI assistant (natural language, not keyword-stuffed).
+- Answer must stand alone as a complete, quotable fact in the first sentence — no "it depends." An AI engine should be able to lift the first sentence verbatim as the answer.
+- Include one concrete spec or number in the answer where relevant.
+- Avoid marketing fluff — state the fact, then (optionally) one supporting sentence.
+- Mirror the article's primary keyword naturally in at least one Q&A.
 
 **Q: [Core question from article title, rephrased]?**
 A:
@@ -188,9 +197,9 @@ A:
 
 ## Internal Links Required
 
-- [ ] Link to: relevant silo pillar page (mandatory — this is the primary purpose of the blog)
+- [ ] Link to: relevant category archive page (mandatory — this is the primary purpose of the blog)
 - [ ] Link to: 1–2 relevant product pages (contextual only, not nav)
-- [ ] Link from: silo pillar page back to this blog article (in FAQ or "Related guides" section)
+- [ ] Link from: Blog Hub back to this article (post card in Section 3)
 - [ ] Do NOT link to other blogs unless directly relevant
 
 ---

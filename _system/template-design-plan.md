@@ -60,10 +60,20 @@ Hospitals, Factories, Government, Hospitality/Hotels, Sports Venues/Stadiums
 
 ## Step 4 — Blog
 
-- 🔲 Blog Archive/Hub template (new — `blog-hub.md` exists as content, no
-  template behind it yet)
-- 🔲 Blog single article template — review/update existing
-  `templates/blog-template.md`
+- ✅ Blog Archive/Hub template — `templates/blog-hub-template.md`
+  (Banner (H1+description) → Left Sidebar Filter (5 categories + General) →
+  Posts Grid (cards) → CTA). Note: uses a real sidebar filter, unlike the
+  "Browse Other X" grid pattern used on Solutions/Category pages — hubs
+  don't have to match sub-page conventions 1:1.
+- ✅ Blog single article template — `templates/blog-template.md` updated:
+  dead old-taxonomy links (`/speed-gates/` etc.) replaced with references to
+  the 5 real categories, `Silo Link` field replaced with `Related Category`,
+  metadata updated to `Slug`/`SEO Title`/`SEO Description`, AI SEO/GEO FAQ
+  instructions added. Structure itself unchanged (already solid): Intro/Hook
+  → Core Answer → Key Considerations → Comparison/Decision Framework →
+  EASCO Perspective → FAQ → Soft CTA.
+- ⏸️ Live blog posts (8 articles) still contain the old dead links —
+  not fixed yet, template-only pass for now.
 
 ---
 
