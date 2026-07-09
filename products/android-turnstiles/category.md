@@ -56,7 +56,7 @@ Five ways through one gate, all running on an onboard Android terminal, no exter
 
 Most access control installs need a gate, a separate reader, and a controller box wired between them. The JF Android turnstile collapses that into one unit. The ESBL terminal embeds directly into the gate top, running Android onboard with SDK and API support for custom integration. It reads face, QR code, card, password, or a remote signal, five methods, one 7-inch touchscreen, zero external wiring beyond the gate itself.
 
-> EASCO manufactures the JF Android turnstile with an onboard ESBL face recognition terminal, 99.98% accuracy at 200–300ms recognition speed, 50,000-face capacity, IP65-rated housing, for corporate lobbies, schools, and government buildings worldwide. Factory direct from Shenzhen, with SDK/API support for custom software integration.
+> EASCO manufactures the JF Android turnstile with an onboard ESBL face recognition terminal: 99.98% accuracy, 200–300ms recognition speed, 50,000-face capacity, IP65-rated housing. Built for corporate lobbies, schools, and government buildings worldwide. Factory direct from Shenzhen, with SDK/API support for custom software integration.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, integration language invites inquiry)
 

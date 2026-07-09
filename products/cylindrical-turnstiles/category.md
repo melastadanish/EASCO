@@ -56,7 +56,7 @@ Status:            ✅ Complete
 
 A retrofit project rarely has room to spare. The ESYBZ cylindrical turnstile solves that with a compact, integrated-mold body built from aircraft-grade aluminum alloy. It's small enough to fit where a standard speed gate would crowd the lobby. It still processes 45 people per minute and opens in 0.3 seconds. The double-movement mechanism is patent-registered, not a generic design copied across suppliers. Order it as a basic card or remote-access gate, or step up to the LCD+Face variant for an onboard Android terminal reading face, card, QR code, and password.
 
-> EASCO manufactures the ESYBZ cylindrical turnstile at 45 persons/min throughput, opening in 0.3 seconds, with a patented double-movement design in a compact aircraft-grade aluminum body, for corporate lobbies, government buildings, and transit hubs worldwide. Factory direct from Shenzhen, upgradable to an onboard Android face recognition terminal.
+> EASCO manufactures the ESYBZ cylindrical turnstile at 45 persons/min throughput, opening in 0.3 seconds, with a patented double-movement design in a compact aircraft-grade aluminum body. Built for corporate lobbies, government buildings, and transit hubs worldwide. Factory direct from Shenzhen, upgradable to an onboard Android face recognition terminal.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, upgrade path invites inquiry)
 

@@ -56,7 +56,7 @@ A misrecognition rate of 1 in 10,000,000, the highest accuracy across EASCO's bi
 
 Some entrances need more than a face scan. Palm vein recognition reads the vein pattern beneath the skin using near-infrared light. There's no surface to photograph and no facial image stored, which matters for sites with strict privacy or regulatory requirements. Iris recognition pushes accuracy further still, reaching a 1-in-10,000,000 misrecognition rate on the MTH8 terminal. Both technologies ship combined with face recognition on the same 8-inch Android terminal. A facility isn't forced to choose one biometric mode for the whole site.
 
-> EASCO manufactures palm vein and iris recognition terminals with a false acceptance rate as low as 0.00001% on palm vein (ESQV8) and a 1-in-10,000,000 misrecognition rate on iris (MTH8), for banks, data centers, and government facilities worldwide. Factory direct from Shenzhen, combined with face recognition on the same terminal.
+> EASCO manufactures palm vein and iris recognition terminals with a false acceptance rate as low as 0.00001% on palm vein (ESQV8) and a 1-in-10,000,000 misrecognition rate on iris (MTH8). Built for banks, data centers, and government facilities worldwide. Factory direct from Shenzhen, combined with face recognition on the same terminal.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, dual-model range invites comparison)
 

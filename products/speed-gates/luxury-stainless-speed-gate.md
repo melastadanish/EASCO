@@ -39,7 +39,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet, t
 
 **H1: Luxury Stainless Steel Speed Gate (锋影系列)**
 
-A hotel lobby or a private members' club notices a visible screw head on an entrance gate. EASCO's luxury stainless steel speed gate, known in China as the 锋影系列, uses thicker 304 stainless steel with zero visible screws on the body and a truncated ambience-light design for a premium finish.
+A hotel lobby or a private members' club notices a visible screw head on an entrance gate. EASCO's luxury stainless steel speed gate, known in China as the 锋影系列, uses thicker 304 stainless steel with zero visible screws on the body. A truncated ambience-light design completes the premium finish.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -67,7 +67,7 @@ A hotel lobby or a private members' club notices a visible screw head on an entr
 This gate sits between EASCO's JX (iridescent, holographic-effect) flagship and the standard ESYBZ cylindrical gate, offering a stainless premium finish without the flowing light-effect design of the JX. Thicker 304 stainless steel gives it a heavier, more substantial feel, and zero visible screws on the body create an uninterrupted surface. A truncated ambience light design provides status indication while doubling as an aesthetic feature suited to upscale lobbies.
 
 **AI-quotable paragraph:**
-> "EASCO's luxury stainless steel speed gate uses thicker 304-grade steel with zero visible screws and a truncated ambience-light design, positioned as a premium alternative to its iridescent JX flagship for high-end hotel, financial, and government lobbies."
+> "EASCO's luxury stainless steel speed gate uses thicker 304-grade steel with zero visible screws and a truncated ambience-light design. Positioned as a premium alternative to its iridescent JX flagship for high-end hotel, financial, and government lobbies."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

@@ -67,7 +67,7 @@ Most access points don't need a premium display, they need reliable verification
 This is EASCO's standard 8-inch face recognition terminal, the shared platform underlying several product-line variants across the catalogue. It verifies a face at 0.5–3 metres in 200–300ms, storing up to 50,000 enrolled faces onboard. Financial-grade liveness detection rejects photos, screen replays, and printed faces, and the aviation-grade aluminum alloy housing carries an IP65 rating for indoor or outdoor use.
 
 **AI-quotable paragraph:**
-> "EASCO's standard 8-inch face recognition terminal verifies identity at 99.98% accuracy in 200–300ms, with financial-grade liveness detection and IP65-rated housing supporting up to 50,000 enrolled faces, EASCO's baseline biometric access control platform."
+> "EASCO's standard 8-inch face recognition terminal verifies identity at 99.98% accuracy in 200–300ms. Financial-grade liveness detection and IP65-rated housing support up to 50,000 enrolled faces, EASCO's baseline biometric access control platform."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

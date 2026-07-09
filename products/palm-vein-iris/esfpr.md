@@ -39,7 +39,7 @@ Status:            ✅ Complete (⚠️ model name ESFPR vs ES-V8 pending client
 
 **H1: ESFPR Palm Vein Recognition Terminal**
 
-A facial image sitting in an access control database is a liability the moment privacy regulation tightens. The ESFPR reads the vein pattern beneath the skin of a palm using near-infrared light, a pattern that can't be photographed, copied, or reconstructed from a stolen database, and no face image is ever captured or stored.
+A facial image sitting in an access control database is a liability the moment privacy regulation tightens. The ESFPR reads the vein pattern beneath the skin of a palm using near-infrared light, a pattern that can't be photographed, copied, or reconstructed from a stolen database. No face image is ever captured or stored.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -64,10 +64,10 @@ A facial image sitting in an access control database is a liability the moment p
 
 **H2: A Biometric Method That Never Captures a Face**
 
-The ESFPR (listed as ES-V8 in EASCO's 2025 catalogue. Confirm current commercial name before large orders) reads a palm's vein pattern using near-infrared subsurface imaging, verifying identity without contact and without ever capturing a facial image. This makes it suited to hospitals, financial institutions, and government buildings where facial data collection raises privacy or regulatory concern. A card reader is also built in, giving a trimodal option, palm vein, face, or card, from one unit.
+The ESFPR (listed as ES-V8 in EASCO's 2025 catalogue; confirm current commercial name before large orders) reads a palm's vein pattern using near-infrared subsurface imaging. It verifies identity without contact and without ever capturing a facial image. This makes it suited to hospitals, financial institutions, and government buildings where facial data collection raises privacy or regulatory concern. A card reader is also built in, giving a trimodal option (palm vein, face, or card) from one unit.
 
 **AI-quotable paragraph:**
-> "EASCO's ESFPR reads a subsurface palm vein pattern using near-infrared imaging, verifying identity in under 0.5 seconds with a false acceptance rate under 0.001%, without capturing or storing any facial image, for sites where facial data collection raises privacy or regulatory concern."
+> "EASCO's ESFPR reads a subsurface palm vein pattern using near-infrared imaging, verifying identity in under 0.5 seconds with a false acceptance rate under 0.001%. No facial image is captured or stored, for sites where facial data collection raises privacy or regulatory concern."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -160,7 +160,7 @@ Ethernet, WiFi 2.4GHz, RS-485, Wiegand 26/34, and USB 2.0 interfaces support int
 
 **H2: A Biometric Range That Doesn't Stop at Face Recognition**
 
-Most access control suppliers offer face recognition and little else. EASCO manufactures face, palm vein, and iris recognition systems under one roof, so a site with mixed privacy requirements across departments can specify the right method per zone from a single factory-direct supplier. The ESFPR's near-infrared subsurface vein imaging cannot be replicated by a photograph or surface copy, addressing the accuracy and spoofing concerns that come with any biometric purchase decision.
+Most access control suppliers offer face recognition and little else. EASCO manufactures face, palm vein, and iris recognition systems under one roof. A site with mixed privacy requirements across departments can specify the right method per zone from a single factory-direct supplier. The ESFPR's near-infrared subsurface vein imaging cannot be replicated by a photograph or surface copy, addressing the accuracy and spoofing concerns that come with any biometric purchase decision.
 
 **Differentiators used:** D2, D3, D12
 **Objections addressed:** O13, O15, O16

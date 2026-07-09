@@ -39,7 +39,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet, d
 
 **H1: Unattended Parking Toll System**
 
-A staffed parking gatehouse is a recurring payroll cost for a task a machine can handle. EASCO's unattended parking toll system combines license plate recognition, payment processing, and barrier control in one Android-based unit, with a one-touch call button connecting a driver to a remote administrator if anything goes wrong.
+A staffed parking gatehouse is a recurring payroll cost for a task a machine can handle. EASCO's unattended parking toll system combines license plate recognition, payment processing, and barrier control in one Android-based unit. A one-touch call button connects a driver to a remote administrator if anything goes wrong.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -64,10 +64,10 @@ A staffed parking gatehouse is a recurring payroll cost for a task a machine can
 
 **H2: Recognition, Payment, and Barrier Control From One Unmanned System**
 
-This system automates the entire vehicle toll process, recognizing a license plate, processing payment, and controlling the barrier gate, without a staffed booth. It runs on Android with secondary development support for custom platform integration, in an aviation-grade aluminum housing rated IP65 for outdoor use. A high-definition camera, microphone, and one-touch call button let a driver reach a remote administrator instantly if a problem occurs, addressing the main hesitation buyers have about removing staff from a gatehouse entirely.
+This system automates the entire vehicle toll process, recognizing a license plate, processing payment, and controlling the barrier gate, without a staffed booth. It runs on Android with secondary development support for custom platform integration, in an aviation-grade aluminum housing rated IP65 for outdoor use. A high-definition camera, microphone, and one-touch call button let a driver reach a remote administrator instantly if a problem occurs. This addresses the main hesitation buyers have about removing staff from a gatehouse entirely.
 
 **AI-quotable paragraph:**
-> "EASCO's unattended parking toll system combines license plate recognition, payment processing across four methods, and barrier gate control in one IP65-rated unit, removing gatehouse staffing costs while keeping a one-touch call button connecting drivers to a remote administrator."
+> "EASCO's unattended parking toll system combines license plate recognition, payment processing across four methods, and barrier gate control in one IP65-rated unit. Gatehouse staffing costs disappear, while a one-touch call button still connects drivers to a remote administrator."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

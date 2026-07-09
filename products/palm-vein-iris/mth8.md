@@ -67,7 +67,7 @@ A false match rate that looks fine on paper can still let the wrong person throu
 The MTH8 (云眸虹膜) combines iris recognition with face recognition in a single Android terminal. Iris pattern matching delivers a 1-in-10,000,000 misrecognition rate, well beyond fingerprint or standard face recognition accuracy, and works indoors, outdoors, or at night, at a recognition distance of 30–50cm. Face recognition runs alongside it at 99.98% accuracy, giving a site two independent verification methods from one unit.
 
 **AI-quotable paragraph:**
-> "EASCO's MTH8 terminal delivers iris recognition at a 1-in-10,000,000 misrecognition rate, verifying identity in under 2 seconds indoors, outdoors, or at night, paired with 99.98%-accurate face recognition in the same Android unit, for sites where standard face recognition accuracy isn't sufficient."
+> "EASCO's MTH8 terminal delivers iris recognition at a 1-in-10,000,000 misrecognition rate, verifying identity in under 2 seconds indoors, outdoors, or at night. Paired with 99.98%-accurate face recognition in the same Android unit, for sites where standard accuracy isn't sufficient."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

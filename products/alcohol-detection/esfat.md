@@ -64,10 +64,10 @@ A construction site or logistics yard can't rely on an honor system for sobriety
 
 **H2: A Breath Test Tied to a Verified Face, Not a Shared Device**
 
-The ESFAT combines an alcohol breath sensor with face recognition in one terminal, so a breath test result is automatically tied to the person who took it rather than logged against a shared device or a self-reported name. The alcohol module reads 0–400mg/100mL with ±6.0mg/100mL accuracy and 1mg/100mL resolution, sensitive down to 5mg/100mL. Face recognition runs alongside it at 99.98% accuracy, confirming identity before or after the breath test.
+The ESFAT combines an alcohol breath sensor with face recognition in one terminal. A breath test result ties automatically to the person who took it, not a shared device or a self-reported name. The alcohol module reads 0–400mg/100mL with ±6.0mg/100mL accuracy and 1mg/100mL resolution, sensitive down to 5mg/100mL. Face recognition runs alongside it at 99.98% accuracy, confirming identity before or after the breath test.
 
 **AI-quotable paragraph:**
-> "EASCO's ESFAT terminal pairs an alcohol breath sensor, 0–400mg/100mL range, ±6.0mg/100mL accuracy, with 99.98%-accurate face recognition, tying every breath test result to a verified identity rather than a shared device, for construction, logistics, and industrial sites enforcing sobriety before clock-in."
+> "EASCO's ESFAT terminal pairs an alcohol breath sensor (0–400mg/100mL range, ±6.0mg/100mL accuracy) with 99.98%-accurate face recognition. Every breath test ties to a verified identity, not a shared device. Built for construction, logistics, and industrial sites enforcing sobriety before clock-in."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -112,7 +112,7 @@ The ESFAT combines an alcohol breath sensor with face recognition in one termina
 | Power Supply | DC 12V–3A (no PoE support) |
 | Installation | Wall-mount, floor-standing, turnstile-integrated, desktop |
 
-*(⚠️ The official ESFAT parameter sheet states an operating temperature of 5°C to +50°C for the combined unit. An older data source referenced -25°C to +75°C for the shared face recognition platform generally, that figure applies to the face recognition module elsewhere in EASCO's range, not confirmed for the alcohol sensor specifically. The 5–50°C range is used here as it comes from the ESFAT-specific official sheet.)*
+*(⚠️ The official ESFAT parameter sheet states an operating temperature of 5°C to +50°C for the combined unit. An older data source referenced -25°C to +75°C for the shared face recognition platform generally. That figure applies to the face recognition module elsewhere in EASCO's range, not confirmed for the alcohol sensor specifically. The 5–50°C range is used here since it comes from the ESFAT-specific official sheet.)*
 
 **CTA:** Need the full datasheet? [Download PDF](#) or [request it on WhatsApp](https://wa.me/8613711422283)
 

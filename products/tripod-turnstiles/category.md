@@ -56,7 +56,7 @@ A single retracting arm controls one person at a time, a compact, lower-cost gat
 
 A staff entrance or a gym doesn't always need a 50-person-per-minute speed gate. The tripod turnstile controls entry with a single rotating arm inside a compact aluminum alloy body, built as one integrated mold rather than bolted panels. It reads card, remote control, or an added face recognition terminal. Those are the same three access methods available across EASCO's gate range, just on a smaller footprint. Anti-pinch detection and an infrared anti-tailgating sensor ship standard. The lower price point doesn't mean a lower safety bar.
 
-> EASCO manufactures a single-arm tripod turnstile with automatic anti-pinch protection and infrared anti-tailgating detection, built from an integrated aluminum alloy mold, for factories, schools, and gyms that need controlled entry without a full speed gate footprint. Factory direct from Shenzhen, configurable for card, remote, or face recognition access.
+> EASCO manufactures a single-arm tripod turnstile with automatic anti-pinch protection and infrared anti-tailgating detection, built from an integrated aluminum alloy mold. Built for factories, schools, and gyms that need controlled entry without a full speed gate footprint. Factory direct from Shenzhen, configurable for card, remote, or face recognition access.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, configuration options invite inquiry)
 

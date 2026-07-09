@@ -56,7 +56,7 @@ A worker can't clock in without passing a breath test first, the ESFAT checks bo
 
 A written policy doesn't stop an impaired worker from clocking in. The ESFAT does, by combining a breath alcohol test with 99.98%-accuracy face recognition on the same terminal. A worker scans their face and breathes into the sensor in one motion, the clock-in record only completes if both checks pass. Testing range covers 0–400 mg/100mL at ±6.0 mg/100mL precision, fine enough to flag a result rather than just a pass/fail guess.
 
-> EASCO manufactures the ESFAT alcohol detection terminal, testing 0–400 mg/100mL at ±6.0 mg/100mL precision combined with 99.98%-accuracy face recognition, for construction sites, logistics yards, and mining operations worldwide. Factory direct from Shenzhen, IP65-rated for outdoor entry points.
+> EASCO manufactures the ESFAT alcohol detection terminal, testing 0–400 mg/100mL at ±6.0 mg/100mL precision combined with 99.98%-accuracy face recognition. Built for construction sites, logistics yards, and mining operations worldwide. Factory direct from Shenzhen, IP65-rated for outdoor entry points.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, precision spec invites inquiry)
 
@@ -81,7 +81,7 @@ A written policy doesn't stop an impaired worker from clocking in. The ESFAT doe
 
 **H2: ESFAT: Confirmed Specifications**
 
-*(⚠️ Data note: the official ESFAT parameter sheet states a device operating temperature of 5°C to +50°C, which conflicts with an earlier website figure of -25°C to +75°C for a related product line. The parameter sheet value is used below; confirm with the client before publishing.)*
+*(⚠️ Data note: the official ESFAT parameter sheet states a device operating temperature of 5°C to +50°C. This conflicts with an earlier website figure of -25°C to +75°C for a related product line. The parameter sheet value is used below; confirm with the client before publishing.)*
 
 | Parameter | Specification |
 |---|---|
@@ -154,7 +154,7 @@ Ethernet, WiFi, RS-485, Wiegand 26/34, and USB 2.0 interfaces ship standard. The
 **H2: Frequently Asked Questions**
 
 **Q: How does it stop buddy punching on the alcohol test?**
-A: Face recognition confirms who is present at the same moment the breath sensor takes its reading, so the identity check and the alcohol check happen on the same person, in the same motion.
+A: Face recognition confirms who is present at the same moment the breath sensor takes its reading. The identity check and the alcohol check happen on the same person, in the same motion.
 
 **Q: How accurate is the alcohol reading?**
 A: The sensor covers 0–400 mg/100mL with ±6.0 mg/100mL accuracy, 1 mg/100mL resolution, and 5 mg/100mL sensitivity, precise enough to flag a borderline result.

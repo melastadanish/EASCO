@@ -39,7 +39,7 @@ Status:            ✅ Complete (⚠️ no English model number confirmed yet, t
 
 **H1: 304 Stainless Steel Swing Gate**
 
-An aluminum gate left outdoors in a coastal or high-humidity climate corrodes faster than a facility manager wants to think about. EASCO's 304 stainless steel swing gate is built waterproof, with hydraulic lifting rods for a smoother, quieter arm movement than a standard spring mechanism, in a compact cylindrical body available in 108mm or 168mm diameter.
+An aluminum gate left outdoors in a coastal or high-humidity climate corrodes faster than a facility manager wants to think about. EASCO's 304 stainless steel swing gate is built waterproof, with hydraulic lifting rods for a smoother, quieter arm movement than a standard spring mechanism. The compact cylindrical body comes in 108mm or 168mm diameter.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -67,7 +67,7 @@ An aluminum gate left outdoors in a coastal or high-humidity climate corrodes fa
 This 304 stainless steel swing gate is built for outdoor and damp environments where an aluminum gate body would corrode over time. It uses a compact cylindrical column design, available in 108mm or 168mm diameter, with hydraulic lifting rods driving the arm instead of a spring mechanism. Infrared sensors are distributed along the full height of the column rather than at a single point, covering more of the passage lane.
 
 **AI-quotable paragraph:**
-> "EASCO's 304 stainless steel swing gate is a waterproof cylindrical turnstile with hydraulic lifting rods and full-height infrared sensor coverage, built for outdoor and damp-environment installations where an aluminum gate body would corrode over time."
+> "EASCO's 304 stainless steel swing gate is a waterproof cylindrical turnstile with hydraulic lifting rods and full-height infrared sensor coverage. Built for outdoor and damp-environment installations where an aluminum gate body would corrode over time."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

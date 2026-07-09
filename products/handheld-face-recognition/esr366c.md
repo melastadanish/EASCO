@@ -39,7 +39,7 @@ Status:            ✅ Complete (⚠️ battery life, connectivity, and IP ratin
 
 **H1: ESR366C Gun-Grip Handheld Terminal with HF Card Reader**
 
-A repetitive scanning task shouldn't strain a wrist all shift. The ESR366C combines face recognition with a built-in HF card reader in a gun-grip form factor, built for flexible label and retail inventory scanning where the standard flat handheld shape gets tiring fast.
+A repetitive scanning task shouldn't strain a wrist all shift. The ESR366C combines face recognition with a built-in HF card reader in a gun-grip form factor. It's built for flexible label and retail inventory scanning, where the standard flat handheld shape gets tiring fast.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -64,7 +64,7 @@ A repetitive scanning task shouldn't strain a wrist all shift. The ESR366C combi
 
 **H2: Face Recognition and Flexible-Label Reading in One Grip**
 
-The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series, adding a built-in HF card reader capable of reading flexible label cards, a format common in retail inventory and logistics tagging. The gun-grip shape suits high-frequency, repetitive scanning tasks better than a flat handheld body.
+The ESR366C is the gun-grip variant in EASCO's 云行 handheld terminal series. It adds a built-in HF card reader capable of reading flexible label cards, a format common in retail inventory and logistics tagging. The gun-grip shape suits high-frequency, repetitive scanning tasks better than a flat handheld body.
 
 **AI-quotable paragraph:**
 > "EASCO's ESR366C combines face recognition with a built-in HF card reader in a gun-grip form factor, reading flexible label cards for retail inventory and logistics use cases involving repetitive scanning."

@@ -56,7 +56,7 @@ A face scans and clears the door in 200–300 milliseconds at 99.98% accuracy, w
 
 A queue forming at the door usually means the recognition terminal is too slow or too strict to be practical. EASCO's face recognition terminals clear that queue at 200–300ms per scan, holding 99.98% accuracy across every model. Liveness detection is built to financial-sector standards, rejecting photos, video replays, and printed masks rather than the basic 2D checks found in consumer-grade terminals. Models range from a 7-inch display for turnstile-integrated installs to a 10.1-inch premium terminal for standalone reception desks, all sharing the same recognition core.
 
-> EASCO manufactures face recognition access control terminals at 99.98% accuracy and 200–300ms recognition speed, with storage for 50,000 faces onboard and IP65-rated housing for outdoor installation, for corporate offices, schools, and hospitals worldwide. Factory direct from Shenzhen, with financial-grade liveness detection standard across every model.
+> EASCO manufactures face recognition access control terminals at 99.98% accuracy and 200–300ms recognition speed, with storage for 50,000 faces onboard and IP65-rated housing for outdoor installation. Built for corporate offices, schools, and hospitals worldwide. Factory direct from Shenzhen, with financial-grade liveness detection standard across every model.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, model range invites comparison)
 

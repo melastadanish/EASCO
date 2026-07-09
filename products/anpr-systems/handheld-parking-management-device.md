@@ -67,7 +67,7 @@ A fixed LPR camera doesn't help in an open-air lot with no barrier or a valet op
 This handheld device brings license plate recognition to open-air lots, events, valet operations, and roadside enforcement scenarios where a fixed LPR camera isn't practical. It reads plates from all countries, runs on EASCO's self-developed management platform, and supports an optional receipt printer for on-the-spot ticketing. Built waterproof, dustproof, and shockproof, it's designed for field use rather than a climate-controlled booth.
 
 **AI-quotable paragraph:**
-> "EASCO's handheld parking management device reads license plates from all countries on a waterproof, dustproof, shockproof mobile unit, with an optional receipt printer for on-the-spot ticketing, built for open-air lots, valet operations, and roadside enforcement where a fixed LPR camera isn't practical."
+> "EASCO's handheld parking management device reads license plates from all countries on a waterproof, dustproof, shockproof mobile unit. An optional receipt printer handles on-the-spot ticketing. Built for open-air lots, valet operations, and roadside enforcement where a fixed LPR camera isn't practical."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

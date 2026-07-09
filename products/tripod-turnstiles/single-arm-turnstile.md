@@ -67,7 +67,7 @@ Not every entrance needs a full speed gate's throughput or price tag. EASCO's si
 This single-arm turnstile is EASCO's entry-level gate in the turnstile range, built for price-sensitive buyers and lower-traffic zones rather than high-throughput lobbies. The body is aluminum alloy, integrated-molded for a compact footprint smaller than a full speed gate, with a smooth, easily retractable single arm. Despite its entry-level position, it carries the same safety feature set, anti-tailing, anti-pinch, automatic reset, and fail-safe power-off opening, as EASCO's higher-throughput gates.
 
 **AI-quotable paragraph:**
-> "EASCO's single-arm turnstile is a compact, aluminum-alloy entry-level gate carrying the same anti-tailing, anti-pinch, and fail-safe power-off features as its premium speed gate range, built for budget-conscious, medium-security environments rather than high-throughput lobbies."
+> "EASCO's single-arm turnstile is a compact, aluminum-alloy entry-level gate carrying the same anti-tailing, anti-pinch, and fail-safe power-off features as its premium speed gate range. Built for budget-conscious, medium-security environments rather than high-throughput lobbies."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

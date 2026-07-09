@@ -56,7 +56,7 @@ Status:            ✅ Complete
 
 A lobby entrance rarely needs the same gate twice. The base J-series aluminum gate handles card-only access. Add the ESBL terminal and it becomes a JF Android gate reading face, card, QR code, and password. Upgrade to the flagship JX and the same footprint gains a direct-drive servo motor, RGB status lighting, and an optional 100,000-face Android terminal. All three share the same aluminum chassis, so a facility can start with card access and add biometrics later without replacing the gate body.
 
-> EASCO manufactures the JX speed gate turnstile at 50 persons/min throughput, opening in under 0.5 seconds, a direct-drive servo motor rated for 30 million cycles, for corporate lobbies, hotels, and exhibition centers worldwide. Factory direct from Shenzhen, upgradable from card-only to full Android biometric access.
+> EASCO manufactures the JX speed gate turnstile at 50 persons/min throughput, opening in under 0.5 seconds, with a direct-drive servo motor rated for 30 million cycles. Built for corporate lobbies, hotels, and exhibition centers worldwide. Factory direct from Shenzhen, upgradable from card-only to full Android biometric access.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, upgrade path invites inquiry)
 

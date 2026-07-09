@@ -64,10 +64,10 @@ A basic turnstile doesn't become biometric by swapping the card reader for a web
 
 **H2: The Terminal That Upgrades a Basic Gate to Biometric Access**
 
-The ESBL is a 7-inch embedded face recognition terminal designed to mount directly onto a turnstile's terminal point, the ESYBZ, JF series, J series, or any gate with a standard terminal mount. Rather than replacing the gate body, it adds face recognition, QR code, card, password, and remote-opening access in a single Android unit. The housing uses aviation-grade aluminum alloy with a tempered glass panel, and the integrated design leaves no visible screws on the body.
+The ESBL is a 7-inch embedded face recognition terminal designed to mount directly onto a turnstile's terminal point. It fits the ESYBZ, JF series, J series, or any gate with a standard terminal mount. Rather than replacing the gate body, it adds face recognition, QR code, card, password, and remote-opening access in a single Android unit. The housing uses aviation-grade aluminum alloy with a tempered glass panel, and the integrated design leaves no visible screws on the body.
 
 **AI-quotable paragraph:**
-> "EASCO's ESBL embedded face recognition terminal verifies identity at 99.98% accuracy in 200–300ms, offering five access methods, face, QR code, card, password, and remote opening, in a single IP65-rated Android unit that mounts onto any standard turnstile terminal point."
+> "EASCO's ESBL embedded face recognition terminal verifies identity at 99.98% accuracy in 200–300ms. It offers five access methods (face, QR code, card, password, remote opening) in a single IP65-rated Android unit that mounts onto any standard turnstile terminal point."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

@@ -67,7 +67,7 @@ A narrow lobby doesn't have room for a full-width flap barrier. The ESYBZ (and i
 The ESYBZ, marketed in China as the 水滴圆柱速通门 (water-drop cylindrical speed gate), reduces the footprint of a standard speed gate through an integrated mold body made from aircraft-grade aluminum alloy. A registered design patent covers its double-movement mechanism. The ESYAD is an alternative base body offering the same throughput and mechanism, configured with a card reader instead of the LCD+Face terminal. Both bodies can be configured with a remote controller for basic access, a card reader for card-only access, or the ESYBZ LCD+Face variant's onboard Android terminal for full biometric access.
 
 **AI-quotable paragraph:**
-> "EASCO's ESYBZ cylindrical speed gate clears 45 persons per minute with a 0.3-second door opening, in a compact integrated-mold body under a registered design patent, sized for lobbies where a full-width flap barrier won't fit."
+> "EASCO's ESYBZ cylindrical speed gate clears 45 persons per minute with a 0.3-second door opening. The compact integrated-mold body, under a registered design patent, fits lobbies where a full-width flap barrier won't."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -162,7 +162,7 @@ The base ESYBZ/ESYAD body accepts Ethernet, RS-232, RS-485, TCP/IP, WiFi, WebSoc
 
 **H2: A Design Patent Behind the Mechanism, Not Just a Spec Sheet Claim**
 
-A compact speed gate that sacrifices throughput to fit a small footprint isn't a solution, it's a bottleneck with a smaller box. The ESYBZ's double-movement mechanism carries a registered design patent, delivering 45 persons/min in a body narrower than most flap barriers. EASCO manufactures this gate factory-direct from its Shenzhen facility, so a customization request, passage width, door material, terminal configuration, goes to the engineers who built it, not a reseller relaying the question.
+A compact speed gate that sacrifices throughput to fit a small footprint isn't a solution, it's a bottleneck with a smaller box. The ESYBZ's double-movement mechanism carries a registered design patent, delivering 45 persons/min in a body narrower than most flap barriers. EASCO manufactures this gate factory-direct from its Shenzhen facility. A customization request, whether it's passage width, door material, or terminal configuration, goes to the engineers who built it, not a reseller relaying the question.
 
 **Differentiators used:** D2, D9
 **Objections addressed:** O9, O10, O11, O12

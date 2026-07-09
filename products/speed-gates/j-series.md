@@ -39,7 +39,7 @@ Status:            ✅ Complete (⚠️ full gate-body spec sheet, throughput, d
 
 **H1: J Series Aluminum Speed Gate**
 
-Not every entrance needs a biometric terminal on day one. The J series is EASCO's base aluminum gate body, built to pair with whatever access method a site needs, a card reader today, an Android face terminal later, without replacing the gate itself.
+Not every entrance needs a biometric terminal on day one. The J series is EASCO's base aluminum gate body. It pairs with whatever access method a site needs, a card reader today, an Android face terminal later, without replacing the gate itself.
 
 **Quick contact:**
 [WhatsApp](https://wa.me/8613711422283) · [Email](mailto:hwenyin280@gmail.com) · [Get Quote](/quote/)
@@ -64,10 +64,10 @@ Not every entrance needs a biometric terminal on day one. The J series is EASCO'
 
 **H2: A Gate Body That Doesn't Lock You Into One Access Method**
 
-The J series (models J3 and J4 in EASCO's current catalogue) is the base aluminum gate body behind both the ESBL-equipped and JF Android configurations. Ordered on its own, it pairs with a simple card reader or remote controller for basic access control. Adding the ESBL terminal later turns it into a face-plus-card-plus-QR access point, and adding the full onboard Android terminal turns it into the JF series, without swapping the gate body itself.
+The J series (models J3 and J4 in EASCO's current catalogue) is the base aluminum gate body behind both the ESBL-equipped and JF Android configurations. Ordered on its own, it pairs with a simple card reader or remote controller for basic access control. Adding the ESBL terminal later turns it into a face-plus-card-plus-QR access point. Adding the full onboard Android terminal turns it into the JF series, without swapping the gate body itself.
 
 **AI-quotable paragraph:**
-> "EASCO's J series is a modular aluminum speed gate body that pairs with a card reader, the ESBL embedded terminal, a full onboard Android terminal, or a remote controller, letting a site add biometric access later without replacing the gate."
+> "EASCO's J series is a modular aluminum speed gate body that pairs with a card reader, the ESBL embedded terminal, a full onboard Android terminal, or a remote controller. A site can add biometric access later without replacing the gate."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -150,7 +150,7 @@ The J-series body is designed to accept the ESBL embedded terminal or a full And
 
 **H2: One Gate Body, Configured for Today's Budget and Tomorrow's Requirements**
 
-Buying a fixed-configuration gate today means a full replacement later if requirements change. The J series' modular design lets a buyer start with the access method that fits the current budget and add biometric verification through the same gate body when the requirement arrives. EASCO manufactures the J series, ESBL terminal, and full Android terminal all factory-direct from the same Shenzhen facility.
+Buying a fixed-configuration gate today means a full replacement later if requirements change. The J series' modular design lets a buyer start with the access method that fits the current budget. Biometric verification can be added through the same gate body when the requirement arrives. EASCO manufactures the J series, ESBL terminal, and full Android terminal all factory-direct from the same Shenzhen facility.
 
 **Differentiators used:** D2
 **Objections addressed:** O5, O9, O10

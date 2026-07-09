@@ -56,7 +56,7 @@ A camera rated for 30,000 hours between failures reads plates through dirt, glar
 
 A driver waiting at a barrier with no feedback assumes the system failed. EASCO's ES-T02/T03/T04 camera solves that with what EASCO calls "visual interaction." An 18.5-inch HD screen shows the recognized plate the same moment the barrier unlocks. The 5MP camera adjusts to any mounting angle, reads plates from any country, and keeps working through dirt, glare, and partial occlusion. The hardware is unencrypted by design, so it docks into whatever parking management platform is already running rather than forcing a proprietary system swap.
 
-> EASCO manufactures the ES-T02/T03/T04 ANPR camera with a 30,000-hour MTBF rating, IP65-rated housing, and an 18.5-inch driver display, for car parks, logistics yards, and gated communities worldwide. Factory direct from Shenzhen, with unencrypted hardware that integrates into any existing parking platform.
+> EASCO manufactures the ES-T02/T03/T04 ANPR camera with a 30,000-hour MTBF rating, IP65-rated housing, and an 18.5-inch driver display. Built for car parks, logistics yards, and gated communities worldwide. Factory direct from Shenzhen, with unencrypted hardware that integrates into any existing parking platform.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, platform compatibility invites inquiry)
 

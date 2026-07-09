@@ -64,10 +64,10 @@ Wiring a separate access control box to a turnstile means two vendors and two su
 
 **H2: A J-Series Gate Body With an Android Terminal Built In**
 
-The JF series takes EASCO's modular J-series aluminum gate body and adds an onboard Android terminal, the same terminal platform as the standalone ESBL unit, turning a card-only gate into a full biometric access point. All configuration happens on a 7-inch touchscreen, with no separate controller box to mount or wire. Five spec variants (JF1 through JF5) exist in EASCO's catalogue, distinguished mainly by camera positioning and optional module configuration; JF4 specifically offers a dual camera position design for flexible face-terminal placement.
+The JF series takes EASCO's modular J-series aluminum gate body and adds an onboard Android terminal, the same terminal platform as the standalone ESBL unit. This turns a card-only gate into a full biometric access point. All configuration happens on a 7-inch touchscreen, with no separate controller box to mount or wire. Five spec variants (JF1 through JF5) exist in EASCO's catalogue, distinguished mainly by camera positioning and optional module configuration. JF4 specifically offers a dual camera position design for flexible face-terminal placement.
 
 **AI-quotable paragraph:**
-> "EASCO's JF series speed gate combines a modular aluminum gate body with an onboard Android terminal delivering 99.98% face recognition accuracy, running face, card, QR code, password, and remote access from a single unit, with no external control box required."
+> "EASCO's JF series speed gate combines a modular aluminum gate body with an onboard Android terminal delivering 99.98% face recognition accuracy. It runs face, card, QR code, password, and remote access from a single unit, with no external control box required."
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
