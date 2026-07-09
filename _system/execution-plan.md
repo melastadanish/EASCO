@@ -4,7 +4,7 @@
 > **CONFIRMED NAV:** Home | Products ▼ (mega menu, no hub) | About/Why Us | Solutions ▼ | Cases ▼ | FAQ | Gallery | Blog | Contact
 > Agent mode reads this file and completes the first unchecked task.
 > One page per session in agent mode. Mark complete in progress.md after each page.
-> Last Updated: 2026-07-08
+> Last Updated: 2026-07-09 (reset — all pages marked not-started for full re-review, see progress.md)
 
 ---
 
@@ -79,48 +79,48 @@
 
 | Category | File | Status |
 |---|---|---|
-| Flap Barrier / Speed Gate Turnstiles | products/speed-gates/category.md | ✅ |
-| Tripod / Single-Arm Turnstile Gates | products/tripod-turnstiles/category.md | ✅ |
-| Cylindrical Turnstile Gates | products/cylindrical-turnstiles/category.md | ✅ |
-| Android Turnstile Gates (Face + QR + Card) | products/android-turnstiles/category.md | ✅ |
-| Face Recognition Terminals | products/face-recognition/category.md | ✅ |
-| Handheld / Mobile Face Recognition | products/handheld-face-recognition/category.md | ✅ |
-| Number Plate Recognition (ANPR) | products/anpr-systems/category.md | ✅ |
-| Palm Vein + Iris Recognition | products/palm-vein-iris/category.md | ✅ |
-| Alcohol Detection Devices | products/alcohol-detection/category.md | ✅ |
-| Visitor Registration Machines | products/visitor-registration/category.md | ✅ |
+| Flap Barrier / Speed Gate Turnstiles | products/speed-gates/category.md | 🔲 |
+| Tripod / Single-Arm Turnstile Gates | products/tripod-turnstiles/category.md | 🔲 |
+| Cylindrical Turnstile Gates | products/cylindrical-turnstiles/category.md | 🔲 |
+| Android Turnstile Gates (Face + QR + Card) | products/android-turnstiles/category.md | 🔲 |
+| Face Recognition Terminals | products/face-recognition/category.md | 🔲 |
+| Handheld / Mobile Face Recognition | products/handheld-face-recognition/category.md | 🔲 |
+| Number Plate Recognition (ANPR) | products/anpr-systems/category.md | 🔲 |
+| Palm Vein + Iris Recognition | products/palm-vein-iris/category.md | 🔲 |
+| Alcohol Detection Devices | products/alcohol-detection/category.md | 🔲 |
+| Visitor Registration Machines | products/visitor-registration/category.md | 🔲 |
 
 ### **Page 04 — Solutions (by Industry)** (NEW PAGE — CRITICAL)
 | Industry Sub-Page | File | Status |
 |---|---|---|
-| Solutions Hub | solutions/solutions-hub.md | ✅ |
-| Commercial Buildings | solutions/commercial-buildings.md | ✅ |
-| Smart Campus / Schools | solutions/smart-campus.md | ✅ |
-| Transportation Hubs (Airport, Metro, Bus) | solutions/transportation.md | ✅ |
-| Hospitals | solutions/hospitals.md | ✅ |
-| Factories / Warehouses | solutions/factories.md | ✅ |
-| Government Buildings | solutions/government.md | ✅ |
+| Solutions Hub | solutions/solutions-hub.md | 🔲 |
+| Commercial Buildings | solutions/commercial-buildings.md | 🔲 |
+| Smart Campus / Schools | solutions/smart-campus.md | 🔲 |
+| Transportation Hubs (Airport, Metro, Bus) | solutions/transportation.md | 🔲 |
+| Hospitals | solutions/hospitals.md | 🔲 |
+| Factories / Warehouses | solutions/factories.md | 🔲 |
+| Government Buildings | solutions/government.md | 🔲 |
 
 ### **Page 05 — Case Studies** (Written per template fallback rule — client confirmed no further data coming)
 | Venue Type | File | Status |
 |---|---|---|
-| Case Studies Hub | case-studies/case-studies-hub.md | ✅ |
-| Office Buildings | case-studies/office-buildings.md | ✅ (named projects ⚠️ pending) |
-| Schools / Universities | case-studies/schools.md | ✅ (named projects ⚠️ pending) |
-| Factories | case-studies/factories.md | ✅ (named projects ⚠️ pending) |
-| Metro / Transit Systems | case-studies/metro.md | ✅ (named projects ⚠️ pending) |
-| Airports | case-studies/airports.md | ✅ (named projects ⚠️ pending) |
-| Hospitals | case-studies/hospitals.md | ✅ (named projects ⚠️ pending) |
-| Shopping Malls | case-studies/shopping-malls.md | ✅ (named projects ⚠️ pending) |
-| Government Buildings | case-studies/government.md | ✅ (named projects ⚠️ pending) |
+| Case Studies Hub | case-studies/case-studies-hub.md | 🔲 |
+| Office Buildings | case-studies/office-buildings.md | 🔲 (named projects ⚠️ pending) |
+| Schools / Universities | case-studies/schools.md | 🔲 (named projects ⚠️ pending) |
+| Factories | case-studies/factories.md | 🔲 (named projects ⚠️ pending) |
+| Metro / Transit Systems | case-studies/metro.md | 🔲 (named projects ⚠️ pending) |
+| Airports | case-studies/airports.md | 🔲 (named projects ⚠️ pending) |
+| Hospitals | case-studies/hospitals.md | 🔲 (named projects ⚠️ pending) |
+| Shopping Malls | case-studies/shopping-malls.md | 🔲 (named projects ⚠️ pending) |
+| Government Buildings | case-studies/government.md | 🔲 (named projects ⚠️ pending) |
 
 ### **Page 06 — Resources Section** (FAQ + Gallery + Downloads — no hub page)
 | Sub-Section | File | Status |
 |---|---|---|
 | ~~Resources Hub~~ | ~~other-pages/resources.md~~ | ❌ DELETED — do not recreate |
-| FAQ (upgraded — 16 existing + 5 new technical) | other-pages/faq.md | ✅ |
-| Photo Gallery | other-pages/gallery.md | ✅ (text complete, found missing in 2026-07-08 re-audit — photos still ⚠️ pending) |
-| Downloads Center | other-pages/downloads.md | ✅ |
+| FAQ (upgraded — 16 existing + 5 new technical) | other-pages/faq.md | 🔲 |
+| Photo Gallery | other-pages/gallery.md | 🔲 (photos ⚠️ pending) |
+| Downloads Center | other-pages/downloads.md | 🔲 |
 
 **New FAQs to Add:**
 - What biometric modes do your turnstiles support?
@@ -133,13 +133,13 @@
 ### **Page 07 — Blog** (FIX + IMPROVE)
 | Task | File | Status |
 |---|---|---|
-| Blog Hub (landing page) | blogs/blog-hub.md | ✅ (found missing in 2026-07-08 re-audit, now written) |
-| Fix all '网站' title tags | — | ✅ N/A — all new content written with proper English titles from the start |
-| Add meta descriptions | — | ✅ present on all 8 posts + hub |
-| Add category system (TOFU/MOFU/BOFU) | — | ✅ hub organizes by funnel stage |
-| Add internal linking to product/solution pages | — | ✅ each post links out per blog-template.md rules |
-| Add related posts suggestions | — | ⚠️ not implemented as a dedicated section — dev/build task, not a copy gap |
-| Add author bio | — | ⚠️ no author name/bio supplied by client |
+| Blog Hub (landing page) | blogs/blog-hub.md | 🔲 |
+| Fix all '网站' title tags | — | 🔲 |
+| Add meta descriptions | — | 🔲 |
+| Add category system (TOFU/MOFU/BOFU) | — | 🔲 |
+| Add internal linking to product/solution pages | — | 🔲 |
+| Add related posts suggestions | — | 🔲 |
+| Add author bio | — | 🔲 |
 
 ### **Page 08 — Contact** (REDESIGN LAYOUT)
 | Section | Requirements | Status |
@@ -150,12 +150,12 @@
 | Response Time Promise | 'We reply within 1 hour' | 🔲 |
 | All Contact Channels | Phone, WhatsApp, Email, Skype, LinkedIn, Facebook, YouTube | 🔲 |
 | Social Media Icons | LinkedIn, Facebook, YouTube | 🔲 |
-| **File** | other-pages/contact.md | **✅** |
+| **File** | other-pages/contact.md | **🔲** |
 
 ### **Page 09 — Request Quote** (KEEP — CTA PAGE)
 | File | Status |
 |---|---|
-| other-pages/request-quote.md | ✅ |
+| other-pages/request-quote.md | 🔲 |
 
 ---
 
@@ -163,11 +163,11 @@
 
 | # | Task | File | Status |
 |---|---|---|---|
-| 2.1 | Factory Tour | other-pages/factory.md | ✅ |
-| 2.2 | Certifications | other-pages/certifications.md | ✅ (scan images pending) |
-| 2.3 | OEM/ODM Services | other-pages/oem-odm.md | ✅ |
-| 2.4 | Partners & Distributors | other-pages/partners.md | ✅ |
-| 2.5 | Trade Shows & Events | other-pages/events.md | ✅ |
+| 2.1 | Factory Tour | other-pages/factory.md | 🔲 |
+| 2.2 | Certifications | other-pages/certifications.md | 🔲 (scan images pending) |
+| 2.3 | OEM/ODM Services | other-pages/oem-odm.md | 🔲 |
+| 2.4 | Partners & Distributors | other-pages/partners.md | 🔲 |
+| 2.5 | Trade Shows & Events | other-pages/events.md | 🔲 |
 | 2.6 | Privacy Policy | other-pages/privacy-policy.md | ⚠️ DRAFT — needs legal review |
 | 2.7 | Terms of Service | other-pages/terms.md | ⚠️ DRAFT — needs legal review |
 | 2.8 | Cookie Policy | other-pages/cookies.md | ⚠️ DRAFT — needs legal review + tracking tech confirmation |
@@ -180,25 +180,25 @@
 
 | # | Task | File | Category | Status |
 |---|---|---|---|---|
-| 3.1 | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | TOFU | ✅ |
-| 3.2 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | TOFU | ✅ |
-| 3.3 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | MOFU | ✅ |
-| 3.4 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | MOFU | ✅ |
-| 3.5 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | BOFU | ✅ |
-| 3.6 | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | BOFU | ✅ |
-| 3.7 | How Does ANPR Work? | blogs/how-does-anpr-work.md | TOFU | ✅ |
-| 3.8 | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | TOFU | ✅ |
+| 3.1 | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | TOFU | 🔲 |
+| 3.2 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | TOFU | 🔲 |
+| 3.3 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | MOFU | 🔲 |
+| 3.4 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | MOFU | 🔲 |
+| 3.5 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | BOFU | 🔲 |
+| 3.6 | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | BOFU | 🔲 |
+| 3.7 | How Does ANPR Work? | blogs/how-does-anpr-work.md | TOFU | 🔲 |
+| 3.8 | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | TOFU | 🔲 |
 
 ---
 
 ## Phase 4 — Alternatives (Competitor Comparison)
 
 | # | Task | File | Status |
-|---|---|---|
-| 4.1 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ |
-| 4.2 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | ✅ |
-| 4.3 | ZKTeco Alternative | alternatives/zkteco-alternative.md | ✅ |
-| 4.4 | Hikvision Alternative | alternatives/hikvision-alternative.md | ✅ |
+|---|---|---|---|
+| 4.1 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | 🔲 |
+| 4.2 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | 🔲 |
+| 4.3 | ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 |
+| 4.4 | Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 |
 
 ---
 
