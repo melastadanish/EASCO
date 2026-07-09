@@ -45,7 +45,7 @@ Status:            🔲 To Do
 ## Section Checklist
 
 - [ ] Section 1 — Hero / Banner — written, Tier 1 ✅, approved
-- [ ] Section 2 — Left Sidebar Filter — written, Tier 1 ✅, approved
+- [ ] Section 2 — Browse Other Categories — written, Tier 1 ✅, approved
 - [ ] Section 3 — Product Grid — written, Tier 1 ✅, approved
 - [ ] Section 4 — What Is [Category]? — written, Tier 1 ✅, approved
 - [ ] Section 5 — Key Features of [Category] — written, Tier 1 ✅, approved
@@ -79,15 +79,21 @@ Status:            🔲 To Do
 
 ---
 
-### SECTION 2 — Left Sidebar Filter
+### SECTION 2 — Browse Other Categories
 
-*(Persistent left-hand nav listing all 5 client categories, current category highlighted as active. Lets a visitor jump between categories without returning to a hub page.)*
+**H2: Browse Other Categories**
 
-- Aluminum alloy turnstile
-- Stainless steel turnstile
-- Facial recognition
-- Handheld device
-- Gate opener
+*(Grid/card section — not a persistent sidebar. Links to the other 4 client categories, each with a one-line descriptor. Lets a visitor jump to a different category without returning to a hub page.)*
+
+| Category | One-line descriptor |
+|---|---|
+| Aluminum alloy turnstile | [descriptor] |
+| Stainless steel turnstile | [descriptor] |
+| Facial recognition | [descriptor] |
+| Handheld device | [descriptor] |
+| Gate opener | [descriptor] |
+
+*(Omit the current category from its own grid — 4 cards shown per page, not 5.)*
 
 **Tier 1 checks:** ☐ Claims verified (links resolve to correct category pages)
 
@@ -210,7 +216,7 @@ Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
 ## Internal Links Required
 
 - [ ] Every product card links to its product page
-- [ ] Sidebar links to all 5 category pages
+- [ ] Browse Other Categories grid links to the other 4 category pages
 - [ ] OEM/ODM page if customisation relevant
 
 ---
