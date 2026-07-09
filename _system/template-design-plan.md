@@ -43,12 +43,18 @@ Hospitals, Factories, Government, Hospitality/Hotels, Sports Venues/Stadiums
 
 ---
 
-## Step 3 — Case Studies
+## Step 3 — Case Studies — SKIPPED, not covered in this pass
 
-- 🔲 Case Study Archive/Hub template (new — `case-studies-hub.md` exists as
+- ⏸️ Case Study Archive/Hub template (new — `case-studies-hub.md` exists as
   content, no template behind it yet)
-- 🔲 Case Study single page template — review/update existing
-  `templates/case-study-template.md` against current 5-category taxonomy
+- ⏸️ Case Study single page template — old `templates/case-study-template.md`
+  assumes real named projects with photos; independent research already
+  confirmed no such data exists for any venue type. Live pages instead use a
+  leaner 6-section fallback (Hero -> Illustrative Example, explicitly flagged
+  as not real -> Common Requirements -> Recommended Products -> FAQ -> CTA).
+  Also note: case-study "venue types" (office-buildings, schools, metro,
+  airports, shopping-malls...) don't fully match the 8 Solutions industries
+  -- worth reconciling whenever this step is picked back up.
 
 ---
 
