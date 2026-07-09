@@ -21,14 +21,18 @@
 
 ## Step 2 — Solutions
 
-- 🔲 Solutions Hub template (new — top of `Real Solutions data/`)
-- 🟡 Industry single page template (tier 2) — section list agreed:
-  Hero → Left Sidebar Filter → Challenges → Solutions/Product Grid (reuses
-  category-page card pattern, filtered to relevant categories) → Why Choose
-  EASCO for [Industry] → Talk to an Expert → FAQ (AI SEO/GEO) → CTA (two forms)
-- 🔲 Category × Industry sub-page template (tier 3) — comes after tier 2 is locked
+- ✅ Solutions Hub template — `Real Solutions data/solutions-hub-template.md`
+  (Hero → Browse by Industry → CTA → FAQ)
+- ✅ Industry single page template (tier 2) — `Real Solutions data/industry-page-template.md`
+  (Hero → Browse Other Industries → Challenges → Solutions/Product Grid →
+  Why Choose EASCO for [Industry] → Talk to an Expert → CTA → FAQ)
+- 🔲 Category × Industry sub-page template (tier 3) — next up
 - ✅ `Real Solutions data/` folder skeleton created — 8 industries, 26 sub-page
-  placeholders, hub file placeholder (all empty, pending templates above)
+  placeholders, hub file placeholder (all empty, pending tier 3 template + content)
+
+**Note:** Both templates use a "Browse Other X" grid section instead of a
+persistent sidebar filter (changed from the original sidebar concept — see
+matching change applied to the category archive page template).
 
 **8 industries confirmed:** Commercial Buildings, Smart Campus, Transportation,
 Hospitals, Factories, Government, Hospitality/Hotels, Sports Venues/Stadiums
