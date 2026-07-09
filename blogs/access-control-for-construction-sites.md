@@ -50,7 +50,7 @@ An office building has one or two controlled entrances. A construction site has 
 
 Attendance accuracy carries more weight on a construction site than in most office settings. Payroll, safety headcounts during an evacuation, and legal liability for who was on site all depend on an accurate record, not a self-reported sign-in sheet.
 
-> Construction site access control needs IP65/IP67-rated hardware to survive dust and weather, biometric verification to prevent buddy punching on payroll, and, where a sober-only policy applies, combined alcohol and identity checks at the point of entry rather than relying on the honor system.
+> Construction site access control needs IP65/IP67-rated hardware to survive dust and weather, plus biometric verification to prevent buddy punching on payroll. Where a sober-only policy applies, combined alcohol and identity checks at the point of entry replace the honor system.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational)
 

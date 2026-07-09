@@ -47,9 +47,9 @@ A supplier's factory either exists at the scale claimed, or it doesn't. EASCO ma
 
 **H2: 3,000 Square Meters, One Production Line**
 
-*(⚠️ Factory floor, R&D, and production photos not yet available, this section will be updated with photography once supplied.)*
+*(⚠️ Factory floor, R&D, and production photos not yet available. This section will be updated with photography once supplied.)*
 
-Production, quality control, and after-sales support all happen at Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen. 10+ R&D engineers work alongside the production floor rather than in a separate office. A design change moves from concept to prototype without waiting on a remote team.
+Production, quality control, and after-sales support all operate from the same address. That's Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen. 10+ R&D engineers work alongside the production floor rather than in a separate office. A design change moves from concept to prototype without waiting on a remote team.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

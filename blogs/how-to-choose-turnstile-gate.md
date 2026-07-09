@@ -50,7 +50,7 @@ Most buying mistakes start with picking a gate style first and fitting it to the
 
 Once throughput is settled, credential type narrows the choice further. A gate needing to read face, card, and QR code from one terminal points toward an Android-integrated model. A gate needing only card access can use a simpler, lower-cost base unit.
 
-> Choosing a turnstile gate starts with throughput, a cylindrical or speed gate handles 45–50 persons/min for high-traffic entrances, while a tripod turnstile suits lower-traffic, budget-conscious entrances, then narrows by credential type and environment (indoor vs. outdoor).
+> Choosing a turnstile gate starts with throughput. A cylindrical or speed gate handles 45–50 persons/min for high-traffic entrances, while a tripod turnstile suits lower-traffic, budget-conscious entrances. From there, it narrows by credential type and environment (indoor vs. outdoor).
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational)
 
@@ -106,7 +106,7 @@ EASCO publishes throughput and opening speed figures per model rather than a sin
 A: Start with traffic volume, how many people need to pass per minute at peak times. That alone eliminates most options before budget or credential type comes into play.
 
 **Q: Is a more expensive gate always the better choice?**
-A: No. A premium speed gate makes sense for high-traffic lobbies, but a tripod turnstile can be the better choice for a low-traffic staff entrance where the extra throughput and cost aren't needed.
+A: No. A premium speed gate makes sense for high-traffic lobbies. A tripod turnstile can be the better choice for a low-traffic staff entrance where the extra throughput and cost aren't needed.
 
 **Q: What questions should I ask a turnstile supplier before ordering?**
 A: Confirmed throughput, whether the anti-crush mechanism is mechanical or software-only, power-outage behavior, and the gate body's own IP rating separate from any attached terminal.

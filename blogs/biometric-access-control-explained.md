@@ -50,7 +50,7 @@ A biometric system captures a physical trait during enrollment, a face, a vein p
 
 Two numbers describe how well a system performs this comparison. False acceptance rate (FAR) measures how often the system wrongly grants access to someone who shouldn't have it. False rejection rate (FRR) measures how often it wrongly denies someone who should have access. A lower FAR generally matters more for security. A lower FRR matters more for daily convenience.
 
-> Biometric access control matches a live scan against an enrolled template, measured by false acceptance rate (FAR) and false rejection rate (FRR), with face recognition typically running 99%+ accuracy and specialized modes like iris recognition reaching FAR figures as low as 1 in 10,000,000.
+> Biometric access control matches a live scan against an enrolled template, measured by false acceptance rate (FAR) and false rejection rate (FRR). Face recognition typically runs 99%+ accuracy, while specialized modes like iris recognition reach FAR figures as low as 1 in 10,000,000.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational)
 

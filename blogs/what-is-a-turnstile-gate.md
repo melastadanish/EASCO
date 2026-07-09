@@ -61,7 +61,7 @@ Most gates pair with a credential reader, a card, a face recognition terminal, o
 **H2: What to Check Before Specifying Any Turnstile**
 
 1. **Throughput (persons per minute):** A lobby handling a shift change needs a higher throughput rating than a low-traffic staff entrance. Confirm the number under normal operating conditions, not a theoretical maximum.
-2. **Anti-tailgating detection:** Ask whether the gate uses an infrared sensor array to detect a second person following through, and how many sensor pairs it uses, more pairs generally means tighter detection.
+2. **Anti-tailgating detection:** Ask whether the gate uses an infrared sensor array to detect a second person following through, and how many sensor pairs it uses. More pairs generally means tighter detection.
 3. **Anti-crush / anti-pinch mechanism:** Confirm whether the safety stop is mechanical (like a crank-link transmission with magnetic-sensitive limit control) or purely software-based. A mechanical stop keeps working even if the control software fails.
 4. **Fail-safe behavior during a power outage:** Some gates release open on power loss for evacuation safety; others lock closed for security. Confirm which behavior the gate defaults to and whether it's configurable.
 

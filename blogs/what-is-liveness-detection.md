@@ -50,7 +50,7 @@ A face recognition camera alone only compares an image against an enrolled templ
 
 The quality tier matters enormously here. A basic system might only check for blinking, which a short video loop can fake. A financial-grade system layers multiple checks instead, depth, texture, infrared response, and movement. That makes it far harder to spoof with a photo, video, or even a realistic silicone mask.
 
-> Liveness detection confirms a live person is present during a biometric scan, using depth analysis, infrared reflectance, or micro-movement detection to distinguish a real face from a photo, video, or mask. Financial-grade liveness detection layers multiple checks; basic consumer-grade systems often rely on a single, easier-to-fake signal like blinking.
+> Liveness detection confirms a live person is present during a biometric scan. Depth analysis, infrared reflectance, and micro-movement detection tell a real face from a photo, video, or mask. Financial-grade systems layer multiple checks; basic consumer-grade systems often rely on a single, easier-to-fake signal like blinking.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational)
 

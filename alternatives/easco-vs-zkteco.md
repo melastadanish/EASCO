@@ -121,7 +121,7 @@ Its turnstile and entrance-control range is also broad: swing barriers, flap bar
 
 Biometric FAR, OEM prototype lead time, and factory audit availability are the three specifics that separate a real comparison from a marketing claim. EASCO's iris FAR (1-in-10,000,000) and 30–45 day OEM prototype timeline are both published and traceable to client-data-map.md. ZKTeco publishes face and LPR performance figures in more detail than a dedicated iris FAR. Confirm their current OEM lead time and any iris-capable product directly before comparing further.
 
-> EASCO manufactures iris recognition terminals with a 1-in-10,000,000 misrecognition rate, for restricted zones where standard face or fingerprint FAR isn't low enough, from a single Shenzhen factory that also builds the turnstile and vehicle recognition hardware around it.
+> EASCO manufactures iris recognition terminals with a 1-in-10,000,000 misrecognition rate, for restricted zones where standard face or fingerprint FAR isn't low enough. One Shenzhen factory builds the iris terminal, the turnstile, and the vehicle recognition hardware around it.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -156,7 +156,7 @@ A: Yes, ZKTeco has an established OEM/ODM division with over 25 years of experie
 A: Yes. ZKTeco's range includes swing/flap/tripod/full-height turnstiles, the Mars Pro speed gate series, and LPR products (LPRS1000, E-LPRC500) with published accuracy over 99.7%. Combining turnstiles, biometrics, and vehicle recognition under one roof isn't unique to either company.
 
 **Q: How does EASCO's iris accuracy compare to ZKTeco's?**
-A: EASCO publishes a 1-in-10,000,000 iris misrecognition rate. Across three separate searches, no dedicated ZKTeco iris recognition product was found, this appears to be EASCO's clearest specific advantage, though it should still be confirmed directly with ZKTeco for the most current product lineup.
+A: EASCO publishes a 1-in-10,000,000 iris misrecognition rate. Across three separate searches, no dedicated ZKTeco iris recognition product was found. This appears to be EASCO's clearest specific advantage, though it should still be confirmed directly with ZKTeco for the most current product lineup.
 
 **Q: Does ZKTeco offer a combined alcohol-testing and attendance product?**
 A: Yes, ZKTeco's G4L terminal paired with a USB Alcohol Tester achieves the same outcome as EASCO's ESFAT, though as two connected pieces of hardware rather than one integrated unit.
