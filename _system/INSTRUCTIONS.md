@@ -9,30 +9,43 @@
 6. `_system/sitemap.md` — confirm URL slug
 7. Matching template (see table in `_system/MEMORY.md`)
 
-## Page Development Workflow
+## Page Development Workflow — Two-Agent Handoff
 
-### Step 0 — Brief
+Writing and reviewing are split across two independent subagents so the
+reviewer never inherits the writer's assumptions. Do not have one agent (or
+the main session) do both jobs on the same page — that collapses the
+independence the split exists for.
+
+### Step 0 — Brief (main session)
 - Identify primary buyer segment (`_system/buyer-segment-table.md`)
 - Map keyword slot (`seo/keyword-master-list.md`, if available)
-- Confirm section outline with user before writing
+- Check `_system/execution-plan.md` Known Blockers — do not hand off a
+  blocked task
+- Confirm section outline with user before writing (manual mode) or take the
+  next unchecked task as-is (agent mode)
 
-### Step 1 — Write
-- Follow template structure
-- Run 5 Tier 1 checks after every section before moving on
-- Don't show a section until it passes all 5
+### Step 1 — Write (`content-writer` subagent)
+- Give it the page/task and file path — it reads its own pre-work files
+- Follows template structure, runs the 5 Tier 1 checks after every section
+- Outputs a compiled draft with no Pass Log Header — that's the reviewer's job
 
-### Step 2 — Five-Pass Review
-- **Pass A** — full-page quality audit (6 dimensions, scored)
-- **Pass B** — surgical rewrite (fix Pass A failures only)
-- **Pass N** — NLP semantic coverage (access control terminology)
-- **Pass D** — E-E-A-T / GEO check (AI-quotable paragraph, FAQ, authority signals)
-- **Pass C** — conversion review (6 tests, objection coverage, AI-written score ≤15%)
+### Step 2 — Review (`content-reviewer` subagent, fresh context)
+- Give it only the draft file path — do not paste in the writer's reasoning
+  or notes, the independence is the point
+- Runs Tier 2 in order: **Pass A** (6-dimension audit) → **Pass B** (surgical
+  rewrite of Pass A failures only) → **Pass N** (NLP semantic coverage) →
+  **Pass D** (E-E-A-T/GEO) → **Pass C** (conversion review, AI-written
+  score ≤15%)
+- Writes the Pass Log Header to the draft file itself
+- Returns a verdict: `READY FOR DEVELOPMENT` or `NEEDS FURTHER WORK` (with a
+  numbered list of exactly what's still failing)
 
-### Step 3 — Save & Track
-- Add pass log header to top of page file
-- Update `_system/progress.md` to ✅
-- Commit: `[WRITE] filename.md — five-pass complete`
-- Push to main
+### Step 3 — Gate (main session)
+- **NEEDS FURTHER WORK** → send the reviewer's failure list back to a new
+  `content-writer` invocation for a revision pass, then re-review. Do not
+  commit a NEEDS FURTHER WORK draft.
+- **READY** → update `_system/progress.md` to ✅, commit:
+  `[WRITE] filename.md — five-pass complete`, push to main
 
 ## Quality Gate — page is NOT complete until:
 - [ ] All 5 Tier 1 checks passed per section

@@ -21,6 +21,12 @@
 client-data-map.md, differentiator-card.md, objection-map.md,
 buyer-segment-table.md, competitors.md, sitemap.md, execution-plan.md, progress.md
 
+## Writing Agents
+Two-agent handoff for page production — see `INSTRUCTIONS.md` "Two-Agent Handoff":
+`.claude/agents/content-writer.md` (drafts + Tier 1) →
+`.claude/agents/content-reviewer.md` (fresh context, Tier 2 five-pass, verdict) →
+main session commits only on READY.
+
 ## Status Flags
 - Case Studies: ⚠️ BLOCKED — no client project photos/data yet
 - Data gaps + design direction: `_system/INSTRUCTIONS.md`
