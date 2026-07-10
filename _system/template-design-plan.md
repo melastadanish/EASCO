@@ -14,8 +14,16 @@
 
 - ✅ Product page template — `Real Products data/product-page-template.md`
 - ✅ Category archive page template — `Real Products data/category-archive-page-template.md`
-- 🔲 First real product page written for any category
+- ✅ First real product page written — `Real Products data/Aluminum alloy turnstile/aluminum-speed-gate-interstellar-series.md`
+  (ES-SIN-J1/J2/JF1/JF2-S/JF2-D, sourced from official manual V1.1. Pass A 9/10,
+  AI-score 10%. Flagged for client: series name conflict in source doc
+  ["星际"/Interstellar vs. "星耀防水"/Xingyao Waterproof in the same manual], and
+  CE certificate scope doesn't list these model codes — CE badge omitted
+  pending confirmation.)
 - ✅ First real category archive page written — Aluminum alloy turnstile
+  (⚠️ still needs rework: missing Browse-Other-Categories + Product Grid
+  sections, and its own Pass C log shows an 82% AI-score against the ≤15%
+  target — do not treat as done, see next session)
 
 ---
 
