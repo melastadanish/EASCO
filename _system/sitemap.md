@@ -14,7 +14,7 @@ Home | Products ▼ | About/Why Us | Solutions ▼ | Cases ▼ | FAQ | Gallery |
 ```
 
 **Critical rules for agents:**
-- Products ▼ is a mega menu showing all 10 category pages directly. There is NO /products/ hub page. Do NOT create or reference products/products-hub.md.
+- Products ▼ is a mega menu showing all 5 category pages directly. There is NO /products/ hub page. Do NOT create or reference products/products-hub.md.
 - Solutions ▼ links to each industry sub-page. solutions-hub.md is the /solutions/ landing.
 - Cases ▼ links to each venue sub-page. case-studies-hub.md is the /case-studies/ landing.
 - FAQ and Gallery are standalone top-level nav items.
@@ -36,34 +36,32 @@ Home | Products ▼ | About/Why Us | Solutions ▼ | Cases ▼ | FAQ | Gallery |
 |---|---|
 | /why-us/ | other-pages/why-us.md |
 
-### Products — 10 Category Pages (no hub)
-Each category is a standalone page. URL structure: `/[category-slug]/`
+### Products — 5 Category Pages (no hub)
+Each category is a standalone archive page (product detail pages nest under it).
+URL structure: `/[category-slug]/`
 
 | Category | URL | File |
 |---|---|---|
-| Flap Barrier / Speed Gates | /speed-gates/ | products/speed-gates/category.md |
-| Tripod Turnstiles | /tripod-turnstiles/ | products/tripod-turnstiles/category.md |
-| Cylindrical Turnstiles | /cylindrical-turnstiles/ | products/cylindrical-turnstiles/category.md |
-| Android Turnstiles (Face+QR+Card) | /android-turnstiles/ | products/android-turnstiles/category.md |
-| Face Recognition Terminals | /face-recognition/ | products/face-recognition/category.md |
-| Handheld Face Recognition | /handheld-face-recognition/ | products/handheld-face-recognition/category.md |
-| ANPR / LPR Systems | /anpr-systems/ | products/anpr-systems/category.md |
-| Palm Vein + Iris Recognition | /palm-vein-iris/ | products/palm-vein-iris/category.md |
-| Alcohol Detection Devices | /alcohol-detection/ | products/alcohol-detection/category.md |
-| Visitor Registration Machines | /visitor-registration/ | products/visitor-registration/category.md |
+| Aluminum Alloy Turnstile | /aluminum-alloy-turnstile/ | Real Products data/Aluminum alloy turnstile/aluminum-alloy-turnstile.md |
+| Stainless Steel Turnstile | /stainless-steel-turnstile/ | Real Products data/Stainless steel turnstile/stainless-steel-turnstile.md |
+| Facial Recognition | /facial-recognition/ | Real Products data/Facial recognition/facial-recognition.md |
+| Handheld Device | /handheld-device/ | Real Products data/Handheld device/handheld-device.md |
+| Gate Opener | /gate-opener/ | Real Products data/Gate opener/gate-opener.md |
 
 ### Solutions — by Industry
 Landing + sub-pages. URL structure: `/solutions/[industry]/`
 
 | Page | URL | File |
 |---|---|---|
-| Solutions Hub | /solutions/ | solutions/solutions-hub.md |
-| Commercial Buildings | /solutions/commercial-buildings/ | solutions/commercial-buildings.md |
-| Smart Campus / Schools | /solutions/smart-campus/ | solutions/smart-campus.md |
-| Transportation Hubs | /solutions/transportation/ | solutions/transportation.md |
-| Hospitals | /solutions/hospitals/ | solutions/hospitals.md |
-| Factories / Warehouses | /solutions/factories/ | solutions/factories.md |
-| Government Buildings | /solutions/government/ | solutions/government.md |
+| Solutions Hub | /solutions/ | Real Solutions data/solutions-hub.md |
+| Commercial Buildings | /solutions/commercial-buildings/ | Real Solutions data/Commercial Buildings/commercial-buildings.md |
+| Smart Campus | /solutions/smart-campus/ | Real Solutions data/Smart Campus/smart-campus.md |
+| Transportation | /solutions/transportation/ | Real Solutions data/Transportation/transportation.md |
+| Hospitals | /solutions/hospitals/ | Real Solutions data/Hospitals/hospitals.md |
+| Factories | /solutions/factories/ | Real Solutions data/Factories/factories.md |
+| Government | /solutions/government/ | Real Solutions data/Government/government.md |
+| Hospitality / Hotels | /solutions/hospitality-hotels/ | Real Solutions data/Hospitality Hotels/hospitality-hotels.md |
+| Sports Venues / Stadiums | /solutions/sports-venues-stadiums/ | Real Solutions data/Sports Venues Stadiums/sports-venues-stadiums.md |
 
 ### Case Studies — by Venue
 Landing + sub-pages. URL structure: `/case-studies/[venue]/`

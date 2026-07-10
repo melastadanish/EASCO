@@ -92,11 +92,9 @@ URL: `/solutions/[industry-slug]/`
 Schools/Universities, Factories, Metro/Transit, Airports, Hospitals,
 Shopping Malls, Government Buildings
 
-### Product Categories (10): Speed Gates/Flap Barriers, Tripod Turnstiles,
-Cylindrical Turnstiles, Android Turnstiles, Face Recognition Terminals,
-Handheld Face Recognition, ANPR Systems, Palm Vein + Iris Recognition,
-Alcohol Detection Devices, Visitor Registration Machines
-URL: `/products/[category-name]/`
+### Product Categories (5): Aluminum Alloy Turnstile, Stainless Steel Turnstile,
+Facial Recognition, Handheld Device, Gate Opener
+URL: `/[category-slug]/` (no `/products/` prefix — see `_system/sitemap.md`)
 
 ## Blog Critical Fixes
 - Titles showing '网站' → proper English titles
@@ -123,8 +121,8 @@ response promise, all channels (Phone/WhatsApp/Email/Skype/LinkedIn/Facebook/You
 | Feature | Turboo | EASCO Current | EASCO Plan |
 |---|---|---|---|
 | Homepage hero | Video + trust bullets | Static slider | ✅ Video + trust bullets |
-| Products structure | 10 category sub-pages | Mixed list | ✅ 10 category sub-pages |
-| Solutions page | 4 industry sub-pages | ❌ Missing | ✅ 6 industry sub-pages |
+| Products structure | 10 category sub-pages | Mixed list | ✅ 5 category sub-pages |
+| Solutions page | 4 industry sub-pages | ❌ Missing | ✅ 8 industry sub-pages |
 | Case studies | 9 venue sub-pages | ❌ Missing | ✅ 8 venue sub-pages |
 | About/Why Us | Stats + factory + certs | Text only | ✅ Full trust page |
 | World map | Interactive | ❌ Missing | ✅ World map |
