@@ -25,12 +25,13 @@ Last Updated: YYYY-MM-DD
 
 ```
 Target URL:        /[slug]/
+Slug:              [slug] (lowercase, hyphenated)
 Primary Keyword:   
 Secondary Keywords:
 Search Intent:     [Navigational / Informational / Commercial]
 Word Count Target: 800–1,500 words
-Meta Title:        [Page Name] — EASCO (max 60 chars)
-Meta Description:  [Benefit statement + keyword + CTA] (max 160 chars)
+SEO Title:         [Page Name] — EASCO (max 60 chars)
+SEO Description:   [Benefit statement + keyword] (max 160 chars)
 Page Type:         [Trust / Conversion / Legal / Resource]
 Primary Segment:   [From buyer-segment-table.md]
 Objections to cover: [From objection-map.md]
@@ -58,8 +59,8 @@ Status:            🔲 To Do
 ## SEO
 
 ```
-Meta Title:        
-Meta Description:  
+SEO Title:         
+SEO Description:   
 Primary Keyword:   
 Secondary Keywords:
 Internal Links:    [list pages this page links to]

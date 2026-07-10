@@ -61,17 +61,19 @@
 |---|---|---|---|
 | 01 | Homepage | / | other-page-template.md |
 | 02 | Why Us / About | /why-us/ | other-page-template.md |
-| 03 | Products (10 category pages, no hub) | /[category-slug]/ | product-page-template.md |
-| 04 | Solutions by Industry | /solutions/ | solution-page-template.md |
-| 05 | Case Studies ⚠️ BLOCKED | /case-studies/ | case-study-template.md |
+| 03 | Products (5 categories: product detail + category archive) | /[category-slug]/ | Real Products data/product-page-template.md, Real Products data/category-archive-page-template.md |
+| 04 | Solutions (Hub + 8 Industry pages + Category×Industry sub-pages) | /solutions/ | Real Solutions data/solutions-hub-template.md, Real Solutions data/industry-page-template.md, Real Solutions data/category-industry-page-template.md |
+| 05 | Case Studies ⚠️ BLOCKED | /case-studies/ | case-study-template.md (⚠️ Step 3 skipped, see template-design-plan.md) |
 | 06 | Resources (FAQ + Gallery + Downloads, no hub) | /faq/, /gallery/, /downloads/ | other-page-template.md |
-| 07 | Blog | /blog/ | blog-template.md |
+| 07 | Blog (Hub + articles) | /blog/ | blog-hub-template.md, blog-template.md |
 | 08 | Contact | /contact/ | other-page-template.md |
 | 09 | Request Quote | /quote/ | other-page-template.md |
 
-### Solutions by Industry (6): Commercial Buildings, Smart Campus/Schools,
-Transportation Hubs, Hospitals, Factories/Warehouses, Government Buildings
-URL: `/solutions/[industry-name]/`
+*(Alternatives is not one of the 9 core pages but has its own Hub + single-page templates: `templates/alternatives-hub-template.md`, `templates/alternative-template.md`.)*
+
+### Solutions by Industry (8): Commercial Buildings, Smart Campus, Transportation,
+Hospitals, Factories, Government, Hospitality/Hotels, Sports Venues/Stadiums
+URL: `/solutions/[industry-slug]/`
 
 ### Case Studies (8, BLOCKED — needs client photos/data): Office Buildings,
 Schools/Universities, Factories, Metro/Transit, Airports, Hospitals,

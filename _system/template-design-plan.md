@@ -104,16 +104,22 @@ Ready to move to Step 6 (cleanup) whenever confirmed.
 
 ## Step 6 — Cleanup (confirm before deleting anything)
 
-- 🔲 Remove `templates/product-page-template.md` — stale, superseded by
+- ✅ Removed `templates/product-page-template.md` — superseded by
   `Real Products data/product-page-template.md`
-- 🔲 Remove `templates/product-archive-template.md` — stale, superseded by
+- ✅ Removed `templates/product-archive-template.md` — superseded by
   `Real Products data/category-archive-page-template.md`
-- 🔲 Remove `templates/solution-page-template.md` + `templates/industry-template.md`
-  — both superseded by the new Step 2 industry template once written
+- ✅ Removed `templates/solution-page-template.md` + `templates/industry-template.md`
+  — both superseded by the new Step 2 Solutions templates
+- ✅ `templates/other-page-template.md` — kept as-is structurally, only
+  metadata convention updated to `Slug`/`SEO Title`/`SEO Description` for
+  consistency with the rest of the pass
+- ✅ Updated stale Template Map references in `_system/MEMORY.md` and
+  `_system/INSTRUCTIONS.md` that pointed at the removed files (now point to
+  the correct current templates); also corrected the industries count there
+  from 6 to the confirmed 8
 - ⏸️ `templates/pillar-page-template.md` + `templates/cluster-page-template.md`
-  — tied to deleted `silos/` — DEFERRED, do not touch ("later" per standing instruction)
-- 🔲 `templates/other-page-template.md` — likely fine as-is, generic static-page
-  template, confirm no change needed
+  — tied to deleted `silos/` — DEFERRED, do not touch ("later" per standing
+  instruction)
 
 ---
 
