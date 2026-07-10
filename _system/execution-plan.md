@@ -1,10 +1,12 @@
-# Execution Plan — EASCO (REDESIGNED per Ayesha's Plan)
+# Execution Plan — EASCO
 
-> Phased content production plan aligned with confirmed site architecture.
-> **CONFIRMED NAV:** Home | Products ▼ (mega menu, no hub) | About/Why Us | Solutions ▼ | Cases ▼ | FAQ | Gallery | Blog | Contact
-> Agent mode reads this file and completes the first unchecked task.
-> One page per session in agent mode. Mark complete in progress.md after each page.
-> Last Updated: 2026-07-09 (reset — all pages marked not-started for full re-review, see progress.md)
+> Phased content production plan aligned with the CURRENT site architecture:
+> 5 real product categories, 8 Solutions industries, `Real Products data/` +
+> `Real Solutions data/` folder structure (replacing the old `products/` /
+> `solutions/` / `silos/` layout).
+> **Agent mode reads this file and completes the first unchecked task.**
+> One page per session in agent mode. Mark complete in `progress.md` after each page.
+> Last Updated: 2026-07-10 (full rebuild against actual current architecture + file state)
 
 ---
 
@@ -19,9 +21,43 @@
 - [ ] All numbers traced to `_system/client-data-map.md`
 - [ ] Minimum 2 differentiators from `_system/differentiator-card.md` present
 - [ ] Applicable objections from `_system/objection-map.md` covered
-- [ ] Pass log header added to page file
+- [ ] Pass log header added to page file (`Status: READY FOR DEVELOPMENT`)
 - [ ] `_system/progress.md` updated to ✅
 - [ ] Committed: `[WRITE] filename.md — five-pass complete`
+
+---
+
+## Known Blockers (read before picking a task)
+
+1. **Product category → model mapping doesn't exist yet.** `_system/client-data-map.md`
+   is still organized under the old 5-SILO structure (Turnstile Gates, Biometric
+   Access Control, Vehicle & Parking, Attendance, Custom & Airport), not the current
+   5 real categories (Aluminum alloy turnstile, Stainless steel turnstile, Facial
+   recognition, Handheld device, Gate opener). Before writing any category archive
+   page beyond Aluminum alloy turnstile, or any individual product page, this mapping
+   needs to be built (which SILO models belong under which of the 5 categories).
+   This is a prerequisite task, not a page-writing task — do it first if picked up
+   in agent mode, and record the mapping in `client-data-map.md` or a new reference
+   file before writing pages against it.
+2. **`Real Solutions data/` is 100% unwritten.** All 35 files (hub + 8 industry pages +
+   26 category×industry sub-pages) are empty placeholders. Templates are ready
+   (`solutions-hub-template.md`, `industry-page-template.md`,
+   `category-industry-page-template.md`).
+3. **Two live files are stale against their current templates and need a rewrite,
+   not just a status flip:**
+   - `blogs/blog-hub.md` — still uses the old Hero → Articles by Stage → FAQ → CTA
+     structure. Current template (`templates/blog-hub-template.md`) specifies
+     Banner → Left Sidebar Filter → Posts Grid → CTA.
+   - `Real Products data/Aluminum alloy turnstile/aluminum-alloy-turnstile.md` —
+     missing the "Browse Other Categories" grid section required by the current
+     `category-archive-page-template.md`, and uses a bulleted "Key Features" list,
+     which violates the standing no-bulleted-features rule. Also carries an
+     AI-Written Score of 82% in its pass log (target ≤15%) — this page has not
+     actually passed Pass C despite its header claiming a score elsewhere; treat
+     as needing a full rewrite, not a touch-up.
+4. **`alternatives/alternatives-hub.md` does not exist.** Only the template
+   (`templates/alternatives-hub-template.md`) has been written. This page has never
+   been created.
 
 ---
 
@@ -32,214 +68,180 @@
 | Git init + .gitignore | .gitignore | ✅ |
 | CLAUDE.md | CLAUDE.md | ✅ |
 | WritingSystem.md | _system/WritingSystem.md | ✅ |
-| client-data-map.md | _system/client-data-map.md | ✅ |
+| client-data-map.md | _system/client-data-map.md | ✅ (⚠️ still old SILO taxonomy — see Blocker 1) |
 | differentiator-card.md | _system/differentiator-card.md | ✅ |
 | objection-map.md | _system/objection-map.md | ✅ |
 | buyer-segment-table.md | _system/buyer-segment-table.md | ✅ |
 | competitors.md | _system/competitors.md | ✅ |
-| execution-plan.md (REDESIGNED) | _system/execution-plan.md | ✅ |
-| progress.md | _system/progress.md | ✅ |
-| sitemap.md (REDESIGNED) | _system/sitemap.md | ✅ |
-| Templates upgraded | templates/ | ✅ |
+| execution-plan.md (this file, rebuilt) | _system/execution-plan.md | ✅ |
+| progress.md (rebuilt) | _system/progress.md | ✅ |
+| sitemap.md | _system/sitemap.md | 🔲 not yet reconciled with current architecture |
+| Template Map (Products, Solutions, Case Studies, Blog, Alternatives) | templates/, Real Products data/, Real Solutions data/ | ✅ all 5 pairs designed, stale files removed |
 
 ---
 
-## Phase 1 — 9 Core Pages (Critical — per Ayesha's Plan)
+## Phase 1 — Core Pages
 
-### **Page 01 — Homepage** (FULL REDESIGN)
-| Section | Requirements | Status |
-|---|---|---|
-| Hero | Full-width background video + headline + 4 trust bullets | 🔲 |
-| Product Category Tabs | Turnstile / Face Recognition / Number Plate / Biometrics | 🔲 |
-| Why EASCO Strip | 63 patents, 20 years, ISO/CE, 50+ countries | 🔲 |
-| Solutions by Industry | 4–6 industry cards (Commercial / Campus / Airport / Factory) | 🔲 |
-| Global Map | World map highlighting export countries | 🔲 |
-| OEM/ODM CTA Banner | 'Need Custom Products? Contact us' | 🔲 |
-| Certifications Row | ISO, CE, IP54, ROHS icons | 🔲 |
-| Latest Blog Posts | 3 most recent articles with thumbnails | 🔲 |
-| **File** | other-pages/home.md | **🔲** |
-
-### **Page 02 — About Us / Why EASCO** (MAJOR UPGRADE)
-| Section | Requirements | Status |
-|---|---|---|
-| Company Overview | Founded 2009, high-tech enterprise | 🔲 |
-| Counter Stats | 20+ Years, 63+ Patents, 5 Software Copyrights | 🔲 |
-| Core Product Lines | 3 flagship categories with icons | 🔲 |
-| Factory Tour | Photos of 3,000m² manufacturing plant | ⚠️ NEEDS PHOTOS |
-| R&D Team | Nearly 10 engineers, 15+ years experience | ⚠️ NEEDS CONFIRMATION |
-| Certifications Wall | All certificates shown visually | ⚠️ NEEDS SCANS |
-| Exhibition Timeline | 2023–2025 exhibitions | 🔲 |
-| OEM/ODM Capabilities | Customization options grid | 🔲 |
-| Custom Project Showcase | Airport kiosk, holographic gate, flight display | 🔲 |
-| **File** | other-pages/why-us.md | **🔲** |
-
-### **Page 03 — Products** (10 standalone category pages — NO hub page)
-
-> There is NO /products/ hub page and NO products/products-hub.md. Do NOT create one. The Products nav item is a mega menu that links directly to each category page.
-
-| Category | File | Status |
-|---|---|---|
-| Flap Barrier / Speed Gate Turnstiles | products/speed-gates/category.md | 🔲 |
-| Tripod / Single-Arm Turnstile Gates | products/tripod-turnstiles/category.md | 🔲 |
-| Cylindrical Turnstile Gates | products/cylindrical-turnstiles/category.md | 🔲 |
-| Android Turnstile Gates (Face + QR + Card) | products/android-turnstiles/category.md | 🔲 |
-| Face Recognition Terminals | products/face-recognition/category.md | 🔲 |
-| Handheld / Mobile Face Recognition | products/handheld-face-recognition/category.md | 🔲 |
-| Number Plate Recognition (ANPR) | products/anpr-systems/category.md | 🔲 |
-| Palm Vein + Iris Recognition | products/palm-vein-iris/category.md | 🔲 |
-| Alcohol Detection Devices | products/alcohol-detection/category.md | 🔲 |
-| Visitor Registration Machines | products/visitor-registration/category.md | 🔲 |
-
-### **Page 04 — Solutions (by Industry)** (NEW PAGE — CRITICAL)
-| Industry Sub-Page | File | Status |
-|---|---|---|
-| Solutions Hub | solutions/solutions-hub.md | 🔲 |
-| Commercial Buildings | solutions/commercial-buildings.md | 🔲 |
-| Smart Campus / Schools | solutions/smart-campus.md | 🔲 |
-| Transportation Hubs (Airport, Metro, Bus) | solutions/transportation.md | 🔲 |
-| Hospitals | solutions/hospitals.md | 🔲 |
-| Factories / Warehouses | solutions/factories.md | 🔲 |
-| Government Buildings | solutions/government.md | 🔲 |
-
-### **Page 05 — Case Studies** (Written per template fallback rule — client confirmed no further data coming)
-| Venue Type | File | Status |
-|---|---|---|
-| Case Studies Hub | case-studies/case-studies-hub.md | 🔲 |
-| Office Buildings | case-studies/office-buildings.md | 🔲 (named projects ⚠️ pending) |
-| Schools / Universities | case-studies/schools.md | 🔲 (named projects ⚠️ pending) |
-| Factories | case-studies/factories.md | 🔲 (named projects ⚠️ pending) |
-| Metro / Transit Systems | case-studies/metro.md | 🔲 (named projects ⚠️ pending) |
-| Airports | case-studies/airports.md | 🔲 (named projects ⚠️ pending) |
-| Hospitals | case-studies/hospitals.md | 🔲 (named projects ⚠️ pending) |
-| Shopping Malls | case-studies/shopping-malls.md | 🔲 (named projects ⚠️ pending) |
-| Government Buildings | case-studies/government.md | 🔲 (named projects ⚠️ pending) |
-
-### **Page 06 — Resources Section** (FAQ + Gallery + Downloads — no hub page)
-| Sub-Section | File | Status |
-|---|---|---|
-| ~~Resources Hub~~ | ~~other-pages/resources.md~~ | ❌ DELETED — do not recreate |
-| FAQ (upgraded — 16 existing + 5 new technical) | other-pages/faq.md | 🔲 |
-| Photo Gallery | other-pages/gallery.md | 🔲 (photos ⚠️ pending) |
-| Downloads Center | other-pages/downloads.md | 🔲 |
-
-**New FAQs to Add:**
-- What biometric modes do your turnstiles support?
-- Can face recognition work in low light or outdoor conditions?
-- What software platforms are compatible with your devices?
-- Do you support MQTT / HTTP / Wiegand / RS485 protocols?
-- What is the palm vein recognition accuracy rate?
-- What is the anti-spoofing / liveness detection capability?
-
-### **Page 07 — Blog** (FIX + IMPROVE)
-| Task | File | Status |
-|---|---|---|
-| Blog Hub (landing page) | blogs/blog-hub.md | 🔲 |
-| Fix all '网站' title tags | — | 🔲 |
-| Add meta descriptions | — | 🔲 |
-| Add category system (TOFU/MOFU/BOFU) | — | 🔲 |
-| Add internal linking to product/solution pages | — | 🔲 |
-| Add related posts suggestions | — | 🔲 |
-| Add author bio | — | 🔲 |
-
-### **Page 08 — Contact** (REDESIGN LAYOUT)
-| Section | Requirements | Status |
-|---|---|---|
-| Quote Request Form | Name, Email, Phone, Product Interest, Message | 🔲 |
-| WhatsApp Button | Prominent (+86 13711422283) | 🔲 |
-| Google Maps Embed | Guanlan Street, Longhua, Shenzhen | 🔲 |
-| Response Time Promise | 'We reply within 1 hour' | 🔲 |
-| All Contact Channels | Phone, WhatsApp, Email, Skype, LinkedIn, Facebook, YouTube | 🔲 |
-| Social Media Icons | LinkedIn, Facebook, YouTube | 🔲 |
-| **File** | other-pages/contact.md | **🔲** |
-
-### **Page 09 — Request Quote** (KEEP — CTA PAGE)
+### Page 01 — Homepage
 | File | Status |
 |---|---|
-| other-pages/request-quote.md | 🔲 |
+| other-pages/home.md | ✅ READY FOR DEVELOPMENT |
+
+### Page 02 — Why Us / About
+| File | Status |
+|---|---|
+| other-pages/why-us.md | ✅ READY FOR DEVELOPMENT |
+
+### Page 03 — Products (5 real categories)
+
+| Category | Category Archive File | Status |
+|---|---|---|
+| Aluminum alloy turnstile | `Real Products data/Aluminum alloy turnstile/aluminum-alloy-turnstile.md` | 📝 written but stale — needs rewrite (see Blocker 3) |
+| Stainless steel turnstile | — (folder not yet created) | 🔲 blocked on Blocker 1 |
+| Facial recognition | — (folder not yet created) | 🔲 blocked on Blocker 1 |
+| Handheld device | — (folder not yet created) | 🔲 blocked on Blocker 1 |
+| Gate opener | — (folder not yet created) | 🔲 blocked on Blocker 1 |
+
+**Individual product-model pages:** none written yet, for any category. Fully
+blocked on Blocker 1 (model-to-category mapping).
+
+### Page 04 — Solutions (Hub + 8 Industry pages + Category×Industry sub-pages)
+
+| Page | File | Status |
+|---|---|---|
+| Solutions Hub | `Real Solutions data/solutions-hub.md` | 🔲 empty placeholder |
+| Commercial Buildings | `Real Solutions data/Commercial Buildings/commercial-buildings.md` | 🔲 empty placeholder |
+| Smart Campus | `Real Solutions data/Smart Campus/smart-campus.md` | 🔲 empty placeholder |
+| Transportation | `Real Solutions data/Transportation/transportation.md` | 🔲 empty placeholder |
+| Hospitals | `Real Solutions data/Hospitals/hospitals.md` | 🔲 empty placeholder |
+| Factories | `Real Solutions data/Factories/factories.md` | 🔲 empty placeholder |
+| Government | `Real Solutions data/Government/government.md` | 🔲 empty placeholder |
+| Hospitality/Hotels | `Real Solutions data/Hospitality Hotels/hospitality-hotels.md` | 🔲 empty placeholder |
+| Sports Venues/Stadiums | `Real Solutions data/Sports Venues Stadiums/sports-venues-stadiums.md` | 🔲 empty placeholder |
+
+**Category × Industry sub-pages (26 total):** all empty placeholders across the
+8 industry folders. See `Real Solutions data/` for exact filenames — only pair
+a category with an industry where the placeholder file already exists (the
+folder skeleton already excludes non-fitting pairs).
+
+### Page 05 — Case Studies (written per template fallback rule — client confirmed no further data coming)
+
+| Page | File | Status |
+|---|---|---|
+| Case Studies Hub | case-studies/case-studies-hub.md | ✅ READY FOR DEVELOPMENT |
+| Office Buildings | case-studies/office-buildings.md | ✅ Complete (illustrative example, named projects confirmed unavailable) |
+| Schools / Universities | case-studies/schools.md | ✅ Complete (illustrative example) |
+| Factories | case-studies/factories.md | ✅ Complete (illustrative example) |
+| Metro / Transit | case-studies/metro.md | ✅ Complete (illustrative example) |
+| Airports | case-studies/airports.md | ✅ Complete (illustrative example) |
+| Hospitals | case-studies/hospitals.md | ✅ Complete (illustrative example) |
+| Shopping Malls | case-studies/shopping-malls.md | ✅ Complete (illustrative example) |
+| Government | case-studies/government.md | ✅ Complete (illustrative example) |
+
+⚠️ Case study "venue types" above don't fully match the 8 Solutions industries
+(e.g. Shopping Malls / Metro have no Solutions industry counterpart; Hospitality
+and Sports Venues have no case study counterpart). Reconciliation deferred —
+see `_system/template-design-plan.md` Step 3.
+
+### Page 06 — Resources (FAQ + Gallery + Downloads, no hub page)
+
+| Sub-Section | File | Status |
+|---|---|---|
+| FAQ | other-pages/faq.md | ✅ READY FOR DEVELOPMENT |
+| Photo Gallery | other-pages/gallery.md | ✅ READY FOR DEVELOPMENT (text complete; photos pending upload) |
+| Downloads Center | other-pages/downloads.md | ✅ READY FOR DEVELOPMENT |
+
+### Page 07 — Blog (Hub + 8 articles)
+
+| Page | File | Status |
+|---|---|---|
+| Blog Hub | blogs/blog-hub.md | 📝 written but stale — needs full rewrite to current template (see Blocker 3) |
+| What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | ✅ READY FOR DEVELOPMENT |
+| Biometric Access Control Explained | blogs/biometric-access-control-explained.md | ✅ READY FOR DEVELOPMENT |
+| How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | ✅ READY FOR DEVELOPMENT |
+| Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | ✅ READY FOR DEVELOPMENT |
+| Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | ✅ READY FOR DEVELOPMENT |
+| OEM vs ODM | blogs/oem-vs-odm.md | ✅ READY FOR DEVELOPMENT |
+| How Does ANPR Work? | blogs/how-does-anpr-work.md | ✅ READY FOR DEVELOPMENT |
+| What Is Liveness Detection? | blogs/what-is-liveness-detection.md | ✅ READY FOR DEVELOPMENT |
+
+⚠️ All 8 articles still contain old dead-taxonomy category links (noted, not
+fixed — see `_system/template-design-plan.md` Step 4).
+
+### Page 08 — Contact
+| File | Status |
+|---|---|
+| other-pages/contact.md | ✅ READY FOR DEVELOPMENT |
+
+### Page 09 — Request Quote
+| File | Status |
+|---|---|
+| other-pages/request-quote.md | ✅ READY FOR DEVELOPMENT |
+
+---
+
+## Alternatives (not one of the 9 core pages — has its own Hub + single-page templates)
+
+| Page | File | Status |
+|---|---|---|
+| Alternatives Hub | alternatives/alternatives-hub.md | 🔲 does not exist — needs to be written (see Blocker 4) |
+| EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | ✅ READY FOR DEVELOPMENT |
+| EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | ✅ READY FOR DEVELOPMENT |
+| ZKTeco Alternative | alternatives/zkteco-alternative.md | ✅ READY FOR DEVELOPMENT |
+| Hikvision Alternative | alternatives/hikvision-alternative.md | ✅ READY FOR DEVELOPMENT |
+
+⚠️ Live comparison pages still have old `Meta Title`/`Meta Description`
+metadata convention and at least one dead old-taxonomy link
+(`/palm-vein-iris/`) — noted, not fixed (see `_system/template-design-plan.md`
+Step 5).
 
 ---
 
 ## Phase 2 — Supporting Pages (Trust & Legal)
 
-| # | Task | File | Status |
-|---|---|---|---|
-| 2.1 | Factory Tour | other-pages/factory.md | 🔲 |
-| 2.2 | Certifications | other-pages/certifications.md | 🔲 (scan images pending) |
-| 2.3 | OEM/ODM Services | other-pages/oem-odm.md | 🔲 |
-| 2.4 | Partners & Distributors | other-pages/partners.md | 🔲 |
-| 2.5 | Trade Shows & Events | other-pages/events.md | 🔲 |
-| 2.6 | Privacy Policy | other-pages/privacy-policy.md | ⚠️ DRAFT — needs legal review |
-| 2.7 | Terms of Service | other-pages/terms.md | ⚠️ DRAFT — needs legal review |
-| 2.8 | Cookie Policy | other-pages/cookies.md | ⚠️ DRAFT — needs legal review + tracking tech confirmation |
-
----
-
-## Phase 3 — Blog Content (TOFU/MOFU/BOFU)
-
-> **Note (2026-07-08):** Filenames corrected to match the actual reorganized `blogs/` folder.
-
-| # | Task | File | Category | Status |
-|---|---|---|---|---|
-| 3.1 | What Is a Turnstile Gate? | blogs/what-is-a-turnstile-gate.md | TOFU | 🔲 |
-| 3.2 | Biometric Access Control Explained | blogs/biometric-access-control-explained.md | TOFU | 🔲 |
-| 3.3 | How to Choose a Turnstile Gate | blogs/how-to-choose-turnstile-gate.md | MOFU | 🔲 |
-| 3.4 | Face Recognition vs Fingerprint | blogs/face-recognition-vs-fingerprint.md | MOFU | 🔲 |
-| 3.5 | Access Control for Construction Sites | blogs/access-control-for-construction-sites.md | BOFU | 🔲 |
-| 3.6 | OEM vs ODM — What's the Difference | blogs/oem-vs-odm.md | BOFU | 🔲 |
-| 3.7 | How Does ANPR Work? | blogs/how-does-anpr-work.md | TOFU | 🔲 |
-| 3.8 | What Is Liveness Detection? | blogs/what-is-liveness-detection.md | TOFU | 🔲 |
-
----
-
-## Phase 4 — Alternatives (Competitor Comparison)
-
-| # | Task | File | Status |
-|---|---|---|---|
-| 4.1 | EASCO vs ZKTeco | alternatives/easco-vs-zkteco.md | 🔲 |
-| 4.2 | EASCO vs Hikvision | alternatives/easco-vs-hikvision.md | 🔲 |
-| 4.3 | ZKTeco Alternative | alternatives/zkteco-alternative.md | 🔲 |
-| 4.4 | Hikvision Alternative | alternatives/hikvision-alternative.md | 🔲 |
-
----
-
-## Total Page Count (Redesigned per Ayesha's Plan)
-
-| Phase | Pages | Status |
+| Task | File | Status |
 |---|---|---|
-| Phase 0 — System | 12 system files | ✅ |
-| Phase 1 — 9 Core Pages | 9 | 0/9 |
-| Phase 1 — Product Categories | 10 | 0/10 |
-| Phase 1 — Solutions by Industry | 6 | 0/6 |
-| Phase 1 — Case Studies | 8 | 0/8 (all blocked) |
-| Phase 2 — Supporting/Legal | 8 | 0/8 |
-| Phase 3 — Blog Content | 8 | 0/8 |
-| Phase 4 — Alternatives | 4 | 0/4 |
-| **TOTAL CONTENT PAGES** | **53** | **0/53** |
+| Factory Tour | other-pages/factory.md | ✅ READY FOR DEVELOPMENT (photos pending) |
+| Certifications | other-pages/certifications.md | ✅ READY FOR DEVELOPMENT (cert scans pending) |
+| OEM/ODM Services | other-pages/oem-odm.md | ✅ READY FOR DEVELOPMENT |
+| Partners & Distributors | other-pages/partners.md | ✅ READY FOR DEVELOPMENT |
+| Trade Shows & Events | other-pages/events.md | ✅ READY FOR DEVELOPMENT |
+| Privacy Policy | other-pages/privacy-policy.md | ⚠️ DRAFT — needs legal counsel review |
+| Terms of Service | other-pages/terms.md | ⚠️ DRAFT — needs legal counsel review |
+| Cookie Policy | other-pages/cookies.md | ✅ READY FOR DEVELOPMENT |
 
 ---
 
-## Critical Client Action Items (From Ayesha's Plan)
+## Total Page Count (Current Architecture)
 
-### 🔴 URGENT — Blocks Page Creation
+| Section | Pages | Written & Current | Written but Stale | Not Started |
+|---|---|---|---|---|
+| Phase 0 — System | 12 files | 12 | 0 | 0 |
+| Core Pages 01, 02, 08, 09 | 4 | 4 | 0 | 0 |
+| Products (5 categories) | 5 category archives + N model pages | 0 | 1 | 4 categories + all model pages |
+| Solutions (Hub + 8 + 26) | 35 | 0 | 0 | 35 |
+| Case Studies (Hub + 8) | 9 | 9 | 0 | 0 |
+| Resources (3) | 3 | 3 | 0 | 0 |
+| Blog (Hub + 8) | 9 | 8 | 1 | 0 |
+| Contact + Request Quote | 2 | 2 | 0 | 0 |
+| Alternatives (Hub + 4) | 5 | 4 | 0 | 1 |
+| Supporting/Legal (8) | 8 | 6 | 0 | 2 (legal review, not content gap) |
 
-- ❌ Factory size in square meters
-- ❌ Number of total employees  
-- ❌ Annual production capacity
-- ❌ R&D team exact headcount
-- ❌ **Real case study photos with project location and product info**
-- ❌ Product demo video links (YouTube URLs)
-- ❌ Top 3 SEO-priority product lines confirmed
-- ❌ High-resolution white-background product photos for all products
+---
 
-### 🟡 IMPORTANT — Needed for Full Quality
+## Critical Client Action Items
 
-- ❌ Notable clients or reference projects
-- ❌ Awards, press mentions, trade show plaques
-- ❌ Company registration / business license document
-- ❌ Final list of confirmed export countries
-- ❌ Confirmation: will client provide blog content?
-- ❌ Factory exterior + production floor photos
-- ❌ Team photos and exhibition booth photos
+### 🔴 Urgent — blocks page creation
+1. **Product category → model mapping** (Blocker 1) — needed before any further
+   Products page can be written accurately.
+2. Factory size (sqm), employee count, annual production capacity, R&D headcount
+3. Real case study project photos+locations+client/product/result data (still none
+   received — illustrative examples used as an explicit stand-in)
+4. Product photos, demo videos, full spec sheets
+
+### 🟡 Important — needed for quality
+Notable clients/reference projects, awards/press mentions, company registration
+doc, final export country list, factory/team/exhibition photos, cert scans
 
 ---
 
