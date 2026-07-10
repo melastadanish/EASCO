@@ -1,29 +1,19 @@
----
-Status: READY FOR DEVELOPMENT
-Pass A: 8.5/10
-Pass B: 5 fixes applied (sentence-length splits, benefit-first rewrites)
-Pass N: 5/5 terms present (turnstile, biometric, access control, TOFU/MOFU/BOFU categorization, OEM)
-Pass D: AI-quotable ✅ | FAQ 5 Q&As ✅ | Authority ✅ (16+ years, links to 8 verified posts) | GEO ✅
-Pass C: Headlines ✅ | CTAs ✅ | AI-score ~8%
-Client Data Verified: 2026-07-08 (This is the Blog Hub / landing page for the 9 Core Pages plan, distinct from the 8 individual blog posts, which were already complete. This specific landing page had been missed in an earlier pass; caught during a full-content re-audit. All 8 post titles are proper English from the start, so the project's historic "网站" Chinese-title bug does not apply to any of this content.)
-Last Updated: 2026-07-08
----
-
 # Blog Hub: Content
 
 ## Page Metadata
 
 ```
 Target URL:        /blog/
+Slug:              blog
 Primary Keyword:   access control blog
 Secondary Keywords: turnstile gate guides, biometric access control articles
+Schema Markup:     CollectionPage
 Search Intent:     Informational / Navigational
-Word Count Target: 500–700 words
-Meta Title:        Access Control & Biometrics Blog | EASCO
-Meta Description:  Industry insights, product guides, and technical articles on turnstile gates, face recognition, biometrics, and smart access control systems.
-Page Type:         Navigational / Resource
+Word Count Target: 300–500 words (excluding post cards)
+SEO Title:         Access Control & Biometrics Blog | EASCO
+SEO Description:   Guides on turnstiles, biometric access control, and OEM manufacturing from EASCO — filter by category to find the right article.
 Primary Segment:   All segments
-Status:            ✅ Complete
+Status:            🔲 Drafted — pending review
 ```
 
 ---
@@ -32,85 +22,130 @@ Status:            ✅ Complete
 
 ---
 
-### SECTION 1: Hero / Page Intro
+### SECTION 1 — Banner
 
 **H1: Access Control & Biometrics Blog**
 
-Choosing a turnstile, comparing biometric technologies, or scoping an OEM project all start with the same problem: knowing what to ask before requesting a quote. These articles cover the mechanics, the buying considerations, and the questions worth raising with any supplier, not just EASCO.
+Choosing a turnstile, comparing biometric technologies, or scoping an OEM order all start with the same problem: knowing what to ask before a spec gets written. These guides cover the mechanics, the buying considerations, and the questions worth raising with any supplier — filter by category below to find the right one fast.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, article grid invites reading)
-
----
-
-### SECTION 2: Articles by Stage
-
-**H2: Start Wherever the Project Is**
-
-#### Just Getting Started
-
-- [What Is a Turnstile Gate?](/blog/what-is-a-turnstile-gate/), the core mechanics, main types, and how they work
-- [Biometric Access Control Explained](/blog/biometric-access-control-explained/), how face, palm vein, and iris recognition actually verify identity
-- [How Does ANPR Work?](/blog/how-does-anpr-work/), the three-step process behind vehicle plate recognition
-- [What Is Liveness Detection?](/blog/what-is-liveness-detection/), how systems tell a live person from a photo or mask
-
-#### Comparing Options
-
-- [How to Choose a Turnstile Gate](/blog/how-to-choose-turnstile-gate/), matching gate type to traffic volume and budget
-- [Face Recognition vs Fingerprint Access Control](/blog/face-recognition-vs-fingerprint/), contactless vs. contact biometrics compared
-
-#### Ready to Specify
-
-- [Access Control for Construction Sites](/blog/access-control-for-construction-sites/), attendance, safety compliance, and hardware built for harsh conditions
-- [OEM vs ODM, What's the Difference?](/blog/oem-vs-odm/), which custom manufacturing path fits a project
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (each article links out)
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first
 
 ---
 
-### SECTION 3: FAQ
+### SECTION 2 — Left Sidebar Filter
 
-**H2: Frequently Asked Questions**
+*(Persistent left-hand filter listing blog categories. Filtering the Posts Grid in Section 3, not a separate page per category.)*
 
-**Q: Are these articles specific to EASCO products?**
-A: Most articles are informational first, covering how a technology works or how to evaluate suppliers generally. EASCO's own products are referenced in a dedicated section within each article, not throughout.
+- All Posts
+- Aluminum Alloy Turnstile
+- Stainless Steel Turnstile
+- Facial Recognition
+- Handheld Device
+- Gate Opener
+- General / Buying Guides *(cross-cutting topics — OEM/ODM, comparisons, industry-specific guides that don't map to one product category)*
 
-**Q: How often is new content added?**
-A: Check back periodically for new articles as they're published. [Contact EASCO](/contact/) directly for questions not yet covered.
-
-**Q: Can I request an article on a specific topic?**
-A: Yes. Send the topic or question via WhatsApp or email, and it may be considered for a future article.
-
-**Q: Where do I go if I already know what product I need?**
-A: Skip to the relevant product category in the Products menu for full specifications, or [Solutions by Industry](/solutions/) for a recommended combination by facility type.
-
-**Q: Do these articles cover competitor products fairly?**
-A: Where competitors are discussed (see the [Alternatives section](/alternatives/easco-vs-zkteco/)), only publicly verified specifications are used, with sources noted.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ⚠️ Claims verified — 5 of 6 filters map to at least one published post below. Stainless Steel Turnstile currently has zero published posts; the filter is kept visible per the site's category structure but returns no results until a stainless-specific article exists. No stainless steel turnstile post was invented to fill the gap.
 
 ---
 
-### SECTION 4: CTA
+### SECTION 3 — Posts Grid
+
+*(Card grid, right side of the sidebar. One card per post.)*
+
+**Card 1**
+Title: What Is a Turnstile Gate?
+Excerpt: One rotating arm, one flap, one cylindrical body — the mechanism that stops a card reader alone from catching a tailgater.
+Category tag: Aluminum Alloy Turnstile
+[Read the guide](/blog/what-is-a-turnstile-gate/)
+
+**Card 2**
+Title: How to Choose a Turnstile Gate
+Excerpt: Traffic volume decides the gate category before budget or credential type ever enters the conversation.
+Category tag: General / Buying Guides
+[Read the guide](/blog/how-to-choose-turnstile-gate/)
+
+**Card 3**
+Title: Biometric Access Control Explained
+Excerpt: A face, a palm vein, or an iris — how a live scan gets matched against an enrolled template, and what FAR and FRR actually measure.
+Category tag: Facial Recognition
+[Read the guide](/blog/biometric-access-control-explained/)
+
+**Card 4**
+Title: Face Recognition vs Fingerprint Access Control
+Excerpt: One works from across a room. The other needs a clean, dry finger and a queue at the sensor.
+Category tag: Facial Recognition
+[Read the guide](/blog/face-recognition-vs-fingerprint/)
+
+**Card 5**
+Title: What Is Liveness Detection?
+Excerpt: The layer that tells a live face from a photo, a video replay, or a mask held up to the lens.
+Category tag: Facial Recognition
+[Read the guide](/blog/what-is-liveness-detection/)
+
+**Card 6**
+Title: How Does ANPR Work?
+Excerpt: Capture, recognize, match — the three steps behind every plate read, and why recognition accuracy matters more than camera resolution.
+Category tag: Gate Opener
+[Read the guide](/blog/how-does-anpr-work/)
+
+**Card 7**
+Title: Access Control for Construction Sites
+Excerpt: No fixed lobby, no controlled climate — what actually holds up for attendance and safety compliance on an open site.
+Category tag: Handheld Device
+[Read the guide](/blog/access-control-for-construction-sites/)
+
+**Card 8**
+Title: OEM vs ODM: What's the Difference?
+Excerpt: One starts with a buyer's own design. The other starts with a factory's proven one — here's which fits a first order.
+Category tag: General / Buying Guides
+[Read the guide](/blog/oem-vs-odm/)
+
+**Tier 1 checks:** ✅ Claims verified — all 8 links resolve to existing articles in `/blogs/`, no invented posts ✅ CTA — every card ends with a distinct "Read the guide" link, not the banned "Read More"
+
+---
+
+### SECTION 4 — CTA
 
 **H2: Have a Project-Specific Question?**
 
-These articles cover the general case. For a specific facility, traffic volume, or security tier, a direct conversation gets a faster, more precise answer.
+These guides cover the general case. A direct conversation gets a faster, more precise answer for a specific facility, traffic volume, or security tier.
 
 > **Ask EASCO Directly**
 > [WhatsApp: +86 13711422283](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com) · [Request Quote](/quote/)
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA — three-part test passes: substitution test fails for "Click here" (specific channels named), value exchange is clear (direct answer via named channel), matches what the section just said (project-specific question)
 
 ---
 
 ## Internal Links Required
 
-- Link to all 8 blog posts (listed above)
-- Link to [Products Hub](/products/)
-- Link to [Solutions Hub](/solutions/)
-- Link to [Alternatives comparison pages](/alternatives/easco-vs-zkteco/)
-- Link to [Contact page](/contact/)
+- [x] Sidebar filters map to real categories — 5 of 6 have at least one post; Stainless Steel Turnstile flagged with zero posts (see Section 2 check)
+- [x] Every post card links to its article (8/8)
+- [ ] Link to [Products Hub](/products/)
+- [ ] Link to [Contact page](/contact/)
 
 ---
 
-**End of Blog Hub Content: Five-Pass Review Complete**
+## Schema Markup (JSON-LD)
+
+```json
+{
+  "@context": "https://schema.org/",
+  "@type": "CollectionPage",
+  "name": "Access Control & Biometrics Blog — EASCO",
+  "description": "EASCO blog covering turnstiles, biometric access control, and OEM manufacturing.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "url": "/blog/what-is-a-turnstile-gate/" },
+      { "@type": "ListItem", "position": 2, "url": "/blog/how-to-choose-turnstile-gate/" },
+      { "@type": "ListItem", "position": 3, "url": "/blog/biometric-access-control-explained/" },
+      { "@type": "ListItem", "position": 4, "url": "/blog/face-recognition-vs-fingerprint/" },
+      { "@type": "ListItem", "position": 5, "url": "/blog/what-is-liveness-detection/" },
+      { "@type": "ListItem", "position": 6, "url": "/blog/how-does-anpr-work/" },
+      { "@type": "ListItem", "position": 7, "url": "/blog/access-control-for-construction-sites/" },
+      { "@type": "ListItem", "position": 8, "url": "/blog/oem-vs-odm/" }
+    ]
+  }
+}
+```
