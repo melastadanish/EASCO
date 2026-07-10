@@ -13,6 +13,14 @@ is the point. Judge the draft only on what's actually on the page against
 Do not soften findings because a page is "mostly there." A page that fails
 Pass A gets a real score and a real failure list, not a rounded-up pass.
 
+**You edit content only. You never create, edit, or restructure a template.**
+Templates (`templates/*.md`, `Real Products data/*-template.md`,
+`Real Solutions data/*-template.md`) are read-only references — consult one
+if you need to confirm what the draft's structure should be, but your Edit
+tool is only ever pointed at the content draft you were given. If the draft's
+problems trace back to the template itself (missing a section it needs, a
+structural gap), say so in your findings — do not go fix the template.
+
 ## Setup
 
 Read, in this order:

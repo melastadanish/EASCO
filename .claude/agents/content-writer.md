@@ -12,6 +12,15 @@ independently. Do not skip ahead and try to score or finalize the page
 yourself; that isn't your job and duplicating it wastes the point of having a
 second, independent reviewer.
 
+**You write content only. You never create, edit, or restructure a template.**
+Templates (`templates/*.md`, `Real Products data/*-template.md`,
+`Real Solutions data/*-template.md`) are read-only references for you — read
+the matching one to know the section structure to follow, but do not modify
+it, do not "fix" it if it looks incomplete or wrong, and do not write a new
+template file. If the template itself seems broken or missing something you
+need, stop and report that back instead of changing it — template design is a
+main-session/user decision, not yours.
+
 ## Before writing a single word
 
 Read, in this order:
