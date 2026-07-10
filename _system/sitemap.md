@@ -36,21 +36,16 @@ Home | Products ▼ | About/Why Us | Solutions ▼ | Cases ▼ | FAQ | Gallery |
 |---|---|
 | /why-us/ | other-pages/why-us.md |
 
-### Products — 10 Category Pages (no hub)
+### Products — 5 Category Pages (no hub)
 Each category is a standalone page. URL structure: `/[category-slug]/`
 
 | Category | URL | File |
 |---|---|---|
-| Flap Barrier / Speed Gates | /speed-gates/ | products/speed-gates/category.md |
-| Tripod Turnstiles | /tripod-turnstiles/ | products/tripod-turnstiles/category.md |
-| Cylindrical Turnstiles | /cylindrical-turnstiles/ | products/cylindrical-turnstiles/category.md |
-| Android Turnstiles (Face+QR+Card) | /android-turnstiles/ | products/android-turnstiles/category.md |
-| Face Recognition Terminals | /face-recognition/ | products/face-recognition/category.md |
-| Handheld Face Recognition | /handheld-face-recognition/ | products/handheld-face-recognition/category.md |
-| ANPR / LPR Systems | /anpr-systems/ | products/anpr-systems/category.md |
-| Palm Vein + Iris Recognition | /palm-vein-iris/ | products/palm-vein-iris/category.md |
-| Alcohol Detection Devices | /alcohol-detection/ | products/alcohol-detection/category.md |
-| Visitor Registration Machines | /visitor-registration/ | products/visitor-registration/category.md |
+| Aluminum Alloy Turnstile | /aluminum-alloy-turnstile/ | Real Products data/Aluminum alloy turnstile/category.md |
+| Stainless Steel Turnstile | /stainless-steel-turnstile/ | Real Products data/Stainless steel turnstile/category.md |
+| Facial Recognition | /facial-recognition/ | Real Products data/Facial recognition/category.md |
+| Gate Opener | /gate-opener/ | Real Products data/Gate opener/category.md |
+| Handheld Device | /handheld-device/ | Real Products data/Handheld device/category.md |
 
 ### Solutions — by Industry
 Landing + sub-pages. URL structure: `/solutions/[industry]/`

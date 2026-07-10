@@ -79,11 +79,9 @@ URL: `/solutions/[industry-slug]/`
 Schools/Universities, Factories, Metro/Transit, Airports, Hospitals,
 Shopping Malls, Government Buildings
 
-### Product Categories (10): Speed Gates/Flap Barriers, Tripod Turnstiles,
-Cylindrical Turnstiles, Android Turnstiles, Face Recognition Terminals,
-Handheld Face Recognition, ANPR Systems, Palm Vein + Iris Recognition,
-Alcohol Detection Devices, Visitor Registration Machines
-URL: `/products/[category-name]/`
+### Product Categories (5): Aluminum Alloy Turnstile, Stainless Steel Turnstile,
+Facial Recognition, Gate Opener, Handheld Device
+URL: `/[category-slug]/`
 
 ## Blog Critical Fixes
 - Titles showing '网站' → proper English titles
