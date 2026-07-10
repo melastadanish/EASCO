@@ -26,12 +26,13 @@ Last Updated: YYYY-MM-DD
 
 ```
 Target URL:        /alternatives/[slug]/
+Slug:              easco-vs-[competitor] (lowercase, hyphenated)
 Primary Keyword:   [competitor] alternative / EASCO vs [competitor]
 Secondary Keywords:
 Search Intent:     Commercial Investigation
 Word Count Target: 1,500–2,500 words
-Meta Title:        EASCO vs [Competitor]: [Key Differentiator] — EASCO (max 60 chars)
-Meta Description:  [Buyer outcome] + [key spec comparison] + CTA (max 160 chars)
+SEO Title:         EASCO vs [Competitor]: [Key Differentiator] (max 60 chars)
+SEO Description:   [Buyer outcome] + [key spec comparison] (max 160 chars)
 Primary Segment:   Importer/Distributor (S3) or Facility Manager (S1)
 Differentiators:   [List D-codes relevant to this comparison]
 Objections:        O1, O2, O4 always. Add category-specific.
@@ -69,11 +70,11 @@ Status:            🔲 To Do
 ## SEO
 
 ```
-Meta Title:
-Meta Description:
+SEO Title:
+SEO Description:
 Primary Keyword:
 Secondary Keywords:
-Internal Links out: Why Choose EASCO page, relevant silo pillar, Contact
+Internal Links out: Why Choose EASCO page, relevant category archive page, Contact
 ```
 
 ---
@@ -202,6 +203,13 @@ Internal Links out: Why Choose EASCO page, relevant silo pillar, Contact
 
 *(Minimum 5 Q&As. Target "People Also Ask" patterns for the comparison keyword. Direct answer first.)*
 
+**Written for AI SEO / GEO (Generative Engine Optimization):**
+- Phrase each question as a buyer would type or speak it to an AI assistant (natural language, not keyword-stuffed).
+- Answer must stand alone as a complete, quotable fact in the first sentence — no "it depends." An AI engine should be able to lift the first sentence verbatim as the answer.
+- Include one concrete spec or number in the answer where relevant.
+- Avoid marketing fluff — state the fact, then (optionally) one supporting sentence.
+- Mirror the comparison keyword (e.g. "EASCO vs [Competitor]") naturally in at least one Q&A.
+
 **Q: Is EASCO better than [Competitor]?**
 A: [Direct answer. Depends on use case — state which scenario favours which. One key spec each.]
 
@@ -236,7 +244,8 @@ A:
 
 ## Internal Links Required
 
-- [ ] Link to: relevant silo pillar page (S1, S2, etc.)
-- [ ] Link to: Why Choose EASCO (`other-pages/why-choose-us.md`)
+- [ ] Link to: relevant category archive page
+- [ ] Link to: Why Choose EASCO (`other-pages/why-us.md`)
 - [ ] Link to: differentiator-card.md relevant product page
+- [ ] Link from: Alternatives Hub back to this page (comparison card)
 - [ ] Link from: Why Choose EASCO page back to this alternatives page

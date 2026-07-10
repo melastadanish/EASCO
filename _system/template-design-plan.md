@@ -79,10 +79,26 @@ Hospitals, Factories, Government, Hospitality/Hotels, Sports Venues/Stadiums
 
 ## Step 5 — Alternatives
 
-- 🔲 Alternatives single page template — review/update existing
-  `templates/alternative-template.md`
-- 🔲 OPEN QUESTION: no hub/listing page exists for `alternatives/` (4 pages
-  live with no archive) — confirm whether to add one to scope
+- ✅ Alternatives single page template — `templates/alternative-template.md`
+  updated: metadata convention to `Slug`/`SEO Title`/`SEO Description`, stale
+  `silo pillar` references replaced with `relevant category archive page`,
+  `why-choose-us.md` corrected to actual filename `why-us.md`, AI SEO/GEO FAQ
+  instructions added. 9-section structure unchanged (already solid, matched
+  live `easco-vs-hikvision.md` well).
+- ✅ Alternatives Hub template (new) — `templates/alternatives-hub-template.md`
+  (Hero → Browse Comparisons (grid, not sidebar — only 4 competitor pages,
+  too few to warrant a persistent filter) → CTA)
+- ⏸️ Live `alternatives/easco-vs-hikvision.md` still has old `Meta
+  Title`/`Meta Description` convention and one dead old-taxonomy link
+  (`/palm-vein-iris/`) — not fixed yet, template-only pass for now.
+
+---
+
+## Step 5.5 — Templates Complete
+
+All 5 content-type template pairs (Products, Solutions, Case Studies*, Blog,
+Alternatives) are now designed. *Case Studies deferred/skipped per Step 3.
+Ready to move to Step 6 (cleanup) whenever confirmed.
 
 ---
 
