@@ -106,24 +106,6 @@ Take biometric verification to the field. EASCO handheld terminals deliver 99.98
 
 ---
 
-## SECTION 4: Why Choose EASCO (Factory Direct Section)
-
-**Section Label:** WHY ORDER FROM EASCO
-
-**H2:** Your Cost Is Lower Because There Is No Middleman
-
-**Subheading:**  
-You work with the factory that builds the hardware, writes the firmware, and ships the finished unit. Not a trading company that marks up someone else's product.
-
-### Feature 1: Factory Direct Pricing
-Your quote comes from Building 20, Dahe Industrial Zone, Guanlan Street, Shenzhen, same address since December 2009. The team answering your email designed the circuit board. Your cost is lower because there is no reseller in between. 3,000+ square meters of manufacturing space dedicated to access control hardware.
-
-### Feature 2: Consistent Quality Across Orders
-ISO 9001 quality management governs every production run. The first sample and the 500th unit are built to the same specification. Inspection reports provided on request.
-
-### Feature 3: Single-Source Supply Chain
-Eliminate delays caused by multi-vendor coordination. EASCO handles hardware assembly, biometric module integration, software APIs, and international shipping from one facility. RS485, Wiegand 26/34, and TCP/IP interfaces are standard, your existing access control software connects without custom integration.
-
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
@@ -212,7 +194,133 @@ Iris recognition and high-security turnstiles for government facilities, embassi
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
-## SECTION 9: FAQ
+---
+
+## SECTION 8B: How to Order (Inquiry to Shipping)
+
+**Section Label:** FROM INQUIRY TO DELIVERY
+
+**H2:** Four Steps from Your First Message to Your Warehouse
+
+**Subheading:**  
+No guesswork. No middleman delays. Send your requirements, get pricing, confirm production, receive goods. Every order follows the same four-step process from the Shenzhen factory floor to your destination port.
+
+**Layout Note:** Image on left (factory/shipping visual) | 4 cards on right (icon + title + description)
+
+---
+
+### Card 1
+**Icon:** Message / Chat bubble  
+**Title:** Send Your Requirements  
+**Description:**  
+Share quantity, destination country, and product type via WhatsApp, email, or the quote form. A response arrives within 1 business hour during office hours — with pricing and shipping options, not a generic auto-reply.
+
+### Card 2
+**Icon:** Document / Checklist  
+**Title:** Review Quote and Confirm  
+**Description:**  
+Receive an itemized quote with unit price, lead time, and freight estimate to your port. Ask for datasheet, spec sheet, or sample. Once confirmed, production order is placed the same day.
+
+### Card 3
+**Icon:** Factory / Gear  
+**Title:** Production and Quality Check  
+**Description:**  
+Standard products ship within 15–20 business days. Every unit completes a full open-close cycle test before leaving the facility. Quality control report and packing list are issued before dispatch.
+
+### Card 4
+**Icon:** Shipping / Truck  
+**Title:** Shipment and Tracking  
+**Description:**  
+Goods ship from Shenzhen via sea or air freight to your destination port or door. Bill of lading, commercial invoice, packing list, and certificate of origin provided for customs clearance. Tracking number shared on dispatch day.
+
+---
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+## SECTION 8C: Global Reach
+
+**Section Label:** EXPORTED TO 50+ COUNTRIES
+
+**H2:** Shipped from Shenzhen. Installed on Six Continents.
+
+**Subheading:**  
+80,000+ installations across North America, Europe, the Middle East, and Southeast Asia. CE-certified for European import. FCC-declared for North American market entry. Every shipment leaves the Shenzhen factory with a commercial invoice, packing list, and certificate of origin ready for customs clearance.
+
+**Layout Note:** Text and 3 icon items on left | Interactive world map / globe visual on right showing export destinations with connecting lines from the factory pin to all destination pins
+
+---
+
+### Map Pins
+
+| # | Title (display label) | Lat | Lng | Type |
+|---|---|---|---|---|
+| 1 | CHINA (FACTORY) | 22.7500 | 114.1200 | Factory origin — highlight pin (blue outline box) |
+| 2 | GERMANY | 51.1657 | 10.4515 | Destination |
+| 3 | FRANCE | 46.2276 | 2.2137 | Destination |
+| 4 | ITALY | 41.8719 | 12.5674 | Destination |
+| 5 | TURKEY | 38.9637 | 35.2433 | Destination |
+| 6 | SAUDI ARABIA | 23.8859 | 45.0792 | Destination |
+| 7 | UAE | 23.4241 | 53.8478 | Destination |
+| 8 | INDIA | 20.5937 | 78.9629 | Destination |
+| 9 | THAILAND | 15.8700 | 100.9925 | Destination |
+| 10 | VIETNAM | 14.0583 | 108.2772 | Destination |
+| 11 | SOUTH KOREA | 35.9078 | 127.7669 | Destination |
+| 12 | USA | 37.0902 | -95.7129 | Destination |
+| 13 | CANADA | 56.1304 | -106.3468 | Destination |
+
+**Note:** All connecting lines originate from pin 1 (China Factory). Factory pin rendered in blue outline box style to distinguish from destination pins. Russia removed — not a confirmed export market in verified client data.
+
+---
+
+### Item 1
+**Icon:** Globe / EU flag  
+**Title:** Europe  
+**Description:**  
+CE-certified under RED Directive 2014/53/EU. Documentation in English provided with every shipment. Covers Germany, France, Italy, the UK, and the broader European market.
+
+### Item 2
+**Icon:** Truck / Shipping  
+**Title:** Middle East & Southeast Asia  
+**Description:**  
+Active installations across Saudi Arabia, the UAE, India, Thailand, Vietnam, and South Korea. Standard lead time 15–20 business days ex-Shenzhen. Sea and air freight options to major destination ports.
+
+### Item 3
+**Icon:** Shield / Certificate  
+**Title:** North America  
+**Description:**  
+FCC Part 15B Supplier's Declaration of Conformity on relevant models. Goods shipped DDP or FOB Shenzhen per buyer preference. Bill of lading and full customs documentation provided.
+
+---
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+## SECTION 9: Why Choose EASCO (Factory Direct Section)
+
+**Section Label:** WHY ORDER FROM EASCO
+
+**H2:** Your Cost Is Lower Because There Is No Middleman
+
+**Paragraph 1:**  
+You work with the factory that builds the hardware, writes the firmware, and ships the finished unit. Not a trading company that marks up someone else's product.
+
+**Paragraph 2:**  
+Your quote comes from Building 20, Dahe Industrial Zone, Guanlan Street, Shenzhen — the same address since December 2009. The team answering your email designed the circuit board.
+
+**4 Icon List Points:**
+- 🏭 Factory direct pricing, no middleman
+- ✅ ISO 9001 certified, every unit consistent
+- 🔗 Hardware, firmware, and shipping — one source
+- 🔌 RS485, Wiegand, TCP/IP ready out of box
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+## SECTION 10: FAQ
 
 **H2:** Frequently Asked Questions
 
@@ -244,7 +352,7 @@ A: Yes. Wiegand 26/34, RS485, TCP/IP, HTTP, and MQTT supported. SDK documentatio
 
 ---
 
-## SECTION 10: Final CTA
+## SECTION 11: Final CTA
 
 **H2:** Request a Quote for Your Project
 
