@@ -83,7 +83,7 @@ IR illumination enables recognition in complete darkness. Operating temperature 
 
 ### Intelligent Electric Turnstile Gates
 
-Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance, mechanical protection, not software-dependent. Processes 45 people per minute. Opens in 0.3 seconds. IR sensor array detects anti-tailgating attempts, gate re-closes before second person passes. Full-circuit non-contact control extends service life beyond 10 million cycles. Manual operation capability during power outages.
+Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance, mechanical protection, not software-dependent. Processes 45 people per minute. Opens in 0.3 seconds. IR sensor array detects anti-tailgating attempts, gate re-closes before second person passes. Brushless servo motor with encoder feedback for precision control. Manual operation capability during power outages.
 
 **Key Technology:**  
 Brushless servo motor with encoder feedback. Aircraft-grade aluminum alloy or 304 stainless steel housing. Wiegand 26/34, RS485, TCP/IP, WiFi, MQTT interfaces onboard.
