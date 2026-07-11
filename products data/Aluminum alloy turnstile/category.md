@@ -71,22 +71,51 @@ Opens in 0.3 seconds. Processes throughput without congestion. EASCO cylindrical
 
 ---
 
-## SECTION 3: Certifications
+## SECTION 3: Key Features
 
-- ✅ CE Mark (RED 2014/53/EU) — Certificate BKC25104386KC
-- ✅ ISO 9001:2015 — Valid to 14 June 2026
-- ✅ ISO 14001:2015 — Valid to 14 June 2026
-- ✅ ISO 45001:2018 — Valid to 14 June 2026
-
----
-
-## SECTION 4: Why Choose Aluminum Alloy
-
-Aircraft-grade aluminum provides strength without corrosion risk in indoor environments. Lighter frame reduces installation time. DC brushless motor delivers 0.3-second opening speed, processing 45 people per minute. Direct biometric integration available on selected models.
+- **High Throughput:** Processes 45 people per minute with 0.3-second door opening
+- **Lightweight Frame:** Aircraft-grade aluminum construction reduces installation time and structural load
+- **Collision Avoidance:** Mechanical protection stops door on contact — no pinch hazard
+- **Biometric Ready:** Face recognition, card readers, QR code scanning onboard on selected models
+- **Multi-Protocol:** Ethernet, RS-485, TCP/IP, WiFi, MQTT, Wiegand integration
+- **Flexible Configuration:** One-way or two-way passage, customizable width 600–1500mm
 
 ---
 
-## SECTION 5: CTA
+## SECTION 4: Applications
+
+- **Office Buildings & Corporate Lobbies** — High-traffic access control with biometric authentication
+- **Transit Stations & Airports** — Processing high passenger throughput efficiently
+- **Universities & Schools** — Multi-modal verification (face + card) for campus security
+- **Government Facilities** — Secure access with audit-trail capabilities
+- **Commercial Venues** — Retail, museums, entertainment venues with visitor counting
+
+---
+
+## SECTION 5: Biometric & Integration
+
+**Face Recognition (models with biometric):**
+- Face accuracy: 99.98%
+- Recognition speed: 200–300ms
+- Recognition distance: 0.5–3 metres
+- Face capacity: 50,000 faces onboard
+- Liveness detection: Financial-grade, multi-spectral imaging
+
+**Connectivity Options:**
+- Protocols: Ethernet, RS-232, RS-485, TCP/IP, WiFi, WebSocket, MQTT
+- Card interface: Wiegand 26/34
+- Display (LCD models): 1920×1080 IPS HD, Android OS
+- Integration: Access control platforms, visitor management systems
+
+---
+
+## SECTION 6: Why Choose Aluminum Alloy Turnstiles
+
+Aircraft-grade aluminum provides strength without corrosion risk in indoor environments. Lighter frame reduces installation time and structural reinforcement costs. DC brushless motor delivers 0.3-second opening speed, processing 45 people per minute without bottlenecks. Direct biometric integration available on selected models. Certifications: CE Mark (RED 2014/53/EU), ISO 9001:2015, ISO 14001:2015, ISO 45001:2018.
+
+---
+
+## SECTION 7: CTA
 
 **Contact EASCO for Quote or Technical Details**
 
