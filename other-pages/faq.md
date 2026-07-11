@@ -109,7 +109,7 @@ IP65-rated models available for outdoor installation. Operating temperature rang
 
 ### Q: Is the turnstile safe: can someone get hurt by the gate?
 
-Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance. Anti-crushing protection is mechanical, not software-dependent. Tested to 10 million cycles before dispatch.
+Crank-link transmission with magnetic-sensitive limit control stops the gate the instant it meets resistance. Anti-crushing protection is mechanical, not software-dependent. Full safety testing completed before dispatch.
 
 ### Q: Will someone be able to tailgate through the turnstile?
 
@@ -237,7 +237,7 @@ Flap barriers use acrylic or glass flaps. Speed gates use sliding glass panels. 
 
 ### Q: What is the difference between tripod and cylindrical turnstiles?
 
-Tripod turnstiles use rotating arms, suitable for factories and construction sites. Cylindrical turnstiles use sliding cylindrical doors, suitable for office lobbies and transit stations. Cylindrical gates process higher throughput at 45 people per minute.
+Tripod turnstiles use rotating arms, suitable for factories and construction sites where durability is critical. Cylindrical turnstiles use sliding cylindrical doors, suitable for office lobbies and transit stations. Cylindrical speed gates process throughput up to 45 people per minute.
 
 ### Q: Which biometric method is most secure: face, palm vein, or iris?
 
@@ -249,7 +249,7 @@ Yes. Full Android OS built into the gate. Face, QR code, and card readers onboar
 
 ### Q: What is the lifespan of the turnstile motor?
 
-DC brushless servo motor tested to 10 million cycles before dispatch. Full-circuit non-contact control extends service life. MTBF rated at 30,000 hours for vehicle systems. Expected operational lifespan exceeds 10 years with normal use.
+DC brushless servo motor with full-circuit non-contact control for reliable performance. MTBF rated at 30,000 hours for vehicle systems. Motor designed for long-term durability with minimal maintenance.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
