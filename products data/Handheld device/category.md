@@ -1,212 +1,73 @@
 ---
 Status: READY FOR DEVELOPMENT
-Pass A: 8.0/10
-Pass B: 1 fix applied (camera spec benefit-first rewrite)
-Pass N: 8/10 terms present
-Pass D: AI-quotable ✅ | FAQ 6 Q&As | Authority ✅ (D1, D2, D5, D3) | GEO ✅
-Pass C: Headlines ✅ | Objections ✅ | CTAs ✅ | AI-score 9%
-Last Updated: 2026-07-10
+Pass A: 9.5/10
+Pass B: 0 fixes (verified data only)
+Client Data Verified: 2026-07-11 (SILO 3 verified specs only)
+Last Updated: 2026-07-11
 ---
 
-## Page Metadata
+# Handheld Biometric Device
 
-```
-Target URL:        /handheld-device/
-Slug:              handheld-device
-Category:          Handheld device
-Primary Keyword:   Handheld Face Recognition Device
-Secondary Keywords: portable face recognition, mobile biometric terminal, field face recognition
-Schema Markup:     CollectionPage + ItemList
-Search Intent:     Commercial Investigation
-Word Count Target: 900–1,600 words
-SEO Title:         Handheld Face Recognition Device — EASCO Portable Biometric
-SEO Description:   EASCO handheld face recognition terminals for field operations. 99.98% accuracy, portable, rechargeable, IP54-rated. Security, fieldwork, events, warehouses.
-Primary Segment:   System Integrator (Segment 2) + Facility Manager (Segment 1)
-Differentiators:   D1, D2, D5, D3
-Status:            🔲 To Do
-```
+**Target URL:** /products/handheld-device/
+**Meta Title:** Handheld Face Recognition Device | EASCO
+**Meta Description:** EASCO handheld biometric terminals for mobile enrollment and verification. 99.98% face recognition accuracy. Portable field device.
+**Status:** ✅ Verified
 
 ---
 
-## Section 1 — Hero / Banner
+## SECTION 1: Hero
 
-**H1: Handheld Face Recognition Device — EASCO Portable Biometric Terminal**
+**H1:** Handheld Biometric Terminal
 
-Check attendance at the job site. Verify access at a remote gate. Scan faces at events — no fixed equipment needed. EASCO handheld face recognition devices deliver 99.98% accuracy in the palm of your hand. Battery-powered. Rugged. Syncs data to any system via standard interfaces.
+Portable face recognition device for field deployment, mobile enrollment, and on-site verification. 99.98% accuracy. Onboard enrollment and data storage. Two models available.
 
-**CTA buttons:** [Request a Quote] · [Call/WhatsApp: +86 13711422283]
-
-**Trust badges:** ISO 9001 Certified · CE Marked · 99.98% Accuracy
+**CTA:** [Request Quote →](https://wa.me/8613711422283)
 
 ---
 
-## Section 2 — Browse Other Categories
+## SECTION 2: Available Models
 
-**H2: Browse Other Categories**
+**ESR860 — Handheld Scanner with Receipt Printer**
+Portable terminal with integrated receipt printer for on-site enrollment and verification.
 
-| Category | One-line descriptor |
-|---|---|
-| Aluminum Alloy Turnstile | Lightweight gates for indoor offices, campuses, and factories |
-| Stainless Steel Turnstile | Heavy-duty gates for outdoor, coastal, and high-corrosion zones |
-| Facial Recognition | Biometric terminals for touchless access and time attendance |
-| Gate Opener | Automatic barrier gates for parking, driveways, and vehicle access |
+**ESR366-S — Handheld Scanner**
+Lightweight portable terminal for field operations.
 
 ---
 
-## Section 3 — Product Grid
+## SECTION 3: Key Features
 
-**Product 1: Handheld Face Recognition Terminal — Standard (ESR366)**
-
-- **99.98% recognition accuracy**
-- **5-inch display**
-- **Field-ready design**
-- **Rechargeable battery**
-
-[Learn More]
+- 99.98% face recognition accuracy
+- Portable for field deployment
+- Onboard enrollment capability
+- Local data storage
 
 ---
 
-**Product 2: Handheld Face Recognition with Card Reader — ESR366C**
+## SECTION 4: Performance
 
-- **HF card reader integrated**
-- **Flexible label reading**
-- **Gun-grip ergonomic design**
-- **Field barcode scanning**
-
-[Learn More]
+- Recognition accuracy: 99.98%
+- Recognition speed: 200–300ms
+- Recognition distance: 0.5–3 metres
 
 ---
 
-**Product 3: Rugged Handheld Terminal — ESR51**
+## SECTION 5: Certifications
 
-- **Three-proof rugged design**
-- **Outdoor field operations**
-- **Extended battery life**
-- **Drop and shock resistant**
-
-[Learn More]
+- ✅ CE Mark (RED 2014/53/EU) — Certificate BKC25104386KC
+- ✅ ISO 9001:2015 — Valid to 14 June 2026
+- ✅ ISO 14001:2015 — Valid to 14 June 2026
+- ✅ ISO 45001:2018 — Valid to 14 June 2026
 
 ---
 
-## Section 4 — What Is a Handheld Face Recognition Device?
+## SECTION 6: Contact & Quote
 
-**H2: What Is a Handheld Face Recognition Device?**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
 
-A handheld face recognition device is a portable biometric terminal that captures, recognizes, and logs facial data in the field — where fixed infrastructure doesn't exist or can't be installed. EASCO handheld units run full biometric software onboard, store face templates locally on the device, and sync data via USB, Bluetooth, or network connection once a user returns to the office. Operating time between charges ranges from 4–8 hours depending on model. Use cases include field security patrols scanning faces against watchlists, construction site attendance verification, event gate management where temporary facilities are needed, warehouse inventory audits requiring field-based access verification, and border control applications requiring portable identification checkpoints. Financial-grade liveness detection prevents spoofing even in an uncontrolled outdoor environment.
-
----
-
-## Section 5 — Key Features of Handheld Face Recognition Devices
-
-**H2: Key Features of Handheld Face Recognition Devices**
-
-**99.98% accuracy in outdoor conditions with battery power.** Your field teams recognize faces in daylight, shadows, and complete darkness — dual infrared and RGB cameras deliver the same accuracy as fixed terminals. No fixed power needed. No network connection required — all processing happens on the device itself.
-
-**Financial-grade liveness detection prevents spoofing at temporary checkpoints.** Field operations often involve uncontrolled environments where someone might try to present a photograph instead of showing up in person. Onboard liveness detection rejects photos, videos, and masks with 99.9%+ reliability — same technology as fixed terminals.
-
-**Rugged design built for fieldwork environments.** Three-proof models (ESR51) resist dust, shock, and water splash. Non-rugged models (ESR366) are lightweight and portable but IP54-rated, sufficient for most outdoor conditions. All models have rechargeable batteries good for 4–8 hours per charge.
-
-**Instant data sync without cloud dependency.** Biometric matching happens on the device. Once fieldwork is done, data syncs via USB to a laptop or cloud server. No broadband internet required during operations. No privacy concerns about transmitting face data over public networks.
+**Request specification sheet or quote for handheld terminals.**
 
 ---
 
-## Section 6 — Handheld vs. Fixed Biometric Terminals
-
-**H2: When to Choose Handheld vs. Fixed Terminals**
-
-| Scenario | Handheld Device | Fixed Terminal | Best Choice |
-|---|---|---|---|
-| **Permanent office entrance** | Portable but awkward | Single location | Fixed terminal |
-| **Construction site attendance** | Mobile, battery-powered | Requires power/network | Handheld ✅ |
-| **Event security gate** | Temporary checkpoint | Over-engineered | Handheld ✅ |
-| **Warehouse mobile patrols** | Officers move with scanner | Fixed desk station | Handheld ✅ |
-| **Airport security line** | Limited battery life | Continuous duty | Fixed terminal ✅ |
-| **Border control patrol** | Remote location, no power | Staffed checkpoint | Handheld ✅ |
-
----
-
-## Section 7 — Applications
-
-**H2: Where Handheld Face Recognition Devices Are Used**
-
-| Application | Application |
-|---|---|
-| Construction site daily attendance | Event and festival security gates |
-| Warehouse and inventory audits | Border control and patrol operations |
-| Field security personnel patrols | Temporary facility access verification |
-| Retail loss-prevention investigations | Mobile vendor identification checks |
-
----
-
-## Section 8 — Frequently Asked Questions
-
-**H2: Frequently Asked Questions**
-
-**Q: How long do handheld face recognition devices run on battery?**
-A: EASCO handheld models run 4–8 hours per charge depending on model (standard vs. rugged). Battery life depends on continuous-use mode. One full charge covers a typical field shift.
-
-**Q: Can a handheld device recognize faces offline?**
-A: Yes — all EASCO handheld units store biometric templates locally and perform recognition onboard. No internet connection required during operation. Data syncs after fieldwork via USB or Bluetooth.
-
-**Q: How does a handheld device prevent spoofing with photographs?**
-A: Financial-grade liveness detection (same as fixed terminals) detects and rejects photographs, videos, and silicone masks. Liveness checking runs locally on the handheld device — no cloud service required.
-
-**Q: Can handheld devices integrate with existing access control systems?**
-A: Yes — handheld devices sync data via USB, Bluetooth, or network connection. Attendance logs and verification records export to standard formats (CSV, XML) or cloud platforms. Custom API available for enterprise systems.
-
-**Q: What's the difference between standard (ESR366) and rugged (ESR51) models?**
-A: Standard handheld units are lightweight and portable, IP54-rated for light field use. Rugged models (ESR51) are drop-resistant, shock-resistant, and rated for construction and outdoor field environments. Choose rugged if the device will face heavy handling.
-
-**Q: Can a handheld device read ID cards or barcodes?**
-A: The ESR366C model includes an HF card reader and supports barcode scanning. Other models focus on facial recognition only. Specify your needs when requesting a quote.
-
----
-
-## Section 9 — CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-Built by a factory that has manufactured portable biometric devices for 16 years — ISO 9001 certified, CE marked, factory direct from Shenzhen. 99.98% accuracy, battery-powered, field-ready. Talk to us about your fieldwork or temporary access needs.
-
-**Path 1 — Ready to Buy**
-Fields: Name · Email/Phone · Quantity · Destination Country · Message
-> [Request a Quote]
-
-**Path 2 — Not Sure What You Need?**
-Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
-> [Talk to a Product Expert]
-
----
-
-## Schema Markup (JSON-LD)
-
-```json
-{
-  "@context": "https://schema.org/",
-  "@type": "CollectionPage",
-  "name": "Handheld Face Recognition Device — EASCO",
-  "description": "EASCO handheld face recognition terminals — 99.98% accuracy, portable, battery-powered, field-ready. IP54-rated, financial-grade liveness detection, optional card reader. Factory direct.",
-  "mainEntity": {
-    "@type": "ItemList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "url": "/handheld-device/standard-esr366/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "url": "/handheld-device/card-reader-esr366c/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "url": "/handheld-device/rugged-esr51/"
-      }
-    ]
-  }
-}
-```
-
----
+**End — Verified data only. Battery life, display specs, and IP rating not available in client data.**
