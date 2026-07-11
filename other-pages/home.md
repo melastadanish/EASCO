@@ -89,15 +89,15 @@ Opens in 0.3 seconds. Processes 45 people per minute. Aircraft-grade aluminum fr
 **CTA:** View Face Recognition Terminals → /facial-recognition/
 
 #### Card 3: Gate Opener
-Automatic barrier gates for parking lots, driveways, and toll booths. Rated for 30,000 operating hours — roughly 10 years at 8 cycles per day. Integrates with license plate readers, card systems, and loop detectors via RS-485. IP65-rated for dust, rain, and coastal salt spray.  
+Automatic barrier gates for parking lots, driveways, and toll booths. Rated for 50,000+ operating hours. Integrates with license plate readers, card systems, and loop detectors via RS-485.  
 **CTA:** View Gate Openers → /gate-opener/
 
 #### Card 4: Handheld Device
-Take biometric verification to the field. EASCO handheld terminals deliver 99.98% face recognition accuracy on battery power — no fixed infrastructure needed. Rugged three-proof models handle construction sites and outdoor patrols. Data syncs via USB or Bluetooth once back at base.  
+Take biometric verification to the field. EASCO handheld terminals deliver 99.98% face recognition accuracy on battery power — no fixed infrastructure needed. Built for mobile deployments in outdoor environments. Data syncs once back at base.  
 **CTA:** View Handheld Devices → /handheld-device/
 
 #### Card 5: Stainless Steel Turnstile
-316-grade stainless steel built for outdoor plazas, coastal zones, and high-vandalism sites. Same 0.3-second opening speed and 45 persons-per-minute throughput as the aluminum range — but rated for 10+ years without maintenance where aluminum corrodes in 5. Choose stainless when the environment is the challenge.  
+Stainless steel built for outdoor plazas, coastal zones, and high-vandalism sites. Same 0.3-second opening speed and 45 persons-per-minute throughput as the aluminum range. Corrosion-resistant for salt-spray and humidity environments. Choose stainless when durability in harsh conditions is the priority.  
 **CTA:** View Stainless Steel Turnstiles → /stainless-steel-turnstile/
 
 ---
@@ -114,19 +114,19 @@ Take biometric verification to the field. EASCO handheld terminals deliver 99.98
 
 **Section Label:** CORE TECHNOLOGY
 
-**H2:** Financial-Grade Liveness Detection. 10-Million-Cycle Motors.
+**H2:** Financial-Grade Liveness Detection. Brushless DC Motor Precision.
 
 **Subheading:**  
-Basic face recognition is a security risk. A photo on a phone screen fools consumer-grade systems. EASCO terminals use dual-lens cameras with 3D depth analysis. The system verifies a live human is present.
+Basic face recognition is a security risk. A photo on a phone screen fools consumer-grade systems. EASCO terminals use infrared cameras to verify a live human is present, not a photograph or mask.
 
 ### Technology 1: Financial-Grade Liveness Detection
-Dual-lens cameras with 3D depth analysis verify that a live human is present, not a photograph, video replay, or printed mask. Tested to financial-sector standards. Not consumer-grade software.
+Infrared cameras verify that a live human is present, not a photograph, video replay, or printed mask. Tested to financial-sector standards. Not consumer-grade software.
 
 ### Technology 2: Brushless DC Motor Precision
-Brushless DC motors last longer than standard drives. The cylindrical speed gate opens in 0.3 seconds. Mean Cycles Between Failures (MCBF) exceeds 10 million operations, equivalent to 15 years in a building processing 2,000 entries daily. Gate automatically opens during power outages.
+Brushless DC motors deliver reliable long-term performance. The cylindrical speed gate opens in 0.3 seconds, processing up to 45 people per minute without mechanical lag.
 
-### Technology 3: Intelligent Anti-Tailgating
-High-density infrared sensor arrays monitor the passage zone in real-time. The logic controller differentiates between authorized luggage and an unauthorized trailing person. Alarm triggers before the breach completes.
+### Technology 3: Anti-Tailgating Detection
+Real-time monitoring prevents multiple people from passing through on a single authorization. Alerts trigger when unauthorized entry is detected.
 
 ### Technology 4: Open API Architecture
 Proprietary systems lock you into one vendor. EASCO provides open APIs, Wiegand 26/34 outputs for card readers, and SDK documentation. Your existing time-attendance database or building management system connects without custom firmware.
@@ -149,8 +149,8 @@ Founded December 2009. 80,000+ installations across 50+ countries. National High
 ### Feature 1: Single-Category Focus
 16 years building turnstiles and access control hardware. Not a diversified electronics manufacturer. EASCO engineers specialize in entry security and traffic management. Every product iteration improves throughput, durability, and anti-tailgating detection. 10+ R&D team members with deep domain expertise.
 
-### Feature 2: 10-Million-Cycle Testing
-Every turnstile gate is stress-tested beyond industry minimums before dispatch. The cylindrical speed gate completes 10 million open-close cycles in the factory test rig, equivalent to 15 years of real-world operation.
+### Feature 2: Factory Quality Testing
+Every turnstile gate is stress-tested and functionally verified before dispatch. Complete open-close cycle testing ensures long-term reliability under continuous operation.
 
 ### Feature 3: Verified Certifications
 CE (RED 2014/53/EU), FCC Part 15B, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018. Certificates issued by accredited third-party bodies, not self-declared compliance. CE certified by Shenzhen BKC Testing Co. ISO 9001 certified by Wozhong Certification (certificate 033823Q01861R0SPVLCVG). Valid until 14 June 2026. Documentation provided with every order.
