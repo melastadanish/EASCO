@@ -20,7 +20,7 @@ Secondary Keywords: ODM access control manufacturer, custom biometric hardware, 
 Search Intent:     Commercial
 Word Count Target: 700–1,000 words
 Meta Title:        OEM/ODM Services, Custom Access Control Hardware | EASCO
-Meta Description:  EASCO builds custom-branded turnstiles and biometric terminals with a 30-45 day prototype. Factory direct from Shenzhen, 16+ years manufacturing.
+Meta Description:  EASCO builds custom-branded turnstiles and biometric terminals. Factory direct from Shenzhen, 16+ years manufacturing. OEM/ODM services with rapid prototype development.
 Page Type:         Commercial
 Primary Segment:   OEM/ODM Buyer (S4)
 Objections to cover: O19, O20
@@ -37,7 +37,7 @@ Status:            ✅ Complete
 
 **H1: OEM/ODM Services**
 
-Your brand on hardware built by a factory that's been doing this for 16+ years, not a trading company relabeling someone else's product. Prototype delivered in 30–45 days, faster than most China-based OEM suppliers.
+Your brand on hardware built by a factory that's been doing this for 16+ years, not a trading company relabeling someone else's product. Prototype delivered typically in 30–45 days. Contact to confirm timeline for your project scope.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (implicit, prototype speed invites inquiry)
 
@@ -55,7 +55,7 @@ Custom housing dimensions, material finish, display size, and button layout are 
 
 ### SECTION 3: The Prototype Process
 
-**H2: From Spec to Prototype in 30–45 Days**
+**H2: From Spec to Prototype — Rapid Development**
 
 **Step 1, Scope confirmed.** Housing dimensions, firmware requirements, and branding get documented before a prototype contract is signed.
 
@@ -84,7 +84,7 @@ An OEM supplier that disappears mid-project after taking a deposit is the most c
 **H2: Frequently Asked Questions**
 
 **Q: How long does a custom prototype take?**
-A: 30–45 days for most OEM/ODM projects, faster than most China-based OEM suppliers.
+A: Typically 30–45 days for OEM/ODM projects. Timeline depends on scope and current production capacity. Contact EASCO to confirm for your specific project.
 
 **Q: What's customizable beyond a logo?**
 A: Housing dimensions, material finish, display size, button layout, and firmware interface are all available for customization, not just branding.

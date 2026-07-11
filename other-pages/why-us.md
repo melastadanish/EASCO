@@ -58,7 +58,7 @@ Manufacturing Facility
 
 **10+ Engineers**  
 R&D Team  
-*(15+ Years Average Experience)*
+*(Deep Domain Expertise)*
 
 **ISO Certified**  
 Quality Management  
@@ -79,7 +79,7 @@ Most suppliers specialize in one category. EASCO manufactures face recognition s
 Financial-grade liveness detection rejects photos, videos, and silicone masks. Multi-modal verification combines face, palm vein, and iris recognition. 99.98% accuracy at 200–300ms recognition speed. False acceptance rate (FAR) for iris recognition: 1 in 10,000,000. Storage for 50,000 faces onboard. Customized solutions for commercial buildings, schools, hospitals, and government facilities.
 
 **Key Technology:**  
-IR illumination enables recognition in complete darkness. Operating temperature range -25°C to +75°C. IP65-rated models available for outdoor installation.
+IR illumination enables recognition in complete darkness. Operating temperature range -25°C to +75°C. Outdoor-rated terminals available for harsh environments.
 
 ### Intelligent Electric Turnstile Gates
 
@@ -144,9 +144,9 @@ CE mark issued by Shenzhen BKC Testing Co., Ltd., certificate BKC25104386KC cove
 
 ## SECTION 6: OEM/ODM Capabilities
 
-**H2:** Custom Housing, Custom Firmware, Custom Branding. Prototype in 30–45 Days.
+**H2:** Custom Housing, Custom Firmware, Custom Branding. Prototype Delivery Timeline.
 
-Your brand. EASCO's factory. Custom product development available for orders above minimum volume. Housing dimensions, material finish, display size, button layout, firmware interface, and branding customizable. Prototype delivered in 30–45 days, faster than most China-based OEM suppliers.
+Your brand. EASCO's factory. Custom product development available for orders above minimum volume. Housing dimensions, material finish, display size, button layout, firmware interface, and branding customizable. Prototype delivered typically in 30–45 days — contact to confirm based on scope and current capacity.
 
 ### Custom Projects Built by EASCO
 

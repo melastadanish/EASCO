@@ -50,7 +50,7 @@ An office building has one or two controlled entrances. A construction site has 
 
 Attendance accuracy carries more weight on a construction site than in most office settings. Payroll, safety headcounts during an evacuation, and legal liability for who was on site all depend on an accurate record, not a self-reported sign-in sheet.
 
-> Construction site access control needs IP65/IP67-rated hardware to survive dust and weather, plus biometric verification to prevent buddy punching on payroll. Where a sober-only policy applies, combined alcohol and identity checks at the point of entry replace the honor system.
+> Construction site access control needs weather-resistant hardware to survive dust and rain, plus biometric verification to prevent buddy punching on payroll. Where a sober-only policy applies, combined alcohol and identity checks at the point of entry replace the honor system.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA (n/a, informational)
 
@@ -61,7 +61,7 @@ Attendance accuracy carries more weight on a construction site than in most offi
 **H2: What to Check Before Choosing Hardware for a Job Site**
 
 1. **Environmental rating:** Confirm the IP rating on any terminal considered for outdoor use. IP65 covers dust and water jets. IP67 adds temporary submersion resistance, useful for equipment that gets dropped or rained on.
-2. **Portability for spread-out sites:** A fixed terminal only covers one entrance. A handheld, battery-powered terminal with 4G connectivity covers a site without a fixed network.
+2. **Portability for spread-out sites:** A fixed terminal only covers one entrance. A handheld terminal with onboard biometric storage covers a site without a fixed network.
 3. **Buddy punching prevention:** Biometric verification (face recognition) ties attendance to a specific person, unlike a card that can be handed to a colleague.
 4. **Sober-only policy enforcement, where applicable:** Legal and safety requirements around alcohol testing vary by jurisdiction and site type. Confirm what's actually required before specifying equipment for it.
 
@@ -76,7 +76,7 @@ Attendance accuracy carries more weight on a construction site than in most offi
 | Site Situation | Best Fit | Key Reason |
 |---|---|---|
 | Single main entrance, moderate traffic | Fixed IP65-rated face recognition terminal | Covers a controlled entry point without portability needs |
-| Multiple zones, no fixed network | Handheld terminal (IP67, 4G) | Reaches a loading dock, yard, or remote zone without cabling |
+| Multiple zones, no fixed network | Handheld terminal | Covers a loading dock, yard, or remote zone with local data storage |
 | Sober-only policy required | Combined alcohol + face recognition terminal | Ties identity and sobriety check to one motion at the door |
 | Mixed workforce with contractors | Face recognition with high enrollment capacity | Avoids re-enrolling short-term contractors repeatedly |
 
@@ -90,7 +90,7 @@ Attendance accuracy carries more weight on a construction site than in most offi
 
 **H2: Hardware Built for the Site, Not the Office**
 
-EASCO's ESFAT combines a breath alcohol test with face recognition in one motion. A worker can't clock in without passing both checks together, useful where a sober-only policy needs enforcement at the door rather than self-reporting. For sites without a fixed network, EASCO's IP67-rated handheld terminals run on a detachable battery and 4G connectivity. Attendance moves to wherever the crew is working that day.
+EASCO's ESFAT combines a breath alcohol test with face recognition in one motion. A worker can't clock in without passing both checks together, useful where a sober-only policy needs enforcement at the door rather than self-reporting. For sites without a fixed network, EASCO offers handheld terminals for on-site enrollment and attendance capture. Data syncs when workers return to base.
 
 **Differentiators used:** D11 (alcohol + attendance combined), D2 (factory direct)
 
