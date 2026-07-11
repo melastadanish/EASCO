@@ -85,7 +85,7 @@ Face recognition, palm vein recognition, iris recognition, fingerprint (via exte
 
 ### Q: Can face recognition work in low light or outdoor conditions?
 
-IR illumination enables recognition in complete darkness. IP65-rated models available for outdoor installation. Operating temperature range -25°C to +75°C. Recognition accuracy maintained in direct sunlight and rain.
+IR illumination enables recognition in complete darkness. Outdoor-rated terminals available for harsh environments. Operating temperature range -25°C to +75°C. Recognition accuracy maintained in direct sunlight and rain.
 
 ### Q: What is the face recognition accuracy rate?
 
@@ -149,7 +149,7 @@ Quoted price is fixed in writing. Shipping quoted separately based on confirmed 
 
 ### Q: What is your production lead time?
 
-Standard products ship within quoted production time based on order volume. OEM/custom products: 30–45 days for prototype, production lead time quoted after prototype approval. Shipping time depends on destination.
+Standard products ship within quoted production time based on order volume. OEM/custom products: typically 30–45 days for prototype (confirm with EASCO based on scope), production lead time quoted after prototype approval. Shipping time depends on destination.
 
 ### Q: What payment terms do you accept?
 

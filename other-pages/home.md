@@ -89,7 +89,7 @@ Opens in 0.3 seconds. Processes 45 people per minute. Aircraft-grade aluminum fr
 **CTA:** View Face Recognition Terminals → /facial-recognition/
 
 #### Card 3: Gate Opener
-Automatic barrier gates for parking lots, driveways, and toll booths. Rated for 50,000+ operating hours. Integrates with license plate readers, card systems, and loop detectors via RS-485.  
+Automatic barrier gates for parking lots, driveways, and toll booths. Integrates with license plate readers, card systems, and loop detectors via RS-485.  
 **CTA:** View Gate Openers → /gate-opener/
 
 #### Card 4: Handheld Device
@@ -331,7 +331,7 @@ A: EASCO manufactures in-house at Building 20, Dahe Industrial Zone, Guanlan Str
 A: Standard interfaces include RS485, Wiegand 26/34, and TCP/IP. SDK and API documentation provided. Most building management systems and time-attendance platforms connect without custom integration.
 
 **Q3: What is the lead time for a standard order?**  
-A: Standard products typically ship within 15–20 business days after order confirmation. OEM/custom orders require prototype approval first, prototype lead time 30–45 days.
+A: Standard products typically ship within 15–20 business days after order confirmation. OEM/custom orders require prototype approval first. Prototype lead time typically 30–45 days — contact EASCO to confirm for your specific scope.
 
 **Q4: Are the certifications real?**  
 A: Certificates issued by accredited bodies. CE by Shenzhen BKC Testing Co., Ltd. (certificate BKC25104386KC). ISO 9001 by Wozhong Certification (certificate 033823Q01861R0SPVLCVG, valid until 14 June 2026). Documentation provided with every order.
