@@ -47,58 +47,60 @@ Your airport terminal needs 45 people per minute through the gate. Your office l
 
 ---
 
-## SECTION 2: Client Logo Strip
+## SECTION 2: Stats Counter Section
 
-**Label:** Trusted By:
+**4 Animated Counters:**
 
-[Client logos to be provided, 6 logos in marquee scroll]
+1. **16+ Years**  
+   Manufacturing Experience
+
+2. **80,000+**  
+   Installations Worldwide
+
+3. **3,000+ m²**  
+   Factory Floor Area
+
+4. **50+ Countries**  
+   Export Destinations
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
 ## SECTION 3: Product Categories
 
-**Section Label:** OUR PRODUCTS
+**Section Label:** OUR CATEGORIES
 
-**H2:** 45 People Per Minute. Or One Iris at a Time.
+**H2:** One Factory. Five Product Categories.
 
 **Subheading:**  
-Different facilities need different throughput. Speed gates for office lobbies. Tripod turnstiles for factories. Iris recognition for high-security zones. One manufacturer builds all three.
+Speed gates for lobbies. Biometric terminals for secure zones. Gate openers for vehicle access. Handheld devices for the field. One manufacturer builds all five.
 
-### Product Category Cards (8 cards)
+**Layout Note:** 3 cards per row (5 cards total — row 1: 3 cards, row 2: 2 cards centered)
 
-#### Card 1: Face Recognition Access
-99.98% accuracy at 200–300ms recognition speed. Financial-grade liveness detection rejects photos and masks. Storage for 50,000 faces onboard.  
-**CTA:** View face recognition terminals → /face-recognition/
+---
 
-#### Card 2: Aluminum Alloy Speed Gates
-Processes 45 people per minute. Opens in 0.3 seconds. Aircraft-grade aluminum frame. IP65-rated for outdoor installation.  
-**CTA:** View aluminum speed gates → /speed-gates/
+#### Card 1: Aluminum Alloy Turnstile
+Opens in 0.3 seconds. Processes 45 people per minute. Aircraft-grade aluminum frame with 10mm acrylic or tempered glass doors. Biometric readers — face, card, and QR — mount directly into the gate on Android-enabled models. Built for corporate offices, campuses, and factory floors where throughput and budget matter.  
+**CTA:** View Aluminum Alloy Turnstiles → /aluminum-alloy-turnstile/
 
-#### Card 3: Stainless Steel Turnstiles
-Tested to 10 million cycles before dispatch. 304 stainless steel frame. IP65 weatherproof. Tripod and full-height models available.  
-**CTA:** View stainless steel turnstiles → /tripod-turnstiles/
+#### Card 2: Facial Recognition
+99.98% accuracy. Recognized in 200–300 milliseconds. Financial-grade liveness detection rejects photos, videos, and silicone masks — technology built for banking and border control, not smartphone convenience. Stores 50,000 face templates onboard. Works in direct sunlight, shadows, and complete darkness.  
+**CTA:** View Face Recognition Terminals → /facial-recognition/
 
-#### Card 4: Android Turnstile Gates
-Full Android OS built into the gate. Face, QR code, and card readers onboard. No separate access controller required.  
-**CTA:** View Android turnstiles → /android-turnstiles/
+#### Card 3: Gate Opener
+Automatic barrier gates for parking lots, driveways, and toll booths. Rated for 30,000 operating hours — roughly 10 years at 8 cycles per day. Integrates with license plate readers, card systems, and loop detectors via RS-485. IP65-rated for dust, rain, and coastal salt spray.  
+**CTA:** View Gate Openers → /gate-opener/
 
-#### Card 5: Palm Vein Recognition
-Reads vein pattern beneath the skin using near-infrared imaging. False acceptance rate below 0.0001%. Contactless and unspoofable.  
-**CTA:** View palm vein terminals → /palm-vein-iris/
+#### Card 4: Handheld Device
+Take biometric verification to the field. EASCO handheld terminals deliver 99.98% face recognition accuracy on battery power — no fixed infrastructure needed. Rugged three-proof models handle construction sites and outdoor patrols. Data syncs via USB or Bluetooth once back at base.  
+**CTA:** View Handheld Devices → /handheld-device/
 
-#### Card 6: Number Plate Recognition (ANPR)
-5MP camera with night vision. Millisecond plate recognition. IP65 outdoor-rated. Processes vehicles in all weather conditions.  
-**CTA:** View ANPR systems → /anpr-systems/
+#### Card 5: Stainless Steel Turnstile
+316-grade stainless steel built for outdoor plazas, coastal zones, and high-vandalism sites. Same 0.3-second opening speed and 45 persons-per-minute throughput as the aluminum range — but rated for 10+ years without maintenance where aluminum corrodes in 5. Choose stainless when the environment is the challenge.  
+**CTA:** View Stainless Steel Turnstiles → /stainless-steel-turnstile/
 
-#### Card 7: Alcohol Detection + Attendance
-Breath test before clock-in. Testing range 0–400 mg/100mL with ±6.0 mg/100mL accuracy. Combined with face recognition attendance.  
-**CTA:** View alcohol detection terminals → /alcohol-detection/
-
-#### Card 8: Handheld Face Recognition
-Field-ready terminals for outdoor attendance tracking. Built-in face recognition and barcode scanning. Rugged three-proof models available.  
-**CTA:** View handheld terminals → /handheld-face-recognition/
-
-**Bottom CTA:** View Product Categories (opens the Products menu, no dedicated hub page in this architecture)
+---
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -151,24 +153,6 @@ Proprietary systems lock you into one vendor. EASCO provides open APIs, Wiegand 
 
 ---
 
-## SECTION 6: Stats Counter Section
-
-**4 Animated Counters:**
-
-1. **16+ Years**  
-   Manufacturing Experience
-
-2. **80,000+**  
-   Installations Worldwide
-
-3. **3,000+ m²**  
-   Factory Floor Area
-
-4. **50+ Countries**  
-   Export Destinations
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
 ---
 
 ## SECTION 7: Why EASCO (Factory Trust Section)
@@ -188,9 +172,6 @@ Every turnstile gate is stress-tested beyond industry minimums before dispatch. 
 
 ### Feature 3: Verified Certifications
 CE (RED 2014/53/EU), FCC Part 15B, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018. Certificates issued by accredited third-party bodies, not self-declared compliance. CE certified by Shenzhen BKC Testing Co. ISO 9001 certified by Wozhong Certification (certificate 033823Q01861R0SPVLCVG). Valid until 14 June 2026. Documentation provided with every order.
-
-### Feature 4: OEM/ODM Available
-Custom housing dimensions, material finish, biometric module selection, and firmware interface available within the OEM program. Prototype lead time 30–45 days. Flexible MOQ for established projects.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
