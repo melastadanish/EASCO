@@ -56,8 +56,6 @@ The wrong person cannot get in. EASCO face recognition terminals verify identity
 
 ## Section 3 — Product Grid
 
-**H2: Face Recognition Terminal Models**
-
 **Product 1: ESJ — 8-Inch Face + Card + QR Code Terminal (Lingdian)**
 
 - **99.98% face recognition accuracy, 200–300ms**

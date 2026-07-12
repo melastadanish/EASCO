@@ -33,7 +33,7 @@ Status:            🔲 To Do
 
 **H1: Aluminum Alloy Turnstile — 50 Persons Per Minute**
 
-Opens in under 0.5 seconds. Processes your busiest entrance without a bottleneck. EASCO aluminum alloy speed gates cover every indoor deployment scenario — from premium lobbies requiring holographic display integration to budget-sensitive factory entrances. Six product series, all running DC brushless motors with 15 million cycle lifespan, all supporting face recognition, card, and QR code access.
+Opens in under 0.5 seconds. Processes your busiest entrance without a bottleneck. EASCO aluminum alloy speed gates cover every indoor deployment scenario — from premium lobbies requiring the fastest gate in the range to budget-sensitive factory entrances. Six product series, all rated for 15 million cycle motor lifespan, all supporting face recognition, card, and QR code access. The Interstellar Series uses a direct-drive servo motor for its <0.3-second opening; the other five series use DC brushless motors.
 
 **CTA buttons:** [Request a Quote] · [Call/WhatsApp: +86 13711422283]
 
@@ -56,9 +56,7 @@ Opens in under 0.5 seconds. Processes your busiest entrance without a bottleneck
 
 ## Section 3 — Product Grid
 
-**H2: Aluminum Alloy Turnstile Models**
-
-**Product 1: Interstellar Series (ES-SIN-J1 / ES-SIN-J2 / ES-SIN-JF1 / ES-SIN-JF2)**
+**Product 1: Interstellar Series (ES-SIN-J1 / ES-SIN-J2 / ES-SIN-JF1 / ES-SIN-JF2-S / ES-SIN-JF2-D)**
 
 - **>50 persons/minute throughput**
 - **<0.3-second door opening speed — fastest in the range**
@@ -69,7 +67,7 @@ Opens in under 0.5 seconds. Processes your busiest entrance without a bottleneck
 
 ---
 
-**Product 2: Xingyao Waterproof Speed Gate (ES-XY-ST01 / ES-XY-ST02 / ES-XY-STF01 / ES-XY-STF02)**
+**Product 2: Xingyao Waterproof Speed Gate (ES-XY-ST01 / ES-XY-ST02 / ES-XY-STF01 / ES-XY-STF02-S / ES-XY-STF02-D)**
 
 - **IP65-rated — indoor and outdoor installation**
 - **50 persons/minute, <0.5-second opening**
@@ -80,7 +78,7 @@ Opens in under 0.5 seconds. Processes your busiest entrance without a bottleneck
 
 ---
 
-**Product 3: Starship 4 Series (ES-ST4-J1 / ES-ST4-J2 / ES-ST4-JF1 / ES-ST4-JF2)**
+**Product 3: Starship 4 Series (ES-ST4-J1 / ES-ST4-J2 / ES-ST4-JF1 / ES-ST4-JF2-S / ES-ST4-JF2-D)**
 
 - **50 persons/minute, <0.5-second opening**
 - **All-aluminum alloy body — top cover 8mm, column wall 3mm**
@@ -138,13 +136,13 @@ EASCO manufactures six distinct aluminum alloy series covering the full range fr
 
 **H2: Key Features of EASCO Aluminum Alloy Turnstiles**
 
-**15 million cycle motor lifespan across the range.** DC brushless linear Hall + planetary reducer integrated motor runs continuously at commercial traffic volumes without degrading. At 500 gate operations per day, 15 million cycles equals over 82 years of continuous service.
+**15 million cycle motor lifespan across the range.** DC brushless linear Hall + planetary reducer integrated motor (five series) and direct-drive servo motor (Interstellar Series) both carry a 15 million cycle rating — running continuously at commercial traffic volumes without degrading. At 500 gate operations per day, 15 million cycles equals over 82 years of continuous service.
 
 **50 people per minute without queuing.** The standard DC brushless motor opens the gate in under 0.5 seconds. The Interstellar Series direct-drive servo cuts that to under 0.3 seconds. At peak morning entry in a 500-staff office, a single lane processes the full group inside 10 minutes.
 
 **Fire emergency release in zero seconds.** The ARM industrial control core connects directly to the building's fire alarm system. Power cut or fire signal triggers automatic gate opening and locks it open — the emergency exit is clear before the alarm finishes sounding.
 
-**One gate, multiple credential methods.** Face recognition, card (RS485/RS232/IO), QR code, and ID card modules all mount into the same gate body. The Starship 4 and Xingyao face panels store 50,000 enrolled faces onboard and process recognition in 200–300ms. No separate reader column needed, no secondary controller required.
+**One gate, multiple credential methods.** Face recognition, card (RS485/RS232/IO), QR code, and ID card modules all mount into the same gate body. The Starship 4 and Xingyao face panels store 50,000 enrolled faces onboard; the Interstellar Series face panel stores 100,000. All process recognition in 200–300ms. No separate reader column needed, no secondary controller required.
 
 ---
 
@@ -184,13 +182,13 @@ EASCO manufactures six distinct aluminum alloy series covering the full range fr
 A: Most EASCO aluminum alloy series process 50 persons per minute. The Interstellar Series exceeds 50 persons per minute with a <0.3-second opening time driven by a direct-drive servo motor. The Single Arm model processes 30 persons per minute due to its wider passage format.
 
 **Q: What is the motor lifespan?**
-A: The DC brushless linear Hall + planetary reducer motor used across all six series is rated for 15 million continuous opening/closing cycles. At 500 cycles per day, that equals over 82 years of commercial use.
+A: All six series are rated for 15 million continuous opening/closing cycles. Five series use a DC brushless linear Hall + planetary reducer motor; the Interstellar Series uses a direct-drive servo motor. At 500 cycles per day, 15 million cycles equals over 82 years of commercial use.
 
 **Q: Which series is rated for outdoor installation?**
 A: The Xingyao Waterproof Series (ES-XY) is IP65-rated and suitable for indoor and outdoor installation. The other five series are rated for indoor use. For fully exposed outdoor sites, the stainless steel turnstile range is recommended.
 
 **Q: What credential methods are supported?**
-A: All series support face recognition, card (via RS485/RS232/IO), QR code, and ID card module options. Face recognition panels for the Xingyao and Starship 4 series store 50,000 faces onboard and process recognition at 200–300ms with 99.98% accuracy.
+A: All series support face recognition, card (via RS485/RS232/IO), QR code, and ID card module options. Face recognition panels for the Xingyao and Starship 4 series store 50,000 faces onboard and process recognition at 200–300ms with 99.98% accuracy. The Interstellar Series face panel stores 100,000 faces onboard.
 
 **Q: What happens during a power cut or fire alarm?**
 A: The control system connects directly to the fire alarm panel. On power cut or fire signal, the gate automatically opens and locks in the open position — zero-second emergency release. The ARM control core remembers the gate's absolute position, so no re-calibration is needed on power restoration.

@@ -56,8 +56,6 @@ Your workforce doesn't always come to a fixed terminal. EASCO handheld devices b
 
 ## Section 3 — Product Grid
 
-**H2: Handheld Device Models**
-
 **Product 1: ESR366-S — Intelligent Handheld Terminal**
 
 - **Android 13, Qualcomm SM6225 Octa-core 2.4GHz**

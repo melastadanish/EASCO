@@ -56,8 +56,6 @@ From a 1.2-metre single-swing glass door to a 6-metre industrial gate weighing 1
 
 ## Section 3 — Product Grid
 
-**H2: Gate Opener Models**
-
 **Product 1: Floor Spring Controller (BB-DS-01)**
 
 - **48W motor — 25Nm rated torque, max gate width 1.2m (single swing)**
