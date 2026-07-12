@@ -1,8 +1,8 @@
-# TEMPLATE — Product Detail Page (Enhanced Structure)
+# TEMPLATE — Product Detail Page
 
 **Copy this template when creating a new product detail page.**  
 **Word count target: 1,500–2,200 words**  
-**Design approach: Visual-first, benefit-driven sections with icons & callouts**
+**Structure: Hero → Tabs → 4 Customizable Feature Sections → Optional CTA**
 
 ---
 
@@ -30,8 +30,8 @@ Slug:              [product-slug]
 Product Name:      [Full Product Name]
 Category:          [Parent Category]
 Primary Keyword:   [Product Name + Primary Benefit]
-Secondary Keywords: [feature keywords, compatibility keywords, use-case keywords]
-Schema Markup:     ProductPage + BreadcrumbList + FAQPage
+Secondary Keywords: [feature keywords, spec keywords, use-case keywords]
+Schema Markup:     ProductPage + BreadcrumbList
 Search Intent:     Commercial Investigation
 Word Count Target: 1,500–2,200 words
 SEO Title:         [Product Name] — [Key Benefit] | EASCO (max 60 chars)
@@ -48,14 +48,18 @@ Status:            🔲 To Do
 ## Section Checklist
 
 - [ ] Section 1 — Hero (Category Tag, H1, Description, 4 Key Stats, CTAs, Image) — written, Tier 1 ✅
-- [ ] Section 2 — Performance Section (Red Section Label, Large Stat Callout, Performance Specs, Supporting Bullets) — written, Tier 1 ✅
-- [ ] Section 3 — Smart Access Feature (Red Section Label, Access Methods, Circular/Grid Diagram) — written, Tier 1 ✅
-- [ ] Section 4 — Connectivity Feature (Red Section Label, Connectivity/Integration Focus, Icons, Checkmarks) — written, Tier 1 ✅
-- [ ] Section 5 — Installation Feature (Red Section Label, Benefit Headline, Description, Checkmarks, Visual Callouts) — written, Tier 1 ✅
-- [ ] Section 6 — Product Details Tabs (Overview | Details | Technical Specs | What's in the Box) — written, Tier 1 ✅
-- [ ] Section 7 — Why EASCO — written, Tier 1 ✅
-- [ ] Section 8 — FAQ (min 6 Q&As) — written, Tier 1 ✅
-- [ ] Section 9 — Final CTA — written, Tier 1 ✅
+- [ ] Section 2 — Tabbed Navigation (Overview | Details | Technical Specifications) — written, Tier 1 ✅
+  - [ ] Tab 1: Overview (text + image)
+  - [ ] Tab 2: Details (product specs/info)
+  - [ ] Tab 3: Technical Specifications (full spec table)
+- [ ] Section 3 — Feature Section 1 (Custom title, left/right layout, callouts) — written, Tier 1 ✅
+- [ ] Section 4 — Feature Section 2 (Custom title, alternating layout) — written, Tier 1 ✅
+- [ ] Section 5 — Feature Section 3 (Custom title, alternating layout) — written, Tier 1 ✅
+- [ ] Section 6 — Feature Section 4 (Custom title, alternating layout) — written, Tier 1 ✅
+- [ ] Section 7 — Optional: You May Also Need (cross-sell products) — written, Tier 1 ✅
+- [ ] Section 8 — Optional: Why EASCO — written, Tier 1 ✅
+- [ ] Section 9 — Optional: FAQ (min 6 Q&As) — written, Tier 1 ✅
+- [ ] Section 10 — Optional: Final CTA — written, Tier 1 ✅
 - [ ] Pass A complete
 - [ ] Pass B complete
 - [ ] Pass N complete
@@ -64,218 +68,124 @@ Status:            🔲 To Do
 
 ---
 
-## Content
+## Content Structure
 
 ---
 
-### SECTION 1 — Hero / Banner
+### SECTION 1 — HERO BANNER
 
-**Product Category Tag (uppercase, red):** [PRODUCT CATEGORY — e.g., "HEAVY DUTY DOOR OPENERS"]
+**Layout:** Left = Product Image | Right = Content
 
-**H1: [Product Name — Exact Primary Keyword] + [Max Capacity/Primary Benefit]**  
-Example: "Heavy-Duty Swing Gate Opener, 1,200 kg"
+**Elements:**
 
-**Subheading / Description (100–150 words):**  
-[Outcome-driven description. What this product does. Key spec + use case outcome. No "we" language.]
+**Product Category Tag** (red, uppercase)
+- e.g., "SWING GATE OPERATORS" or "HEAVY DUTY DOOR OPENERS"
 
-**Four Key Stats (with icons):**
-Each stat: specification + outcome. Sourced from client-data-map.md.
+**H1 Headline**
+- Format: [Product Name] + [Primary Spec/Capacity]
+- e.g., "Heavy-Duty Swing Gate Opener, 1,200 kg"
 
-| Icon | Stat | Value | Context |
-|---|---|---|---|
-| [Icon 1] | [Spec 1 — e.g., "Torque"] | [Value — e.g., "650 Nm"] | [What it enables — e.g., "Max output torque"] |
-| [Icon 2] | [Spec 2 — e.g., "Gate Weight"] | [Value — e.g., "1,200 kg"] | [What it enables — e.g., "Max gate weight"] |
-| [Icon 3] | [Spec 3 — e.g., "Gate Length"] | [Value — e.g., "6 m"] | [What it enables — e.g., "Max gate leaf length"] |
-| [Icon 4] | [Spec 4 — e.g., "Operating Temp"] | [Value — e.g., "-35°C to +70°C"] | [What it enables — e.g., "Temperature range"] |
+**Subheading / Description** (100–150 words)
+- What the product does, key capabilities, primary specs, use context
+- Benefit-first language, no "we" openers
+- Example: "Heavy-duty swing gate opener rated to 1,200 kg and 6 m leaf length. 650 Nm torque, dual swing ready, WiFi and Bluetooth built in. 24V DC, ships complete."
 
-**CTA Buttons (two primary paths):**  
-[Request a Quote] · [Call: +86 13711422283]
+**Four Key Stat Boxes** (each with icon + value + context)
+```
+Stat 1: [Icon] | [Value] | [What it enables]
+Example: 650 Nm | Max output torque
 
-**Product Image (left-aligned or center):**  
-High-quality product photo with optional dimension callouts.
+Stat 2: [Icon] | [Value] | [What it enables]
+Example: 1,200 kg | Max gate weight
 
-**Trust Badges / Flags:**  
-✓ [Certification 1] · ✓ [Certification 2] · ✓ [Years in Business]
+Stat 3: [Icon] | [Value] | [What it enables]
+Example: 6 m | Max gate leaf length
 
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first ☐ CTA
+Stat 4: [Icon] | [Value] | [What it enables]
+Example: -35°C to 70°C | Operating temperature
+```
+
+**Two CTA Buttons**
+- Primary: [Request a Quote] (red/colored)
+- Secondary: [Call: +86 13711422283] (outline)
+
+**Trust Badges** (bottom)
+- ✓ [Badge 1] · ✓ [Badge 2] · ✓ [Badge 3]
+- Example: Free Site Survey · Certified Installation · Local Warranty
+
+**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first ☐ All stats from client-data-map.md
 
 ---
 
-### SECTION 2 — Performance Section (Speed / Power / Standout Spec)
+### SECTION 2 — TABBED PRODUCT DETAILS
 
-**Section Label (red, uppercase):** [e.g., "SPEED & PRECISION"]
+**Tab Navigation (3 tabs — persistent across sections):**
 
-**H2: [Large performance metric + outcome — e.g., "69.7°/s. The Fastest Swing Speed in the Range."]**
+---
 
-**Left Side — Large Stat Callout Box:**
-```
-┌────────────────────────────────────┐
-│         69.7°/s                     │
-│                                    │
-│  Product Image                     │
-│                                    │
-│  📦 200 kg    📏 1.5 m   ∠ ≥90°    │
-│  [Label]     [Label]     [Label]   │
-│                                    │
-│  FASTEST IN THE RANGE              │
-└────────────────────────────────────┘
-```
+#### TAB 1: OVERVIEW
 
-**Right Side — Description + Checkmarks:**
+**Layout:** Left = Content | Right = Product photo/use-case image
 
-[150–200 words. Explain the performance spec, why it matters, and the engineering behind it.]
+**Red Section Title** (above H2)
+- Format: "The [Product Name] Built for [Primary Use/Benefit]"
+- Example: "The Heavy Duty Swing Gate Opener Built for Gates Up to 1,200 kg"
 
-**Checkmark Bullet List (3 performance benefits):**
-- ✓ [Performance spec 1 — e.g., "69.7°/s angular speed — fastest in the range"]
-- ✓ [Performance spec 2 — e.g., "Gates up to 200 kg and 1.5 m wide"]
-- ✓ [Performance spec 3 — e.g., "≥90° maximum opening angle"]
+**H2:** "Overview"
+
+**Body Text** (200–300 words)
+- Full product description
+- What problem it solves
+- Key capabilities and benefits
+- Operating conditions
+- Who uses it
+- Why EASCO's version is different
+
+**Right Side:** Product installation/operational photo with dimension callouts (optional)
 
 **Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
 
 ---
 
-### SECTION 3 — Smart Access Feature (Multiple Access Methods)
+#### TAB 2: DETAILS
 
-**Section Label (red, uppercase):** [e.g., "SMART ACCESS"]
+**H2:** "Details" or "Product Details"
 
-**H2: [Outcome-driven headline — e.g., "Five Ways to Open Your Gate. Your Choice."]**
+**Body Text** (200–300 words)
+- Installation information
+- Wiring/power requirements
+- Integration capabilities
+- Compatibility notes
+- Maintenance requirements
+- Any technical setup details specific to the product
 
-[150–200 words. Describe the multiple control/access options. Emphasize flexibility.]
+**Optional:** Step-by-step installation or setup process with outcomes
 
-**Visual Diagram (centered):**  
-Central product image with 5–6 circular icons around it showing different access methods:
-- Push Button
-- IC Card / Keycard
-- Microwave Sensor
-- Remote Control
-- Face Recognition
-- [Optional: Mobile App / WiFi]
-
-Each icon is clickable or labeled with the method name.
-
-**Paragraph (below diagram):**  
-Explain how these methods work together and integrate with the same controller.
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
+**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability
 
 ---
 
-### SECTION 4 — Connectivity Feature (Smart Features & Integration)
+#### TAB 3: TECHNICAL SPECIFICATIONS
 
-**Section Label (red, uppercase):** [e.g., "CONNECTED FROM DAY ONE"]
+**H2:** "Technical Specifications"
 
-**H2: [Integration/Smart feature headline — e.g., "Bluetooth and WiFi Built In. CE Certified. Nothing Extra to Buy."]**
+**Top Element:** "Download Product Manual" button (with icon)
 
-[150–200 words. Describe connectivity, control methods, or integration. Emphasize what comes included.]
+**Optional Sub-tabs** (if specs are extensive)
+- e.g., "Performance Data | Limits & Control Systems | Physical & Ambient Specs"
 
-**Left Side — Product with Feature Icons:**
-Product image surrounded by 5–6 small icons representing:
-- WiFi & Bluetooth connectivity
-- Remote range (e.g., "15m")
-- Durability features
-- Security features
-- Weather resistance
-- Smart/Simple features
-
-**Right Side — Text + Checkmarks:**
-
-Paragraph explaining the feature set.
-
-**Checkmark Bullet List (3 key features):**
-- ✓ [Feature 1 — e.g., "Bluetooth & WiFi built in — control from anywhere from App"]
-- ✓ [Feature 2 — e.g., "15 m RF remote range — 2 remotes included"]
-- ✓ [Feature 3 — e.g., "CE certified — only CE certified swing model in the range"]
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
-
----
-
-### SECTION 5 — Installation Feature (Setup & Ease of Use)
-
-**Section Label (red, uppercase):** [e.g., "SLIM, SAFE & EASY TO INSTALL"]
-
-**H2: [Benefit-driven headline with spec — e.g., "6.4 kg, 24V DC, Mounts to Most Gateposts in Hours"]**
-
-[150–200 words. Describe the ease of installation, safety features, or lightweight design. Lead with outcome for buyer.]
-
-**Visual Callout Boxes (3–4):**  
-Each box: one icon + one key spec/benefit + brief supporting detail.
-
-Example:
-```
-┌─────────────────────────┐
-│  🏋️ 6.4 kg               │
-│  Lightweight            │
-│  Easy One-Person Install │
-└─────────────────────────┘
-```
-
-**Checkmark Bullet List (3 key benefits):**
-- ✓ [Benefit 1 with spec]
-- ✓ [Benefit 2 with spec]
-- ✓ [Benefit 3 with spec]
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
-
----
-
-### SECTION 6 — Product Details (Tabbed Navigation)
-
-**Trust Badges (top):**  
-✓ [Badge 1] · ✓ [Badge 2] · ✓ [Badge 3]  
-Example: ✓ Free Site Survey · ✓ Certified Installation · ✓ Local Warranty
-
-**Tab Navigation:**
-| Overview | Details | Technical Specifications | What's in the Box |
-
----
-
-#### TAB 1 — Overview
-
-**H3: [Outcome-led headline]**
-
-[200–300 words. Full product overview. What it does. Key benefits. Who uses it. Installation requirements. Why EASCO's version is different.]
-
-**Product Image (right-aligned):**  
-High-quality installation photo or use-case image with callout labels showing key dimensions or specs.
-
----
-
-#### TAB 2 — Details
-
-**H3: Key Details & Installation**
-
-[200–300 words. Mounting options. Installation complexity. Tools needed. Wiring/power requirements. Integration with existing systems. Maintenance.]
-
-**Step-by-step Installation (if applicable):**
-1. [Step 1 — outcome]
-2. [Step 2 — outcome]
-3. [Step 3 — outcome]
-
-**Installation Time:** [X hours/minutes]  
-**Tools Required:** [List or "None"]
-
----
-
-#### TAB 3 — Technical Specifications
-
-**H3: Full Technical Specifications**
-
-*(All values from client-data-map.md. Mark ⚠️ for any unconfirmed spec.)*
+**Specifications Table** (all values from client-data-map.md)
 
 | Parameter | Specification |
 |---|---|
 | Model No. | |
-| Dimensions (W×D×H mm) | |
-| Weight (kg) | |
-| Material — Housing | |
-| Material — Arms / Mechanism | |
-| Max Gate Weight | |
-| Max Gate Leaf Length | |
-| Max Torque Output | |
-| Opening Speed (Angular) | |
-| Power Supply (Voltage/Frequency) | |
-| Power Consumption (Avg / Peak) | |
+| Power Supply Voltage | |
+| Motor Operating Voltage | |
+| Power/Wattage | |
+| Rated Output Torque | |
+| Operating Speed | |
+| Maximum Capacity/Weight | |
+| Maximum Dimensions | |
 | Operating Temperature Range | |
 | Storage Temperature Range | |
 | Humidity Range | |
@@ -287,84 +197,184 @@ High-quality installation photo or use-case image with callout labels showing ke
 | Warranty Period | |
 | Lead Time | |
 
----
-
-#### TAB 4 — What's in the Box
-
-**H3: Complete Package Contents**
-
-- [Item 1 — e.g., "Heavy-duty swing gate opener unit"]
-- [Item 2 — e.g., "2× RF remotes (15m range)"]
-- [Item 3 — e.g., "Installation bracket & fasteners"]
-- [Item 4 — e.g., "User manual & wiring diagram"]
-- [Item 5 — e.g., "Quick-start setup guide"]
-
-**Need a datasheet?**  
-[Download PDF](#) · [Request on WhatsApp](https://wa.me/8613711422283)
+**Tier 1 checks:** ☐ All specs verified ☐ No unconfirmed specs without ⚠️ mark ☐ Readable table format
 
 ---
 
-### SECTION 7 — Why EASCO
+### SECTION 3 — FEATURE SECTION 1 (CUSTOMIZABLE)
 
-**H2: [Outcome-led headline — e.g., "Factory Direct. 16+ Years. CE Certified. Installed Worldwide."]**
+**Choose layout: LEFT/RIGHT or RIGHT/LEFT**
 
-[200–250 words. Minimum 2 differentiators from differentiator-card.md. Cover 2–3 objections from objection-map.md. No "we believe" language. Benefits-first.]
+**Red Section Label** (uppercase)
+- Custom per product — describe what this section highlights
+- Example: "SPEED & PRECISION" or "SLIM, SAFE & EASY TO INSTALL"
 
-**Differentiators used:** [D1, D2, D7, + product-specific D-codes]  
-**Objections addressed:** [O1, O2, O3, O5, + product-specific O-codes]
+**H2 Headline** (benefit-first, outcome-led)
+- Include key spec or metric in headline
+- Example: "69.7°/s. The Fastest Swing Speed in the Range."
+- OR: "6.4 kg, 24V DC, Mounts to Most Gateposts in Hours"
+
+**LEFT SIDE (if LEFT/RIGHT layout):**
+
+Option A — Text + Checkmarks:
+- Paragraph (150–200 words) explaining the feature/benefit
+- 3 checkmark bullets tied to specific outcomes
+  - ✓ [Benefit with spec]
+  - ✓ [Benefit with spec]
+  - ✓ [Benefit with spec]
+
+Option B — Large Stat Callout:
+- Single large metric (e.g., "69.7°/s")
+- Supporting sub-specs below (e.g., "200 kg | 1.5 m | ≥90°")
+- Optional label (e.g., "FASTEST IN THE RANGE")
+
+**RIGHT SIDE (if LEFT/RIGHT layout):**
+
+Option A — Product with Visual Callouts:
+- Product image surrounded by colored callout boxes
+- Each box: icon + spec + brief description
+- Example: 🏋️ 6.4 kg | Lightweight | Easy One-Person Install
+
+Option B — Product with Icons/Badges:
+- Product image with feature icons positioned around it
+- Each icon labeled with feature/capability
+
+Option C — Diagram or Circular Layout:
+- Central product with surrounding icons showing access methods, features, etc.
+
+Option D — Installation/Use Photo:
+- Real-world photo showing product in use
+- Optional dimension/feature callouts
+
+**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first ☐ Visual + text aligned
+
+---
+
+### SECTION 4 — FEATURE SECTION 2 (CUSTOMIZABLE)
+
+**Alternate layout from Section 3** (if Section 3 was LEFT/RIGHT, this is RIGHT/LEFT)
+
+**Red Section Label** (uppercase)
+- Custom per product
+- Example: "CONNECTED FROM DAY ONE" or "SMART ACCESS"
+
+**H2 Headline** (benefit-first, outcome-led)
+
+**Content** (follow same pattern as Section 3, but with different layout orientation)
+
+- Left side content paired with right side visual, OR vice versa
+- 3 checkmark bullets if applicable
+- Callout boxes, icons, or diagram as appropriate to the feature
 
 **Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
 
 ---
 
-### SECTION 8 — Frequently Asked Questions
+### SECTION 5 — FEATURE SECTION 3 (CUSTOMIZABLE)
 
-**H2: Frequently Asked Questions**
+**Alternate layout from Sections 3 & 4**
 
-*(Minimum 6 Q&As. FAQPage schema. Target long-tail / People Also Ask. Direct answer first, max 3 sentences.)*
+**Red Section Label** (uppercase)
 
-**Q: [Long-tail question 1 — product-specific]?**  
-A: [Direct answer.] [Supporting spec or fact.] [One line of context if needed.]
+**H2 Headline** (benefit-first, outcome-led)
 
-**Q: [Long-tail question 2 — installation/setup]?**  
-A:
-
-**Q: [Long-tail question 3 — compatibility/integration]?**  
-A:
-
-**Q: [Long-tail question 4 — performance/specs]?**  
-A:
-
-**Q: [Long-tail question 5 — EASCO vs. competitors]?**  
-A:
-
-**Q: [Long-tail question 6 — warranty/support/delivery]?**  
-A:
+**Content** (follow same pattern as Sections 3 & 4, different layout orientation)
 
 **Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
 
 ---
 
-### SECTION 9 — Ready to Order?
+### SECTION 6 — FEATURE SECTION 4 (CUSTOMIZABLE)
 
-**H2: [Action-oriented heading — e.g., "Get Started With EASCO — Two Simple Paths"]**
+**Alternate layout from Sections 3, 4, & 5**
 
-Built by a factory that has manufactured access control hardware for 16+ years — ISO 9001 certified, CE marked, factory direct from Shenzhen. Ships within 5–10 business days.
+**Red Section Label** (uppercase)
 
-**Path 1 — Ready to Order**  
-[Request a Quote Button]  
-Fields: Name · Email/Phone · Product Model · Quantity · Destination Country · Message
+**H2 Headline** (benefit-first, outcome-led)
 
-**Path 2 — Questions About Your Setup?**  
-[Talk to a Product Specialist Button]  
-Fields: Name · Email/Phone · Installation Environment · Current System · Preferred Contact Time
+**Content** (follow same pattern as Sections 3-5, different layout orientation)
 
-**Or reach us directly:**  
-[WhatsApp: +86 13711422283](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com) · [Request a Quote](#)
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ CTA
+**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
 
 ---
+
+### SECTION 7 — YOU MAY ALSO NEED (Optional Cross-Sell)
+
+**H2:** "You May Also Need"
+
+**Subtitle:** "Commonly paired with [Product Name]..."
+
+**Product Grid** (4 related products in row)
+
+Each product card:
+- Product image
+- Product name
+- 2–3 line description
+- "View Product" link
+
+**Tier 1 checks:** ☐ Products are genuinely complementary ☐ No competing products
+
+---
+
+### SECTION 8 — WHY EASCO (Optional)
+
+**H2:** [Outcome-led headline — e.g., "Factory Direct. 16+ Years. CE Certified."]
+
+**Body Text** (200–250 words)
+- Minimum 2 differentiators from differentiator-card.md
+- Cover 2–3 applicable objections from objection-map.md
+- No "we believe" language
+- Benefits-first
+
+**Differentiators used:** [D1, D2, + product-specific codes]  
+**Objections addressed:** [O1, O2, O3, + product-specific codes]
+
+**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
+
+---
+
+### SECTION 9 — FAQ (Optional)
+
+**H2:** "Frequently Asked Questions"
+
+**6+ Q&As** (minimum)
+- Long-tail questions relevant to product
+- Direct answers first (max 3 sentences)
+- Format: **Q: [Question]? A: [Answer.]**
+
+Example categories:
+- Product-specific capability/spec questions
+- Installation/setup questions
+- Compatibility/integration questions
+- Performance/durability questions
+- EASCO vs. competitors questions
+- Warranty/support/delivery questions
+
+**Tier 1 checks:** ☐ All answers verified ☐ Addresses top objections ☐ Direct, concise answers
+
+---
+
+### SECTION 10 — FINAL CTA (Optional)
+
+**H2:** [Action-oriented headline]
+- Example: "Get Started With EASCO — Two Simple Paths"
+
+**Brief intro line:** (50 words max)
+- Factory-direct advantage, certifications, ship time, etc.
+
+**Path 1 — Ready to Order**
+- [Request a Quote] button
+- Fields: Name · Email/Phone · Product Model · Quantity · Destination · Message
+
+**Path 2 — Questions About Setup?**
+- [Talk to a Product Specialist] button
+- Fields: Name · Email/Phone · Installation Environment · Current System · Preferred Contact Time
+
+**Direct Contact:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+
+**Tier 1 checks:** ☐ CTAs are clear ☐ Contact info correct ☐ Multiple touchpoints
 
 ---
 
@@ -381,11 +391,6 @@ Fields: Name · Email/Phone · Installation Environment · Current System · Pre
     "name": "EASCO"
   },
   "image": "[Product Image URL]",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "[Rating]",
-    "reviewCount": "[Count]"
-  },
   "offers": {
     "@type": "Offer",
     "url": "[Product Page URL]",
@@ -423,11 +428,10 @@ Fields: Name · Email/Phone · Installation Environment · Current System · Pre
 
 ## Internal Links Required
 
-- [ ] Back to category pillar: [[parent-category]]
+- [ ] Back to category archive: [[parent-category]]
 - [ ] 2–3 related products in same category
 - [ ] 1 cross-category product if genuinely relevant
-- [ ] Link to product from category page "Product Grid"
-- [ ] Link to related accessories/add-ons if applicable
+- [ ] Product linked from category page Product Grid
 
 ---
 
@@ -436,37 +440,36 @@ Fields: Name · Email/Phone · Installation Environment · Current System · Pre
 ### Pass A — Full Page Audit (Target: 8.0+/10)
 - [ ] All claims sourced to client-data-map.md
 - [ ] No banned phrases (check WritingSystem.md)
-- [ ] Hero hook is benefit-first, not feature-first
-- [ ] Every feature section has spec backing
-- [ ] FAQs address top 5 buyer objections
-- [ ] CTA buttons appear in multiple sections (Hero, end of features, final CTA section)
+- [ ] Hero hook is benefit-first
+- [ ] Every stat/spec is verified from client data
+- [ ] CTAs appear in Hero and Section 10
 - [ ] Schema markup is valid JSON-LD
 - [ ] Readability: one idea per sentence, active voice
-- [ ] Visual structure matches reference design (icons, callout boxes, tabs)
 
 ### Pass B — FAB Chain Rewrites (0 fixes target)
 - [ ] Every feature: Benefit → Advantage → Benefit structure
 - [ ] No feature-first copywriting
-- [ ] One specific outcome per paragraph
+- [ ] Checkmarks tied to specific buyer outcomes
 - [ ] Spec-to-benefit ratio: 1:3 (one spec per three words of benefit)
-- [ ] Checkmark bullets connect to buyer outcomes, not just features
 
 ### Pass N — Authority Terminology (Target: 9+/10)
-- [ ] Technical terms used correctly (Nm, °/s, voltage, IP rating, etc.)
+- [ ] Technical terms used correctly
 - [ ] No consumer-grade language ("easy," "simple," "cool")
 - [ ] Specificity Ladder Level 3+: exact specs with context
 
 ### Pass D — E-E-A-T Authority Signals (All present)
-- [ ] Hero stats are verifiable ✅ (Section 1 — four key specs)
-- [ ] 6+ FAQ Q&As ✅ (Section 8)
-- [ ] Authority proof (16 years, ISO 9001, CE marked) ✅ (Hero trust badges + Section 7)
-- [ ] Geographic context (Shenzhen factory, international shipping) ✅ (CTA)
+- [ ] Hero stats are verifiable ✅
+- [ ] 6+ FAQ Q&As if FAQ section included ✅
+- [ ] Authority proof (16 years, ISO 9001, CE marked) ✅
+- [ ] Geographic context (Shenzhen factory) ✅
 
 ### Pass C — Conversion & AI Detection (Target: ≤15% AI-score)
-- [ ] Headlines are outcome-led (scan-test passes)
-- [ ] All 2–3 relevant objections answered (objection-map.md)
-- [ ] CTAs are specific and appear in 3+ places
-- [ ] No AI-filler phrases (we believe, absolutely, in today's world)
-- [ ] Visual design communicates credibility (icons, badges, specs, diagrams)
+- [ ] Headlines are outcome-led
+- [ ] All objections answered
+- [ ] CTAs are specific and prominent
+- [ ] No AI-filler phrases
+- [ ] Visual structure supports credibility
 
 ---
+
+**END OF TEMPLATE**
