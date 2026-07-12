@@ -81,7 +81,7 @@ In the meantime: EASCO access control systems are deployed at transportation and
 **EASCO Solution:** ANPR cameras with a 30,000-hour MTBF rating handle continuous outdoor operation.
 
 **Passenger-facing throughput.** A slow gate creates a bottleneck at a security or gate-area checkpoint.
-**EASCO Solution:** Speed gates and cylindrical turnstiles process 45–50 people per minute.
+**EASCO Solution:** Speed gates and aluminum alloy turnstiles process 50 people per minute (Interstellar Series exceeds 50/min).
 
 **Custom passenger-processing hardware.** Airport kiosks and information displays need airport-grade durability, not repurposed retail signage.
 **EASCO Solution:** OEM/ODM services support custom kiosk and display hardware for airport-specific deployments.
@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at transportation and
 
 **H2: EASCO Products Used in Airport-Adjacent Deployments**
 
-**[Palm Vein + Iris Recognition](/palm-vein-iris/)**: the highest-security biometric tier for restricted airside zones.
-**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: continuous-duty vehicle access control.
-**[Flap Barrier / Speed Gates](/speed-gates/)**: high-throughput passenger and staff gates.
+**[Palm Vein + Iris Recognition](/facial-recognition/)**: the highest-security biometric tier for restricted airside zones.
+**[Number Plate Recognition (ANPR) Systems](/gate-opener/)**: continuous-duty vehicle access control.
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: high-throughput passenger and staff gates.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

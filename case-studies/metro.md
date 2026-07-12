@@ -53,16 +53,16 @@ Metro stations and transit hubs rely on EASCO's cylindrical and speed gate turns
 |---|---|
 | Facility Type | Metro station, retrofit into an existing platform with limited floor space |
 | Traffic Profile | Peak-hour passenger surges, continuous daily operation |
-| Products Used | Cylindrical turnstiles (ESYBZ), multiple gate lanes |
+| Products Used | Aluminum alloy speed gates (Starship 4 ES-ST4 / Xingyun Water Drop ES-YST), multiple gate lanes |
 
 **The Challenge**
-A retrofit project has no room for a standard-footprint speed gate. It still needs to clear peak-hour passenger volume without a bottleneck, running continuously across long daily operating hours.
+A retrofit project has no room for a bulky gate footprint. It still needs to clear peak-hour passenger volume without a bottleneck, running continuously across long daily operating hours.
 
 **The Approach**
-Cylindrical turnstiles fit the platform's constrained space while still processing 45 people per minute per lane. Multiple lanes are sized to peak-hour volume, with infrared anti-tailgating sensors on each gate.
+The Xingyun Water Drop speed gate uses a shared-centre-column design that saves approximately 30% floor space versus a standard gate — it fits where a standard speed gate would crowd the platform. Alternatively, the Starship 4 handles the same 50 persons per minute throughput with a standard aluminum alloy body. Multiple lanes are sized to peak-hour volume, with infrared anti-tailgating sensors on each gate.
 
 **The Outcome**
-The compact gate body fits where a standard speed gate would have crowded the platform. Passenger flow clears during rush hour without a queue at the gate line. The gates keep running through extended daily operating hours.
+The compact gate body fits where a larger gate would have crowded the platform. Passenger flow clears during rush hour without a queue at the gate line. The gates keep running through extended daily operating hours.
 
 In the meantime: EASCO turnstile systems are deployed at transit-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
@@ -75,16 +75,16 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 **H2: Common Requirements for High-Traffic Transit Gates**
 
 **Peak-hour throughput.** A gate processing 30 people per minute creates a crowd at a station moving 500 people through in the same window.
-**EASCO Solution:** Cylindrical and speed gate turnstiles process up to 45–50 people per minute per lane.
+**EASCO Solution:** Aluminum alloy speed gates process 50 persons per minute per lane (Interstellar Series exceeds 50/min at <0.3 seconds).
 
 **Tailgating at high-volume gates.** Faster gates mean less time to catch a second person following through.
 **EASCO Solution:** Infrared sensor arrays detect anti-tailgating attempts even at sub-0.5-second opening speeds.
 
 **Continuous operation with minimal downtime.** Transit hubs run extended hours daily, so motor and sensor lifespan matter.
-**EASCO Solution:** The JX flagship's motor is rated for over 30 million open-close cycles.
+**EASCO Solution:** The DC brushless motor across all aluminum alloy series is rated for 15 million open-close cycles.
 
 **Retrofit into an existing station.** Limited floor space in an older station rules out a standard-footprint gate.
-**EASCO Solution:** The compact cylindrical ESYBZ fits where a standard speed gate would crowd the platform.
+**EASCO Solution:** The Xingyun Water Drop speed gate (ES-YST) uses a shared-centre-column design, saving ~30% floor space versus a standard gate.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -94,9 +94,9 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 
 **H2: EASCO Products Used in Transit Deployments**
 
-**[Flap Barrier / Speed Gates](/speed-gates/)**: 50 persons/min with a 30-million-cycle motor.
-**[Cylindrical Turnstiles](/cylindrical-turnstiles/)**: 45 persons/min in a compact retrofit-friendly footprint.
-**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: vehicle access for station parking and drop-off zones.
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: 50 persons/min with a 15-million-cycle DC brushless motor.
+**[Stainless Steel Turnstiles](/stainless-steel-turnstile/)**: outdoor-rated speed gates and swing gates for exposed transit entrances.
+**[Gate Opener Systems](/gate-opener/)**: vehicle access for station parking and drop-off zones.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -110,7 +110,7 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 A: Timeline depends on gate count and station layout. Contact EASCO directly for a project-specific schedule.
 
 **Q: Can the gate handle passenger volume during rush hour?**
-A: Multiple gate lanes scale throughput. The JX processes 50 people per minute and the ESYBZ processes 45, so lane count is sized to peak-hour volume.
+A: Multiple gate lanes scale throughput. Aluminum alloy speed gates process 50 persons per minute per lane; the Interstellar Series (ES-SIN) exceeds 50/min with a <0.3-second opening. Lane count is sized to peak-hour volume.
 
 **Q: What happens during a power outage?**
 A: Gate fail-safe behavior (open or locked on power loss) is configurable per project. Confirm the required behavior before installation.
@@ -140,8 +140,8 @@ Every transit site has different peak-hour volume and vehicle access requirement
 ## Internal Links Required
 
 - Link to [Transportation Hubs solution page](/solutions/transportation/)
-- Link to [Speed Gates](/speed-gates/)
-- Link to [Cylindrical Turnstiles](/cylindrical-turnstiles/)
+- Link to [Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)
+- Link to [Stainless Steel Turnstiles](/stainless-steel-turnstile/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---
