@@ -48,15 +48,14 @@ Status:            🔲 To Do
 ## Section Checklist
 
 - [ ] Section 1 — Hero (Category Tag, H1, Description, 4 Key Stats, CTAs, Image) — written, Tier 1 ✅
-- [ ] Section 2 — Feature Section 1 (Red Section Label, Benefit Headline, Description, Checkmarks, Visual Callouts) — written, Tier 1 ✅
-- [ ] Section 3 — Feature Section 2 (Red Section Label, Connectivity/Integration Focus, Icons, Checkmarks) — written, Tier 1 ✅
-- [ ] Section 4 — Feature Section 3 (Red Section Label, Access Methods or Smart Features, Circular/Grid Diagram) — written, Tier 1 ✅
-- [ ] Section 5 — Performance Section (Red Section Label, Large Stat Callout, Performance Specs, Supporting Bullets) — written, Tier 1 ✅
+- [ ] Section 2 — Performance Section (Red Section Label, Large Stat Callout, Performance Specs, Supporting Bullets) — written, Tier 1 ✅
+- [ ] Section 3 — Smart Access Feature (Red Section Label, Access Methods, Circular/Grid Diagram) — written, Tier 1 ✅
+- [ ] Section 4 — Connectivity Feature (Red Section Label, Connectivity/Integration Focus, Icons, Checkmarks) — written, Tier 1 ✅
+- [ ] Section 5 — Installation Feature (Red Section Label, Benefit Headline, Description, Checkmarks, Visual Callouts) — written, Tier 1 ✅
 - [ ] Section 6 — Product Details Tabs (Overview | Details | Technical Specs | What's in the Box) — written, Tier 1 ✅
-- [ ] Section 7 — Technical Specifications Table — written, Tier 1 ✅
-- [ ] Section 8 — Why EASCO — written, Tier 1 ✅
-- [ ] Section 9 — FAQ (min 6 Q&As) — written, Tier 1 ✅
-- [ ] Section 10 — Final CTA — written, Tier 1 ✅
+- [ ] Section 7 — Why EASCO — written, Tier 1 ✅
+- [ ] Section 8 — FAQ (min 6 Q&As) — written, Tier 1 ✅
+- [ ] Section 9 — Final CTA — written, Tier 1 ✅
 - [ ] Pass A complete
 - [ ] Pass B complete
 - [ ] Pass N complete
@@ -102,36 +101,66 @@ High-quality product photo with optional dimension callouts.
 
 ---
 
-### SECTION 2 — Feature Section 1 (Installation / Setup Focus)
+### SECTION 2 — Performance Section (Speed / Power / Standout Spec)
 
-**Section Label (red, uppercase):** [e.g., "SLIM, SAFE & EASY TO INSTALL"]
+**Section Label (red, uppercase):** [e.g., "SPEED & PRECISION"]
 
-**H2: [Benefit-driven headline with spec — e.g., "6.4 kg, 24V DC, Mounts to Most Gateposts in Hours"]**
+**H2: [Large performance metric + outcome — e.g., "69.7°/s. The Fastest Swing Speed in the Range."]**
 
-[150–200 words. Describe the ease of installation, safety features, or lightweight design. Lead with outcome for buyer.]
-
-**Visual Callout Boxes (3–4):**  
-Each box: one icon + one key spec/benefit + brief supporting detail.
-
-Example:
+**Left Side — Large Stat Callout Box:**
 ```
-┌─────────────────────────┐
-│  🏋️ 6.4 kg               │
-│  Lightweight            │
-│  Easy One-Person Install │
-└─────────────────────────┘
+┌────────────────────────────────────┐
+│         69.7°/s                     │
+│                                    │
+│  Product Image                     │
+│                                    │
+│  📦 200 kg    📏 1.5 m   ∠ ≥90°    │
+│  [Label]     [Label]     [Label]   │
+│                                    │
+│  FASTEST IN THE RANGE              │
+└────────────────────────────────────┘
 ```
 
-**Checkmark Bullet List (3 key benefits):**
-- ✓ [Benefit 1 with spec]
-- ✓ [Benefit 2 with spec]
-- ✓ [Benefit 3 with spec]
+**Right Side — Description + Checkmarks:**
+
+[150–200 words. Explain the performance spec, why it matters, and the engineering behind it.]
+
+**Checkmark Bullet List (3 performance benefits):**
+- ✓ [Performance spec 1 — e.g., "69.7°/s angular speed — fastest in the range"]
+- ✓ [Performance spec 2 — e.g., "Gates up to 200 kg and 1.5 m wide"]
+- ✓ [Performance spec 3 — e.g., "≥90° maximum opening angle"]
 
 **Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
 
 ---
 
-### SECTION 3 — Feature Section 2 (Connectivity / Smart Features Focus)
+### SECTION 3 — Smart Access Feature (Multiple Access Methods)
+
+**Section Label (red, uppercase):** [e.g., "SMART ACCESS"]
+
+**H2: [Outcome-driven headline — e.g., "Five Ways to Open Your Gate. Your Choice."]**
+
+[150–200 words. Describe the multiple control/access options. Emphasize flexibility.]
+
+**Visual Diagram (centered):**  
+Central product image with 5–6 circular icons around it showing different access methods:
+- Push Button
+- IC Card / Keycard
+- Microwave Sensor
+- Remote Control
+- Face Recognition
+- [Optional: Mobile App / WiFi]
+
+Each icon is clickable or labeled with the method name.
+
+**Paragraph (below diagram):**  
+Explain how these methods work together and integrate with the same controller.
+
+**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
+
+---
+
+### SECTION 4 — Connectivity Feature (Smart Features & Integration)
 
 **Section Label (red, uppercase):** [e.g., "CONNECTED FROM DAY ONE"]
 
@@ -161,60 +190,30 @@ Paragraph explaining the feature set.
 
 ---
 
-### SECTION 4 — Feature Section 3 (Multiple Access Methods / Smart Access)
+### SECTION 5 — Installation Feature (Setup & Ease of Use)
 
-**Section Label (red, uppercase):** [e.g., "SMART ACCESS"]
+**Section Label (red, uppercase):** [e.g., "SLIM, SAFE & EASY TO INSTALL"]
 
-**H2: [Outcome-driven headline — e.g., "Five Ways to Open Your Gate. Your Choice."]**
+**H2: [Benefit-driven headline with spec — e.g., "6.4 kg, 24V DC, Mounts to Most Gateposts in Hours"]**
 
-[150–200 words. Describe the multiple control/access options. Emphasize flexibility.]
+[150–200 words. Describe the ease of installation, safety features, or lightweight design. Lead with outcome for buyer.]
 
-**Visual Diagram (centered):**  
-Central product image with 5–6 circular icons around it showing different access methods:
-- Push Button
-- IC Card / Keycard
-- Microwave Sensor
-- Remote Control
-- Face Recognition
-- [Optional: Mobile App / WiFi]
+**Visual Callout Boxes (3–4):**  
+Each box: one icon + one key spec/benefit + brief supporting detail.
 
-Each icon is clickable or labeled with the method name.
-
-**Paragraph (below diagram):**  
-Explain how these methods work together and integrate with the same controller.
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
-
----
-
-### SECTION 5 — Performance Section (Speed / Power / Standout Spec)
-
-**Section Label (red, uppercase):** [e.g., "SPEED & PRECISION"]
-
-**H2: [Large performance metric + outcome — e.g., "69.7°/s. The Fastest Swing Speed in the Range."]**
-
-**Left Side — Large Stat Callout Box:**
+Example:
 ```
-┌────────────────────────────────────┐
-│         69.7°/s                     │
-│                                    │
-│  Product Image                     │
-│                                    │
-│  📦 200 kg    📏 1.5 m   ∠ ≥90°    │
-│  [Label]     [Label]     [Label]   │
-│                                    │
-│  FASTEST IN THE RANGE              │
-└────────────────────────────────────┘
+┌─────────────────────────┐
+│  🏋️ 6.4 kg               │
+│  Lightweight            │
+│  Easy One-Person Install │
+└─────────────────────────┘
 ```
 
-**Right Side — Description + Checkmarks:**
-
-[150–200 words. Explain the performance spec, why it matters, and the engineering behind it.]
-
-**Checkmark Bullet List (3 performance benefits):**
-- ✓ [Performance spec 1 — e.g., "69.7°/s angular speed — fastest in the range"]
-- ✓ [Performance spec 2 — e.g., "Gates up to 200 kg and 1.5 m wide"]
-- ✓ [Performance spec 3 — e.g., "≥90° maximum opening angle"]
+**Checkmark Bullet List (3 key benefits):**
+- ✓ [Benefit 1 with spec]
+- ✓ [Benefit 2 with spec]
+- ✓ [Benefit 3 with spec]
 
 **Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
 
