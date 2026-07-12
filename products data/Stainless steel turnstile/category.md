@@ -56,8 +56,6 @@ Saltwater corrodes aluminum. Outdoor heat cycles wear unsealed motors. EASCO sta
 
 ## Section 3 — Product Grid
 
-**H2: Stainless Steel Turnstile Models**
-
 **Product 1: Fengying Speed Gate (ES-FY-ST01 / ES-FY-ST02)**
 
 - **50 persons/minute throughput**
@@ -85,7 +83,7 @@ Saltwater corrodes aluminum. Outdoor heat cycles wear unsealed motors. EASCO sta
 - **50 persons/minute throughput**
 - **<0.5-second opening, 15 million cycle motor**
 - **SUS304 outer cylinder 2.0mm, swing arm acrylic or tempered glass**
-- **Operating range: -20°C to +75°C, indoor and outdoor**
+- **Operating range: -20°C to +75°C, indoor and outdoor — IR sensors optional add-on**
 
 [Request a Quote]
 
@@ -96,7 +94,7 @@ Saltwater corrodes aluminum. Outdoor heat cycles wear unsealed motors. EASCO sta
 - **40 persons/minute throughput**
 - **<0.6-second opening, 10 million cycle motor**
 - **SUS304 outer cylinder 2.0mm, larger diameter (φ168mm)**
-- **Passage width up to 1,500mm — widest swing gate in the range**
+- **Passage width up to 1,500mm — widest swing gate in the range — IR sensors optional add-on**
 
 [Request a Quote]
 
