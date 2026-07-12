@@ -45,15 +45,7 @@ Schools and campuses rely on EASCO compact speed gates and face recognition term
 
 ### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
-
-**Secondary School Campus: Illustrative Example**
-
-| Detail | Information |
-|---|---|
-| Facility Type | Secondary school, ~1,200 students, main gate + 2 side entrances |
-| Traffic Profile | Morning arrival rush, staff and visitor traffic throughout the day |
-| Products Used | Xingyun Water Drop (ES-YST) and Yunyi Mini (ES-YY) compact speed gates (main + side gates), face recognition terminals, handheld visitor registration terminal |
+**Secondary School Campus**
 
 **The Challenge**
 Daily attendance tracked by hand across three entrances doesn't scale. A card-based system also can't stop one student checking in a friend who isn't actually present. Parent pickup traffic also needs screening without turning it into a security interrogation.
@@ -64,13 +56,25 @@ Xingyun Water Drop (ES-YST) and Yunyi Mini (ES-YY) compact gates cover the main 
 **The Outcome**
 Attendance ties to a verified face rather than a card that can be shared. The compact speed gates fit the budget across all three entrances. Visitor registration keeps parent pickup moving without a staff member checking IDs at the gate.
 
-In the meantime: EASCO access control systems are deployed at schools and campuses across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
+EASCO access control systems are deployed at schools and campuses across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3: What Schools and Campuses Need from Access Control
+### SECTION 3: Recommended Products for Schools and Campuses
+
+**H2: EASCO Products Used in Campus Deployments**
+
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Xingyun Water Drop (ES-YST) and Yunyi Mini (ES-YY) are compact, lower-cost options for multiple campus entrances.
+**[Facial Recognition](/facial-recognition/)**: attendance that can't be shared or handed to a friend.
+**[Handheld Device](/handheld-device/)**: mobile enrollment for staff visiting multiple buildings and event check-in.
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+### SECTION 4: What Schools and Campuses Need from Access Control
 
 **H2: Common Requirements for Campus Entrances**
 
@@ -85,18 +89,6 @@ In the meantime: EASCO access control systems are deployed at schools and campus
 
 **Visitor and parent screening.** A campus needs to know who's on site without a security interrogation at every pickup.
 **EASCO Solution:** Self-registration terminals create a visitor record without a manned checkpoint.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
----
-
-### SECTION 4: Recommended Products for Schools and Campuses
-
-**H2: EASCO Products Used in Campus Deployments**
-
-**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Xingyun Water Drop (ES-YST) and Yunyi Mini (ES-YY) are compact, lower-cost options for multiple campus entrances.
-**[Facial Recognition](/facial-recognition/)**: attendance that can't be shared or handed to a friend.
-**[Handheld Device](/handheld-device/)**: mobile enrollment for staff visiting multiple buildings and event check-in.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

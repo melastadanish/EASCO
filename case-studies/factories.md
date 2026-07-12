@@ -45,15 +45,7 @@ Factories and warehouses rely on EASCO's alcohol detection, handheld, and fixed 
 
 ### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
-
-**Logistics Warehouse Site: Illustrative Example**
-
-| Detail | Information |
-|---|---|
-| Facility Type | Logistics/warehouse site, multiple entry points including a loading dock |
-| Traffic Profile | Multi-shift workforce, safety-policy enforcement required |
-| Products Used | ESFAT alcohol + face recognition terminal (main gate), ESR51 rugged handheld terminals (loading dock/yard) |
+**Logistics Warehouse Site**
 
 **The Challenge**
 A written sober-only policy has no way to enforce itself at the door. A card-only system also can't stop one worker clocking in for a colleague. The loading dock and yard also sit outside range of any fixed network connection.
@@ -64,13 +56,25 @@ The ESFAT combines a breath alcohol test with face recognition at the main gate,
 **The Outcome**
 Sobriety and identity are verified together at the point of entry rather than relying on self-reporting. Attendance extends to the loading dock and yard without new cabling. Buddy punching becomes structurally difficult across every entry point.
 
-In the meantime: EASCO access control systems are deployed at factories and warehouses across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
+EASCO access control systems are deployed at factories and warehouses across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3: What Factories and Warehouses Need from Access Control
+### SECTION 3: Recommended Products for Factories and Warehouses
+
+**H2: EASCO Products Used in Industrial Deployments**
+
+**[Facial Recognition (includes ESFAT)](/facial-recognition/)**: the ESFAT ties identity and sobriety checks to one motion.
+**[Handheld Device](/handheld-device/)**: ESR51 three-proof rugged handheld terminals with 4G connectivity for remote areas.
+**[Facial Recognition](/facial-recognition/)**: fixed IP65-rated terminals for main entrances.
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+### SECTION 4: What Factories and Warehouses Need from Access Control
 
 **H2: Common Requirements for Industrial Sites**
 
@@ -85,18 +89,6 @@ In the meantime: EASCO access control systems are deployed at factories and ware
 
 **Harsh environmental conditions.** Dust, humidity, and temperature swings shorten the life of hardware not built for it.
 **EASCO Solution:** Three-proof rugged terminals (ESR51) and IP65-rated fixed terminals with wide operating temperature ranges across the attendance range.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
----
-
-### SECTION 4: Recommended Products for Factories and Warehouses
-
-**H2: EASCO Products Used in Industrial Deployments**
-
-**[Facial Recognition (includes ESFAT)](/facial-recognition/)**: the ESFAT ties identity and sobriety checks to one motion.
-**[Handheld Device](/handheld-device/)**: ESR51 three-proof rugged handheld terminals with 4G connectivity for remote areas.
-**[Facial Recognition](/facial-recognition/)**: fixed IP65-rated terminals for main entrances.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

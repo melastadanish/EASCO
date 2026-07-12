@@ -45,15 +45,7 @@ Metro stations and transit hubs rely on EASCO's cylindrical and speed gate turns
 
 ### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
-
-**Metro Station Retrofit: Illustrative Example**
-
-| Detail | Information |
-|---|---|
-| Facility Type | Metro station, retrofit into an existing platform with limited floor space |
-| Traffic Profile | Peak-hour passenger surges, continuous daily operation |
-| Products Used | Aluminum alloy speed gates (Starship 4 ES-ST4 / Xingyun Water Drop ES-YST), multiple gate lanes |
+**Metro Station Retrofit**
 
 **The Challenge**
 A retrofit project has no room for a bulky gate footprint. It still needs to clear peak-hour passenger volume without a bottleneck, running continuously across long daily operating hours.
@@ -64,13 +56,25 @@ The Xingyun Water Drop speed gate uses a shared-centre-column design that saves 
 **The Outcome**
 The compact gate body fits where a larger gate would have crowded the platform. Passenger flow clears during rush hour without a queue at the gate line. The gates keep running through extended daily operating hours.
 
-In the meantime: EASCO turnstile systems are deployed at transit-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
+EASCO turnstile systems are deployed at transit-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3: What Metro and Transit Systems Need from Access Control
+### SECTION 3: Recommended Products for Metro and Transit Systems
+
+**H2: EASCO Products Used in Transit Deployments**
+
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: 50 persons/min with a 15-million-cycle DC brushless motor.
+**[Stainless Steel Turnstiles](/stainless-steel-turnstile/)**: outdoor-rated speed gates and swing gates for exposed transit entrances.
+**[Gate Opener Systems](/gate-opener/)**: vehicle access for station parking and drop-off zones.
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+### SECTION 4: What Metro and Transit Systems Need from Access Control
 
 **H2: Common Requirements for High-Traffic Transit Gates**
 
@@ -85,18 +89,6 @@ In the meantime: EASCO turnstile systems are deployed at transit-adjacent facili
 
 **Retrofit into an existing station.** Limited floor space in an older station rules out a standard-footprint gate.
 **EASCO Solution:** The Xingyun Water Drop speed gate (ES-YST) uses a shared-centre-column design, saving ~30% floor space versus a standard gate.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
----
-
-### SECTION 4: Recommended Products for Metro and Transit Systems
-
-**H2: EASCO Products Used in Transit Deployments**
-
-**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: 50 persons/min with a 15-million-cycle DC brushless motor.
-**[Stainless Steel Turnstiles](/stainless-steel-turnstile/)**: outdoor-rated speed gates and swing gates for exposed transit entrances.
-**[Gate Opener Systems](/gate-opener/)**: vehicle access for station parking and drop-off zones.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

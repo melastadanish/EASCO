@@ -109,39 +109,7 @@ EASCO speed gates are field-proven in airports, metro systems, and train station
 
 ---
 
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Transportation Solutions Specialist**
-
-**James Chen** — Airport & Metro Access Control Engineer
-
-James has 15+ years deploying access control systems in airports, metro networks, and major transit hubs across Asia-Pacific and Europe. Specializes in high-volume throughput, passenger flow logging, security checkpoint integration, and emergency exit compliance. Works with your operations and security teams to design systems that move passengers fast without sacrificing audit trails.
-
-[Contact James →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
-
----
-
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your transportation hub. Specify: facility type (airport / metro / train station), peak-hour passenger volume, number of gates required, existing security infrastructure, and desired integration.
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Not Sure What You Need?**
-
-Evaluating options for throughput, compliance logging, or integration with existing security systems? Send your facility specs and traffic data—we'll recommend the right gate configuration and system architecture.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
-
-## SECTION 8: FAQ
+## SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -159,6 +127,23 @@ A: Yes. Every transit can be logged with timestamp, gate number, and passenger i
 
 **Q: What's the typical downtime for maintenance?**
 A: Routine maintenance (cleaning, lubrication) takes 15–30 minutes and can be done during off-peak hours. No parts are typically consumed during maintenance. Major service or part replacement happens 1–2 times per year depending on traffic volume. EASCO provides 24/7 phone support for emergency issues.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Secure Your Transportation Hub**
+
+**Direct Factory Contact**
+Request high-throughput specifications, passenger flow logging compliance, or 24/7 operation guidance. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 

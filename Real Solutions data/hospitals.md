@@ -110,39 +110,7 @@ EASCO manufactures both palm vein and face recognition systems in-house. Palm ve
 
 ---
 
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Healthcare Solutions Specialist**
-
-**Dr. Sarah Kumar** — Healthcare Biometrics & Access Control Specialist
-
-Dr. Kumar brings 12+ years of experience implementing biometric access control in hospitals, clinics, and research centers across 15 countries. Specializes in HIPAA/GDPR-compliant solutions, staff role-based access control, and visitor management workflows. Works with your privacy and compliance teams to design systems that authenticate staff and visitors while respecting patient data protection regulations.
-
-[Contact Dr. Kumar →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
-
----
-
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your healthcare facility. Specify: restricted zones requiring access control, estimated daily users (staff + visitors), privacy requirements, and existing access control system integration.
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Not Sure What You Need?**
-
-Evaluating privacy-first biometric options or designing a multi-zone access control strategy? Send your facility layout and compliance requirements—we'll recommend the right combination of palm vein, face recognition, and door control systems.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
-
-## SECTION 8: FAQ
+## SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -160,6 +128,23 @@ A: Contactless. The device reads the vein pattern from 140–400mm away (distanc
 
 **Q: How do we manage 24/7 emergency overrides if a staff member is not enrolled?**
 A: Emergency override is always available via physical key or emergency authorization code (reviewed by security log later). The system never locks out legitimate staff from life-critical areas. Standard practice is to enroll staff at orientation, but real-world overrides are supported for situations where enrollment has not yet occurred.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Secure Your Healthcare Facility**
+
+**Direct Factory Contact**
+Request HIPAA/GDPR compliance documentation, palm vein privacy specifications, or multi-zone access control guidance. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 

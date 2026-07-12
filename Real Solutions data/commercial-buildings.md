@@ -108,39 +108,7 @@ EASCO manufactures turnstiles and biometric systems in-house at our Shenzhen fac
 
 ---
 
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Commercial Solutions Specialist**
-
-**Wenyin Hwang** — Senior Solutions Engineer, Commercial Access Control
-
-With 12+ years deploying access control systems in office towers across Southeast Asia and Europe, Wenyin specializes in multi-tenant configurations, biometric integration, and 24/7 facility management. Reach out with your floor plan and traffic projections; he'll recommend the exact gate and biometric combination your facility needs.
-
-[Contact Wenyin →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
-
----
-
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your facility. Specify: building size (sq meters), number of tenants, daily traffic volume (persons/day), and preferred entry points.
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Not Sure What You Need?**
-
-Uncertain about which gate size, which biometric system, or how many entry points? Send your facility details and one of our solutions engineers will review your site and recommend the best combination.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
-
-## SECTION 8: FAQ
+## SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -158,6 +126,23 @@ A: Yes. All EASCO systems are standalone-capable. Each device can store and auth
 
 **Q: What's the typical lead time for a commercial building system?**
 A: Standard products: 15–25 business days production (confirm exact timeline with us). Custom configurations (multi-floor, large tenant count): 25–40 days. Once ordered, systems typically ship within 5–7 business days and arrive 2–3 weeks after shipment depending on destination. Expedited options available.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Secure Your Commercial Building**
+
+**Direct Factory Contact**
+Request compliance documentation, detailed layout recommendations, or multi-tenant configuration guidance. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 

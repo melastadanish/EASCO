@@ -65,41 +65,11 @@ Regulatory bodies and oversight agencies audit government facilities monthly or 
 
 ## SECTION 4: Solutions / Recommended Products
 
+**Eyebrow: HARDWARE MIX**
 **H2: The Right Product Mix for Government Buildings**
+**Subheading: EASCO recommends combining highest-precision iris biometric readers for classified zones with rapid face recognition terminals for administrative sectors.**
 
-**Iris + Face Recognition Terminal (MTH8)**
-- Iris misrecognition rate: 1 in 10,000,000
-- Iris recognition distance: 30–50cm
-- Iris recognition speed: < 2 seconds
-- Face accuracy: 99.98% (backup)
-- Face recognition: 200–300ms
-- Display: 8-inch, 800×1280
-- Environment: Indoor, outdoor, night-time capable
-- Installation: Wall-mount, floor-standing, desktop
-- Certifications: CE Mark (RED 2014/53/EU), ISO 9001:2015, ISO 14001:2015, ISO 45001:2018
-- Best for: Main secure entry points, restricted zone enforcement, classified area access
-
-[Request Quote →](https://wa.me/8613711422283)
-
----
-
-**Face Recognition Terminal (for non-classified zones)**
-- Accuracy: 99.98%
-- Recognition speed: 200–300ms
-- Display sizes: 7-inch, 8-inch, 10.1-inch
-- Best for: Public reception, administrative areas, visitor screening
-
-[Request Quote →](https://wa.me/8613711422283)
-
----
-
-**Electric Door Opener (for emergency & secure exits)**
-- Models: Heavy-duty (1.2KW), gear & rail (550W)
-- Operating temperature: -40°C to +70°C
-- Control: Automatic via iris/face terminal, emergency manual override
-- Best for: Secure vault doors, emergency exits, classified zone barriers
-
-[Request Quote →](https://wa.me/8613711422283)
+*(Note: The products featured in this section will be rendered dynamically in a grid layout fetched from Payload CMS.)*
 
 ---
 
@@ -109,39 +79,10 @@ Regulatory bodies and oversight agencies audit government facilities monthly or 
 
 EASCO manufactures iris recognition systems in-house. The 1-in-10,000,000 misrecognition rate is not marketing—it comes from independent testing by accredited laboratories and is documented in the product specification sheet. Every iris terminal is CE certified (RED 2014/53/EU), ISO 9001:2015 quality-certified, and tested in government and classified facility deployments worldwide. ISO 14001:2015 (environmental) and ISO 45001:2018 (occupational health & safety) certification demonstrate institutional commitment to process rigor. 16+ years manufacturing. 80,000+ installations in 50+ countries—many in government and defense contexts. Direct factory support means no intermediary when immediate answers are required.
 
----
-
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Government Solutions Specialist**
-
-**Colonel David Park** — Government Facility Security & Access Control Specialist
-
-Colonel Park brings 18+ years of experience designing and deploying access control systems for government agencies, national laboratories, and classified facilities across multiple continents. Specializes in iris recognition deployment, multi-tier clearance systems, audit trail compliance, and security protocols. Understands procurement processes, certification requirements, and the security implications of access control architecture. Works directly with facility security officers and procurement teams.
-
-[Contact Colonel Park →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
+*(Right side: High-tech image illustrating EASCO's advanced in-house manufacturing and cleanroom testing environment.)*
 
 ---
 
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your government facility. Specify: facility classification level, number of restricted zones, daily authorized personnel, iris terminal count needed, and audit trail requirements.
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Evaluating Options for Your Facility**
-
-Comparing iris recognition vendors or designing a multi-zone security architecture? Send your facility security requirements, clearance structure, and compliance framework—we'll recommend an access control system tailored to your specific threat model.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
 
 ## SECTION 8: FAQ
 
@@ -161,6 +102,23 @@ A: Iris templates are geometric data (angles, patterns in the iris tissue), not 
 
 **Q: What's the typical lead time for a government facility iris system?**
 A: Standard deployments: 30–45 business days from order to delivery. Complex multi-zone systems with custom software integration: 60–90 days. All systems ship with CE certification documents, ISO quality certificates, and test reports for customs clearance. Lead times can be expedited for government procurement with sufficient advance notice.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Secure Your Government Facility**
+
+**Direct Factory Contact**
+Request compliance documentation, detailed layout recommendations, or an in-person audit with our facility integration team. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 

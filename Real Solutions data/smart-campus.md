@@ -109,39 +109,7 @@ EASCO manufactures face recognition systems in-house. 99.98% accuracy is not a m
 
 ---
 
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Education Solutions Specialist**
-
-**Dr. Chen Liu** — Campus Biometric Systems Specialist
-
-Dr. Liu has 10+ years implementing biometric attendance systems across educational institutions in Asia and Europe. Specializes in multi-building deployments, student enrollment workflows, and role-based access for faculty/staff/students. Works with you from design through deployment to ensure zero buddy check-in fraud and smooth daily operations.
-
-[Contact Dr. Liu →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
-
----
-
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your campus. Specify: number of buildings, estimated daily users (students/staff), existing access control system (if any), and timeline.
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Not Sure What You Need?**
-
-Unclear about enrollment process, terminal count per building, or integration with existing student systems? Send your campus layout and we'll design the biometric access workflow for you.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
-
-## SECTION 8: FAQ
+## SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -159,6 +127,23 @@ A: Yes. The terminal can be programmed with role-based rules. Enroll students wi
 
 **Q: What happens during exam season or summer break when buildings are less busy?**
 A: Campus access systems are most valuable during high-traffic periods (start of semester, exam weeks, peak class times). During low-traffic periods, the same terminals operate on reduced staffing. No minimum occupancy required—the system scales up and down with your usage without reconfiguration.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Secure Your Campus**
+
+**Direct Factory Contact**
+Request buddy check-in prevention specifications, multi-building attendance workflows, or distributed enrollment guidance. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 

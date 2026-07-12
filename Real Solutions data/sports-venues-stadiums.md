@@ -110,39 +110,7 @@ EASCO speed gates are proven in stadium and arena environments worldwide. 50-per
 
 ---
 
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Sports Venue Solutions Specialist**
-
-**Rick Anderson** — Stadium & Arena Access Control Specialist
-
-Rick has 13+ years deploying and operating access control systems in professional sports stadiums, arenas, and large events across North America, Europe, and Asia. Specializes in game-day crowd management, multi-gate synchronization, staff zone enforcement, and temporary credential systems. Understands event operations intimately—works with your operations director and security chief to design systems that run smoothly before, during, and after events.
-
-[Contact Rick →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
-
----
-
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your venue. Specify: seating capacity, estimated event-day attendance, number of spectator entry gates needed, staff-only zones requiring access control, and event schedule (to plan for temporary credential needs).
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Designing Your Venue's Access System**
-
-Evaluating options for managing game-day crowds, staff zones, or temporary contractor access? Send your venue capacity, expected attendance, and current access control setup—we'll design a system matched to your operations and event schedule.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
-
-## SECTION 8: FAQ
+## SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -160,6 +128,23 @@ A: Yes. Handheld biometric terminals enroll new staff on-site during pre-event s
 
 **Q: What happens if a temporary credential is issued to the wrong person by mistake?**
 A: Security can revoke the credential immediately via central system. The person's face is removed from the allowlist. If they attempt access afterward, the system denies entry and alerts security. Complete audit trail shows who was enrolled, when, and every access attempt they made.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Secure Your Stadium**
+
+**Direct Factory Contact**
+Request crowd management specifications, event-day credential workflows, or multi-gate synchronization guidance. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 
