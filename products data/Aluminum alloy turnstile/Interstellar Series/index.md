@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** aluminum alloy speed gate
-**Meta title:** Interstellar Aluminum Alloy Speed Gate | EASCO (48 chars)
-**Meta description:** EASCO Interstellar speed gate — 50 persons/min, <0.3s opening, 15M-cycle direct-drive servo motor. Indoor use. Face recognition, card, QR and ID card. Factory direct from Shenzhen. (183 chars — trim if needed)
+**Meta title:** Interstellar Aluminum Alloy Speed Gate | EASCO
+**Meta description:** EASCO Interstellar speed gate — 50 persons/min, <0.3s opening, 15M-cycle direct-drive servo motor. Indoor use. Face recognition, card, QR and ID card. Factory direct from Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** ALUMINUM ALLOY SPEED GATE
 
-**H1:** 50 People Per Minute. Under 0.3 Seconds. Built for Premium Interiors.
+**H1:** Interstellar Aluminum Alloy Speed Gate
 
 **Subtext:**
-The Interstellar speed gate processes 50 persons per minute through a passage 550–1,200 mm wide. The direct-drive servo motor opens in under 0.3 seconds — with operating noise below 40 dB, quiet enough for museum lobbies and premium office headquarters. Aviation-grade aluminum alloy body, full-height integrated face recognition panel available, cloud platform included free.
+Processes over 50 persons per minute with a direct-drive servo motor that opens in under 0.3 seconds — quiet enough at under 40 dB for museum lobbies and premium headquarters. Full aviation-grade aluminum body, optional integrated face recognition panel, and a cloud management platform included at no cost.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/interstellar-speed-gate-spec.pdf
@@ -46,9 +46,24 @@ The Interstellar speed gate processes 50 persons per minute through a passage 55
 
 ---
 
-## 2. Throughput & Speed
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** interstellar-speed-gate-overview.jpg
+**Image alt:** EASCO Interstellar aluminum alloy speed gate full product view, premium office lobby
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** 50 People Per Minute. Under 0.3 Seconds. Built for Premium Interiors.
+
+**Body:**
+The Interstellar speed gate processes 50 persons per minute through a passage 550–1,200 mm wide. The direct-drive servo motor opens in under 0.3 seconds — with operating noise below 40 dB, quiet enough for museum lobbies and premium office headquarters. Aviation-grade aluminum alloy body, full-height integrated face recognition panel available, cloud platform included free.
+
+---
+
+## 3. Throughput & Speed
+
+**Layout:** Text left · Image right
 **Image:** interstellar-speed-gate-motor.jpg
 **Image alt:** EASCO Interstellar speed gate direct-drive servo motor mechanism
 
@@ -69,9 +84,9 @@ The direct-drive servo motor responds in under 0.3 seconds — so the gate is al
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** interstellar-face-panel.jpg
 **Image alt:** EASCO Interstellar speed gate integrated face recognition panel with 7-inch display
 
@@ -98,9 +113,9 @@ The face recognition panel (available as single or dual-sided) stores 100,000 fa
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** interstellar-integration.jpg
 **Image alt:** EASCO Interstellar speed gate RS485 and TCP/IP integration wiring
 
@@ -121,9 +136,9 @@ Gate opening is controlled via RS485, RS232, or IO relay — standard interfaces
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** interstellar-safety.jpg
 **Image alt:** EASCO Interstellar speed gate anti-crush mechanism and infrared sensor array
 
@@ -144,7 +159,7 @@ When resistance is detected mid-swing, the gate reverses automatically — three
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -183,7 +198,7 @@ When resistance is detected mid-swing, the gate reverses automatically — three
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -208,7 +223,7 @@ If resistance is detected mid-swing, reverse braking and three-stage torque comp
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -234,7 +249,7 @@ If resistance is detected mid-swing, reverse braking and three-stage torque comp
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Interstellar Speed Gate?
 
@@ -259,8 +274,9 @@ Share your lane count, passage width, and access method requirements. EASCO manu
 ## Notes for Developer
 
 - Hero: product image right, copy left. Specs strip on Brand Red background directly below.
-- Specs table (section 6): remove any row where value is unknown. Do not show empty rows.
-- FAQ (section 8): accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA (section 9): dark #1A1A1A background. Primary button Brand Red. Ghost white secondary.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- Specs table (section 7): remove any row where value is unknown. Do not show empty rows.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red. Ghost white secondary.
 - WhatsApp floating button: +86 13711422283 on all pages.
 - Model variants note: J1/J2 are gate-only (no face panel); JF1/JF2-S/JF2-D include face panel. Developer to show variant selector or separate spec rows.

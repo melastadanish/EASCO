@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** large screen face recognition terminal
-**Meta title:** ES-RCM03 15.6-Inch Face Recognition Terminal | EASCO (55 chars)
-**Meta description:** EASCO ES-RCM03 — 15.6-inch 1920×1080 face recognition terminal, 99.98% accuracy, 50,000 faces, Android 11, Wiegand 26/34, RS485. Horizontal and vertical install. Factory direct Shenzhen. (190 chars — trim)
+**Meta title:** ES-RCM03 15.6-Inch Face Recognition Terminal | EASCO
+**Meta description:** EASCO ES-RCM03 — 15.6-inch 1920×1080 face recognition terminal, 99.98% accuracy, 50,000 faces, Android 11, Wiegand 26/34, RS485. Horizontal and vertical install. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** LARGE SCREEN FACE RECOGNITION TERMINAL
 
-**H1:** 15.6-Inch Display. 99.98% Accuracy. Image Slideshows and Ad Video Built In.
+**H1:** ES-RCM03 15.6-Inch Face Recognition Terminal
 
 **Subtext:**
-The EASCO ES-RCM03 is a 15.6-inch multi-functional face recognition terminal with a 1920×1080 full-HD display. It recognizes faces at 99.98% accuracy in 200–300 ms, stores 50,000 templates onboard, and runs image slideshows and advertising video on the same screen between access events. Available in horizontal (landscape) and vertical (portrait) orientations. Wall-mounted only.
+A 15.6-inch 1920×1080 display that handles access control and communications on one screen — attendance statistics and recognition results show in real time, with image slideshows and advertising video playing between events. Recognizes at 99.98% accuracy in 200–300 ms, and installs in horizontal or vertical orientation.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/es-rcm03-spec.pdf
@@ -46,9 +46,24 @@ The EASCO ES-RCM03 is a 15.6-inch multi-functional face recognition terminal wit
 
 ---
 
-## 2. Display & Media Functions
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** es-rcm03-overview.jpg
+**Image alt:** EASCO ES-RCM03 15.6-inch face recognition terminal full view, attendance and advertising display
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** 15.6-Inch Display. 99.98% Accuracy. Image Slideshows and Ad Video Built In.
+
+**Body:**
+The EASCO ES-RCM03 is a 15.6-inch multi-functional face recognition terminal with a 1920×1080 full-HD display. It recognizes faces at 99.98% accuracy in 200–300 ms, stores 50,000 templates onboard, and runs image slideshows and advertising video on the same screen between access events. Available in horizontal (landscape) and vertical (portrait) orientations. Wall-mounted only.
+
+---
+
+## 3. Display & Media Functions
+
+**Layout:** Text left · Image right
 **Image:** es-rcm03-display.jpg
 **Image alt:** EASCO ES-RCM03 15.6-inch display showing attendance data and advertising content
 
@@ -69,9 +84,9 @@ The 15.6-inch 1920×1080 IPS panel is large enough to display attendance statist
 
 ---
 
-## 3. Recognition Performance
+## 4. Recognition Performance
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** es-rcm03-recognition.jpg
 **Image alt:** EASCO ES-RCM03 dual-camera face recognition at 0.5–3m with IR camera night operation
 
@@ -93,9 +108,9 @@ The 2 MP RGB wide-dynamic camera handles recognition in normal lighting; the 2 M
 
 ---
 
-## 4. Integration & Connectivity
+## 5. Integration & Connectivity
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** es-rcm03-connectivity.jpg
 **Image alt:** EASCO ES-RCM03 Wiegand and RS485 connectivity interface
 
@@ -117,9 +132,9 @@ Wiegand 26/34 output connects to third-party access control and time-attendance 
 
 ---
 
-## 5. Hardware Specifications
+## 6. Hardware Specifications
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** es-rcm03-housing.jpg
 **Image alt:** EASCO ES-RCM03 aviation-grade aluminum alloy housing horizontal and vertical orientations
 
@@ -142,7 +157,7 @@ The housing is aviation-grade aluminum alloy — resists fingerprint marks and m
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -184,7 +199,7 @@ The housing is aviation-grade aluminum alloy — resists fingerprint marks and m
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -199,7 +214,7 @@ RGB camera captures the face. Onboard processor matches against up to 50,000 tem
 **Step 3 — Access Signal**
 Relay switch, Wiegand 26/34, or RS485 command opens the gate or lock. The recognition result and attendance record display on the 15.6-inch screen.
 
-**Step 4 — Record & Media Resume**
+**Step 4 — Stats Update & Media Resume**
 The event is logged and the display returns to slideshow or advertising content until the next recognition event.
 
 **Image:** es-rcm03-lobby-installation.jpg
@@ -207,7 +222,7 @@ The event is logged and the display returns to slideshow or advertising content 
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -220,7 +235,7 @@ The event is logged and the display returns to slideshow or advertising content 
 **A2:** Yes — image slideshows and advertising video play on the 15.6-inch panel between recognition events. The screen switches to the recognition result display during each access event, then returns to media content.
 
 **Q3:** Which orientations are supported?
-**A3:** Both horizontal (landscape) and vertical (portrait). Orientation is specified at order time. Dimensions differ between the two — see spec table.
+**A3:** Both horizontal (landscape) and vertical (portrait). Orientation is specified at order time.
 
 **Q4:** What interfaces does it support?
 **A4:** Wiegand 26/34, RS485, TCP/IP Ethernet, WiFi 2.4 GHz, USB 2.0, and relay switch output. SDK and API documentation available.
@@ -233,7 +248,7 @@ The event is logged and the display returns to slideshow or advertising content 
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the ES-RCM03 15.6-Inch Terminal?
 
@@ -257,7 +272,8 @@ Send your quantity, orientation preference, and platform integration requirement
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - Show horizontal and vertical dimension variants in spec table.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

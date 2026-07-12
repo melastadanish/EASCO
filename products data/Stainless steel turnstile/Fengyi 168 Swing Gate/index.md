@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** stainless steel swing gate
-**Meta title:** Fengyi 168 Stainless Steel Swing Gate | EASCO (49 chars)
-**Meta description:** EASCO Fengyi 168 swing gate — 40 persons/min, <0.6s opening, gas-strut assisted maintenance lid, SUS304 + aluminium alloy body. Indoor and outdoor. Factory direct Shenzhen. (175 chars)
+**Meta title:** Fengyi 168 Stainless Steel Swing Gate | EASCO
+**Meta description:** EASCO Fengyi 168 swing gate — 40 persons/min, <0.6s opening, gas-strut assisted maintenance lid, SUS304 + aluminium alloy body. Indoor and outdoor. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** STAINLESS STEEL SWING GATE
 
-**H1:** φ168 mm Cylinder. Gas-Strut Lid. Built for Easy On-Site Maintenance.
+**H1:** Fengyi 168 Stainless Steel Swing Gate
 
 **Subtext:**
-The Fengyi 168 swing gate uses a larger 168 mm diameter stainless steel cylinder for a more solid, premium feel, combined with a gas-strut assisted lid that opens automatically when the fixing screws are loosened. Maintenance teams access the full interior in seconds without tools or special skills. 40 persons per minute, under 0.6-second opening, rated for indoor and outdoor deployment.
+Features a φ168 mm stainless steel cylinder and a gas-strut assisted lid — loosen the screws and the lid lifts itself open, leaving both hands free for maintenance work. Processes 40 persons per minute with a DC brushless motor, and is rated for indoor and outdoor installation.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/fengyi-168-swing-gate-spec.pdf
@@ -46,9 +46,24 @@ The Fengyi 168 swing gate uses a larger 168 mm diameter stainless steel cylinder
 
 ---
 
-## 2. Gas-Strut Maintenance Design
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** fengyi-168-swing-gate-overview.jpg
+**Image alt:** EASCO Fengyi 168 stainless steel swing gate full product view, community entrance outdoor
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** φ168 mm Cylinder. Gas-Strut Lid. Built for Easy On-Site Maintenance.
+
+**Body:**
+The Fengyi 168 swing gate uses a larger 168 mm diameter stainless steel cylinder for a more solid, premium feel, combined with a gas-strut assisted lid that opens automatically when the fixing screws are loosened. Maintenance teams access the full interior in seconds without tools or special skills. 40 persons per minute, under 0.6-second opening, rated for indoor and outdoor deployment.
+
+---
+
+## 3. Gas-Strut Maintenance Design
+
+**Layout:** Text left · Image right
 **Image:** fengyi-168-gas-strut.jpg
 **Image alt:** EASCO Fengyi 168 swing gate gas-strut lid opening mechanism, interior access
 
@@ -68,9 +83,9 @@ Loosen the lid screws and the gas-strut hydraulic mechanism lifts the lid automa
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** fengyi-168-modules.jpg
 **Image alt:** EASCO Fengyi 168 swing gate with optional card reader and face recognition panel
 
@@ -90,9 +105,9 @@ The Fengyi 168 ships as a gate-only unit. Card reader, QR scanner, ID card modul
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** fengyi-168-integration.jpg
 **Image alt:** EASCO Fengyi 168 swing gate RS485 control interface
 
@@ -110,9 +125,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. The cloud platform
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** fengyi-168-safety.jpg
 **Image alt:** EASCO Fengyi 168 swing gate fire alarm integration module
 
@@ -128,13 +143,12 @@ On power cut or fire alarm signal, the gate opens and locks in the open position
 - ARM industrial control core — retains gate position on power restoration
 - Infrared sensor — optional add-on (1 pair)
 - Reverse braking on resistance detection
-- Sound alert on unauthorized entry (with sensor fitted)
 
 > **Important:** Infrared sensors are not standard on this model. The optional 1-pair add-on is recommended for sites with children or high foot traffic volume.
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -163,13 +177,11 @@ On power cut or fire alarm signal, the gate opens and locks in the open position
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
 **H2:** Credential In. Gate Swings. 4 Steps.
-
-**Subtitle:** Every Fengyi 168 gate follows the same control flow — from credential check to passage.
 
 **Step 1 — Identity Verification**
 The selected credential module processes the authorization. External button or remote control operates the gate without a module fitted.
@@ -188,7 +200,7 @@ On power cut, the gate opens and the ARM core retains position — no recalibrat
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -214,7 +226,7 @@ On power cut, the gate opens and the ARM core retains position — no recalibrat
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Fengyi 168 Swing Gate?
 
@@ -238,7 +250,8 @@ Send your passage width, site environment, and credential requirements. Manufact
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - Infrared sensor notice must be clearly visible near the spec table.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

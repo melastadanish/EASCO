@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** stainless steel speed gate
-**Meta title:** Rounded Corner Stainless Steel Speed Gate | EASCO (51 chars)
-**Meta description:** EASCO rounded corner stainless steel speed gate — 50 persons/min, <0.5s opening, 15M-cycle servo drive, SUS304 round-tube frame. Office buildings, hotels, airports. Factory direct Shenzhen. (191 chars — trim)
+**Meta title:** Rounded Corner Stainless Steel Speed Gate | EASCO
+**Meta description:** EASCO rounded corner stainless steel speed gate — 50 persons/min, <0.5s opening, 15M-cycle servo drive, SUS304 round-tube frame. Office buildings, hotels, airports. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** STAINLESS STEEL SPEED GATE
 
-**H1:** Round-Tube SUS304. 50 People Per Minute. High-End Lobbies.
+**H1:** Rounded Corner Stainless Steel Speed Gate
 
 **Subtext:**
-The EASCO rounded corner stainless steel speed gate combines a reinforced round-tube SUS304 frame with a servo + planetary gear drive for 50 persons per minute throughput at under 0.5 seconds. The open round-tube structure keeps the lobby sightline clear. Designed for office buildings, government agencies, tech parks, CBD business districts, hotel lobbies, and airport VIP lanes.
+A reinforced round-tube SUS304 frame keeps the gate body visually open — no solid side panels blocking the lobby sightline. Powered by a DC servo + planetary gear drive rated for 15 million cycles, processing 50 persons per minute in under 0.5 seconds. Suited for hotel lobbies, CBD office buildings, banks, and airport VIP lanes.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/rounded-corner-speed-gate-spec.pdf
@@ -46,9 +46,24 @@ The EASCO rounded corner stainless steel speed gate combines a reinforced round-
 
 ---
 
-## 2. Construction & Aesthetics
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** rounded-corner-speed-gate-overview.jpg
+**Image alt:** EASCO rounded corner stainless steel speed gate full product view, hotel lobby
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Round-Tube SUS304. 50 People Per Minute. High-End Lobbies.
+
+**Body:**
+The EASCO rounded corner stainless steel speed gate combines a reinforced round-tube SUS304 frame with a servo + planetary gear drive for 50 persons per minute throughput at under 0.5 seconds. The open round-tube structure keeps the lobby sightline clear. Designed for office buildings, government agencies, tech parks, CBD business districts, hotel lobbies, and airport VIP lanes.
+
+---
+
+## 3. Construction & Aesthetics
+
+**Layout:** Text left · Image right
 **Image:** rounded-corner-chassis.jpg
 **Image alt:** EASCO rounded corner speed gate reinforced round-tube SUS304 frame detail
 
@@ -71,9 +86,9 @@ The reinforced round-tube frame structure keeps the gate body visually light and
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** rounded-corner-access.jpg
 **Image alt:** EASCO rounded corner speed gate with face recognition terminal and palm print reader
 
@@ -96,9 +111,9 @@ The rounded corner speed gate accepts facial recognition terminals, IC/ID card r
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** rounded-corner-integration.jpg
 **Image alt:** EASCO rounded corner speed gate RS485 interface and cloud platform connectivity
 
@@ -116,9 +131,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. Cloud management a
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** rounded-corner-safety.jpg
 **Image alt:** EASCO rounded corner speed gate 6 infrared sensor pairs and anti-pinch mechanism
 
@@ -138,7 +153,7 @@ Six infrared sensor pairs are standard. Anti-pinch and anti-collision protection
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -167,7 +182,7 @@ Six infrared sensor pairs are standard. Anti-pinch and anti-collision protection
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -190,14 +205,14 @@ Resistance triggers anti-pinch protection. On power cut, the gate opens for evac
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
 **H2:** What Buyers Ask Before Ordering the Rounded Corner Speed Gate
 
 **Q1:** What is the difference between the rounded corner speed gate and the right-angle swing gate?
-**A1:** Both use the same servo + planetary reducer drive with a 15-million-cycle lifespan and 50 persons/minute throughput. The speed gate has a flap/panel mechanism suited to high-flow lobbies. The right-angle swing gate has a larger physical gate arm suited to wider passages and venues where the swing motion fits the traffic pattern. The rounded corner speed gate body is also narrower at 108 mm versus 180 mm for the swing gates.
+**A1:** Both use the same servo + planetary reducer drive with 15-million-cycle lifespan and 50 persons/minute throughput. The speed gate has a flap/panel mechanism suited to high-flow lobbies. The right-angle swing gate has a larger swing arm suited to wider passages. The rounded corner speed gate body is narrower at 108 mm versus 180 mm for the swing gates.
 
 **Q2:** What venues is this gate best suited for?
 **A2:** High-end office buildings, government agencies, tech parks, CBD districts, hotel lobbies, convention centres, banks, and airport VIP lanes — venues where speed, aesthetics, and durability all matter.
@@ -216,7 +231,7 @@ Resistance triggers anti-pinch protection. On power cut, the gate opens for evac
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Rounded Corner Stainless Steel Speed Gate?
 
@@ -240,6 +255,7 @@ Send your lane count, passage width, and peripheral requirements. Manufactured i
 
 ## Notes for Developer
 
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

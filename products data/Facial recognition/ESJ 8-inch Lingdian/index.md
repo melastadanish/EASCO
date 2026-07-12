@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** face recognition terminal
-**Meta title:** ESJ 8-Inch Face Recognition Terminal | EASCO (47 chars)
-**Meta description:** EASCO ESJ face recognition terminal — 99.98% accuracy, 200–300ms, 50,000 faces, IP65, Wiegand 26/34, RS485, Android 11. Wall-mount or turnstile gate. Factory direct Shenzhen. (176 chars)
+**Meta title:** ESJ 8-Inch Face Recognition Terminal | EASCO
+**Meta description:** EASCO ESJ face recognition terminal — 99.98% accuracy, 200–300ms, 50,000 faces, IP65, Wiegand 26/34, RS485, Android 11. Wall-mount or turnstile gate. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** FACE RECOGNITION TERMINAL
 
-**H1:** 99.98% Accuracy. 200–300ms. IP65. Mounts on Walls and Gates.
+**H1:** ESJ 8-Inch Face Recognition Terminal
 
 **Subtext:**
-The EASCO ESJ is an 8-inch face recognition terminal running Android 11 with 2 MP RGB and 2 MP IR cameras. It recognizes faces at 99.98% accuracy in 200–300 ms, stores 50,000 face templates onboard, and carries an IP65 rating for dust-proof and water-jet-resistant outdoor or industrial deployment. Integrates via Wiegand 26/34, RS485, or TCP/IP Ethernet — wall-mounted, floor stand, desktop, or direct-mount on EASCO turnstile gates.
+Recognizes faces at 99.98% accuracy in 200–300 ms using dual RGB and IR cameras — the IR camera keeps recognition accurate in complete darkness, no added lighting required. Carries an IP65 rating for outdoor and industrial environments, and integrates via Wiegand 26/34, RS485, or TCP/IP into existing access control platforms.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/esj-face-recognition-spec.pdf
@@ -46,9 +46,24 @@ The EASCO ESJ is an 8-inch face recognition terminal running Android 11 with 2 M
 
 ---
 
-## 2. Recognition Performance
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** esj-face-recognition-terminal-overview.jpg
+**Image alt:** EASCO ESJ 8-inch face recognition terminal full product view, office lobby wall-mounted
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** 99.98% Accuracy. 200–300ms. IP65. Mounts on Walls and Gates.
+
+**Body:**
+The EASCO ESJ is an 8-inch face recognition terminal running Android 11 with 2 MP RGB and 2 MP IR cameras. It recognizes faces at 99.98% accuracy in 200–300 ms, stores 50,000 face templates onboard, and carries an IP65 rating for dust-proof and water-jet-resistant outdoor or industrial deployment. Integrates via Wiegand 26/34, RS485, or TCP/IP Ethernet — wall-mounted, floor stand, desktop, or direct-mount on EASCO turnstile gates.
+
+---
+
+## 3. Recognition Performance
+
+**Layout:** Text left · Image right
 **Image:** esj-recognition-demo.jpg
 **Image alt:** EASCO ESJ face recognition terminal dual-camera recognition at 0.5–3m distance
 
@@ -63,7 +78,6 @@ The 2 MP RGB wide-dynamic camera handles recognition in normal lighting conditio
 - Face recognition accuracy: 99.98%
 - Recognition speed: 200–300 ms
 - Face capacity: 50,000 faces onboard
-- Offline records: 50,000 (with photos) / more without photos
 - Recognition distance: 0.5–3 m
 - RGB camera: 2 MP, wide-dynamic
 - IR camera: 2 MP — night / low-light operation
@@ -71,9 +85,9 @@ The 2 MP RGB wide-dynamic camera handles recognition in normal lighting conditio
 
 ---
 
-## 3. Access Methods & Credentials
+## 4. Access Methods & Credentials
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** esj-credential-methods.jpg
 **Image alt:** EASCO ESJ terminal IC card reader, QR code area, and face recognition panel detail
 
@@ -92,9 +106,9 @@ The ESJ handles face recognition, IC/ID card reading, and QR code scanning in a 
 
 ---
 
-## 4. Integration & Connectivity
+## 5. Integration & Connectivity
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** esj-connectivity.jpg
 **Image alt:** EASCO ESJ face recognition terminal RS485 and Ethernet connection ports
 
@@ -116,9 +130,9 @@ Wiegand 26/34 output connects directly to third-party access control platforms a
 
 ---
 
-## 5. Hardware & Protection Rating
+## 6. Hardware & Protection Rating
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** esj-housing-detail.jpg
 **Image alt:** EASCO ESJ face recognition terminal aviation-grade aluminum alloy housing, IP65 rated
 
@@ -142,7 +156,7 @@ The aviation-grade aluminum alloy housing carries an IP65 protection rating — 
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -183,7 +197,7 @@ The aviation-grade aluminum alloy housing carries an IP65 protection rating — 
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -201,21 +215,21 @@ The RGB camera captures the face. The onboard processor compares it against up t
 A match triggers a relay switch output, Wiegand 26/34 signal, or RS485 command to the connected gate, door lock, or access control system. The gate opens or the lock releases.
 
 **Step 4 — Record & Reset**
-The access event is logged locally (up to 50,000 records with photos) and synced to the connected management platform. The terminal resets and is ready for the next user within milliseconds.
+The access event is logged locally and synced to the connected management platform. The terminal resets and is ready for the next user within milliseconds.
 
 **Image:** esj-installation-turnstile.jpg
 **Image alt:** EASCO ESJ face recognition terminal mounted on EASCO speed gate, office lobby
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
 **H2:** What Buyers Ask Before Ordering the ESJ Face Recognition Terminal
 
-**Q1:** What is the false acceptance rate on the ESJ?
-**A1:** EASCO states recognition accuracy at 99.98%. That means 2 in every 10,000 attempts may not recognize a genuine user on the first scan — but false acceptance (an unauthorized person gaining access) is not publicly rated at a separate figure. For the highest security requirements, the MTH8 iris + face terminal or ESQV8 palm vein + face terminal offer lower false acceptance rates.
+**Q1:** What is the recognition accuracy?
+**A1:** EASCO states recognition accuracy at 99.98%. Recognition runs locally on the onboard processor in 200–300 ms — no cloud round-trip required for the access decision.
 
 **Q2:** Does it work outdoors at night?
 **A2:** Yes. The 2 MP IR camera enables recognition in complete darkness. The IP65 housing protects against dust and direct water jets. Operating temperature range is -25°C to +75°C.
@@ -227,14 +241,14 @@ The access event is logged locally (up to 50,000 records with photos) and synced
 **A4:** Yes — the ESJ mounts on EASCO speed gates and swing gates. It also installs wall-mounted, on a floor stand, or as a desktop unit using the appropriate accessory.
 
 **Q5:** How many faces does it store?
-**A5:** 50,000 face templates onboard. Recognition runs locally without a network connection. Offline access log capacity is 50,000 records with photos.
+**A5:** 50,000 face templates onboard. Recognition runs locally without a network connection.
 
 **Q6:** How do I order?
 **A6:** Contact EASCO via WhatsApp (+86 13711422283) or email hwenyin280@gmail.com with your quantity, installation method, required interfaces, and shipping destination.
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the ESJ Face Recognition Terminal?
 
@@ -258,8 +272,8 @@ Send your quantity, installation method, and platform interface requirements. EA
 
 ## Notes for Developer
 
-- Installation accessories (floor stand, desktop base, pillar) should be listed as optional add-ons.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- Installation accessories (floor stand, desktop base, pillar) listed as optional add-ons.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.
-- Language list (12 languages) is a notable feature — include as bullet in section 5 or sidebar.

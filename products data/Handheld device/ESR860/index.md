@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** handheld terminal with receipt printer
-**Meta title:** ESR860 Handheld Terminal with Thermal Printer | EASCO (55 chars)
-**Meta description:** EASCO ESR860 — Android 13, Qualcomm octa-core, 5600mAh detachable battery, integrated thermal printer 70mm/s, 4G. Parking management, medical traceability, ticket verification. Factory direct Shenzhen. (204 chars — trim)
+**Meta title:** ESR860 Handheld Terminal with Thermal Printer | EASCO
+**Meta description:** EASCO ESR860 — Android 13, Qualcomm octa-core, 5600mAh detachable battery, integrated thermal printer 70mm/s, 4G. Parking management, medical traceability, ticket verification. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** THERMAL PRINTING HANDHELD TERMINAL
 
-**H1:** Prints On-the-Spot. 5,600mAh Battery. Android 13. 4G.
+**H1:** ESR860 Handheld Terminal with Thermal Printer
 
 **Subtext:**
-The EASCO ESR860 is an Android 13 handheld terminal with an integrated thermal printer — printing receipts and labels at 70 mm/s without an external printer or cable. A 5,600 mAh detachable battery supports over 350 hours of standby. Qualcomm SM6225 octa-core 2.4 GHz processor, 4G connectivity, 2D barcode scanner, and NFC. Designed for roadside parking management, medical traceability, logistics operations, and ticket verification.
+An integrated thermal printer produces receipts and labels at 70 mm/s on-the-spot — no external printer, no cable. A 5,600 mAh detachable battery delivers over 350 hours of standby, and 4G with dual-band WiFi keeps data syncing in real time for parking management, medical traceability, logistics, and ticket verification workflows.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/esr860-spec.pdf
@@ -46,9 +46,24 @@ The EASCO ESR860 is an Android 13 handheld terminal with an integrated thermal p
 
 ---
 
-## 2. Integrated Thermal Printer
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** esr860-handheld-overview.jpg
+**Image alt:** EASCO ESR860 thermal printing handheld terminal full view, roadside parking management use case
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Prints On-the-Spot. 5,600mAh Battery. Android 13. 4G.
+
+**Body:**
+The EASCO ESR860 is an Android 13 handheld terminal with an integrated thermal printer — printing receipts and labels at 70 mm/s without an external printer or cable. A 5,600 mAh detachable battery supports over 350 hours of standby. Qualcomm SM6225 octa-core 2.4 GHz processor, 4G connectivity, 2D barcode scanner, and NFC. Designed for roadside parking management, medical traceability, logistics operations, and ticket verification.
+
+---
+
+## 3. Integrated Thermal Printer
+
+**Layout:** Text left · Image right
 **Image:** esr860-printer-detail.jpg
 **Image alt:** EASCO ESR860 thermal printer mechanism printing receipt label
 
@@ -67,9 +82,9 @@ The built-in thermal printer prints at 70 mm/s on 30 mm diameter × 57 mm wide p
 
 ---
 
-## 3. Performance & Processing
+## 4. Performance & Processing
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** esr860-processor.jpg
 **Image alt:** EASCO ESR860 Qualcomm octa-core processor and 5.5-inch display
 
@@ -90,9 +105,9 @@ The Qualcomm SM6225 octa-core 2.4 GHz with 4 GB RAM + 64 GB storage handles scan
 
 ---
 
-## 4. Scanning & Identification
+## 5. Scanning & Identification
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** esr860-scanning.jpg
 **Image alt:** EASCO ESR860 2D barcode scanning and NFC card reading
 
@@ -113,9 +128,9 @@ The Qualcomm SM6225 octa-core 2.4 GHz with 4 GB RAM + 64 GB storage handles scan
 
 ---
 
-## 5. Battery & Connectivity
+## 6. Battery & Connectivity
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** esr860-battery-connectivity.jpg
 **Image alt:** EASCO ESR860 5600mAh detachable battery and 4G connectivity
 
@@ -139,7 +154,7 @@ The 5,600 mAh detachable battery delivers over 350 hours of standby time with a 
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -183,7 +198,7 @@ The 5,600 mAh detachable battery delivers over 350 hours of standby time with a 
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -206,7 +221,7 @@ The integrated thermal printer produces a receipt or label at 70 mm/s — immedi
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -232,7 +247,7 @@ The integrated thermal printer produces a receipt or label at 70 mm/s — immedi
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the ESR860 Thermal Printing Terminal?
 
@@ -256,8 +271,9 @@ Send your quantity, regional 4G variant, and optional module requirements. Manuf
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - CN and EAU variants should be selectable at order — note in spec table.
-- Optional modules (UHF RFID, PSAM) should be presented as add-on checkboxes in the quote flow.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Optional modules (UHF RFID, PSAM) presented as add-on checkboxes in the quote flow.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

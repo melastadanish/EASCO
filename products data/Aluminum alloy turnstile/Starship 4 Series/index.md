@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** aluminum alloy speed gate
-**Meta title:** Starship 4 Aluminum Alloy Speed Gate | EASCO (47 chars)
-**Meta description:** EASCO Starship 4 speed gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor. Office parks, campuses, hospitals. Face recognition, card, QR. Factory direct Shenzhen. (179 chars)
+**Meta title:** Starship 4 Aluminum Alloy Speed Gate | EASCO
+**Meta description:** EASCO Starship 4 speed gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor. Office parks, campuses, hospitals. Face recognition, card, QR. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** ALUMINUM ALLOY SPEED GATE
 
-**H1:** High Performance at Mid-Market Price. 50 People Per Minute.
+**H1:** Starship 4 Aluminum Alloy Speed Gate
 
 **Subtext:**
-The Starship 4 is EASCO's mainline indoor speed gate — 50 persons per minute, opening in under 0.5 seconds, 15-million-cycle brushless motor. Aviation-grade aluminum body. Face recognition, card, and QR code on an integrated panel. Built for office parks, enterprise buildings, universities, schools, and hospitals where throughput, reliability, and budget all matter.
+The mainline indoor speed gate for office parks, campuses, and hospitals — 50 persons per minute, opening in under 0.5 seconds on a 15-million-cycle brushless motor. Supports face recognition, card, and QR code on an integrated panel, with a cloud management platform included free.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/starship-4-speed-gate-spec.pdf
@@ -46,9 +46,24 @@ The Starship 4 is EASCO's mainline indoor speed gate — 50 persons per minute, 
 
 ---
 
-## 2. Throughput & Speed
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** starship-4-speed-gate-overview.jpg
+**Image alt:** EASCO Starship 4 aluminum alloy speed gate full product view, enterprise campus entrance
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** High Performance at Mid-Market Price. 50 People Per Minute.
+
+**Body:**
+The Starship 4 is EASCO's mainline indoor speed gate — 50 persons per minute, opening in under 0.5 seconds, 15-million-cycle brushless motor. Aviation-grade aluminum body. Face recognition, card, and QR code on an integrated panel. Built for office parks, enterprise buildings, universities, schools, and hospitals where throughput, reliability, and budget all matter.
+
+---
+
+## 3. Throughput & Speed
+
+**Layout:** Text left · Image right
 **Image:** starship-4-motor.jpg
 **Image alt:** EASCO Starship 4 speed gate brushless motor and drive mechanism
 
@@ -69,9 +84,9 @@ The DC brushless linear Hall + planetary reducer motor opens the gate in under 0
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** starship-4-face-panel.jpg
 **Image alt:** EASCO Starship 4 speed gate integrated face recognition panel, 7-inch display
 
@@ -98,9 +113,9 @@ The face recognition panel stores 50,000 face templates and recognizes at 99.98%
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** starship-4-integration.jpg
 **Image alt:** EASCO Starship 4 speed gate RS485 interface and cloud platform connectivity
 
@@ -119,9 +134,9 @@ RS485, RS232, and IO relay interfaces connect directly to building management sy
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** starship-4-safety.jpg
 **Image alt:** EASCO Starship 4 speed gate infrared sensor array and anti-crush mechanism
 
@@ -141,7 +156,7 @@ When resistance is detected mid-swing, reverse braking and three-stage torque co
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -180,7 +195,7 @@ When resistance is detected mid-swing, reverse braking and three-stage torque co
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -205,7 +220,7 @@ Resistance triggers reverse braking and three-stage torque compensation. Infrare
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -231,7 +246,7 @@ Resistance triggers reverse braking and three-stage torque compensation. Infrare
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Starship 4 Speed Gate?
 
@@ -255,7 +270,8 @@ Send your lane count, passage width, and access method requirements. EASCO manuf
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - Model variants: J1/J2 are gate-only; JF1/JF2-S/JF2-D include face panel. Show variant selector.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

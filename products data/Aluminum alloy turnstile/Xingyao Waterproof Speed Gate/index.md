@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** waterproof aluminum alloy speed gate
-**Meta title:** Xingyao Waterproof Speed Gate | EASCO (44 chars)
-**Meta description:** EASCO Xingyao waterproof speed gate — IP65-rated, 50 persons/min, <0.5s opening, 15M-cycle motor. Indoor and outdoor use. Face recognition, card, QR. Factory direct Shenzhen. (178 chars)
+**Meta title:** Xingyao Waterproof Speed Gate | EASCO
+**Meta description:** EASCO Xingyao waterproof speed gate — IP65-rated, 50 persons/min, <0.5s opening, 15M-cycle motor. Indoor and outdoor use. Face recognition, card, QR. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** IP65 WATERPROOF SPEED GATE
 
-**H1:** IP65-Rated. 50 People Per Minute. Built for Indoors and Out.
+**H1:** Xingyao Waterproof Speed Gate
 
 **Subtext:**
-The Xingyao Waterproof speed gate carries an IP65 protection rating — dust-proof and water-jet resistant — so it installs at outdoor plazas, transport hubs, and covered entrances without needing a separate weather enclosure. It processes 50 persons per minute through passages from 550 mm to 1,200 mm, opens in under 0.5 seconds, and runs on a 15-million-cycle brushless motor. Face recognition, card, and QR code on one integrated panel.
+Carries an IP65 protection rating — fully sealed against dust and resistant to direct water jets — so it installs at outdoor plazas, transport hubs, and covered entrances without a separate weather enclosure. Processes 50 persons per minute with a 15-million-cycle brushless motor, and supports face recognition, card, and QR code on one integrated panel.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/xingyao-waterproof-speed-gate-spec.pdf
@@ -46,9 +46,24 @@ The Xingyao Waterproof speed gate carries an IP65 protection rating — dust-pro
 
 ---
 
-## 2. Waterproofing & Environment
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** xingyao-waterproof-speed-gate-overview.jpg
+**Image alt:** EASCO Xingyao waterproof aluminum alloy speed gate full product view, outdoor plaza
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** IP65-Rated. 50 People Per Minute. Built for Indoors and Out.
+
+**Body:**
+The Xingyao Waterproof speed gate carries an IP65 protection rating — dust-proof and water-jet resistant — so it installs at outdoor plazas, transport hubs, and covered entrances without needing a separate weather enclosure. It processes 50 persons per minute through passages from 550 mm to 1,200 mm, opens in under 0.5 seconds, and runs on a 15-million-cycle brushless motor. Face recognition, card, and QR code on one integrated panel.
+
+---
+
+## 3. Waterproofing & Environment
+
+**Layout:** Text left · Image right
 **Image:** xingyao-ip65-detail.jpg
 **Image alt:** EASCO Xingyao waterproof speed gate IP65 housing detail, outdoor plaza installation
 
@@ -68,9 +83,9 @@ IP65 means the entire unit is sealed against dust ingress and withstands direct 
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** xingyao-face-panel.jpg
 **Image alt:** EASCO Xingyao waterproof speed gate integrated face recognition panel
 
@@ -97,9 +112,9 @@ The integrated face recognition panel stores 50,000 face templates and recognize
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** xingyao-integration.jpg
 **Image alt:** EASCO Xingyao speed gate RS485 wiring and cloud platform dashboard
 
@@ -118,9 +133,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay — the same interf
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** xingyao-safety.jpg
 **Image alt:** EASCO Xingyao waterproof speed gate safety mechanism and infrared sensor array
 
@@ -141,7 +156,7 @@ When resistance is detected mid-swing, reverse braking engages with three-stage 
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -180,7 +195,7 @@ When resistance is detected mid-swing, reverse braking engages with three-stage 
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -198,14 +213,14 @@ The ARM industrial control core receives the verification result and sends an op
 The brushless motor opens the gate in under 0.5 seconds. The passage stays open for the configured dwell time before resetting. Throughput reaches 50 persons per minute at continuous flow.
 
 **Step 4 — Safety & Reset**
-Resistance triggers reverse braking and three-stage torque compensation before contact. Infrared sensors re-close the gate on tailgate detection. On power cut, the gate opens automatically and the ARM core retains position — no recalibration on restart.
+Resistance triggers reverse braking and three-stage torque compensation. Infrared sensors re-close the gate on tailgate detection. On power cut, the gate opens automatically and the ARM core retains position — no recalibration on restart.
 
 **Image:** xingyao-outdoor-installation.jpg
 **Image alt:** EASCO Xingyao waterproof aluminum alloy speed gate installed at outdoor entrance, IP65 protection
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -231,7 +246,7 @@ Resistance triggers reverse braking and three-stage torque compensation before c
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Xingyao Waterproof Speed Gate?
 
@@ -256,8 +271,9 @@ Send your lane count, passage width, and site environment. EASCO manufactures th
 ## Notes for Developer
 
 - Hero: product image right, copy left. Specs strip Brand Red background directly below.
-- Specs table: remove any row where value is unknown. Do not show empty rows.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red. Ghost white secondary.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- Specs table (section 7): remove any row where value is unknown. Do not show empty rows.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red. Ghost white secondary.
 - WhatsApp floating button: +86 13711422283 on all pages.
 - Model variants: ST01/ST02 are gate-only; STF01/STF02-S/STF02-D include face panel. Developer to show variant selector.

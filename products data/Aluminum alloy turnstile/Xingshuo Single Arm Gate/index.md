@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** single arm turnstile gate
-**Meta title:** Xingshuo Single Arm Gate | EASCO (37 chars)
-**Meta description:** EASCO Xingshuo single arm turnstile gate — 30 persons/min, passage width 550–1700mm, stainless steel arm, factory, community and campus access control. Factory direct Shenzhen. (179 chars)
+**Meta title:** Xingshuo Single Arm Gate | EASCO
+**Meta description:** EASCO Xingshuo single arm turnstile gate — 30 persons/min, passage width 550–1700mm, stainless steel arm, factory, community and campus access control. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** SINGLE ARM TURNSTILE GATE
 
-**H1:** Wide Passage. Low Cost. Controlled Entry for Factories and Communities.
+**H1:** Xingshuo Single Arm Gate
 
 **Subtext:**
-The Xingshuo single arm gate handles passages from 550 mm to 1,700 mm — wider than any flap barrier in the range — using a stainless steel arm mounted on an aluminum alloy cylindrical body. 30 persons per minute throughput, opening in under 1.5 seconds. Credential modules — card, QR code, face recognition, ID card — add on as needed. Designed for budget-sensitive sites: factory floors, community entrances, schools, and libraries.
+Handles passages up to 1,700 mm wide — wide enough for bicycles, trolleys, and small non-motorised vehicles — with a stainless steel arm on a compact aluminum alloy cylindrical body. Processes 30 persons per minute and accepts card, QR code, ID card, and face recognition modules as optional add-ons.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/xingshuo-single-arm-gate-spec.pdf
@@ -46,9 +46,24 @@ The Xingshuo single arm gate handles passages from 550 mm to 1,700 mm — wider 
 
 ---
 
-## 2. Wide Passage & Versatility
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** xingshuo-single-arm-gate-overview.jpg
+**Image alt:** EASCO Xingshuo single arm gate full product view, factory entrance
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Wide Passage. Low Cost. Controlled Entry for Factories and Communities.
+
+**Body:**
+The Xingshuo single arm gate handles passages from 550 mm to 1,700 mm — wider than any flap barrier in the range — using a stainless steel arm mounted on an aluminum alloy cylindrical body. 30 persons per minute throughput, opening in under 1.5 seconds. Credential modules — card, QR code, face recognition, ID card — add on as needed. Designed for budget-sensitive sites: factory floors, community entrances, schools, and libraries.
+
+---
+
+## 3. Wide Passage & Versatility
+
+**Layout:** Text left · Image right
 **Image:** xingshuo-passage-width.jpg
 **Image alt:** EASCO Xingshuo single arm gate showing 1700mm passage width, community entrance
 
@@ -67,9 +82,9 @@ A 1,700 mm passage accommodates not just pedestrians but bicycles, trolleys, and
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** xingshuo-modules.jpg
 **Image alt:** EASCO Xingshuo single arm gate with optional face recognition and card reader modules
 
@@ -89,9 +104,9 @@ The base unit ships without credential readers and accepts all recognition modul
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** xingshuo-integration.jpg
 **Image alt:** EASCO Xingshuo single arm gate RS485 wiring connection
 
@@ -109,9 +124,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. The cloud manageme
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** xingshuo-safety.jpg
 **Image alt:** EASCO Xingshuo single arm gate fire alarm integration and ARM control module
 
@@ -133,7 +148,7 @@ On power cut or fire alarm signal, the gate opens and locks in the open position
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -162,7 +177,7 @@ On power cut or fire alarm signal, the gate opens and locks in the open position
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -187,7 +202,7 @@ On power cut or fire alarm, the arm opens and locks open. The ARM core retains t
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -213,7 +228,7 @@ On power cut or fire alarm, the arm opens and locks open. The ARM core retains t
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Xingshuo Single Arm Gate?
 
@@ -237,7 +252,8 @@ Share your passage width, credential requirements, and site details. EASCO manuf
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - Safety notice about missing infrared sensors must be clearly visible near the spec table.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

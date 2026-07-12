@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** compact speed gate
-**Meta title:** Xingyun Water Drop Speed Gate | EASCO (43 chars)
-**Meta description:** EASCO Xingyun water drop speed gate — 50 persons/min, <0.5s opening, shared centre-column design saves space. Indoor use. Card, QR, face recognition optional. Factory direct Shenzhen. (188 chars — trim if needed)
+**Meta title:** Xingyun Water Drop Speed Gate | EASCO
+**Meta description:** EASCO Xingyun water drop speed gate — 50 persons/min, <0.5s opening, shared centre-column design saves space. Indoor use. Card, QR, face recognition optional. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** COMPACT ALUMINUM ALLOY SPEED GATE
 
-**H1:** Two Lanes. One Centre Column. Half the Floor Space.
+**H1:** Xingyun Water Drop Speed Gate
 
 **Subtext:**
-The Xingyun Water Drop gate uses a shared centre-column design — a single pillar supports both gate panels, cutting the footprint of a dual-lane installation significantly. It processes 50 persons per minute per lane, opens in under 0.5 seconds, and runs a 15-million-cycle brushless motor. Suited for shared offices, community entrances, libraries, and exhibition spaces where space is limited and budget is a priority.
+A shared centre-column design means a single pillar supports both lanes, cutting the footprint of a dual-lane installation by roughly one column's worth of floor space. Delivers 50 persons per minute per lane, opens in under 0.5 seconds, and accepts card, QR code, and face recognition modules as optional add-ons.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/xingyun-water-drop-speed-gate-spec.pdf
@@ -46,9 +46,24 @@ The Xingyun Water Drop gate uses a shared centre-column design — a single pill
 
 ---
 
-## 2. Space-Saving Design
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** xingyun-water-drop-speed-gate-overview.jpg
+**Image alt:** EASCO Xingyun water drop speed gate full product view, shared centre-column dual-lane
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Two Lanes. One Centre Column. Half the Floor Space.
+
+**Body:**
+The Xingyun Water Drop gate uses a shared centre-column design — a single pillar supports both gate panels, cutting the footprint of a dual-lane installation significantly. It processes 50 persons per minute per lane, opens in under 0.5 seconds, and runs a 15-million-cycle brushless motor. Suited for shared offices, community entrances, libraries, and exhibition spaces where space is limited and budget is a priority.
+
+---
+
+## 3. Space-Saving Design
+
+**Layout:** Text left · Image right
 **Image:** xingyun-centre-column.jpg
 **Image alt:** EASCO Xingyun water drop speed gate shared centre-column design, dual-lane footprint comparison
 
@@ -68,9 +83,9 @@ Traditional dual-lane installations require three separate pillars. The Xingyun 
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** xingyun-access-modules.jpg
 **Image alt:** EASCO Xingyun speed gate with optional card reader and face recognition module
 
@@ -90,9 +105,9 @@ The Xingyun ships as a gate-only unit and accepts credential modules as add-ons:
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** xingyun-integration.jpg
 **Image alt:** EASCO Xingyun speed gate RS485 interface and control wiring
 
@@ -110,9 +125,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. The cloud manageme
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** xingyun-safety.jpg
 **Image alt:** EASCO Xingyun water drop speed gate anti-crush and reverse braking mechanism
 
@@ -132,7 +147,7 @@ When resistance is detected mid-swing, reverse braking engages with three-stage 
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -162,7 +177,7 @@ When resistance is detected mid-swing, reverse braking engages with three-stage 
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -187,7 +202,7 @@ Resistance triggers reverse braking and three-stage torque compensation. On powe
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -203,7 +218,7 @@ Resistance triggers reverse braking and three-stage torque compensation. On powe
 **A3:** Card reader, QR code scanner, ID card / passport reader, and face recognition panel (7-inch Android) are all available as add-ons. The base unit accepts a remote control or external button signal as standard.
 
 **Q4:** Is it suitable for outdoor use?
-**A4:** No — the Xingyun is rated for indoor use. For outdoor installation, the Xingyao Waterproof series (IP65-rated) is the correct product.
+**A4:** No — the Xingyun is rated for indoor use. For outdoor installation, the Xingyao Waterproof series (IP65) is the correct product.
 
 **Q5:** What is the motor lifespan?
 **A5:** 15 million continuous open/close cycles. The brushless motor requires no brush replacement and minimal scheduled maintenance beyond periodic lubrication of mechanical parts.
@@ -213,7 +228,7 @@ Resistance triggers reverse braking and three-stage torque compensation. On powe
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Xingyun Water Drop Speed Gate?
 
@@ -237,7 +252,8 @@ Tell EASCO your lane count, credential requirements, and passage width. Manufact
 
 ## Notes for Developer
 
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.
 - Infrared sensor is optional — do not show it as standard in specs display.

@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** large screen face recognition terminal
-**Meta title:** ES-RCM04 21.5-Inch Face Recognition Terminal | EASCO (55 chars)
-**Meta description:** EASCO ES-RCM04 — 21.5-inch 1920×1080 face recognition terminal, 99.98% accuracy, 50,000 faces, Android 11, Wiegand 26/34, RS485. Landscape and portrait. Factory direct Shenzhen. (181 chars)
+**Meta title:** ES-RCM04 21.5-Inch Face Recognition Terminal | EASCO
+**Meta description:** EASCO ES-RCM04 — 21.5-inch 1920×1080 face recognition terminal, 99.98% accuracy, 50,000 faces, Android 11, Wiegand 26/34, RS485. Landscape and portrait. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** LARGE SCREEN FACE RECOGNITION TERMINAL
 
-**H1:** 21.5-Inch Full HD. Attendance, Advertising, and Access — One Screen.
+**H1:** ES-RCM04 21.5-Inch Face Recognition Terminal
 
 **Subtext:**
-The EASCO ES-RCM04 is the largest display in the face recognition range — a 21.5-inch 1920×1080 terminal running Android 11. It recognizes faces at 99.98% accuracy in 200–300 ms, stores 50,000 templates onboard, and displays real-time attendance statistics, recognition results, image slideshows, and advertising video on the same panel. Available in horizontal (landscape) and vertical (portrait) orientations.
+The largest display in the face recognition range — a 21.5-inch 1920×1080 panel that shows real-time attendance data large enough to read from across a room, alongside advertising video and image slideshows between access events. Recognizes at 99.98% accuracy in 200–300 ms, available in horizontal or vertical orientation.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/es-rcm04-spec.pdf
@@ -46,9 +46,24 @@ The EASCO ES-RCM04 is the largest display in the face recognition range — a 21
 
 ---
 
-## 2. Display & Media Functions
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** es-rcm04-overview.jpg
+**Image alt:** EASCO ES-RCM04 21.5-inch face recognition terminal full view, reception area
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** 21.5-Inch Full HD. Attendance, Advertising, and Access — One Screen.
+
+**Body:**
+The EASCO ES-RCM04 is the largest display in the face recognition range — a 21.5-inch 1920×1080 terminal running Android 11. It recognizes faces at 99.98% accuracy in 200–300 ms, stores 50,000 templates onboard, and displays real-time attendance statistics, recognition results, image slideshows, and advertising video on the same panel. Available in horizontal (landscape) and vertical (portrait) orientations.
+
+---
+
+## 3. Display & Media Functions
+
+**Layout:** Text left · Image right
 **Image:** es-rcm04-display.jpg
 **Image alt:** EASCO ES-RCM04 21.5-inch display showing real-time attendance statistics and recognition result
 
@@ -69,9 +84,9 @@ The 21.5-inch 1920×1080 panel displays attendance statistics — signed-in, sig
 
 ---
 
-## 3. Recognition Performance
+## 4. Recognition Performance
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** es-rcm04-recognition.jpg
 **Image alt:** EASCO ES-RCM04 dual-camera face recognition with IR and RGB cameras
 
@@ -93,9 +108,9 @@ The 2 MP RGB wide-dynamic camera handles recognition in standard lighting; the 2
 
 ---
 
-## 4. Integration & Connectivity
+## 5. Integration & Connectivity
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** es-rcm04-connectivity.jpg
 **Image alt:** EASCO ES-RCM04 Wiegand RS485 and Ethernet connectivity
 
@@ -117,9 +132,9 @@ Wiegand 26/34 output connects to existing access control platforms. RS485 handle
 
 ---
 
-## 5. Hardware Specifications
+## 6. Hardware Specifications
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** es-rcm04-housing.jpg
 **Image alt:** EASCO ES-RCM04 aviation-grade aluminum alloy housing in vertical orientation
 
@@ -142,7 +157,7 @@ Aviation-grade aluminum alloy housing resists fingerprint marks. Twelve display 
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -184,7 +199,7 @@ Aviation-grade aluminum alloy housing resists fingerprint marks. Twelve display 
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -207,7 +222,7 @@ Attendance statistics update in real time. The display returns to slideshow or a
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -226,14 +241,14 @@ Attendance statistics update in real time. The display returns to slideshow or a
 **A4:** Wiegand 26/34, RS485, TCP/IP Ethernet, WiFi 2.4 GHz, USB 2.0, and relay switch output.
 
 **Q5:** Is it suitable for outdoor use?
-**A5:** Indoor use only — no IP rating specified for outdoor deployment. Use the ESJ (IP65) for outdoor environments.
+**A5:** Indoor use only. Use the ESJ (IP65) for outdoor environments.
 
 **Q6:** How do I order?
 **A6:** Contact EASCO via WhatsApp (+86 13711422283) or email hwenyin280@gmail.com with quantity, orientation preference, interfaces required, and destination.
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the ES-RCM04 21.5-Inch Terminal?
 
@@ -257,7 +272,8 @@ Send your quantity, orientation preference, and integration requirements. EASCO 
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - Show both horizontal and vertical dimension options in spec table or as a toggle.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

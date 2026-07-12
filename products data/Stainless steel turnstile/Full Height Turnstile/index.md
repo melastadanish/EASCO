@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** full height turnstile
-**Meta title:** Full Height Turnstile | EASCO (32 chars)
-**Meta description:** EASCO full height turnstile — 360° anti-climb enclosed cross gate, 304 stainless steel, servo drive, 30 persons/min. Factories, construction sites, prisons, industrial parks. Factory direct Shenzhen. (201 chars — trim to 155)
+**Meta title:** Full Height Turnstile | EASCO
+**Meta description:** EASCO full height turnstile — 360° anti-climb enclosed cross gate, 304 stainless steel, servo drive, 30 persons/min. Factories, construction sites, prisons, industrial parks. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** FULL HEIGHT TURNSTILE
 
-**H1:** 360° Enclosed. No Climbing Over. No Crawling Under.
+**H1:** Full Height Turnstile
 
 **Subtext:**
-The EASCO full height turnstile is a fully enclosed cross-arm gate — 2,200 mm tall, SUS304 stainless steel, servo drive. It physically prevents climbing over and crawling under in a way that waist-height gates cannot. Built for construction sites, factories, industrial parks, prisons, and school campuses where strict one-person-one-pass access control is non-negotiable.
+A fully enclosed 360° cross-arm gate standing 2,200 mm tall — physically prevents climbing over and crawling under in a way waist-height gates cannot. Built for construction sites, industrial parks, prisons, and school campuses where strict one-person-one-pass control is non-negotiable.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/full-height-turnstile-spec.pdf
@@ -46,9 +46,24 @@ The EASCO full height turnstile is a fully enclosed cross-arm gate — 2,200 mm 
 
 ---
 
-## 2. Full-Height Enclosure
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** full-height-turnstile-overview.jpg
+**Image alt:** EASCO full height turnstile full product view, construction site entrance
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** 360° Enclosed. No Climbing Over. No Crawling Under.
+
+**Body:**
+The EASCO full height turnstile is a fully enclosed cross-arm gate — 2,200 mm tall, SUS304 stainless steel, servo drive. It physically prevents climbing over and crawling under in a way that waist-height gates cannot. Built for construction sites, factories, industrial parks, prisons, and school campuses where strict one-person-one-pass access control is non-negotiable.
+
+---
+
+## 3. Full-Height Enclosure
+
+**Layout:** Text left · Image right
 **Image:** full-height-anti-climb.jpg
 **Image alt:** EASCO full height turnstile 360-degree enclosure showing anti-climb structure
 
@@ -69,9 +84,9 @@ At 2,200 mm tall, the cross-arm barrier reaches above head height — a physical
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** full-height-access-modules.jpg
 **Image alt:** EASCO full height turnstile with face recognition terminal and card reader peripherals
 
@@ -94,9 +109,9 @@ The full height turnstile accepts facial recognition terminals, IC/ID card reade
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** full-height-integration.jpg
 **Image alt:** EASCO full height turnstile relay switch signal input wiring
 
@@ -114,9 +129,9 @@ The gate accepts relay switch signal input — the universal standard for access
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** full-height-safety.jpg
 **Image alt:** EASCO full height turnstile infrared anti-pinch sensor system
 
@@ -136,7 +151,7 @@ Infrared anti-pinch protection is built into the gate mechanism. On power cut or
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -165,32 +180,30 @@ Infrared anti-pinch protection is built into the gate mechanism. On power cut or
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
 **H2:** Credential In. Cross-Arm Rotates. One Person Through. 4 Steps.
 
-**Subtitle:** The full height turnstile enforces one-person-one-pass at the physical level.
-
 **Step 1 — Identity Verification**
-The peripheral device — face recognition terminal, card reader, or QR scanner — verifies the credential and sends a relay switch signal to the gate controller.
+The peripheral device verifies the credential and sends a relay switch signal to the gate controller.
 
 **Step 2 — Controller Signal**
-The gate controller receives the relay signal and releases the cross-arm mechanism for one 90° rotation.
+The gate controller receives the relay signal and releases the cross-arm for one 90° rotation.
 
 **Step 3 — Gate Movement**
-The servo drive rotates the cross-arm 90° in 1–2 seconds. One person passes through. The arm immediately re-locks after rotation. No second person can follow without a second authorization.
+The servo drive rotates the cross-arm 90° in 1–2 seconds. One person passes through. The arm immediately re-locks. No second person can follow without a second authorization.
 
 **Step 4 — Safety & Reset**
-Infrared anti-pinch monitoring runs throughout the rotation. On power cut or fire alarm, the mechanism releases for free rotation — egress is unrestricted in emergencies.
+Infrared anti-pinch monitoring runs throughout. On power cut or fire alarm, the mechanism releases for free rotation — egress is unrestricted in emergencies.
 
 **Image:** full-height-construction-site.jpg
 **Image alt:** EASCO full height turnstile installed at construction site real-name registration entrance
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -206,7 +219,7 @@ Infrared anti-pinch monitoring runs throughout the rotation. On power cut or fir
 **A3:** Face recognition terminals, IC/ID card readers, fingerprint scanners, QR code scanners, visitor management systems, LED access displays, alarms, and fire alarm modules — all via standard relay switch signal input.
 
 **Q4:** Can it be used outdoors?
-**A4:** Yes — with a protective canopy. Outdoor installation requires a weather canopy over the gate structure. Operating temperature is -15°C to 60°C.
+**A4:** Yes — with a protective canopy. Operating temperature is -15°C to 60°C.
 
 **Q5:** Does it open automatically in an emergency?
 **A5:** Yes — on power cut or fire alarm signal, the cross-arm mechanism releases and allows free rotation. Users can push through in any direction during an emergency egress.
@@ -216,7 +229,7 @@ Infrared anti-pinch monitoring runs throughout the rotation. On power cut or fir
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order a Full Height Turnstile?
 
@@ -240,7 +253,8 @@ Share your lane count, peripheral device requirements, and site conditions. EASC
 
 ## Notes for Developer
 
-- Spec table has two columns (single-lane / dual-lane) — use side-by-side comparison layout.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- Spec table (section 7) has two columns (single/dual-lane) — use side-by-side layout.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

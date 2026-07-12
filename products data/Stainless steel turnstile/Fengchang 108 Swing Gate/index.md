@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** stainless steel swing gate
-**Meta title:** Fengchang 108 Stainless Steel Swing Gate | EASCO (51 chars)
-**Meta description:** EASCO Fengchang 108 swing gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor, SUS304 outer cylinder. Indoor and outdoor use. Card, QR, face recognition. Factory direct Shenzhen. (191 chars — trim if needed)
+**Meta title:** Fengchang 108 Stainless Steel Swing Gate | EASCO
+**Meta description:** EASCO Fengchang 108 swing gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor, SUS304 outer cylinder. Indoor and outdoor use. Card, QR, face recognition. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** STAINLESS STEEL SWING GATE
 
-**H1:** Entry-Level Price. 50 People Per Minute. SUS304 Stainless Steel.
+**H1:** Fengchang 108 Stainless Steel Swing Gate
 
 **Subtext:**
-The Fengchang 108 is EASCO's entry-level cylindrical swing gate — 50 persons per minute, under 0.5-second opening, SUS304 stainless steel outer cylinder with 2.0 mm wall thickness. Drawer-rail design makes module replacement tool-free without opening the cabinet. Built for factories, residential communities, office parks, campuses, and libraries where basic access control and durability matter more than aesthetics.
+An entry-level cylindrical swing gate with a SUS304 outer cylinder and a drawer-rail electronics module — slide the core unit out in two steps without opening the cabinet. Processes 50 persons per minute, rated for indoor and outdoor use, and accepts card, QR code, and face recognition modules as add-ons.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/fengchang-108-swing-gate-spec.pdf
@@ -46,9 +46,24 @@ The Fengchang 108 is EASCO's entry-level cylindrical swing gate — 50 persons p
 
 ---
 
-## 2. Construction & Maintenance
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** fengchang-108-swing-gate-overview.jpg
+**Image alt:** EASCO Fengchang 108 stainless steel swing gate full product view, community entrance
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Entry-Level Price. 50 People Per Minute. SUS304 Stainless Steel.
+
+**Body:**
+The Fengchang 108 is EASCO's entry-level cylindrical swing gate — 50 persons per minute, under 0.5-second opening, SUS304 stainless steel outer cylinder with 2.0 mm wall thickness. Drawer-rail design makes module replacement tool-free without opening the cabinet. Built for factories, residential communities, office parks, campuses, and libraries where basic access control and durability matter more than aesthetics.
+
+---
+
+## 3. Construction & Maintenance
+
+**Layout:** Text left · Image right
 **Image:** fengchang-108-drawer-rail.jpg
 **Image alt:** EASCO Fengchang 108 swing gate drawer-rail maintenance design, tool-free module removal
 
@@ -69,9 +84,9 @@ The electronics module slides out on a drawer rail — two steps to remove the c
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** fengchang-108-modules.jpg
 **Image alt:** EASCO Fengchang 108 swing gate with optional card reader and face recognition panel
 
@@ -91,9 +106,9 @@ The Fengchang 108 ships as a gate-only unit with no credential readers. Add a ca
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** fengchang-108-integration.jpg
 **Image alt:** EASCO Fengchang 108 swing gate RS485 wiring interface
 
@@ -111,9 +126,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. The cloud manageme
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** fengchang-108-safety.jpg
 **Image alt:** EASCO Fengchang 108 swing gate fire alarm integration and ARM control module
 
@@ -129,13 +144,12 @@ On power cut or fire alarm signal, the gate opens and locks in the open position
 - ARM industrial control core — retains gate position on power restoration
 - Infrared sensor — optional add-on (1 pair)
 - Reverse braking + torque compensation on resistance detection
-- Sound alert on unauthorized entry (with sensor fitted)
 
 > **Important:** Infrared sensors are not included as standard. The optional 1-pair sensor add-on is recommended for sites with children or high-volume foot traffic.
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -164,13 +178,11 @@ On power cut or fire alarm signal, the gate opens and locks in the open position
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
 **H2:** Credential In. Gate Swings. 4 Steps.
-
-**Subtitle:** Every Fengchang 108 gate follows the same control flow — from credential check to passage.
 
 **Step 1 — Identity Verification**
 The selected credential module processes the authorization. External button or remote control operates the gate without a module fitted.
@@ -189,14 +201,14 @@ On power cut, the gate opens and the ARM core retains position — no recalibrat
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
 **H2:** What Buyers Ask Before Ordering the Fengchang 108 Swing Gate
 
 **Q1:** What makes the Fengchang 108 different from the 168 model?
-**A1:** The 108 has a smaller diameter cylinder (implied by model naming), a drawer-rail maintenance design, and is rated for both indoor and outdoor use. The 168 has a larger 168 mm diameter cylinder and a gas-strut assisted lid opening for maintenance. Both share the same 50 persons/minute throughput spec.
+**A1:** The 108 uses a drawer-rail maintenance design and is rated for both indoor and outdoor use with a 15-million-cycle motor at 50 persons/minute. The 168 has a larger φ168 mm cylinder, gas-strut assisted lid, 10-million-cycle motor, and 40 persons/minute throughput. Choose the 108 for higher throughput; choose the 168 where easier maintenance matters more.
 
 **Q2:** Does it come with infrared anti-crush sensors?
 **A2:** No — infrared sensors are an optional add-on (1 pair). The base unit does not include automatic obstacle detection. Add the sensor option at order time for sites with children or high-volume traffic.
@@ -215,7 +227,7 @@ On power cut, the gate opens and the ARM core retains position — no recalibrat
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Fengchang 108 Swing Gate?
 
@@ -239,7 +251,8 @@ Share your passage width, credential requirements, and site details. EASCO manuf
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - Infrared sensor notice must be clearly visible near the spec table and safety section.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

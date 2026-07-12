@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** handheld face recognition terminal
-**Meta title:** ESR366-S Handheld Terminal | EASCO (38 chars)
-**Meta description:** EASCO ESR366-S — Android 13, Qualcomm octa-core, 4600mAh detachable battery, 4G, 5.5-inch display, 16MP camera, 2D barcode scanner. Site attendance and warehouse management. Factory direct Shenzhen. (197 chars — trim)
+**Meta title:** ESR366-S Handheld Terminal | EASCO
+**Meta description:** EASCO ESR366-S — Android 13, Qualcomm octa-core, 4600mAh detachable battery, 4G, 5.5-inch display, 16MP camera, 2D barcode scanner. Site attendance and warehouse management. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** INTELLIGENT HANDHELD TERMINAL
 
-**H1:** Android 13. 4G. 4,600mAh Detachable Battery. Built for the Field.
+**H1:** ESR366-S Intelligent Handheld Terminal
 
 **Subtext:**
-The EASCO ESR366-S is an Android 13 handheld terminal running a Qualcomm Snapdragon SM6225 octa-core 2.4 GHz processor with 4 GB RAM. A 4,600 mAh detachable battery keeps it running through full shifts. 4G connectivity, 16 MP rear camera, 2D barcode scanning, and NFC make it suited to site attendance management, factory warehouse operations, logistics, and retail store management.
+Runs on a Qualcomm octa-core 2.4 GHz processor with 4 GB RAM and a 4,600 mAh detachable battery that swaps in the field without powering the device down. Covers 4G, dual-band WiFi, Bluetooth 5.1, and GPS — with a 2D barcode scanner and NFC built in for site attendance, warehouse, and logistics workflows.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/esr366-s-spec.pdf
@@ -46,9 +46,24 @@ The EASCO ESR366-S is an Android 13 handheld terminal running a Qualcomm Snapdra
 
 ---
 
-## 2. Performance & Processing
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** esr366-s-handheld-overview.jpg
+**Image alt:** EASCO ESR366-S handheld terminal full view, site attendance management use case
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Android 13. 4G. 4,600mAh Detachable Battery. Built for the Field.
+
+**Body:**
+The EASCO ESR366-S is an Android 13 handheld terminal running a Qualcomm Snapdragon SM6225 octa-core 2.4 GHz processor with 4 GB RAM. A 4,600 mAh detachable battery keeps it running through full shifts. 4G connectivity, 16 MP rear camera, 2D barcode scanning, and NFC make it suited to site attendance management, factory warehouse operations, logistics, and retail store management.
+
+---
+
+## 3. Performance & Processing
+
+**Layout:** Text left · Image right
 **Image:** esr366-s-processor.jpg
 **Image alt:** EASCO ESR366-S Qualcomm octa-core processor and 4GB RAM specification detail
 
@@ -69,9 +84,9 @@ The Qualcomm SM6225 octa-core processor at 2.4 GHz with 4 GB RAM + 64 GB storage
 
 ---
 
-## 3. Scanning & Identification
+## 4. Scanning & Identification
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** esr366-s-scanning.jpg
 **Image alt:** EASCO ESR366-S 2D barcode scanning and NFC card reading in use
 
@@ -91,9 +106,9 @@ The 2D scanning engine handles barcodes at ≥3 mil accuracy. NFC at 13.56 MHz r
 
 ---
 
-## 4. Connectivity
+## 5. Connectivity
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** esr366-s-connectivity.jpg
 **Image alt:** EASCO ESR366-S 4G, WiFi dual-band and Bluetooth 5.1 connectivity
 
@@ -115,9 +130,9 @@ The ESR366-S covers every wireless protocol needed for field operations: 4G LTE 
 
 ---
 
-## 5. Battery & Durability
+## 6. Battery & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** esr366-s-battery.jpg
 **Image alt:** EASCO ESR366-S 4600mAh detachable battery and charging cradle accessory
 
@@ -138,7 +153,7 @@ The 4,600 mAh battery is detachable — carry a spare and swap in the field with
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -179,7 +194,7 @@ The 4,600 mAh battery is detachable — carry a spare and swap in the field with
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -202,7 +217,7 @@ The detachable battery keeps the device running through a full shift. Carry a sp
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -228,7 +243,7 @@ The detachable battery keeps the device running through a full shift. Carry a sp
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the ESR366-S Handheld Terminal?
 
@@ -252,7 +267,8 @@ Send your quantity, regional 4G variant, and accessory requirements. EASCO manuf
 
 ## Notes for Developer
 
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
 - CN and EAU regional band variants should be selectable at order — flag this in the spec table.
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

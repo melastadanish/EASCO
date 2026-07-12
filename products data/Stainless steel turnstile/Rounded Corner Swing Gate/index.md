@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** stainless steel swing gate
-**Meta title:** Rounded Corner Stainless Steel Swing Gate | EASCO (52 chars)
-**Meta description:** EASCO rounded corner swing gate — 50 persons/min, <0.5s opening, 10M-cycle brushless motor, SUS304 curved corners, anti-collision design. Indoor and outdoor. Factory direct Shenzhen. (185 chars — trim)
+**Meta title:** Rounded Corner Stainless Steel Swing Gate | EASCO
+**Meta description:** EASCO rounded corner swing gate — 50 persons/min, <0.5s opening, 10M-cycle brushless motor, SUS304 curved corners, anti-collision design. Indoor and outdoor. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** STAINLESS STEEL SWING GATE
 
-**H1:** Smooth Curves. Enhanced Collision Protection. 50 People Per Minute.
+**H1:** Rounded Corner Stainless Steel Swing Gate
 
 **Subtext:**
-The EASCO rounded corner swing gate replaces sharp corners with smooth, flowing curves for a cleaner look and built-in bump protection. SUS304 stainless steel throughout, brushless DC gear motor, 50 persons per minute, under 0.5-second opening, 10 million cycles. Six infrared pairs standard. Suited for commercial office buildings, industrial parks, communities, schools, subway stations, and hotels.
+Smooth curved corners replace sharp edges across the SUS304 body — reducing bump risk in high-traffic passages and giving a softer, more refined look than right-angle alternatives. Processes 50 persons per minute with six infrared pairs standard, and is rated for indoor and outdoor installation.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/rounded-corner-swing-gate-spec.pdf
@@ -46,9 +46,24 @@ The EASCO rounded corner swing gate replaces sharp corners with smooth, flowing 
 
 ---
 
-## 2. Rounded Corner Design
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** rounded-corner-swing-gate-overview.jpg
+**Image alt:** EASCO rounded corner stainless steel swing gate full product view, commercial office building
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Smooth Curves. Enhanced Collision Protection. 50 People Per Minute.
+
+**Body:**
+The EASCO rounded corner swing gate replaces sharp corners with smooth, flowing curves for a cleaner look and built-in bump protection. SUS304 stainless steel throughout, brushless DC gear motor, 50 persons per minute, under 0.5-second opening, 10 million cycles. Six infrared pairs standard. Suited for commercial office buildings, industrial parks, communities, schools, subway stations, and hotels.
+
+---
+
+## 3. Rounded Corner Design
+
+**Layout:** Text left · Image right
 **Image:** rounded-corner-detail.jpg
 **Image alt:** EASCO rounded corner swing gate smooth curved corner detail and SUS304 surface finish
 
@@ -70,9 +85,9 @@ Rounded corners remove the sharp-edge risk at the top of each column — relevan
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** rounded-corner-access.jpg
 **Image alt:** EASCO rounded corner swing gate with face recognition and palm print modules
 
@@ -95,9 +110,9 @@ The rounded corner swing gate accepts facial recognition terminals, IC/ID card r
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** rounded-corner-integration.jpg
 **Image alt:** EASCO rounded corner swing gate RS485 interface and cloud platform
 
@@ -115,9 +130,9 @@ Gate-open signals via RS485, RS232, or IO relay. Cloud backend and WeChat mini-p
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** rounded-corner-safety.jpg
 **Image alt:** EASCO rounded corner swing gate 6 infrared sensor pairs anti-pinch protection
 
@@ -137,7 +152,7 @@ Six infrared sensor pairs provide full-range detection. Anti-pinch and anti-coll
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -166,7 +181,7 @@ Six infrared sensor pairs provide full-range detection. Anti-pinch and anti-coll
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -189,14 +204,14 @@ Resistance triggers anti-pinch. On power cut, gate opens for evacuation.
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
 **H2:** What Buyers Ask Before Ordering the Rounded Corner Swing Gate
 
 **Q1:** How does this differ from the right-angle swing gate?
-**A1:** The rounded corner model uses smooth curved corners for a softer aesthetic and reduced collision risk. The right-angle model has bold, sharp corners for an industrial look and uses a higher-power servo + planetary reducer (200 W, 15M cycles) versus the brushless gear motor here (60 W, 10M cycles). Choose based on throughput priority and design requirements.
+**A1:** The rounded corner model uses smooth curved corners for a softer aesthetic and reduced collision risk. The right-angle model has bold sharp corners for an industrial look and uses a higher-power servo + planetary reducer (200 W, 15M cycles) versus the brushless gear motor here (60 W, 10M cycles). Choose based on throughput priority and design requirements.
 
 **Q2:** What throughput does it deliver?
 **A2:** 50 persons per minute. The gate opens in under 0.5 seconds and supports single or dual mechanism configurations for traffic diversion.
@@ -215,7 +230,7 @@ Resistance triggers anti-pinch. On power cut, gate opens for evacuation.
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Rounded Corner Swing Gate?
 
@@ -239,6 +254,7 @@ Share your lane count, passage width, and peripheral requirements. Manufactured 
 
 ## Notes for Developer
 
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

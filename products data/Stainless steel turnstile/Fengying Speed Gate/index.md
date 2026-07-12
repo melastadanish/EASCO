@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** stainless steel speed gate
-**Meta title:** Fengying Stainless Steel Speed Gate | EASCO (47 chars)
-**Meta description:** EASCO Fengying stainless steel speed gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor, SUS304 body. Office parks, campuses, hospitals. Factory direct Shenzhen. (179 chars)
+**Meta title:** Fengying Stainless Steel Speed Gate | EASCO
+**Meta description:** EASCO Fengying stainless steel speed gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor, SUS304 body. Office parks, campuses, hospitals. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** STAINLESS STEEL SPEED GATE
 
-**H1:** SUS304 Body. 50 People Per Minute. Corrosion-Resistant for the Long Term.
+**H1:** Fengying Stainless Steel Speed Gate
 
 **Subtext:**
-The Fengying stainless steel speed gate delivers 50 persons per minute through a 550–1,200 mm passage using a SUS304 stainless steel body that resists corrosion, impact, and the cleaning chemicals common in hospitals, food facilities, and institutional buildings. Brushless motor, 15 million cycles, under 0.5-second opening. Face recognition, card, and QR code modules available as add-ons.
+A full SUS304 stainless steel body that resists corrosion, cleaning agents, and impact — suited for hospitals, food facilities, and institutional buildings where the gate is wiped down regularly. Processes 50 persons per minute with a 15-million-cycle brushless motor, and accepts face recognition, card, and QR modules as add-ons.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/fengying-stainless-speed-gate-spec.pdf
@@ -46,9 +46,24 @@ The Fengying stainless steel speed gate delivers 50 persons per minute through a
 
 ---
 
-## 2. Stainless Steel Construction
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** fengying-stainless-speed-gate-overview.jpg
+**Image alt:** EASCO Fengying stainless steel speed gate full product view, indoor hospital corridor
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** SUS304 Body. 50 People Per Minute. Corrosion-Resistant for the Long Term.
+
+**Body:**
+The Fengying stainless steel speed gate delivers 50 persons per minute through a 550–1,200 mm passage using a SUS304 stainless steel body that resists corrosion, impact, and the cleaning chemicals common in hospitals, food facilities, and institutional buildings. Brushless motor, 15 million cycles, under 0.5-second opening. Face recognition, card, and QR code modules available as add-ons.
+
+---
+
+## 3. Stainless Steel Construction
+
+**Layout:** Text left · Image right
 **Image:** fengying-chassis-detail.jpg
 **Image alt:** EASCO Fengying stainless steel speed gate SUS304 chassis close-up, 1.5mm top cover
 
@@ -57,7 +72,7 @@ The Fengying stainless steel speed gate delivers 50 persons per minute through a
 **H2:** SUS304 Throughout. Holds Its Finish Under Hospital-Grade Cleaning.
 
 **Body:**
-The entire body is SUS304 stainless steel — top cover at 1.5 mm, machine body at 1.0 mm, with customizable material thickness available on order. SUS304 resists corrosion from cleaning agents, humidity, and regular surface wiping without oxidizing or staining. The material thickness is available to customise for higher-load environments.
+The entire body is SUS304 stainless steel — top cover at 1.5 mm, machine body at 1.0 mm, with customizable material thickness available on order. SUS304 resists corrosion from cleaning agents, humidity, and regular surface wiping without oxidizing or staining.
 
 **Material specs:**
 - Chassis: full SUS304 stainless steel
@@ -68,9 +83,9 @@ The entire body is SUS304 stainless steel — top cover at 1.5 mm, machine body 
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** fengying-access-modules.jpg
 **Image alt:** EASCO Fengying stainless steel speed gate with optional face recognition and card reader
 
@@ -79,21 +94,21 @@ The entire body is SUS304 stainless steel — top cover at 1.5 mm, machine body 
 **H2:** Add Credential Modules as the Site Requires.
 
 **Body:**
-The Fengying ships as a gate-only unit and accepts credential modules as add-ons — card reader, QR code scanner, ID card module, face recognition panel, and the Gate Companion (闸机伴侣) unit. All modules connect to the ARM controller without additional hardware.
+The Fengying ships as a gate-only unit and accepts credential modules as add-ons — card reader, QR code scanner, ID card module, face recognition panel, and the Gate Companion unit. All modules connect to the ARM controller without additional hardware.
 
 **Optional credential modules:**
 - IC/ID card reader — add-on
 - QR code scanner — add-on
 - ID card / passport reader — add-on
 - Face recognition panel — add-on
-- Gate Companion unit — add-on (for advanced management scenarios)
+- Gate Companion unit — add-on
 - Remote control / button / smart terminal signal — standard
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** fengying-integration.jpg
 **Image alt:** EASCO Fengying stainless steel speed gate RS485 interface wiring
 
@@ -111,9 +126,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. The cloud manageme
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** fengying-safety.jpg
 **Image alt:** EASCO Fengying stainless steel speed gate infrared sensors and anti-crush mechanism
 
@@ -133,7 +148,7 @@ Six infrared sensor pairs monitor the full passage in real time. When resistance
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -163,13 +178,11 @@ Six infrared sensor pairs monitor the full passage in real time. When resistance
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
 **H2:** Credential In. Gate Open. 4 Steps.
-
-**Subtitle:** Every Fengying gate follows the same control flow — from credential check to passage — in under a second.
 
 **Step 1 — Identity Verification**
 The add-on credential module — card, QR code, or face recognition panel — processes the authorization. External button or remote control operates the gate without a module fitted.
@@ -188,7 +201,7 @@ Resistance triggers reverse braking and three-stage torque compensation. On powe
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -214,7 +227,7 @@ Resistance triggers reverse braking and three-stage torque compensation. On powe
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Fengying Stainless Steel Speed Gate?
 
@@ -238,6 +251,7 @@ Send your lane count, passage width, and credential requirements. EASCO manufact
 
 ## Notes for Developer
 
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** compact mini speed gate
-**Meta title:** Yunyi Mini Speed Gate | EASCO (34 chars)
-**Meta description:** EASCO Yunyi mini speed gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor. One-third smaller than standard speed gates. Tight spaces and retrofit projects. Factory direct Shenzhen. (196 chars — trim if needed)
+**Meta title:** Yunyi Mini Speed Gate | EASCO
+**Meta description:** EASCO Yunyi mini speed gate — 50 persons/min, <0.5s opening, 15M-cycle brushless motor. One-third smaller than standard speed gates. Tight spaces and retrofit projects. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** COMPACT MINI SPEED GATE
 
-**H1:** One-Third Smaller. Same 50 People Per Minute.
+**H1:** Yunyi Mini Speed Gate
 
 **Subtext:**
-The Yunyi mini speed gate installs in spaces where a standard gate won't fit — VIP lounges, bank branches, convenience stores, secondary ticket checkpoints, and narrow retrofit corridors. It saves roughly one-third of the floor area of a conventional speed gate while delivering 50 persons per minute and a sub-0.5-second opening. Brushless motor, 15 million cycles, anti-crush on resistance detection.
+Saves roughly one-third of the floor area of a standard speed gate while delivering the same 50 persons per minute throughput and sub-0.5-second opening. Purpose-built for retrofit corridors, bank branches, VIP lounges, and any installation where a full-size gate simply won't fit.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/yunyi-mini-speed-gate-spec.pdf
@@ -46,9 +46,24 @@ The Yunyi mini speed gate installs in spaces where a standard gate won't fit —
 
 ---
 
-## 2. Compact Footprint
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** yunyi-mini-speed-gate-overview.jpg
+**Image alt:** EASCO Yunyi mini speed gate full product view, narrow bank branch entrance
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** One-Third Smaller. Same 50 People Per Minute.
+
+**Body:**
+The Yunyi mini speed gate installs in spaces where a standard gate won't fit — VIP lounges, bank branches, convenience stores, secondary ticket checkpoints, and narrow retrofit corridors. It saves roughly one-third of the floor area of a conventional speed gate while delivering 50 persons per minute and a sub-0.5-second opening. Brushless motor, 15 million cycles, anti-crush on resistance detection.
+
+---
+
+## 3. Compact Footprint
+
+**Layout:** Text left · Image right
 **Image:** yunyi-mini-footprint.jpg
 **Image alt:** EASCO Yunyi mini speed gate installed in narrow bank branch entrance, compact footprint
 
@@ -68,9 +83,9 @@ The Yunyi's body is approximately one-third smaller than a standard speed gate i
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** yunyi-mini-modules.jpg
 **Image alt:** EASCO Yunyi mini speed gate with optional card reader and face recognition module
 
@@ -90,9 +105,9 @@ The Yunyi ships as a gate-only unit and accepts credential modules as add-ons: c
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** yunyi-mini-integration.jpg
 **Image alt:** EASCO Yunyi mini speed gate RS485 connection interface
 
@@ -110,9 +125,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. The cloud manageme
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** yunyi-mini-safety.jpg
 **Image alt:** EASCO Yunyi mini speed gate anti-crush mechanism and infrared sensor pair
 
@@ -132,7 +147,7 @@ Six infrared sensor pairs monitor the full passage. When resistance is detected 
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -162,7 +177,7 @@ Six infrared sensor pairs monitor the full passage. When resistance is detected 
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
@@ -187,7 +202,7 @@ Resistance triggers reverse braking and three-stage torque compensation. On powe
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
@@ -213,7 +228,7 @@ Resistance triggers reverse braking and three-stage torque compensation. On powe
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Yunyi Mini Speed Gate?
 
@@ -237,6 +252,7 @@ Tell EASCO your space constraints, lane count, and credential requirements. Manu
 
 ## Notes for Developer
 
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.

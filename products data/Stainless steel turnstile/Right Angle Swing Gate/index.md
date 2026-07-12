@@ -13,8 +13,8 @@ Last Updated: 2026-07-12
 **Status:** READY FOR DEVELOPMENT
 **Last updated:** 2026-07-12
 **Primary keyword:** stainless steel swing gate
-**Meta title:** Right-Angle Swing Gate | EASCO (34 chars)
-**Meta description:** EASCO right-angle swing gate — 50 persons/min, <0.5s opening, 15M-cycle servo planetary drive, SUS304 body, 6 infrared pairs. Indoor and outdoor. Factory direct Shenzhen. (174 chars)
+**Meta title:** Right-Angle Swing Gate | EASCO
+**Meta description:** EASCO right-angle swing gate — 50 persons/min, <0.5s opening, 15M-cycle servo planetary drive, SUS304 body, 6 infrared pairs. Indoor and outdoor. Factory direct Shenzhen.
 
 ---
 
@@ -24,10 +24,10 @@ Last Updated: 2026-07-12
 
 **Eyebrow:** STAINLESS STEEL SWING GATE
 
-**H1:** Right-Angle Lines. 50 People Per Minute. 15M-Cycle Servo Drive.
+**H1:** Right-Angle Swing Gate
 
 **Subtext:**
-The EASCO right-angle swing gate uses a DC servo + planetary gear reducer drive for 50 persons per minute throughput at under 0.5 seconds opening speed — and a 15-million-cycle motor lifespan built for high-intensity, high-frequency traffic. The SUS304 body features right-angle cut corners for a bold, industrial aesthetic. Six infrared pairs standard. Installs indoors or outdoors.
+Bold right-angle cut corners on a SUS304 body, powered by a DC servo + planetary gear reducer delivering 200 W continuous and a 15-million-cycle rated lifespan — built for high-frequency, high-intensity sites. Six infrared pairs come standard, and it installs indoors or outdoors.
 
 **CTA Primary:** Request a Quote → /quote/
 **CTA Secondary:** Download Spec Sheet → /downloads/right-angle-swing-gate-spec.pdf
@@ -46,9 +46,24 @@ The EASCO right-angle swing gate uses a DC servo + planetary gear reducer drive 
 
 ---
 
-## 2. Construction & Drive System
+## 2. Overview
 
 **Layout:** Image left · Text right
+**Image:** right-angle-swing-gate-overview.jpg
+**Image alt:** EASCO right-angle swing gate full product view, industrial office park entrance
+
+**Eyebrow:** PRODUCT OVERVIEW
+
+**H2:** Right-Angle Lines. 50 People Per Minute. 15M-Cycle Servo Drive.
+
+**Body:**
+The EASCO right-angle swing gate uses a DC servo + planetary gear reducer drive for 50 persons per minute throughput at under 0.5 seconds opening speed — and a 15-million-cycle motor lifespan built for high-intensity, high-frequency traffic. The SUS304 body features right-angle cut corners for a bold, industrial aesthetic. Six infrared pairs standard. Installs indoors or outdoors.
+
+---
+
+## 3. Construction & Drive System
+
+**Layout:** Text left · Image right
 **Image:** right-angle-chassis-detail.jpg
 **Image alt:** EASCO right-angle swing gate SUS304 corner detail and servo planetary drive mechanism
 
@@ -57,7 +72,7 @@ The EASCO right-angle swing gate uses a DC servo + planetary gear reducer drive 
 **H2:** 200W Servo Drive. 15 Million Cycles. Built for High-Frequency Sites.
 
 **Body:**
-The DC servo + integrated planetary gear reducer delivers 200 W of continuous power (peak 350 W) with a 15-million-cycle rated lifespan — twice the lifespan of standard brushless motors. The right-angle cut corners give the SUS304 body a sharp, industrial aesthetic. Top cover is 1.5 mm thick stainless steel; the enclosure is 1.0 mm.
+The DC servo + integrated planetary gear reducer delivers 200 W of continuous power (peak 350 W) with a 15-million-cycle rated lifespan. The right-angle cut corners give the SUS304 body a sharp, industrial aesthetic. Top cover is 1.5 mm thick stainless steel; the enclosure is 1.0 mm.
 
 **Construction specs:**
 - SUS304 stainless steel — top cover 1.5 mm, enclosure 1.0 mm
@@ -71,9 +86,9 @@ The DC servo + integrated planetary gear reducer delivers 200 W of continuous po
 
 ---
 
-## 3. Credential Methods & Access Control
+## 4. Credential Methods & Access Control
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** right-angle-access-modules.jpg
 **Image alt:** EASCO right-angle swing gate with face recognition terminal and card reader peripherals
 
@@ -96,9 +111,9 @@ The right-angle swing gate accepts face recognition terminals, IC/ID card reader
 
 ---
 
-## 4. Integration & System Compatibility
+## 5. Integration & System Compatibility
 
-**Layout:** Image left · Text right
+**Layout:** Text left · Image right
 **Image:** right-angle-integration.jpg
 **Image alt:** EASCO right-angle swing gate RS485 wiring and cloud platform interface
 
@@ -117,9 +132,9 @@ Gate-open signals are accepted via RS485, RS232, or IO relay. Cloud backend mana
 
 ---
 
-## 5. Safety & Durability
+## 6. Safety & Durability
 
-**Layout:** Text left · Image right
+**Layout:** Image left · Text right
 **Image:** right-angle-safety.jpg
 **Image alt:** EASCO right-angle swing gate 6 infrared sensor pairs and anti-crush mechanism
 
@@ -139,7 +154,7 @@ Six infrared sensor pairs provide full-range detection across the passage. When 
 
 ---
 
-## 6. Full Specifications
+## 7. Full Specifications
 
 **Eyebrow:** FULL SPECIFICATIONS
 
@@ -168,17 +183,17 @@ Six infrared sensor pairs provide full-range detection across the passage. When 
 
 ---
 
-## 7. How It Works
+## 8. How It Works
 
 **Eyebrow:** HOW IT WORKS
 
 **H2:** Credential In. Gate Swings. 4 Steps.
 
 **Step 1 — Identity Verification**
-The peripheral device — face recognition terminal, card reader, QR scanner, or palm print module — verifies the credential and sends an open signal via RS485, RS232, or IO.
+The peripheral device verifies the credential and sends an open signal via RS485, RS232, or IO.
 
 **Step 2 — Controller Signal**
-The gate controller receives the signal and activates the servo motor drive.
+The gate controller activates the servo motor drive.
 
 **Step 3 — Gate Movement**
 The servo + planetary reducer opens the gate in under 0.5 seconds. Six infrared pairs monitor the passage throughout. Throughput reaches 50 persons per minute.
@@ -191,14 +206,14 @@ Resistance triggers anti-crush protection. On power cut, the gate opens for evac
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 **Eyebrow:** COMMON QUESTIONS
 
 **H2:** What Buyers Ask Before Ordering the Right-Angle Swing Gate
 
 **Q1:** What is the difference between the right-angle and rounded-corner swing gate?
-**A1:** Both use the same 50 persons/minute throughput and 15-million-cycle servo planetary drive. The right-angle model has sharp, industrial corner lines for a bold aesthetic. The rounded-corner model has smooth curved corners for a softer look with enhanced bump protection. Choose based on the building's design language.
+**A1:** Both use the same 50 persons/minute throughput and 15-million-cycle servo planetary drive. The right-angle model has sharp industrial corner lines. The rounded-corner model has smooth curved corners for a softer look with enhanced bump protection. Choose based on the building's design language.
 
 **Q2:** What throughput does it deliver?
 **A2:** 50 persons per minute. The servo + planetary reducer opens in under 0.5 seconds and sustains continuous flow for morning and evening rush hours.
@@ -217,7 +232,7 @@ Resistance triggers anti-crush protection. On power cut, the gate opens for evac
 
 ---
 
-## 9. CTA
+## 10. CTA
 
 **H2:** Ready to Order the Right-Angle Swing Gate?
 
@@ -241,6 +256,7 @@ Share your lane count, passage width, and access method requirements. EASCO manu
 
 ## Notes for Developer
 
-- FAQ: accordion on mobile, stacked on desktop. FAQPage schema required.
-- CTA: dark #1A1A1A background. Primary button Brand Red.
+- Overview (section 2): Image left, text right — full-width introductory section above all feature sections.
+- FAQ (section 9): accordion on mobile, stacked on desktop. FAQPage schema required.
+- CTA (section 10): dark #1A1A1A background. Primary button Brand Red.
 - WhatsApp floating button: +86 13711422283.
