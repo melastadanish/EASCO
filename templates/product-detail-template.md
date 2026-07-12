@@ -1,629 +1,266 @@
-# PRODUCT DETAIL PAGE TEMPLATE — EASCO
-
-**Copy this file for each new product page. Fill in every [FIELD]. Remove this header before saving.**  
-**All specs must come from `_system/client-data-map.md` only. Never invent numbers.**  
-**Voice: second person, benefit-first, numbers embedded in sentences — never as standalone labels.**
-
----
-
-## METADATA
-
-```
-Product Name:       [Full Product Name]
-Status:             DRAFT
-Last updated:       [DATE]
-Primary keyword:    [primary keyword]
-SEO Title:          [Primary Keyword] | EASCO ([X] chars — max 60)
-SEO Description:    [1 sentence — primary keyword in first 10 words + key benefit + brand name] ([X] chars — max 155)
-Category:           [Parent Category — e.g., Gate Opener, Turnstile, Face Recognition]
-Product Slug:       [URL slug]
-Target URL:         /[category-slug]/[product-slug]/
-Word Count Target:  1,500–2,200 words
-```
+# Product Page Template — EASCO
+> Copy this file for each new product page. Fill in every [FIELD]. Remove this instruction block before saving.
+> All specs must come from _system/client-data-map.md only. Never invent numbers.
+> Voice: second person, benefit-first, numbers embedded in sentences — never as standalone labels.
+> Mandatory differentiators: D2 + minimum 2 product-specific from differentiator-card.md.
 
 ---
 
-## SECTION CHECKLIST
+# [Product Name]
 
-- [ ] Section 1 — Hero (Category Tag, H1, Description, 4 Key Stats, CTAs, Trust badges)
-- [ ] Section 2 — Tabbed Navigation (Overview | Details | Technical Specifications)
-  - [ ] Tab 1: Overview (red title + H2 + body text + image)
-  - [ ] Tab 2: Details (setup/specs/integration info)
-  - [ ] Tab 3: Technical Specifications (full spec table from client-data-map.md)
-- [ ] Section 3 — Feature Section 1 (Custom title, left/right layout, callouts/checkmarks)
-- [ ] Section 4 — Feature Section 2 (Custom title, alternating layout)
-- [ ] Section 5 — Feature Section 3 (Custom title, alternating layout)
-- [ ] Section 6 — Feature Section 4 (Custom title, alternating layout)
-- [ ] Section 7 — What's in the Box (kit contents, flat-lay image)
-- [ ] Section 8 — How It Works (4 steps, factory photo)
-- [ ] Section 9 — FAQ (6 questions minimum)
-- [ ] Section 10 — Optional: You May Also Need (cross-sell products)
-- [ ] Section 11 — Optional: Why EASCO
-- [ ] Section 12 — Optional: Final CTA
-- [ ] All content verified against client-data-map.md
-- [ ] Pass A, B, N, D, C complete
+**Status:** DRAFT  
+**Last updated:** [DATE]  
+**Primary keyword:** [primary keyword — e.g. "speed gate", "face recognition terminal", "turnstile gate"]  
+**Meta title:** [Primary Keyword] | EASCO ([X] chars — max 60)  
+**Meta description:** [1 sentence — primary keyword in first 10 words + key spec + EASCO] ([X] chars — max 155)
 
 ---
 
-## CONTENT
+## 1. Hero
 
----
+**Breadcrumb:** Home > [Parent Category] > [Product Name]
 
-### SECTION 1: HERO BANNER
+**Eyebrow:** [PRODUCT CATEGORY IN CAPS — e.g. SPEED GATE / FACE RECOGNITION TERMINAL / SWING GATE]
 
-**Layout:** Left = Product Image | Right = Content
+**H1:** [Outcome headline — 5–8 words, primary keyword included]
 
-**Breadcrumb:**  
-Home > [Category] > [Product Name]
+**Subtext:** [2–3 sentences. Lead with the strongest buyer outcome. Embed key spec numbers — throughput, recognition speed, IP rating, or motor lifespan. End with a reason to stay on the page.]
 
-**Eyebrow (red, uppercase):**  
-[PRODUCT CATEGORY — e.g., "HEAVY DUTY DOOR OPENERS"]
+**CTA Primary:** Request a Quote → /quote/  
+**CTA Secondary:** Download Spec Sheet → /downloads/[product-slug]-spec.pdf
 
-**H1 (5–8 words, benefit-first, primary keyword included)**
-- Example: "Heavy-Duty Swing Gate Opener, 1,200 kg"
+**Image:** [product-image-filename.jpg]  
+**Image alt:** [Descriptive alt text — product name + key visual detail, e.g. "EASCO Stargate speed gate with face recognition panel, aluminum alloy body"]
 
-**Subtext (2–3 sentences)**
-- Lead with strongest benefit
-- Embed key spec numbers naturally
-- End with clear reason to stay on page
-- Example: "Heavy-duty swing gate opener rated to 1,200 kg and 6 m leaf length. Delivers 650 Nm torque with dual swing capability. WiFi and Bluetooth built in. 24V DC, ships complete."
-
-**CTA Primary:**  
-[Request a Quote] → https://wa.me/8613711422283
-
-**CTA Secondary:**  
-[Download Spec Sheet] → /downloads/[product-slug]-spec.pdf
-
-**Product Image:**  
-[product-image-filename.jpg]
-
-**Image Alt Text:**  
-[Descriptive — product name + key detail]
-
-**Four Key Stat Boxes** (Brand Red background)
+**Specs strip (4 stats, Brand Red background):**
 
 | Stat | Label |
 |---|---|
-| [Value] | [Label/what it enables] |
-| [Value] | [Label/what it enables] |
-| [Value] | [Label/what it enables] |
-| [Value] | [Label/what it enables] |
-
-**Example:**
-| 650 Nm | Max output torque |
-| 1,200 kg | Max gate weight |
-| 6 m | Max gate leaf length |
-| -35°C to +70°C | Operating temperature |
-
-**Trust Badges (bottom):**
-✓ ISO 9001 · ✓ CE Marked · ✓ 16+ Years Manufacturing
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Benefit-first ☐ All stats from client-data-map.md
+| [Value — e.g. 50/min] | [Label — e.g. Throughput] |
+| [Value — e.g. <0.5s] | [Label — e.g. Opening Speed] |
+| [Value — e.g. 15M cycles] | [Label — e.g. Motor Lifespan] |
+| [Value — e.g. IP65] | [Label — e.g. Protection Rating] |
 
 ---
 
-### SECTION 2: TABBED PRODUCT DETAILS
+## 2. [Feature Group 1 — e.g. Throughput & Speed]
 
-**Tab Navigation (3 tabs — persistent):**
+**Layout:** Image left · Text right  
+**Image:** [image-filename.jpg]  
+**Image alt:** [Alt text]
 
----
+**Eyebrow:** [SECTION LABEL IN CAPS — e.g. THROUGHPUT / RECOGNITION / GATE MECHANISM]
 
-#### TAB 1: OVERVIEW
+**H2:** [Benefit headline — lead with outcome, embed a spec number, e.g. "50 People Per Minute. Zero Bottleneck."]
 
-**Layout:** Left = Content | Right = Product photo/use-case image
+**Body:** [2–3 sentences. Benefit first. One spec number per sentence minimum. Explain any non-standard term inline — crank-link transmission, liveness detection, etc.]
 
-**Red Section Title (above H2):**  
-"The [Product Name] Built for [Primary Use/Benefit]"
-- Example: "The Heavy Duty Swing Gate Opener Built for Gates Up to 1,200 kg"
-
-**H2:** "Overview"
-
-**Body Text (200–300 words)**
-- Full product description
-- What problem it solves
-- Key capabilities and benefits
-- Operating conditions
-- Who uses it
-- Why EASCO's version is different
-
-**Right Side Image:**  
-Product installation/operational photo with dimension callouts (optional)
-
-**Image Alt Text:**  
-[Descriptive]
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability ☐ Benefit-first
+**Stats / Features:**
+- [e.g. 50 persons/minute throughput]
+- [e.g. <0.5-second door opening speed]
+- [e.g. DC brushless motor — 15 million cycle lifespan]
+- [e.g. Passage width 550–1,200mm, customisable]
 
 ---
 
-#### TAB 2: DETAILS
+## 3. [Feature Group 2 — e.g. Credential Methods & Access Control]
 
-**H2:** "Details"
+**Layout:** Text left · Image right  
+**Image:** [image-filename.jpg]  
+**Image alt:** [Alt text]
 
-**Body Text (200–300 words)**
-- Installation information
-- Wiring/power requirements
-- Integration capabilities
-- Compatibility notes
-- Maintenance requirements
-- Technical setup details
+**Eyebrow:** [SECTION LABEL IN CAPS — e.g. ACCESS METHODS / BIOMETRIC RECOGNITION / IDENTITY VERIFICATION]
 
-**Optional: Step-by-step process** with outcomes
+**H2:** [Benefit headline — e.g. "One Gate. Every Credential Method."]
 
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Readability
+**Body:** [2–3 sentences. Cover the range of access methods supported. Reference accuracy or speed spec.]
+
+**Supported credential methods:**
+- [e.g. Face recognition — 99.98% accuracy, 200–300ms, 50,000-face onboard capacity]
+- [e.g. IC/ID card — Wiegand 26/34, RS485]
+- [e.g. QR code scanning]
+- [e.g. ID card / passport module]
+- [e.g. Remote control]
 
 ---
 
-#### TAB 3: TECHNICAL SPECIFICATIONS
+## 4. [Feature Group 3 — e.g. Integration & System Compatibility]
 
-**H2:** "Technical Specifications"
+**Layout:** Image left · Text right  
+**Image:** [image-filename.jpg]  
+**Image alt:** [Alt text]
 
-**Top Element:** "Download Product Manual" button
+**Eyebrow:** [SECTION LABEL IN CAPS — e.g. INTEGRATION / SYSTEM COMPATIBILITY / CONNECTIVITY]
 
-**Optional Sub-tabs** (if extensive specs):
-- e.g., "Performance Data | Limits & Control Systems | Physical & Ambient Specs"
+**H2:** [Benefit headline — e.g. "Plugs Into Your Existing System on Day One."]
 
-**Specifications Table** (all values from client-data-map.md)
+**Body:** [2–3 sentences. Cover integration interfaces. Address objection O5 — will it work with existing access control platform.]
+
+**Integration interfaces:**
+- [e.g. RS485 / RS232 / IO signal input]
+- [e.g. Wiegand 26/34 output]
+- [e.g. TCP/IP Ethernet — RJ45]
+- [e.g. WiFi 2.4GHz]
+- [e.g. SDK and API documentation available for custom platform integration]
+- [e.g. WeChat Mini Program for remote management and parameter setting]
+
+---
+
+## 5. [Feature Group 4 — e.g. Safety & Durability]
+
+**Layout:** Text left · Image right  
+**Image:** [image-filename.jpg]  
+**Image alt:** [Alt text]
+
+**Eyebrow:** [SECTION LABEL IN CAPS — e.g. SAFETY & PROTECTION / DURABILITY / ANTI-TAILGATING]
+
+**H2:** [Benefit headline — e.g. "Nobody Gets Trapped. Nobody Tailgates."]
+
+**Body:** [2–3 sentences. Cover anti-crush, anti-tailgating, fire emergency release. Address objections O11 and O12.]
+
+**Safety features:**
+- [e.g. Crank-link transmission with magnetic-sensitive limit control — gate stops the instant it meets resistance]
+- [e.g. Infrared anti-tailgating sensor array — [X] pairs standard]
+- [e.g. Fire alarm integration — gate opens automatically on power cut or fire signal]
+- [e.g. ARM industrial control core — remembers gate position on power restoration, no recalibration needed]
+- [e.g. IP65-rated housing — dust-proof and water jet resistant for outdoor installation]
+
+---
+
+## 6. Full Specifications
+
+**Eyebrow:** FULL SPECIFICATIONS
+
+**H2:** [Product Name] — Complete Technical Specification
+
+**Subtitle:** All figures verified against EASCO factory documentation. Confirm any ⚠️-marked values with EASCO before using in final copy.
 
 | Specification | Value |
 |---|---|
-| Model No. | |
-| Power Supply Voltage | |
-| Motor Operating Voltage | |
-| Power/Wattage | |
-| Rated Output Torque | |
-| Operating Speed | |
-| Maximum Capacity/Weight | |
-| Maximum Dimensions | |
-| Operating Temperature Range | |
-| Storage Temperature Range | |
-| Humidity Range | |
-| Communication Interfaces | |
-| Wireless Connectivity | |
-| Control Methods | |
-| IP Rating | |
-| Certifications | |
-| Warranty Period | |
-| Lead Time | |
-
-**Tier 1 checks:** ☐ All specs verified ☐ No unconfirmed specs without ⚠️ mark
-
----
-
-### SECTION 3: FEATURE SECTION 1 (CUSTOMIZABLE)
-
-**Choose layout: LEFT/RIGHT or RIGHT/LEFT**
-
-**Red Section Label (uppercase):**  
-[Custom per product — describes what this section highlights]
-- Example: "SPEED & PRECISION" or "SLIM, SAFE & EASY TO INSTALL"
-
-**H2 Headline (benefit-first, outcome-led, embed key spec/metric)**
-- Example: "69.7°/s. The Fastest Swing Speed in the Range."
-- OR: "6.4 kg, 24V DC, Mounts to Most Gateposts in Hours"
-
-**LEFT SIDE OPTION A — Text + Checkmarks:**
-
-**Body Text (150–200 words)**
-- Explain the feature/benefit
-- One number per sentence minimum
-- No jargon without explanation
-
-**3 Checkmark Bullets:**
-- ✓ [Benefit with spec]
-- ✓ [Benefit with spec]
-- ✓ [Benefit with spec]
-
-**LEFT SIDE OPTION B — Large Stat Callout:**
-
-```
-┌────────────────────┐
-│    69.7°/s         │
-│                    │
-│  [Product image]   │
-│                    │
-│ 200kg | 1.5m |≥90°│
-│ FASTEST IN RANGE   │
-└────────────────────┘
-```
-
-**RIGHT SIDE OPTION A — Product with Visual Callouts:**
-
-Product image surrounded by colored callout boxes:
-```
-🏋️ 6.4 kg | Lightweight | Easy One-Person Install
-⚡ 24V DC | Safe Voltage | No Electric Shock Risk
-📏 355 mm | Compact Base | Fits Most Gateposts
-🌡️ -25°C to +70°C | Operating Range
-```
-
-**RIGHT SIDE OPTION B — Product with Icons/Badges:**
-
-Product image with feature icons positioned around it
-
-**RIGHT SIDE OPTION C — Circular Diagram:**
-
-Central product with 5–6 surrounding circular icons (e.g., access methods, features)
-
-**RIGHT SIDE OPTION D — Installation/Use Photo:**
-
-Real-world photo showing product in use with optional callouts
-
-**Image:** [image-filename.jpg]  
-**Image Alt Text:** [Descriptive]
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Benefit-first ☐ Visual + text aligned
+| Model | [Model code — from client-data-map.md] |
+| Throughput | [Value — persons/min] |
+| Gate opening speed | [Value — seconds] |
+| Passage width | [Value — mm range] |
+| Drive motor | [e.g. DC brushless linear Hall + planetary reducer / Direct-drive servo] |
+| Motor power | [Value — W, peak W] |
+| Motor lifespan | [Value — million cycles] |
+| Gate opening method | [e.g. RS485 / RS232 / IO] |
+| Infrared sensors | [Value — pairs standard / optional] |
+| Face recognition accuracy | [Value — e.g. 99.98%] |
+| Recognition speed | [Value — e.g. 200–300ms] |
+| Face capacity | [Value — e.g. 50,000 faces] |
+| Recognition distance | [Value — e.g. 0.5–3m] |
+| IP rating | [Value — e.g. IP65] |
+| Operating temperature | [Value — °C range] |
+| Relative humidity | [Value — e.g. 0–90% non-condensing] |
+| Usage environment | [Indoor / Outdoor / Both] |
+| Housing material | [e.g. Aviation-grade aluminum alloy] |
+| Display | [Value — inch, resolution, if applicable] |
+| Operating system | [e.g. Android — if applicable] |
+| RAM / Storage | [Value — if applicable] |
+| Communication interfaces | [RS485 / Wiegand 26/34 / TCP/IP / WiFi / USB] |
+| Power supply | [Value — e.g. DC 24V 15A] |
+| Operating noise | [Value — dB, if applicable] |
+| Body dimensions | [Value — L × W × H mm] |
+| Weight | [Value — kg] |
 
 ---
 
-### SECTION 4: FEATURE SECTION 2 (CUSTOMIZABLE)
+## 7. How It Works
 
-**Alternate layout from Section 3** (if Section 3 was LEFT/RIGHT, this is RIGHT/LEFT)
+**Eyebrow:** HOW IT WORKS
 
-**Red Section Label (uppercase):**  
-[Custom per product]
+**H2:** Credential In. Gate Open. [X] Steps.
 
-**H2 Headline (benefit-first, outcome-led)**
+**Subtitle:** Every EASCO [product name] follows the same control flow — from identity check to gate movement — in under a second.
 
-**Content:**
-- Text + checkmarks OR large stat callout OR feature list
-- Follow same pattern as Section 3 with different layout orientation
-- 3 checkmark bullets if applicable
-- Callout boxes, icons, or diagram as appropriate
+**Step 1 — Identity Verification**  
+[2–3 sentences. Describe how the credential is presented — face scan at 0.5–3m, card tap, QR code, or combined biometric. Embed the recognition speed from client-data-map.md. The terminal's onboard processor runs the comparison locally — no cloud round-trip required for access decisions.]
 
-**Image:** [image-filename.jpg]  
-**Image Alt Text:** [Descriptive]
+**Step 2 — Controller Signal**  
+[2–3 sentences. The ARM industrial control core receives the verification result and sends an open signal via RS485, RS232, or IO relay. The decision is instant — the controller does not wait for a network response. Wiegand 26/34 output is available for integration with third-party access control platforms.]
 
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Benefit-first
+**Step 3 — Gate Movement**  
+[2–3 sentences. The DC brushless motor drives the gate arm or panel to the open position in under [X] seconds. Embed the throughput — e.g. the gate clears 50 people per minute at peak entry. The passage stays open for the configured dwell time before resetting.]
 
----
+**Step 4 — Safety & Reset**  
+[2–3 sentences. Crank-link transmission with magnetic-sensitive limit control stops gate movement the instant it meets resistance — mechanical protection, not software-dependent. Infrared anti-tailgating sensors detect a second person following through and signal the gate to re-close. On power cut or fire alarm signal, the gate opens automatically and locks open — the ARM control core retains the gate's absolute position so no recalibration is needed when power returns.]
 
-### SECTION 5: FEATURE SECTION 3 (CUSTOMIZABLE)
-
-**Alternate layout from Sections 3 & 4**
-
-**Red Section Label (uppercase):**  
-[Custom per product]
-
-**H2 Headline (benefit-first, outcome-led)**
-
-**Content:**
-- Text + checkmarks OR feature list
-- Different layout orientation
-- 3–4 features/items as applicable
-
-**Image:** [image-filename.jpg]  
-**Image Alt Text:** [Descriptive]
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Benefit-first
+**Image:** [product-or-installation-image.jpg]  
+**Image alt:** [e.g. "EASCO [product name] installed at [venue type — office lobby / transit station / factory entrance]"]
 
 ---
 
-### SECTION 6: FEATURE SECTION 4 (CUSTOMIZABLE)
+## 8. FAQ
 
-**Alternate layout from Sections 3, 4, & 5**
+**Eyebrow:** COMMON QUESTIONS
 
-**Red Section Label (uppercase):**  
-[Custom per product]
+**H2:** What Buyers Ask Before Ordering a [Product Name]
 
-**H2 Headline (benefit-first, outcome-led)**
+**Q1:** [Throughput / sizing question — e.g. "How many people per minute can this gate process?"]  
+**A1:** [Answer — include exact throughput figure from client-data-map.md. Max 3 sentences.]
 
-**Content:**
-- Text + checkmarks OR feature list
-- Different layout orientation
-- 3–4 features/items
+**Q2:** [Integration question — addresses O5 — e.g. "Will it connect to our existing access control system?"]  
+**A2:** [Answer — list supported interfaces: Wiegand 26/34, RS485, TCP/IP, SDK/API. Max 3 sentences.]
 
-**Image:** [image-filename.jpg]  
-**Image Alt Text:** [Descriptive]
+**Q3:** [Credential / recognition question — e.g. "What access methods does it support?"]  
+**A3:** [Answer — list face, card, QR, ID card as applicable. Include accuracy spec. Max 3 sentences.]
 
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Benefit-first
+**Q4:** [Safety question — addresses O11 / O12 — e.g. "Is the gate safe? Can someone get trapped?"]  
+**A4:** [Answer — reference crank-link transmission and anti-crush mechanism. Max 3 sentences.]
 
----
+**Q5:** [Environment / outdoor question — addresses O10 — e.g. "Can this be installed outdoors?"]  
+**A5:** [Answer — include IP rating and operating temperature range. Max 3 sentences.]
 
-### SECTION 7: WHAT'S IN THE BOX
-
-**Eyebrow (red, uppercase):** WHAT'S IN THE BOX
-
-**H2:** Everything You Need. One Box. Ready to Install.
-
-**Body (2 sentences):**  
-"Every EASCO [product name] ships as a complete kit. Nothing needs to be sourced separately before installation day — open the box and the job can start."
-
-**Kit Contents Table:**
-
-| Item | Detail |
-|---|---|
-| Motor unit | [Description + weight] |
-| [Component 2] | [Detail] |
-| [Component 3] | [Detail] |
-| Controller | [Packaged separately / included — weight] |
-| Remote controls | [Qty]× RF remotes included |
-| Mounting hardware | All brackets and fixings included |
-| English manual | Installation guide, wiring diagram, parameter table |
-
-**Layout Note:**  
-Display as clean list with product flat-lay image on right — all kit components laid out on white background.
-
-**Image:** [flat-lay-product-photo.jpg]  
-**Image Alt Text:** [All EASCO [product name] components laid out]
-
-**Tier 1 checks:** ☐ All items verified ☐ Image quality high-res
+**Q6:** [Lead time / ordering question]  
+**A6:** Standard orders ship from EASCO's Shenzhen factory within the quoted production window. Contact EASCO via WhatsApp (+86 13711422283) with your model, quantity, and destination for a confirmed lead time and quote.
 
 ---
 
-### SECTION 8: HOW IT WORKS
-
-**Eyebrow (red, uppercase):** HOW IT WORKS
-
-**H2:** [X] Components. One Gate That Opens Every Time.
-
-**Subtitle (1 sentence):**  
-[Explain the system in plain language.]
-
-**Step 1 — The Motor**  
-[2–3 sentences. How the motor works. Embed voltage and power spec.]
-
-**Step 2 — The Controller**  
-[2–3 sentences. What the controller does and how buyer interacts with it.]
-
-**Step 3 — The Safety System**  
-[2–3 sentences. Photocell, safety edge, obstacle detection — what happens and why it matters.]
-
-**Step 4 — Power Backup and Manual Release**  
-[2–3 sentences. Power cut scenario + manual release or battery backup.]
-
-**Image:** [factory-or-installation-image.jpg]  
-**Image Alt Text:** [Descriptive]
-
-**Layout Note:**  
-4 numbered steps on LEFT, factory photo on RIGHT.
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Plain language
-
----
-
-### SECTION 9: FAQ
-
-**Eyebrow (red, uppercase):** COMMON QUESTIONS
-
-**H2:** What People Ask Before Buying a [Product Name]
-
-**Q1: [Most common pre-purchase question]**  
-**A1:** [Answer — benefit-first, specific, no jargon without explanation]
-
-**Q2: [Access / control question]**  
-**A2:** [Answer]
-
-**Q3: [Phone / app control question]**  
-**A3:** [Answer]
-
-**Q4: [Noise / performance question]**  
-**A4:** [Answer — always include dB figure if applicable]
-
-**Q5: [Power cut / safety question]**  
-**A5:** [Answer — manual release + battery backup if applicable]
-
-**Q6: [Climate / temperature question]**  
-**A6:** [Answer — always include temp range]
-
-**Layout Note:**  
-Accordion/collapsible on mobile, stacked open on desktop.
-
-**Tier 1 checks:** ☐ All answers verified ☐ Addresses top objections ☐ Direct, concise
-
----
-
-### SECTION 10: YOU MAY ALSO NEED (Optional Cross-Sell)
-
-**H2:** You May Also Need
-
-**Subtitle:** Commonly paired with [Product Name]...
-
-**Product Grid (4 related products in row):**
-
-Each product card:
-- Product image
-- Product name
-- 2–3 line description
-- "View Product" link
-
-**Tier 1 checks:** ☐ Products are complementary ☐ No competing products
-
----
-
-### SECTION 11: WHY EASCO (Optional)
-
-**H2:** [Outcome-led headline]
-- Example: "Factory Direct. 16+ Years. CE Certified. Installed Worldwide."
-
-**Body Text (200–250 words)**
-- Minimum 2 differentiators from differentiator-card.md
-- Cover 2–3 applicable objections from objection-map.md
-- No "we believe" language
-- Benefits-first
-
-**Differentiators used:** [D1, D2, + product-specific codes]  
-**Objections addressed:** [O1, O2, O3, + product-specific codes]
-
-**Tier 1 checks:** ☐ Banned phrases ☐ Claims verified ☐ Benefit-first
-
----
-
-### SECTION 12: FINAL CTA (Optional)
+## 9. CTA
 
 **H2:** Ready to Order a [Product Name]?
 
-**Body (2 sentences):**  
-"Confirm your specs with EASCO's team — we'll recommend the right model and lead time for your location. Factory-direct from Shenzhen means no middlemen markup, direct support, and ships within 5–10 business days."
+**Body:** [2 sentences. First sentence: confirm EASCO can help spec the right configuration for the buyer's site. Second sentence: factory-direct from Shenzhen — ISO 9001 certified, 16+ years manufacturing, no middlemen.]
 
-**CTA Primary:**  
-[Request a Quote] → https://wa.me/8613711422283
-
-**CTA Secondary:**  
-[Download Spec Sheet] → /downloads/[product-slug]-spec.pdf
-
-**Additional Contact:**
-- Email: hwenyin280@gmail.com
-- Phone: +86 13711422283
-
-**Tier 1 checks:** ☐ CTAs clear ☐ Contact info correct
+**CTA Primary:** Request a Quote → /quote/  
+**CTA Secondary:** Download Spec Sheet → /downloads/[product-slug]-spec.pdf
 
 ---
 
-## INTERNAL LINKS
+## Internal Links
 
 | Destination | Anchor Text | Location |
 |---|---|---|
-| /[category-slug]/ | [Category Name] | Breadcrumb |
-| /[related-product-1]/ | [Related product name] | Related products/cross-sell |
-| /[related-product-2]/ | [Related product name] | Related products/cross-sell |
+| /[parent-category] | [parent category name — e.g. aluminum alloy turnstile / face recognition terminal] | Breadcrumb |
+| /[related-product-1] | [related product name] | Related products strip |
+| /[related-product-2] | [related product name] | Related products strip |
 
 ---
 
-## SCHEMA MARKUP (JSON-LD)
+## Notes for Developer
 
-```json
-{
-  "@context": "https://schema.org/",
-  "@type": "Product",
-  "name": "[Product Name]",
-  "description": "[SEO Description]",
-  "brand": {
-    "@type": "Brand",
-    "name": "EASCO"
-  },
-  "image": "[Product Image URL]",
-  "offers": {
-    "@type": "Offer",
-    "url": "[Product Page URL]",
-    "availability": "https://schema.org/InStock",
-    "priceCurrency": "USD",
-    "price": "[Contact for quote]"
-  },
-  "breadcrumb": {
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://easco.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "[Category]",
-        "item": "https://easco.com/[category-slug]/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "[Product]",
-        "item": "https://easco.com/[category-slug]/[product-slug]/"
-      }
-    ]
-  }
-}
-```
+- **Hero:** Product image right, copy left. Specs strip on Brand Red background directly below.
+- **Split sections (2–5):** Alternate image-left and text-left rows. Light `#FAFAFA` on odd rows, white on even.
+- **Specs table (section 6):** Full-width table. Desktop: standard. Mobile: card-style stacked rows. Remove any row where value is unknown — do not show empty rows.
+- **How it works (section 7):** 4 numbered steps left, product or installation photo right.
+- **FAQ (section 8):** Accordion on mobile, stacked on desktop. FAQPage schema required.
+- **CTA (section 9):** Dark `#1A1A1A` background. Primary button Brand Red. Ghost white secondary.
+- **Related products strip:** Below CTA — 2 related product cards.
+- **WhatsApp floating button:** Present on all pages — +86 13711422283.
 
 ---
 
-## NOTES FOR DEVELOPER
+## Missing Information Checklist
+> Items marked ❓ must be confirmed against _system/client-data-map.md before page goes to developer.
+> Never use a spec that is not in client-data-map.md — annotate with ⚠️ and flag for client.
 
-**Hero Layout:**
-- Product image RIGHT, copy LEFT
-- Specs strip on Brand Red background directly below hero
-- Trust badges: ISO 9001 · CE Marked · 16+ Years Manufacturing
-
-**Feature Sections (3–6):**
-- Alternate image-left and text-left rows for visual rhythm
-- Light #FAFAFA background on odd rows, white on even rows
-- Each section: red eyebrow + H2 + body + 3–4 features
-
-**What's in the Box (Section 7):**
-- Kit list on LEFT, flat-lay product photo on RIGHT
-- White background
-- Table converts to cards on mobile
-
-**How It Works (Section 8):**
-- 4 numbered steps on LEFT
-- Factory/installation photo on RIGHT
-- Step numbers large and bold
-
-**FAQ (Section 9):**
-- Accordion/collapsible on mobile
-- Stacked open on desktop
-
-**CTA (Section 12):**
-- Dark #1A1A1A background
-- Primary button: Brand Red
-- Secondary button: ghost white outline
-
-**Images Required:**
-- Hero product image (high quality, white background)
-- Feature section images (4 for sections 3–6)
-- Flat-lay kit photo (Section 7)
-- Factory/installation photo (Section 8)
-- All images: 1200px+ wide
-
----
-
-## MISSING INFORMATION CHECKLIST
-
-Before publishing, confirm:
-
-- ❓ Ground clearance spec — verify in client-data-map or ask client
-- ❓ Remote range — confirm if product has wireless
-- ❓ Controller packaging weight — verify or ask
-- ❓ Packing dimensions — verify or ask
-- ❓ Connectivity type (Bluetooth/WiFi/RF) — confirm per product
-- ❓ Access methods — list all (Push Button, IC Card, Remote, Face Recognition, etc.)
-- ❓ Kit contents — confirm exact components
-- ❓ Product flat-lay photo — required for Section 7
-- ❓ Factory/installation photo — required for Section 8
-- ❓ All images in correct resolution (1200px+ width)
-- ❓ All specs verified against client-data-map.md
-- ❓ All feature claims sourced to verified data
-
----
-
-## VERIFICATION CHECKLIST (Before Publishing)
-
-**Content Quality:**
-- [ ] All numbers sourced to client-data-map.md
-- [ ] No jargon without explanation
-- [ ] Benefit-first language throughout
-- [ ] H2 headlines include outcome + metric
-- [ ] Body copy: one number per sentence minimum
-- [ ] FAQ addresses top 6 buyer concerns
-- [ ] No "we" language — all second person (you/your)
-
-**SEO:**
-- [ ] Primary keyword in H1 and Meta Title
-- [ ] Meta Description under 155 chars
-- [ ] Internal links to existing pages
-- [ ] Alt text on all images descriptive
-
-**Conversions:**
-- [ ] CTAs in Hero and Section 12
-- [ ] Contact info correct (WhatsApp, email, phone)
-- [ ] CTA buttons use Brand Red
-- [ ] Trust badges in hero
-
-**Design/Layout:**
-- [ ] Alternating left/right layouts (sections 3–6)
-- [ ] Specs strip in hero
-- [ ] Feature images match alignment
-- [ ] Mobile responsiveness verified
-- [ ] Tables convert to cards on mobile
-
-**Quality Gates (Passes A–C):**
-- [ ] Pass A: 8.0+/10 — All claims sourced, no banned phrases
-- [ ] Pass B: 0 fixes — Benefit-first FAB chains throughout
-- [ ] Pass N: 9+/10 — Technical terms correct, no consumer language
-- [ ] Pass D: All E-E-A-T signals present (Authority, stats, certifications, GEO)
-- [ ] Pass C: ≤15% AI-score — Outcome-led headlines, specific CTAs, no AI-filler
-
----
-
-**END OF TEMPLATE**
+- [ ] ❓ All spec table rows confirmed against _system/client-data-map.md for this product
+- [ ] ❓ Product white-background photo — required for Hero
+- [ ] ❓ Installation/venue photo — required for How It Works section
+- [ ] ❓ Access methods confirmed for this product (face / card / QR / ID card / remote)
+- [ ] ❓ WeChat Mini Program — confirm supported for this product
+- [ ] ❓ SDK / API availability — confirm for this product
+- [ ] ❓ Warranty period — not yet confirmed for all products
+- [ ] ❓ Related products to cross-link — confirm 2 relevant products
+- [ ] ❓ Differentiators used — confirm D2 + min 2 product-specific from differentiator-card.md are explicit in copy
