@@ -109,39 +109,7 @@ EASCO manufactures face recognition terminals and electric door openers in-house
 
 ---
 
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Hospitality Solutions Specialist**
-
-**Sophie Bouvier** — Luxury Hospitality Access Control Specialist
-
-Sophie brings 9+ years of experience designing access control systems for 5-star hotels, resorts, and convention centers across Europe and Asia. Specializes in frictionless guest experiences, multi-zone staff enforcement, and systems that work invisibly—guests never feel like they're passing through security. Understands the balance between guest welcome and operational security. Works with your front-desk, housekeeping, and operations teams to design a system that serves both.
-
-[Contact Sophie →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
-
----
-
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your hotel. Specify: number of rooms, guest check-in volume per day, staff-only zones requiring access control, number of entry points, and existing access control system (if any).
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Designing Your Hospitality Access System**
-
-Uncertain about face recognition for guest experience or designing staff zone workflow? Send your facility layout and operations overview—we'll recommend the access control system that keeps your guests comfortable and your staff zones secure.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
-
-## SECTION 8: FAQ
+## SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -159,6 +127,23 @@ A: Yes. Role-based access rules let staff doors unlock for staff face recognitio
 
 **Q: What security happens if a guest is banned or a safety incident occurs?**
 A: Security can add the guest to a blacklist. Their face is flagged in the system. If they attempt access at any door, the biometric terminal logs the attempt and alerts security—no door access granted, alarms triggered. Complete audit trail of every attempt.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Elevate Your Hotel Experience**
+
+**Direct Factory Contact**
+Request guest flow optimization guidance, staff-zone enforcement specifications, or frictionless biometric system recommendations. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 

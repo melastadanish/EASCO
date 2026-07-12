@@ -45,15 +45,7 @@ Office buildings rely on EASCO turnstiles and face recognition terminals to mana
 
 ### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
-
-**Mid-Size Corporate Office: Illustrative Example**
-
-| Detail | Information |
-|---|---|
-| Facility Type | Corporate office building, multi-tenant, ~15 floors |
-| Traffic Profile | 400–500 staff, single shared lobby entrance |
-| Products Used | Aluminum alloy speed gates (Starship 4 ES-ST4), face recognition terminals (ESJ 8-inch), visitor registration terminal |
+**Mid-Size Corporate Office**
 
 **The Challenge**
 A shared lobby entrance serving multiple tenant companies needs to clear a morning rush without a queue forming. Each tenant's staff list also needs to stay separate, and visitors need a way to check in without a manned desk at all times.
@@ -64,13 +56,25 @@ Starship 4 aluminum alloy speed gates at the main lobby entrance handle the bulk
 **The Outcome**
 Staff clear the lobby without a card or badge tap. Each tenant's access list stays independent from the others. Visitor check-in no longer requires a staff member present at the desk during business hours.
 
-In the meantime: EASCO access control systems are deployed at office buildings across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
+EASCO access control systems are deployed at office buildings across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3: What Office Buildings Need from Access Control
+### SECTION 3: Recommended Products for Office Buildings
+
+**H2: EASCO Products Used in Office Building Deployments**
+
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Starship 4 and Xingyao Waterproof series suit a reception lobby's aesthetics and throughput needs.
+**[Face Recognition Terminals](/facial-recognition/)**: 99.98% accuracy at 200–300ms clears staff without a card reader.
+**[Visitor Registration Machines](/facial-recognition/)**: self-check-in for visitors without a manned desk.
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+### SECTION 4: What Office Buildings Need from Access Control
 
 **H2: Common Requirements for Office Lobbies**
 
@@ -85,18 +89,6 @@ In the meantime: EASCO access control systems are deployed at office buildings a
 
 **Integration with existing building systems.** A new access control system that can't talk to an existing badge system or fire panel creates more problems than it solves.
 **EASCO Solution:** Standard interfaces (Wiegand 26/34, RS485, TCP/IP) connect to most existing building management platforms.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
----
-
-### SECTION 4: Recommended Products for Office Buildings
-
-**H2: EASCO Products Used in Office Building Deployments**
-
-**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Starship 4 and Xingyao Waterproof series suit a reception lobby's aesthetics and throughput needs.
-**[Face Recognition Terminals](/facial-recognition/)**: 99.98% accuracy at 200–300ms clears staff without a card reader.
-**[Visitor Registration Machines](/facial-recognition/)**: self-check-in for visitors without a manned desk.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

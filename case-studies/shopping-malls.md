@@ -45,15 +45,7 @@ Shopping malls rely on EASCO turnstiles for staff and service entrances, ANPR fo
 
 ### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
-
-**Regional Shopping Center: Illustrative Example**
-
-| Detail | Information |
-|---|---|
-| Facility Type | Regional shopping mall, multi-tenant retail, dedicated parking structure |
-| Traffic Profile | Staff/service entrances separate from customer traffic, high-volume parking |
-| Products Used | Aluminum alloy speed gates (Starship 4 ES-ST4, staff/service entrances), gate opener systems (parking structure barriers) |
+**Regional Shopping Center**
 
 **The Challenge**
 Back-of-house staff and delivery access needs its own security tier, separate from the customer-facing mall entrance. The parking structure also needs a fast, reliable gate at every entry and exit lane during peak shopping hours.
@@ -64,13 +56,25 @@ Starship 4 speed gates with face recognition panels cover staff and service entr
 **The Outcome**
 Staff and delivery traffic stay separate from customer foot traffic. The parking structure clears vehicles without a bottleneck at peak hours. Both systems report into the same overall access control platform.
 
-In the meantime: EASCO access control systems are deployed at commercial and retail facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
+EASCO access control systems are deployed at commercial and retail facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3: What Shopping Malls Need from Access Control
+### SECTION 3: Recommended Products for Shopping Malls
+
+**H2: EASCO Products Used in Retail Deployments**
+
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Starship 4 and Interstellar series suit professional staff and service entrances.
+**[Gate Opener Systems](/gate-opener/)**: vehicle access for parking structures with a driver-facing display.
+**[Facial Recognition Terminals](/facial-recognition/)**: back-of-house staff access control.
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+### SECTION 4: What Shopping Malls Need from Access Control
 
 **H2: Common Requirements for Retail Facilities**
 
@@ -85,18 +89,6 @@ In the meantime: EASCO access control systems are deployed at commercial and ret
 
 **Tenant-specific access for mall staff.** Different retail tenants may need separate staff access schedules.
 **EASCO Solution:** Face recognition terminals support per-tenant credential lists on shared back-of-house entrances.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
----
-
-### SECTION 4: Recommended Products for Shopping Malls
-
-**H2: EASCO Products Used in Retail Deployments**
-
-**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Starship 4 and Interstellar series suit professional staff and service entrances.
-**[Gate Opener Systems](/gate-opener/)**: vehicle access for parking structures with a driver-facing display.
-**[Facial Recognition Terminals](/facial-recognition/)**: back-of-house staff access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

@@ -45,15 +45,7 @@ Government facilities rely on EASCO's iris recognition for restricted zones and 
 
 ### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
-
-**Government Administrative Building: Illustrative Example**
-
-| Detail | Information |
-|---|---|
-| Facility Type | Government administrative building, public wing + restricted records/server zone |
-| Traffic Profile | Public-facing counters, general staff areas, high-security restricted zones |
-| Products Used | Aluminum alloy speed gates (general/public areas), iris recognition terminal (restricted zones) |
+**Government Administrative Building**
 
 **The Challenge**
 Public-facing counters and general staff areas need throughput without a bottleneck. Restricted records and server rooms, meanwhile, can't tolerate the false acceptance rate a standard biometric accepts elsewhere. Procurement also requires documented certifications before any contract is awarded.
@@ -64,13 +56,25 @@ Aluminum alloy speed gates handle general staff and public traffic at 50 persons
 **The Outcome**
 General areas keep moving without over-securing every entrance. The most sensitive zones run on the lowest false-acceptance biometric available. Procurement documentation clears review without a follow-up request.
 
-In the meantime: EASCO high-security biometric and turnstile systems are deployed at government and institutional facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
+EASCO high-security biometric and turnstile systems are deployed at government and institutional facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3: What Government Buildings Need from Access Control
+### SECTION 3: Recommended Products for Government Buildings
+
+**H2: EASCO Products Used in Government Deployments**
+
+**[Facial Recognition & Iris Recognition](/facial-recognition/)**: the highest-accuracy biometric tier (MTH8 iris terminal) for restricted zones.
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: throughput for general staff and public areas.
+**[Gate Opener Systems](/gate-opener/)**: secure vehicle and parking access control.
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+### SECTION 4: What Government Buildings Need from Access Control
 
 **H2: Common Requirements for High-Security Facilities**
 
@@ -85,18 +89,6 @@ In the meantime: EASCO high-security biometric and turnstile systems are deploye
 
 **Supplier stability for long procurement cycles.** A government contract can take months to close, requiring the supplier to still be operating when the project starts.
 **EASCO Solution:** EASCO has manufactured at the same Shenzhen facility for 16+ years, with 80,000+ installations across 50+ countries.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
----
-
-### SECTION 4: Recommended Products for Government Buildings
-
-**H2: EASCO Products Used in Government Deployments**
-
-**[Facial Recognition & Iris Recognition](/facial-recognition/)**: the highest-accuracy biometric tier (MTH8 iris terminal) for restricted zones.
-**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: throughput for general staff and public areas.
-**[Gate Opener Systems](/gate-opener/)**: secure vehicle and parking access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 

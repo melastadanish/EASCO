@@ -110,39 +110,7 @@ EASCO manufactures biometric terminals in-house at our Shenzhen facility. The co
 
 ---
 
-## SECTION 6: Talk to an Expert
-
-**H2: Talk to Our Manufacturing Solutions Specialist**
-
-**Michael Torres** — Factory Operations & Attendance Specialist
-
-Michael has 11+ years deploying large-scale biometric attendance systems in manufacturing plants, logistics hubs, and mining operations across North America and Southeast Asia. Specializes in sober-only policy enforcement, multi-shift scheduling integration, safety compliance documentation, and distributed site enrollment. Works with your operations, HR, and safety teams to design a system that fits your shift structure and enforces your specific policies.
-
-[Contact Michael →](https://wa.me/8613711422283) · [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
-
-*(This is demo content — replace with real client-supplied specialist name, title, photo, and bio once provided.)*
-
----
-
-## SECTION 7: CTA (Two Forms)
-
-**H2: Ready to Move Forward?**
-
-**Path 1 — Ready to Buy**
-
-Get a quote for your factory or warehouse. Specify: facility size (square meters), number of shifts, daily employee count, whether sober-only policy is required, and estimated clock-in points needed.
-
-[Request a Quote →](https://wa.me/8613711422283)
-
-**Path 2 — Not Sure What You Need?**
-
-Designing a new attendance system for a multi-shift facility or considering alcohol detection enforcement? Send your shift schedules and policy requirements—we'll recommend the right combination of terminals and enrollment workflow.
-
-[Talk to a Product Expert →](https://wa.me/8613711422283)
-
----
-
-## SECTION 8: FAQ
+## SECTION 6: FAQ
 
 **H2: Frequently Asked Questions**
 
@@ -160,6 +128,23 @@ A: Yes. All EASCO face recognition terminals use 2MP infrared cameras, enabling 
 
 **Q: How do we manage exceptions like a sick day or an exempt early departure?**
 A: System administrators can manually log clock-out times, approve exceptions, or mark absences in the attendance records. The biometric terminal provides the base log; supervisors override as needed. All overrides are logged with timestamp and approver name for audit compliance.
+
+---
+
+## SECTION 7: CTA (Direct Factory Contact)
+
+**H2: Secure Your Factory & Warehouse**
+
+**Direct Factory Contact**
+Request alcohol detection compliance documentation, multi-shift attendance workflows, or distributed site enrollment guidance. All inquiries processed securely within one business day.
+
+**Factory Address:**
+Building 20, 2nd Floor, Dahe Industrial Zone, Huanguan South Road, Guanlan Street, Longhua New District, Shenzhen, Guangdong Province, China
+
+**Contact Options:**
+- [WhatsApp: +86 13711422283](https://wa.me/8613711422283)
+- [Email: hwenyin280@gmail.com](mailto:hwenyin280@gmail.com)
+- [Request a Quote](https://wa.me/8613711422283)
 
 ---
 

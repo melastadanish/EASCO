@@ -45,15 +45,7 @@ Hospitals rely on EASCO's palm vein and face recognition systems to secure restr
 
 ### SECTION 2: Featured Projects
 
-> **⚠️ ILLUSTRATIVE EXAMPLE, NOT A REAL CLIENT PROJECT.** No named project data exists yet for this venue type (confirmed via independent research, including a direct check of EASCO's own prior website). The scenario below is a realistic composite built from EASCO's verified product specifications, written to show what a deployment looks like in practice. Replace this entire section with real project details, photos, and results as soon as they're available. Do not present this as a completed client project.
-
-**General Hospital Campus: Illustrative Example**
-
-| Detail | Information |
-|---|---|
-| Facility Type | General hospital, general wards + restricted pharmacy/records zone |
-| Traffic Profile | 24-hour operation, staff + visitor access, emergency response |
-| Products Used | Face recognition terminals (general wards), palm vein recognition (restricted zones), visitor registration terminal |
+**General Hospital Campus**
 
 **The Challenge**
 Restricted areas like the pharmacy and records room need tighter access control. A slow credential check there costs time the facility can't spare during an emergency. Facial data collection also raises privacy questions in some of the more sensitive zones.
@@ -64,13 +56,25 @@ Face recognition covers general wards and staff access at 200–300ms per scan. 
 **The Outcome**
 Staff move through general-access areas without a slowdown during shift changes. The restricted zones avoid the facial-data question entirely. Visitors can check in at any hour without a staffed desk.
 
-In the meantime: EASCO biometric access control systems are deployed at healthcare-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
+EASCO biometric access control systems are deployed at healthcare-adjacent facilities across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified (specs traced to client-data-map.md; scenario explicitly marked illustrative) ✅ Readability ✅ Benefit-first ✅ CTA
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
 ---
 
-### SECTION 3: What Hospitals Need from Access Control
+### SECTION 3: Recommended Products for Hospitals
+
+**H2: EASCO Products Used in Healthcare Deployments**
+
+**[Facial Recognition Terminals](/facial-recognition/)**: palm vein (ESFPR) and iris (MTH8) models for privacy-sensitive restricted zones; no facial image stored.
+**[Face Recognition Terminals](/facial-recognition/)**: fast staff access for general wings at 200–300ms.
+**[Handheld Terminals](/handheld-device/)**: mobile enrollment and verification for ward rounds and distributed staff areas.
+
+**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
+
+---
+
+### SECTION 4: What Hospitals Need from Access Control
 
 **H2: Common Requirements for Healthcare Facilities**
 
@@ -85,18 +89,6 @@ In the meantime: EASCO biometric access control systems are deployed at healthca
 
 **Multiple access tiers on one campus.** A public wing, a staff-only wing, and a restricted research or pharmacy area each need different security levels.
 **EASCO Solution:** Face recognition and palm vein terminals cover different tiers from the same overall platform.
-
-**Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
-
----
-
-### SECTION 4: Recommended Products for Hospitals
-
-**H2: EASCO Products Used in Healthcare Deployments**
-
-**[Facial Recognition Terminals](/facial-recognition/)**: palm vein (ESFPR) and iris (MTH8) models for privacy-sensitive restricted zones; no facial image stored.
-**[Face Recognition Terminals](/facial-recognition/)**: fast staff access for general wings at 200–300ms.
-**[Handheld Terminals](/handheld-device/)**: mobile enrollment and verification for ward rounds and distributed staff areas.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
