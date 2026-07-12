@@ -53,16 +53,16 @@ Office buildings rely on EASCO turnstiles and face recognition terminals to mana
 |---|---|
 | Facility Type | Corporate office building, multi-tenant, ~15 floors |
 | Traffic Profile | 400–500 staff, single shared lobby entrance |
-| Products Used | Cylindrical turnstiles (ESYBZ), face recognition terminals (ESBL), visitor registration terminal |
+| Products Used | Aluminum alloy speed gates (Starship 4 ES-ST4), face recognition terminals (ESJ 8-inch), visitor registration terminal |
 
 **The Challenge**
 A shared lobby entrance serving multiple tenant companies needs to clear a morning rush without a queue forming. Each tenant's staff list also needs to stay separate, and visitors need a way to check in without a manned desk at all times.
 
 **The Approach**
-Cylindrical turnstiles at the main lobby entrance handle the bulk of daily staff traffic, each paired with a face recognition terminal running per-tenant credential lists. A visitor registration terminal sits beside the turnstiles for anyone not already enrolled.
+Starship 4 aluminum alloy speed gates at the main lobby entrance handle the bulk of daily staff traffic at 50 persons per minute, each paired with a face recognition terminal running per-tenant credential lists. A visitor registration terminal sits beside the turnstiles for anyone not already enrolled.
 
 **The Outcome**
-Staff clear the lobby at up to 45 people per minute per lane without a card or badge tap. Each tenant's access list stays independent from the others. Visitor check-in no longer requires a staff member present at the desk during business hours.
+Staff clear the lobby without a card or badge tap. Each tenant's access list stays independent from the others. Visitor check-in no longer requires a staff member present at the desk during business hours.
 
 In the meantime: EASCO access control systems are deployed at office buildings across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
@@ -75,7 +75,7 @@ In the meantime: EASCO access control systems are deployed at office buildings a
 **H2: Common Requirements for Office Lobbies**
 
 **Staff flow during shift changes.** A lobby handling a morning rush needs a gate and credential reader fast enough to avoid a queue forming at the door.
-**EASCO Solution:** Speed gates and cylindrical turnstiles processing 45–50 people per minute, paired with face recognition running at 200–300ms per scan.
+**EASCO Solution:** Aluminum alloy speed gates processing 50 persons per minute, paired with face recognition terminals running at 200–300ms per scan.
 
 **Visitor management without a permanent front desk.** A manned sign-in desk doesn't scale past a handful of visitors an hour.
 **EASCO Solution:** Self-check-in terminals capture and verify a visitor's face, creating a record without requiring a staff member at every entrance.
@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at office buildings a
 
 **H2: EASCO Products Used in Office Building Deployments**
 
-**[Flap Barrier / Speed Gates](/speed-gates/)**: the JX flagship's RGB status lighting and custom door panel suit a reception area's first impression.
-**[Face Recognition Terminals](/face-recognition/)**: 99.98% accuracy at 200–300ms clears staff without a card reader.
-**[Visitor Registration Machines](/visitor-registration/)**: self-check-in for visitors without a manned desk.
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Starship 4 and Xingyao Waterproof series suit a reception lobby's aesthetics and throughput needs.
+**[Face Recognition Terminals](/facial-recognition/)**: 99.98% accuracy at 200–300ms clears staff without a card reader.
+**[Visitor Registration Machines](/facial-recognition/)**: self-check-in for visitors without a manned desk.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -140,9 +140,8 @@ Every office building has different tenant, traffic, and integration requirement
 ## Internal Links Required
 
 - Link to [Commercial Buildings solution page](/solutions/commercial-buildings/)
-- Link to [Speed Gates](/speed-gates/)
-- Link to [Face Recognition Terminals](/face-recognition/)
-- Link to [Visitor Registration Machines](/visitor-registration/)
+- Link to [Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)
+- Link to [Face Recognition Terminals](/facial-recognition/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

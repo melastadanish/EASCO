@@ -35,7 +35,7 @@ Status:            ✅ Complete, named projects confirmed unavailable after inde
 
 **H1: Government Building Access Control Projects**
 
-Government facilities rely on EASCO's iris recognition for restricted zones and cylindrical turnstiles for general staff traffic, backed by documented certifications for procurement review. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical high-security deployment looks like.
+Government facilities rely on EASCO's iris recognition for restricted zones and aluminum alloy speed gates for general staff traffic, backed by documented certifications for procurement review. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical high-security deployment looks like.
 
 **CTA:** [Want a Similar Solution?](/quote/)
 
@@ -53,13 +53,13 @@ Government facilities rely on EASCO's iris recognition for restricted zones and 
 |---|---|
 | Facility Type | Government administrative building, public wing + restricted records/server zone |
 | Traffic Profile | Public-facing counters, general staff areas, high-security restricted zones |
-| Products Used | Cylindrical turnstiles (general/public areas), iris recognition (restricted zones) |
+| Products Used | Aluminum alloy speed gates (general/public areas), iris recognition terminal (restricted zones) |
 
 **The Challenge**
 Public-facing counters and general staff areas need throughput without a bottleneck. Restricted records and server rooms, meanwhile, can't tolerate the false acceptance rate a standard biometric accepts elsewhere. Procurement also requires documented certifications before any contract is awarded.
 
 **The Approach**
-Cylindrical turnstiles handle general staff and public traffic at 45 people per minute per lane. Iris recognition covers the most restricted zones at a 1-in-10,000,000 misrecognition rate. CE, FCC, and ISO 9001/14001/45001 certificate documentation is provided to support the procurement file.
+Aluminum alloy speed gates handle general staff and public traffic at 50 persons per minute per lane (>50 ppm for Interstellar Series). Iris recognition covers the most restricted zones at a 1-in-10,000,000 misrecognition rate. CE, FCC, and ISO 9001/14001/45001 certificate documentation is provided to support the procurement file.
 
 **The Outcome**
 General areas keep moving without over-securing every entrance. The most sensitive zones run on the lowest false-acceptance biometric available. Procurement documentation clears review without a follow-up request.
@@ -81,7 +81,7 @@ In the meantime: EASCO high-security biometric and turnstile systems are deploye
 **EASCO Solution:** CE, FCC, and ISO 9001/14001/45001 certificate scans are provided with every order.
 
 **Mixed security tiers on one site.** Public-facing areas, general staff zones, and restricted areas each need a different access control level.
-**EASCO Solution:** Cylindrical turnstiles handle general traffic while iris recognition covers the most restricted zones.
+**EASCO Solution:** Aluminum alloy speed gates handle general traffic while iris recognition covers the most restricted zones.
 
 **Supplier stability for long procurement cycles.** A government contract can take months to close, requiring the supplier to still be operating when the project starts.
 **EASCO Solution:** EASCO has manufactured at the same Shenzhen facility for 16+ years, with 80,000+ installations across 50+ countries.
@@ -94,9 +94,9 @@ In the meantime: EASCO high-security biometric and turnstile systems are deploye
 
 **H2: EASCO Products Used in Government Deployments**
 
-**[Palm Vein + Iris Recognition](/palm-vein-iris/)**: the highest-accuracy biometric tier for restricted zones.
-**[Cylindrical Turnstiles](/cylindrical-turnstiles/)**: throughput for general staff and public areas.
-**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: secure parking access control.
+**[Facial Recognition & Iris Recognition](/facial-recognition/)**: the highest-accuracy biometric tier (MTH8 iris terminal) for restricted zones.
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: throughput for general staff and public areas.
+**[Gate Opener Systems](/gate-opener/)**: secure vehicle and parking access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -116,7 +116,7 @@ A: CE (RED 2014/53/EU), FCC Part 15B, and ISO 9001/14001/45001 certificates are 
 A: Iris recognition reaches a 1-in-10,000,000 misrecognition rate, the highest accuracy across EASCO's biometric range.
 
 **Q: Can one site use different security tiers for different zones?**
-A: Yes. General staff and public areas can use cylindrical turnstiles while restricted zones use iris recognition, all reporting to the same platform.
+A: Yes. General staff and public areas can use aluminum alloy speed gates while restricted zones use iris recognition, all reporting to the same platform.
 
 **Q: What's the warranty and support model?**
 A: ⚠️ Confirm current warranty terms directly with EASCO. This varies by product category and isn't yet finalized in published documentation.
@@ -140,8 +140,8 @@ Every government facility has different security tiers and procurement requireme
 ## Internal Links Required
 
 - Link to [Government Buildings solution page](/solutions/government/)
-- Link to [Palm Vein + Iris Recognition](/palm-vein-iris/)
-- Link to [Cylindrical Turnstiles](/cylindrical-turnstiles/)
+- Link to [Facial Recognition Terminals](/facial-recognition/)
+- Link to [Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

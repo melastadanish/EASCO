@@ -92,9 +92,9 @@ A 200-room hotel has main lobby entrance, parking garage entry, side loading doc
 ---
 
 **Aluminum Alloy Speed Gate (optional, for main entrance)**
-- Throughput: 45 persons/minute
-- Opening speed: 0.3 seconds
-- Models: Standard or LCD+Face display
+- Throughput: 50 persons/minute (Starship 4 / Xingyao Waterproof); >50/min (Interstellar Series)
+- Opening speed: <0.5 seconds (standard models); <0.3 seconds (Interstellar Series)
+- Models: Starship 4 (ES-ST4), Xingyao Waterproof (ES-XY, IP65-rated), Interstellar (ES-SIN)
 - Best for: High-volume hotel lobbies, convention centers, resort main entrances (if biometric validation is required before entry)
 
 [Request Quote →](https://wa.me/8613711422283)

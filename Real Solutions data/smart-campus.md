@@ -90,9 +90,10 @@ Large university systems span multiple campuses in different cities. Enrollment 
 
 ---
 
-**Aluminum Alloy Turnstile (with Face Recognition)**
-- Throughput: 45 persons/minute
-- Models: Standard, LCD+Face display
+**Aluminum Alloy Speed Gate (with Face Recognition panel)**
+- Throughput: 50 persons/minute (most models)
+- Models: ES-ST4 (Starship 4), ES-XY (Xingyao Waterproof), ES-SIN (Interstellar)
+- Optional face panel: 50,000 faces, 200–300ms recognition, Android OS
 - Integration: Face recognition, card backup, QR code
 - Best for: Main campus entrance, dining halls, high-volume building entry
 

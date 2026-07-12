@@ -35,7 +35,7 @@ Status:            ✅ Complete, named projects confirmed unavailable after inde
 
 **H1: School and Campus Access Control Projects**
 
-Schools and campuses rely on EASCO tripod turnstiles and face recognition terminals for daily attendance and visitor screening, without a full speed-gate footprint or budget. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical school deployment looks like.
+Schools and campuses rely on EASCO compact speed gates and face recognition terminals for daily attendance and visitor screening. The Xingyun Water Drop (ES-YST) shared-column design and Yunyi Mini (ES-YY) offer lower cost per entrance without sacrificing security. EASCO's hardware is deployed across 80,000+ installations in 50+ countries. This page covers what a typical school deployment looks like.
 
 **CTA:** [Want a Similar Solution?](/quote/)
 
@@ -53,16 +53,16 @@ Schools and campuses rely on EASCO tripod turnstiles and face recognition termin
 |---|---|
 | Facility Type | Secondary school, ~1,200 students, main gate + 2 side entrances |
 | Traffic Profile | Morning arrival rush, staff and visitor traffic throughout the day |
-| Products Used | Tripod turnstiles (main + side gates), face recognition terminals, visitor registration terminal |
+| Products Used | Xingyun Water Drop (ES-YST) and Yunyi Mini (ES-YY) compact speed gates (main + side gates), face recognition terminals, handheld visitor registration terminal |
 
 **The Challenge**
 Daily attendance tracked by hand across three entrances doesn't scale. A card-based system also can't stop one student checking in a friend who isn't actually present. Parent pickup traffic also needs screening without turning it into a security interrogation.
 
 **The Approach**
-Tripod turnstiles cover the main gate and both side entrances, each paired with a face recognition terminal for attendance. A visitor registration terminal at the main gate handles parent and visitor check-in during pickup hours.
+Xingyun Water Drop (ES-YST) and Yunyi Mini (ES-YY) compact gates cover the main gate and both side entrances, each paired with a face recognition terminal for attendance. A handheld visitor registration terminal at the main gate handles parent and visitor check-in during pickup hours.
 
 **The Outcome**
-Attendance ties to a verified face rather than a card that can be shared. The compact tripod gates fit the budget across all three entrances. Visitor registration keeps parent pickup moving without a staff member checking IDs at the gate.
+Attendance ties to a verified face rather than a card that can be shared. The compact speed gates fit the budget across all three entrances. Visitor registration keeps parent pickup moving without a staff member checking IDs at the gate.
 
 In the meantime: EASCO access control systems are deployed at schools and campuses across North America, Europe, the Middle East, and Southeast Asia. Contact EASCO directly for reference projects in your region.
 
@@ -81,7 +81,7 @@ In the meantime: EASCO access control systems are deployed at schools and campus
 **EASCO Solution:** Biometric verification makes buddy check-in structurally difficult. The credential is the student's own face.
 
 **Budget across multiple entrances.** Most campuses can't justify a premium speed gate at every entrance.
-**EASCO Solution:** Compact tripod turnstiles cover secondary and lower-traffic entrances at a lower per-unit cost.
+**EASCO Solution:** The Xingyun Water Drop (ES-YST) shared-column speed gate and Yunyi Mini (ES-YY) compact gate cover secondary and lower-traffic entrances at a lower per-unit cost.
 
 **Visitor and parent screening.** A campus needs to know who's on site without a security interrogation at every pickup.
 **EASCO Solution:** Self-registration terminals create a visitor record without a manned checkpoint.
@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at schools and campus
 
 **H2: EASCO Products Used in Campus Deployments**
 
-**[Tripod Turnstiles](/tripod-turnstiles/)**: compact, lower-cost gates for multiple campus entrances.
-**[Face Recognition Terminals](/face-recognition/)**: attendance that can't be shared or handed to a friend.
-**[Visitor Registration Machines](/visitor-registration/)**: parent and visitor self check-in.
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Xingyun Water Drop (ES-YST) and Yunyi Mini (ES-YY) are compact, lower-cost options for multiple campus entrances.
+**[Facial Recognition](/facial-recognition/)**: attendance that can't be shared or handed to a friend.
+**[Handheld Device](/handheld-device/)**: mobile enrollment for staff visiting multiple buildings and event check-in.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -109,8 +109,8 @@ In the meantime: EASCO access control systems are deployed at schools and campus
 **Q: How long does installation take for a school campus?**
 A: Timeline depends on entrance count and campus layout. Contact EASCO directly for a project-specific schedule.
 
-**Q: Is a tripod turnstile safe for younger students?**
-A: Automatic anti-pinch detection stops the arm before contact, and the gate releases on power loss for evacuation safety.
+**Q: Is a compact speed gate safe for younger students?**
+A: Yes — the anti-collision mechanism stops the gate arm the instant it detects resistance, and the gate releases to free passage on power loss for evacuation safety.
 
 **Q: Can this integrate with our student information system?**
 A: Standard interfaces (Wiegand 26/34, RS485, TCP/IP) cover most access platforms, with SDK/API documentation for custom integration.
@@ -140,8 +140,8 @@ Every campus has a different entrance count and budget. Send the number of entra
 ## Internal Links Required
 
 - Link to [Smart Campus solution page](/solutions/smart-campus/)
-- Link to [Tripod Turnstiles](/tripod-turnstiles/)
-- Link to [Face Recognition Terminals](/face-recognition/)
+- Link to [Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)
+- Link to [Facial Recognition](/facial-recognition/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

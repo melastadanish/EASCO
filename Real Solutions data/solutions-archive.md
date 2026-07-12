@@ -51,7 +51,7 @@ Choose your industry below. Each solution combines the right hardware — turnst
 **Solution Focus:** Employee access control, visitor registration, high-throughput entry processing.
 
 **Key Hardware:**
-- Speed gates processing 45 people per minute for main lobby entry
+- Speed gates processing 50 people per minute for main lobby entry
 - Face recognition terminals for restricted zones
 - Card + QR code readers for temporary visitor access
 - Integration with time-attendance and building management systems via Wiegand/RS485
@@ -70,7 +70,7 @@ Choose your industry below. Each solution combines the right hardware — turnst
 
 **Key Hardware:**
 - Face recognition terminals for attendance (classroom or building entry)
-- Tripod turnstiles for main campus gates
+- Compact aluminum alloy speed gates for main campus gates (Xingyun Water Drop ES-YST, Yunyi Mini ES-YY)
 - Handheld devices for outdoor enrollment and event check-in
 - Multi-modal biometrics (face + palm vein) for administrative zones
 
@@ -87,7 +87,7 @@ Choose your industry below. Each solution combines the right hardware — turnst
 **Solution Focus:** High-volume passenger processing, minimal entry delays, integration with ticketing systems.
 
 **Key Hardware:**
-- Cylindrical speed gates processing up to 45 people per minute
+- Aluminum alloy speed gates processing 50 people per minute (>50 ppm for Interstellar Series)
 - Stainless steel turnstiles for durability in high-traffic zones
 - ANPR (automatic number plate recognition) for vehicle parking
 - Face recognition kiosks for self-service passenger screening
@@ -125,7 +125,7 @@ Choose your industry below. Each solution combines the right hardware — turnst
 **Key Hardware:**
 - Face recognition + alcohol detection combined (single-motion verification for sober-only policies)
 - Handheld terminals for outdoor shift verification
-- Tripod turnstiles for main factory entrance
+- Aluminum alloy or stainless steel speed gates for main factory entrance
 - Integration with payroll and shift management software
 
 **Why EASCO for factories:** Alcohol detection + identity verification prevents safety violations at point-of-entry. Eliminates buddy-punching on payroll. Tracks which employees were on-site during incidents or injuries.
@@ -159,7 +159,7 @@ Choose your industry below. Each solution combines the right hardware — turnst
 **Solution Focus:** High-volume crowd management, event access verification, staff zone separation.
 
 **Key Hardware:**
-- Speed gates (45 ppm) for main event entry
+- Speed gates (50 ppm) for main event entry
 - Stainless steel turnstiles for durability under continuous use
 - Ticket reader integration for automated guest verification
 - Handheld terminals for mobile staff credential checking
@@ -242,7 +242,7 @@ Every EASCO solution includes:
 |---|---|---|---|
 | **Commercial Office** | 5-story building, 500 employees | 2 speed gates (main lobby) + 4 face recognition terminals (restricted zones) | Eliminated badge forgery; 3-minute peak-hour lobby processing time |
 | **University Campus** | 8 buildings, 3,000 students | 12 face recognition terminals + handheld devices for outdoor events | Automated attendance (replaces manual roll call); mobile enrollment for visiting lecturers |
-| **International Airport** | Terminal expansion, 50,000 daily passengers | 8 cylindrical speed gates + ANPR for vehicle parking | Passenger throughput increased 40%; gate queue time < 10 seconds |
+| **International Airport** | Terminal expansion, 50,000 daily passengers | 8 aluminum alloy speed gates + ANPR for vehicle parking | Passenger throughput increased 40%; gate queue time < 10 seconds |
 | **Hospital Network** | 3 facilities, 500+ staff | Palm vein terminals for administrative access + iris recognition for pharmacy | Zero cross-contamination risk; tamper-proof access logs for DEA compliance |
 | **Manufacturing Plant** | 800-person shift factory | Alcohol detection + face recognition terminals at time-clock stations | 98% reduction in buddy-punching; safety incidents dropped 60% year-over-year |
 | **Government Agency** | Classified facility, 200 cleared staff | Multi-modal (iris + face + card) terminals for high-security zones | 1-in-10M false acceptance rate; audit-trail logs for investigation purposes |

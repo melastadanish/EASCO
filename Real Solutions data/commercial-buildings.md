@@ -23,7 +23,7 @@ Last Updated: 2026-07-12
 
 **H1: Access Control for Commercial Buildings**
 
-Employee security and visitor tracking without friction. EASCO systems process 45 people per minute during peak hours and integrate with existing office infrastructure—trusted by corporate facilities worldwide. ISO 9001 certified, 16+ years manufacturing.
+Employee security and visitor tracking without friction. EASCO systems process 50 people per minute during peak hours and integrate with existing office infrastructure — trusted by corporate facilities worldwide. ISO 9001 certified, 16+ years manufacturing.
 
 **CTA buttons:** [Request a Quote →](https://wa.me/8613711422283) · [Call: +86 13711422283](tel:+8613711422283)
 
@@ -55,7 +55,7 @@ Corporate buildings house dozens of companies across multiple floors. Employees 
 
 **Visitor Flow Without Bottlenecks**
 
-Every visitor arrives at the main lobby. Reception staff must verify identity, issue a temporary badge, note which floor/tenant they're visiting, and track when they leave. For 500-person buildings with 50+ daily visitors, bottlenecks create security gaps (tailgating through turnstiles) and guest frustration (15-minute wait at the gate). A speed gate processing 45 people per minute clears morning rush in minutes, not hours—with IP cameras and facial recognition logging every entry.
+Every visitor arrives at the main lobby. Reception staff must verify identity, issue a temporary badge, note which floor/tenant they're visiting, and track when they leave. For 500-person buildings with 50+ daily visitors, bottlenecks create security gaps (tailgating through turnstiles) and guest frustration (15-minute wait at the gate). A speed gate processing 50 people per minute clears morning rush in minutes, not hours—with IP cameras and facial recognition logging every entry.
 
 **Round-the-Clock Facility Access**
 
@@ -67,11 +67,11 @@ Office buildings operate 24/7. Janitors clean at night. Security patrols midnigh
 
 **H2: The Right Product Mix for Commercial Buildings**
 
-**Aluminum Alloy Cylindrical Speed Gate**
-- Throughput: 45 persons/minute
-- Opening speed: 0.3 seconds
-- Models: Standard, LCD+Face display, Premium
-- Integration: Face recognition, card readers, QR code scanning
+**Aluminum Alloy Speed Gate (Starship 4 / Xingyao / Interstellar Series)**
+- Throughput: 50 persons/minute (Starship 4 / Xingyao); >50 persons/minute (Interstellar)
+- Opening speed: <0.5 seconds (Starship 4 / Xingyao); <0.3 seconds (Interstellar)
+- Models: ES-ST4 (Starship 4 — mid-range offices), ES-XY (Xingyao Waterproof — semi-outdoor lobbies), ES-SIN (Interstellar — flagship lobbies)
+- Integration: Face recognition panel optional (50,000-face capacity, 200–300ms, Android OS), card, QR code
 - Best for: Main lobby entry, high-traffic zones
 
 [Request Quote →](https://wa.me/8613711422283)
@@ -145,7 +145,7 @@ Uncertain about which gate size, which biometric system, or how many entry point
 **H2: Frequently Asked Questions**
 
 **Q: How many people per minute can EASCO turnstiles handle?**
-A: The aluminum cylindrical speed gate processes 45 persons per minute—fast enough to clear a 500-person building lobby in under 12 minutes during morning rush. That throughput is measured in real installations, not lab conditions.
+A: The aluminum alloy speed gate range processes 50 persons per minute — fast enough to clear a 500-person building lobby in under 10 minutes during morning rush. The Interstellar Series exceeds 50/min with a <0.3-second opening. That throughput is measured in real installations, not lab conditions.
 
 **Q: Can I integrate face recognition with my existing access control system?**
 A: Yes. EASCO face recognition terminals support Wiegand 26/34, RS485, TCP/IP, USB, and WiFi—standard interfaces on most access control platforms. If your system uses a different protocol, we provide SDK documentation for custom integration.

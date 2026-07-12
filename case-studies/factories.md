@@ -53,13 +53,13 @@ Factories and warehouses rely on EASCO's alcohol detection, handheld, and fixed 
 |---|---|
 | Facility Type | Logistics/warehouse site, multiple entry points including a loading dock |
 | Traffic Profile | Multi-shift workforce, safety-policy enforcement required |
-| Products Used | ESFAT alcohol + face recognition terminal (main gate), IP67 handheld terminals (loading dock/yard) |
+| Products Used | ESFAT alcohol + face recognition terminal (main gate), ESR51 rugged handheld terminals (loading dock/yard) |
 
 **The Challenge**
 A written sober-only policy has no way to enforce itself at the door. A card-only system also can't stop one worker clocking in for a colleague. The loading dock and yard also sit outside range of any fixed network connection.
 
 **The Approach**
-The ESFAT combines a breath alcohol test with face recognition at the main gate, so a worker can't clock in without passing both checks together. IP67-rated handheld terminals with 4G connectivity cover the loading dock and yard without needing a fixed network.
+The ESFAT combines a breath alcohol test with face recognition at the main gate, so a worker can't clock in without passing both checks together. ESR51 three-proof rugged handheld terminals with 4G connectivity cover the loading dock and yard without needing a fixed network.
 
 **The Outcome**
 Sobriety and identity are verified together at the point of entry rather than relying on self-reporting. Attendance extends to the loading dock and yard without new cabling. Buddy punching becomes structurally difficult across every entry point.
@@ -78,13 +78,13 @@ In the meantime: EASCO access control systems are deployed at factories and ware
 **EASCO Solution:** The ESFAT combines a breath alcohol test with face recognition in one motion, clock-in only completes if both pass.
 
 **Attendance across a spread-out floor.** A single fixed terminal at the front gate misses a loading dock or remote yard.
-**EASCO Solution:** IP67-rated handheld terminals with 4G connectivity move attendance to wherever the crew is working.
+**EASCO Solution:** ESR51 three-proof rugged handheld terminals with 4G connectivity move attendance to wherever the crew is working.
 
 **Buddy punching prevention.** A card-only system can't stop one worker from clocking in for a colleague who isn't on site.
 **EASCO Solution:** Face recognition ties every clock-in to a specific enrolled person, whether at a fixed gate or a handheld unit.
 
 **Harsh environmental conditions.** Dust, humidity, and temperature swings shorten the life of hardware not built for it.
-**EASCO Solution:** IP65/IP67-rated housings and wide operating temperature ranges across the attendance range.
+**EASCO Solution:** Three-proof rugged terminals (ESR51) and IP65-rated fixed terminals with wide operating temperature ranges across the attendance range.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at factories and ware
 
 **H2: EASCO Products Used in Industrial Deployments**
 
-**[Alcohol Detection Devices](/alcohol-detection/)**: the ESFAT ties identity and sobriety checks to one motion.
-**[Handheld Face Recognition Terminals](/handheld-face-recognition/)**: IP67-rated, 4G-connected attendance for remote areas.
-**[Face Recognition Terminals](/face-recognition/)**: fixed IP65-rated terminals for main entrances.
+**[Facial Recognition (includes ESFAT)](/facial-recognition/)**: the ESFAT ties identity and sobriety checks to one motion.
+**[Handheld Device](/handheld-device/)**: ESR51 three-proof rugged handheld terminals with 4G connectivity for remote areas.
+**[Facial Recognition](/facial-recognition/)**: fixed IP65-rated terminals for main entrances.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -113,7 +113,7 @@ A: Timeline depends on site layout and entrance count. Contact EASCO directly fo
 A: Use it for safety enforcement at the point of entry. Confirm with local counsel whether this specific sensor meets any legal evidentiary standard required in your jurisdiction.
 
 **Q: Can attendance be tracked at a remote loading dock?**
-A: Yes. IP67-rated handheld terminals with 4G connectivity cover areas without a fixed network.
+A: Yes. ESR51 three-proof rugged handheld terminals with 4G connectivity cover areas without a fixed network.
 
 **Q: Do you provide training for site supervisors?**
 A: Discuss training and onboarding requirements directly with EASCO as part of the order process.
@@ -140,8 +140,8 @@ Every factory or warehouse has a different layout and workforce size. Send the s
 ## Internal Links Required
 
 - Link to [Factories / Warehouses solution page](/solutions/factories/)
-- Link to [Alcohol Detection Devices](/alcohol-detection/)
-- Link to [Handheld Face Recognition Terminals](/handheld-face-recognition/)
+- Link to [Facial Recognition (includes ESFAT)](/facial-recognition/)
+- Link to [Handheld Device](/handheld-device/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---

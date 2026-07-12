@@ -53,13 +53,13 @@ Shopping malls rely on EASCO turnstiles for staff and service entrances, ANPR fo
 |---|---|
 | Facility Type | Regional shopping mall, multi-tenant retail, dedicated parking structure |
 | Traffic Profile | Staff/service entrances separate from customer traffic, high-volume parking |
-| Products Used | Speed gates (staff/service entrances), ANPR cameras (parking structure) |
+| Products Used | Aluminum alloy speed gates (Starship 4 ES-ST4, staff/service entrances), gate opener systems (parking structure barriers) |
 
 **The Challenge**
-Back-of-house staff and delivery access needs its own security tier, separate from the customer-facing mall entrance. The parking structure also needs a fast, reliable read at every entry and exit lane during peak shopping hours.
+Back-of-house staff and delivery access needs its own security tier, separate from the customer-facing mall entrance. The parking structure also needs a fast, reliable gate at every entry and exit lane during peak shopping hours.
 
 **The Approach**
-Speed gates with a customizable, professional-looking door panel cover staff and service entrances. ANPR cameras rated for continuous outdoor operation manage the parking structure's entry and exit lanes.
+Starship 4 speed gates with face recognition panels cover staff and service entrances — professional aesthetic, 50 persons per minute throughput. Gate opener systems manage the parking structure's entry and exit barriers, triggered by card, remote, or WeChat app scheduling.
 
 **The Outcome**
 Staff and delivery traffic stay separate from customer foot traffic. The parking structure clears vehicles without a bottleneck at peak hours. Both systems report into the same overall access control platform.
@@ -75,13 +75,13 @@ In the meantime: EASCO access control systems are deployed at commercial and ret
 **H2: Common Requirements for Retail Facilities**
 
 **Staff and service entrances separate from customer traffic.** Back-of-house access needs its own security tier without a public-facing checkpoint.
-**EASCO Solution:** Speed gates and face recognition terminals control staff and delivery entrances independently from mall foot traffic.
+**EASCO Solution:** Aluminum alloy speed gates with face recognition panels control staff and delivery entrances independently from mall foot traffic.
 
-**Vehicle access to parking structures.** High-volume parking needs a fast, reliable read at entry and exit lanes.
-**EASCO Solution:** ANPR cameras with a 30,000-hour MTBF rating handle continuous parking lane operation.
+**Vehicle access to parking structures.** High-volume parking needs a fast, reliable gate at entry and exit lanes.
+**EASCO Solution:** Gate opener systems (heavy-duty BB-DD-01 or gear-and-rail BB-WSCLCT-01) handle continuous parking barrier operation.
 
 **A professional first impression at the entrance.** A mall entrance is part of the shopping experience, not just a security checkpoint.
-**EASCO Solution:** The JX speed gate's RGB lighting and customizable door panel suit a retail environment's aesthetic.
+**EASCO Solution:** The Starship 4 and Interstellar series aluminum alloy gates offer a clean, modern aesthetic suitable for a retail environment.
 
 **Tenant-specific access for mall staff.** Different retail tenants may need separate staff access schedules.
 **EASCO Solution:** Face recognition terminals support per-tenant credential lists on shared back-of-house entrances.
@@ -94,9 +94,9 @@ In the meantime: EASCO access control systems are deployed at commercial and ret
 
 **H2: EASCO Products Used in Retail Deployments**
 
-**[Flap Barrier / Speed Gates](/speed-gates/)**: customizable, professional-looking staff and service entrances.
-**[Number Plate Recognition (ANPR) Systems](/anpr-systems/)**: parking access with a driver-facing display.
-**[Face Recognition Terminals](/face-recognition/)**: back-of-house staff access control.
+**[Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)**: Starship 4 and Interstellar series suit professional staff and service entrances.
+**[Gate Opener Systems](/gate-opener/)**: vehicle access for parking structures with a driver-facing display.
+**[Facial Recognition Terminals](/facial-recognition/)**: back-of-house staff access control.
 
 **Tier 1 checks:** ✅ Banned phrases ✅ Claims verified ✅ Readability ✅ Benefit-first ✅ CTA
 
@@ -109,8 +109,8 @@ In the meantime: EASCO access control systems are deployed at commercial and ret
 **Q: How long does installation take for a mall facility?**
 A: Timeline depends on entrance count and whether installation happens during operating hours. Contact EASCO directly for a project-specific schedule.
 
-**Q: Can ANPR handle a high-volume parking structure?**
-A: Yes. The ES-T02 camera is rated for continuous outdoor operation with a 30,000-hour MTBF and IP65 housing.
+**Q: Can EASCO gate openers handle a high-volume parking structure?**
+A: Yes. The BB-DD-01 heavy-duty model handles gates up to 6 metres wide and 1,100kg, rated for continuous operation. The BB-WSCLCT-01 gear-and-rail model handles sliding gates up to 1,000kg. Both operate from -40°C to +70°C.
 
 **Q: Can different tenants have separate staff access schedules?**
 A: Yes. Face recognition terminals support per-tenant and per-group access rules on shared entrances.
@@ -139,9 +139,9 @@ Every retail facility has different tenant, traffic, and parking requirements. S
 
 ## Internal Links Required
 
-- Link to [Commercial Buildings solution page](/solutions/commercial-buildings/), closest match, no dedicated mall solution page exists
-- Link to [ANPR Systems](/anpr-systems/)
-- Link to [Speed Gates](/speed-gates/)
+- Link to [Commercial Buildings solution page](/solutions/commercial-buildings/)
+- Link to [Aluminum Alloy Turnstiles](/aluminum-alloy-turnstile/)
+- Link to [Gate Opener Systems](/gate-opener/)
 - Link to [Case Studies Hub](/case-studies/)
 
 ---
