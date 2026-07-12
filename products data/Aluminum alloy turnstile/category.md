@@ -1,11 +1,12 @@
 ---
 Status: READY FOR DEVELOPMENT
-Pass A: 9.8/10
-Pass B: 0 fixes applied (verified data only)
+Pass A: 9.5/10
+Pass B: 0 fixes applied
 Pass N: All verified terms present
-Pass D: AI-quotable ✅ | FAQ 6 Q&As | Authority ✅ (Founded Dec 2009, 80,000+ installations, 50+ countries) | GEO ✅
+Pass D: AI-quotable ✅ | FAQ 6 Q&As | Authority ✅ (80,000+ installations, 50+ countries, ISO 9001) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ | CTAs ✅ | AI-score 4%
-Last Updated: 2026-07-11
+Client Data Verified: 2026-07-12 (All specs from client-data-map/products data/Aluminum alloy turnstile product manuals)
+Last Updated: 2026-07-12
 ---
 
 ## Page Metadata
@@ -15,12 +16,12 @@ Target URL:        /aluminum-alloy-turnstile/
 Slug:              aluminum-alloy-turnstile
 Category:          Aluminum Alloy Turnstile
 Primary Keyword:   Aluminum Alloy Turnstile
-Secondary Keywords: cylindrical speed gate, aluminum speed gate, indoor turnstile gate, aircraft-grade aluminum turnstile
+Secondary Keywords: aluminum speed gate, indoor turnstile gate, speed gate manufacturer, aluminum alloy speed gate
 Schema Markup:     CollectionPage + ItemList
 Search Intent:     Commercial Investigation
 Word Count Target: 900–1,600 words
-SEO Title:         Aluminum Alloy Turnstile — EASCO Cylindrical Speed Gate Range
-SEO Description:   EASCO aluminum alloy turnstiles — cylindrical speed gates processing 45 persons/min with 0.3-second opening. Aircraft-grade frame, face recognition compatible. Factory direct.
+SEO Title:         Aluminum Alloy Turnstile — EASCO Speed Gate Range
+SEO Description:   EASCO aluminum alloy turnstiles — 50 persons/min, <0.5s opening, 15 million cycle motor life. Six models from indoor lobbies to outdoor waterproof gates. Factory direct.
 Primary Segment:   Facility / Security Manager (Segment 1)
 Differentiators:   D1, D2, D9, D14
 Status:            🔲 To Do
@@ -30,9 +31,9 @@ Status:            🔲 To Do
 
 ## Section 1 — Hero / Banner
 
-**H1: Aluminum Alloy Turnstile — 45 Persons Per Minute**
+**H1: Aluminum Alloy Turnstile — 50 Persons Per Minute**
 
-Opens in 0.3 seconds. Processes your busiest entrance without a bottleneck. EASCO aluminum alloy cylindrical speed gates run aircraft-grade aluminum frames with 10mm acrylic or toughened glass doors — built for high-traffic indoor deployments where throughput and aesthetics both matter.
+Opens in under 0.5 seconds. Processes your busiest entrance without a bottleneck. EASCO aluminum alloy speed gates cover every indoor deployment scenario — from premium lobbies requiring holographic display integration to budget-sensitive factory entrances. Six product series, all running DC brushless motors with 15 million cycle lifespan, all supporting face recognition, card, and QR code access.
 
 **CTA buttons:** [Request a Quote] · [Call/WhatsApp: +86 13711422283]
 
@@ -49,7 +50,7 @@ Opens in 0.3 seconds. Processes your busiest entrance without a bottleneck. EASC
 | Stainless Steel Turnstile | Corrosion-resistant gates for outdoor, coastal, and high-vandalism sites |
 | Facial Recognition | Biometric terminals for touchless access and time attendance |
 | Gate Opener | Automatic barrier gates for parking, driveways, and vehicle access |
-| Handheld Device | Portable face recognition terminals for fieldwork and mobile deployments |
+| Handheld Device | Portable terminals for fieldwork and mobile deployments |
 
 ---
 
@@ -57,34 +58,67 @@ Opens in 0.3 seconds. Processes your busiest entrance without a bottleneck. EASC
 
 **H2: Aluminum Alloy Turnstile Models**
 
-**Product 1: ESYBZ Cylindrical Speed Gate (Standard)**
+**Product 1: Interstellar Series (ES-SIN-J1 / ES-SIN-J2 / ES-SIN-JF1 / ES-SIN-JF2)**
 
-- **45 persons/minute throughput**
-- **0.3-second door opening speed**
-- **Aircraft-grade aluminum alloy frame**
-- **600–1,500mm passage width (customizable)**
-
-[Request a Quote]
-
----
-
-**Product 2: ESYBZ LCD+Face Cylindrical Speed Gate**
-
-- **Integrated 1920×1080 IPS HD display**
-- **Face recognition onboard — 99.98% accuracy**
-- **Android OS — no external controller needed**
-- **Wiegand 26/34, RS485, TCP/IP, WiFi, MQTT**
+- **>50 persons/minute throughput**
+- **<0.3-second door opening speed — fastest in the range**
+- **All-aluminum alloy body, moulded — top cover 9mm, column wall 2.5mm**
+- **Indoor use — targets airports, Grade A office buildings, landmark venues**
 
 [Request a Quote]
 
 ---
 
-**Product 3: ESYAD LCD+Face Cylindrical Speed Gate (Premium)**
+**Product 2: Xingyao Waterproof Speed Gate (ES-XY-ST01 / ES-XY-ST02 / ES-XY-STF01 / ES-XY-STF02)**
 
-- **Premium model with integrated face recognition**
-- **50,000-face onboard enrollment capacity**
-- **Recognition distance 0.5–3 metres**
-- **Financial-grade liveness detection**
+- **IP65-rated — indoor and outdoor installation**
+- **50 persons/minute, <0.5-second opening**
+- **Aviation-grade aluminum alloy, moulded — top cover 6mm, column wall 3mm**
+- **Optional face recognition panel with 50,000-face capacity**
+
+[Request a Quote]
+
+---
+
+**Product 3: Starship 4 Series (ES-ST4-J1 / ES-ST4-J2 / ES-ST4-JF1 / ES-ST4-JF2)**
+
+- **50 persons/minute, <0.5-second opening**
+- **All-aluminum alloy body — top cover 8mm, column wall 3mm**
+- **Indoor use — offices, parks, schools, hospitals, mid-range commercial**
+- **Optional face panel: 50,000 faces, 200–300ms recognition, Android OS**
+
+[Request a Quote]
+
+---
+
+**Product 4: Xingyun Water Drop Speed Gate (ES-YST-01 / ES-YST-02)**
+
+- **Water-drop cylindrical form — shared centre column design saves space**
+- **50 persons/minute, <0.5-second opening**
+- **Aluminum alloy body, column wall 2.5mm**
+- **Budget-friendly indoor deployment for SMEs and co-working spaces**
+
+[Request a Quote]
+
+---
+
+**Product 5: Xingshuo Single Arm Gate (ES-XS-YZ01)**
+
+- **Single barrier arm — widest passage width up to 1,700mm**
+- **30 persons/minute, <1.5-second opening**
+- **Aluminum alloy column, stainless steel SUS304 barrier arm**
+- **Indoor use — suitable for oversized access and disabled-accessible lanes**
+
+[Request a Quote]
+
+---
+
+**Product 6: Yunyi Mini Speed Gate (ES-YY-ST01 / ES-YY-ST02)**
+
+- **Compact footprint — saves ~30% floor space vs standard speed gate**
+- **50 persons/minute, <0.5-second opening**
+- **Aluminum alloy + carbon steel composite body, 6-pair IR sensors standard**
+- **Passage width 550–900mm — for narrow corridors and retrofit projects**
 
 [Request a Quote]
 
@@ -94,39 +128,38 @@ Opens in 0.3 seconds. Processes your busiest entrance without a bottleneck. EASC
 
 **H2: What Is an Aluminum Alloy Turnstile?**
 
-An aluminum alloy turnstile is a pedestrian access gate built from aircraft-grade aluminum — the same structural alloy used in aerospace applications. It is lighter than stainless steel without sacrificing rigidity, which makes it the standard choice for indoor corporate, campus, and institutional deployments. The aluminum frame resists oxidation in controlled indoor climates while keeping installation weight low.
+An aluminum alloy turnstile is a pedestrian access gate built from precision-formed or CNC-machined aluminum alloy — the same grade used in aerospace applications. It is lighter than stainless steel without sacrificing structural strength, which makes it the default choice for indoor corporate, institutional, and commercial deployments. The aluminum body resists corrosion in controlled indoor climates while keeping installation weight manageable.
 
-EASCO's aluminum alloy range is the cylindrical speed gate series. The cylindrical format means the gate doors retract into the body rather than swinging outward — a compact footprint that suits lobbies with tight lane spacing. All models run a DC brushless servo motor and crank-link transmission, delivering 0.3-second opening speed and 45 persons per minute per lane. Select models add an integrated Android display with face recognition, card, and QR code access built directly into the gate body. The difference from stainless steel is simple: buy aluminum for indoor facilities. Buy stainless steel for outdoor and coastal sites.
+EASCO manufactures six distinct aluminum alloy series covering the full range from flagship lobby installations to budget-conscious factory entrances. The Interstellar Series targets the highest-spec venues — airports, Grade A offices, landmark public buildings — with a <0.3-second door opening and direct-drive servo motor rated for 15 million cycles. The Xingyao Waterproof Series adds an IP65 rating for semi-outdoor and covered-outdoor deployments. The Starship 4 is the mainstream workhorse for offices, schools, and parks. The Water Drop, Single Arm, and Yunyi Mini cover specific form-factor needs: space-saving shared-column layouts, oversized accessible lanes, and narrow retrofit corridors. All six series accept the same face recognition panels, card readers, and QR code modules — buy the gate series that fits the environment, configure the credential method that fits the security policy.
 
 ---
 
 ## Section 5 — Key Features
 
-**H2: Key Features of Aluminum Alloy Turnstiles**
+**H2: Key Features of EASCO Aluminum Alloy Turnstiles**
 
-**Nobody gets trapped. Crank-link transmission stops the gate the instant it meets resistance.** The mechanism is mechanical, not software-dependent — anti-crush protection works during a power cut, a system crash, or a network outage. No sensor needs to report back to a controller before the gate responds.
+**15 million cycle motor lifespan across the range.** DC brushless linear Hall + planetary reducer integrated motor runs continuously at commercial traffic volumes without degrading. At 500 gate operations per day, 15 million cycles equals over 82 years of continuous service.
 
-**45 people per minute without queuing.** The DC brushless servo motor opens the door in 0.3 seconds. At peak morning entry — 200 staff arriving over 10 minutes — a single lane processes the full group without anyone waiting more than two passes. Add lanes to match your headcount.
+**50 people per minute without queuing.** The standard DC brushless motor opens the gate in under 0.5 seconds. The Interstellar Series direct-drive servo cuts that to under 0.3 seconds. At peak morning entry in a 500-staff office, a single lane processes the full group inside 10 minutes.
 
-**One gate, five access methods.** On biometric models, face recognition, card, QR code, palm scan, and PIN all work from the same terminal mounted on the gate. No separate reader column needed. Wiegand 26/34, RS485, TCP/IP, WiFi, WebSocket, and MQTT connections let it talk to any existing access control platform.
+**Fire emergency release in zero seconds.** The ARM industrial control core connects directly to the building's fire alarm system. Power cut or fire signal triggers automatic gate opening and locks it open — the emergency exit is clear before the alarm finishes sounding.
 
-**Passage width adjusts to wheelchair and goods access.** The standard opening runs 600mm. Custom configurations extend to 1,500mm — wide enough for a wheelchair, a pallet trolley, or a large equipment case, still controlled by the same gate mechanism.
+**One gate, multiple credential methods.** Face recognition, card (RS485/RS232/IO), QR code, and ID card modules all mount into the same gate body. The Starship 4 and Xingyao face panels store 50,000 enrolled faces onboard and process recognition in 200–300ms. No separate reader column needed, no secondary controller required.
 
 ---
 
 ## Section 6 — Comparison Table
 
-**H2: Aluminum Alloy vs. Stainless Steel Turnstiles**
+**H2: Choosing the Right Aluminum Alloy Series**
 
-| Feature | Aluminum Alloy | Stainless Steel |
-|---|---|---|
-| **Best environment** | Indoor (offices, campuses, hospitals) | Outdoor, coastal, high-humidity |
-| **Weight** | Lighter — easier retrofit installs | Heavier — fixed outdoor installations |
-| **Opening speed** | 0.3 seconds | 0.3 seconds |
-| **Throughput** | 45 persons/min | 45 persons/min |
-| **Corrosion resistance** | Indoor-rated | Salt spray and outdoor rated |
-| **Cost** | Standard | 15–25% higher |
-| **Biometric integration** | Available on ESYBZ LCD+Face / ESYAD | Available on select models |
+| | Interstellar (ES-SIN) | Xingyao Waterproof (ES-XY) | Starship 4 (ES-ST4) | Water Drop (ES-YST) | Single Arm (ES-XS) | Yunyi Mini (ES-YY) |
+|---|---|---|---|---|---|---|
+| **Throughput** | >50/min | 50/min | 50/min | 50/min | 30/min | 50/min |
+| **Opening speed** | <0.3s | <0.5s | <0.5s | <0.5s | <1.5s | <0.5s |
+| **IP rating** | Indoor | IP65 (indoor+outdoor) | Indoor | Indoor | Indoor | Indoor |
+| **Motor lifespan** | 15M cycles | 15M cycles | 15M cycles | 15M cycles | 15M cycles | 15M cycles |
+| **Passage width** | 550–1,200mm | 550–1,200mm | 550–1,200mm | 550–1,200mm | 550–1,700mm | 550–900mm |
+| **Best for** | Airports, Grade A offices, landmarks | Semi-outdoor, hotels, transit | Offices, schools, hospitals | SME offices, co-working | Accessible lanes, oversized access | Narrow retrofits, compact lobbies |
 
 ---
 
@@ -136,10 +169,10 @@ EASCO's aluminum alloy range is the cylindrical speed gate series. The cylindric
 
 | Application | Application |
 |---|---|
-| Corporate office lobbies | University and school campuses |
-| Hospital staff entrances | Government administrative buildings |
-| Museum and gallery entrances | Transit station concourses (indoor) |
-| Manufacturing plant staff gates | Shopping centre service entrances |
+| Corporate office lobbies | University campus entrances |
+| Hospital staff access points | Government administrative buildings |
+| Hotel lobby guest access | Museum and gallery entrances |
+| Manufacturing plant staff gates | Co-working and shared office spaces |
 
 ---
 
@@ -148,22 +181,22 @@ EASCO's aluminum alloy range is the cylindrical speed gate series. The cylindric
 **H2: Frequently Asked Questions**
 
 **Q: What is the throughput of EASCO aluminum alloy turnstiles?**
-A: EASCO aluminum alloy cylindrical speed gates process 45 persons per minute per lane. The door opens in 0.3 seconds, driven by a DC brushless servo motor with crank-link transmission.
+A: Most EASCO aluminum alloy series process 50 persons per minute. The Interstellar Series exceeds 50 persons per minute with a <0.3-second opening time driven by a direct-drive servo motor. The Single Arm model processes 30 persons per minute due to its wider passage format.
 
-**Q: Can aluminum alloy turnstiles be used outdoors?**
-A: Aluminum alloy models are rated for indoor and sheltered environments. For exposed outdoor, coastal, or high-humidity installations, EASCO's stainless steel turnstile range is the correct choice.
+**Q: What is the motor lifespan?**
+A: The DC brushless linear Hall + planetary reducer motor used across all six series is rated for 15 million continuous opening/closing cycles. At 500 cycles per day, that equals over 82 years of commercial use.
 
-**Q: What biometric methods do the ESYBZ LCD+Face and ESYAD models support?**
-A: Integrated models support face recognition (99.98% accuracy, 0.5–3m recognition distance), card (Wiegand 26/34), QR code, and palm scan. The Android OS platform allows additional credential methods via SDK integration.
+**Q: Which series is rated for outdoor installation?**
+A: The Xingyao Waterproof Series (ES-XY) is IP65-rated and suitable for indoor and outdoor installation. The other five series are rated for indoor use. For fully exposed outdoor sites, the stainless steel turnstile range is recommended.
 
-**Q: What passage width is available?**
-A: Standard passage width is 600mm. Custom configurations up to 1,500mm are available — suitable for wheelchair access and goods movement.
+**Q: What credential methods are supported?**
+A: All series support face recognition, card (via RS485/RS232/IO), QR code, and ID card module options. Face recognition panels for the Xingyao and Starship 4 series store 50,000 faces onboard and process recognition at 200–300ms with 99.98% accuracy.
 
-**Q: How does the anti-crush protection work?**
-A: Crank-link transmission with collision avoidance stops the gate the instant it detects resistance. The mechanism is mechanical, not software-dependent — it functions during power outages and system errors.
+**Q: What happens during a power cut or fire alarm?**
+A: The control system connects directly to the fire alarm panel. On power cut or fire signal, the gate automatically opens and locks in the open position — zero-second emergency release. The ARM control core remembers the gate's absolute position, so no re-calibration is needed on power restoration.
 
 **Q: What is the lead time for aluminum alloy turnstiles?**
-A: Standard products ship within the quoted production window from Shenzhen. Contact EASCO via WhatsApp (+86 13711422283) for confirmed lead time based on model and order volume.
+A: Standard orders ship within the quoted production window from EASCO's Shenzhen facility. Contact EASCO via WhatsApp (+86 13711422283) to confirm lead time based on model, configuration, and order volume.
 
 ---
 
@@ -171,7 +204,7 @@ A: Standard products ship within the quoted production window from Shenzhen. Con
 
 **H2: Ready to Move Forward?**
 
-Built by a factory that has manufactured turnstiles for 16+ years — ISO 9001 certified, CE marked, factory direct from Shenzhen. No trading company. No markup. Tell us your entrance layout and we will confirm the right configuration.
+EASCO manufactures aluminum alloy turnstiles across six series — from compact mini gates to flagship airport-grade speed gates. Factory direct from Shenzhen, ISO 9001 certified, CE marked, 16+ years manufacturing. Tell us your entrance layout, traffic volume, and credential requirements and we will specify the right series and configuration.
 
 **Path 1 — Ready to Buy**
 Fields: Name · Email/Phone · Quantity · Destination Country · Message
@@ -190,27 +223,45 @@ Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
   "@context": "https://schema.org/",
   "@type": "CollectionPage",
   "name": "Aluminum Alloy Turnstile — EASCO",
-  "description": "EASCO aluminum alloy cylindrical speed gates — 45 persons/min, 0.3-second opening, aircraft-grade frame, face recognition compatible. Factory direct, ISO 9001 certified.",
+  "description": "EASCO aluminum alloy speed gates — 50 persons/min, <0.5s opening, 15 million cycle motor life. Six series covering indoor lobbies, outdoor-rated, compact, and accessible-lane configurations. Factory direct from Shenzhen.",
   "mainEntity": {
     "@type": "ItemList",
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "ESYBZ Cylindrical Speed Gate",
-        "url": "/aluminum-alloy-turnstile/esybz/"
+        "name": "Interstellar Series Speed Gate",
+        "url": "/aluminum-alloy-turnstile/interstellar-series/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "ESYBZ LCD+Face Cylindrical Speed Gate",
-        "url": "/aluminum-alloy-turnstile/esybz-lcd-face/"
+        "name": "Xingyao Waterproof Speed Gate",
+        "url": "/aluminum-alloy-turnstile/xingyao-waterproof/"
       },
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "ESYAD LCD+Face Cylindrical Speed Gate",
-        "url": "/aluminum-alloy-turnstile/esyad/"
+        "name": "Starship 4 Speed Gate",
+        "url": "/aluminum-alloy-turnstile/starship-4/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Xingyun Water Drop Speed Gate",
+        "url": "/aluminum-alloy-turnstile/water-drop/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Xingshuo Single Arm Gate",
+        "url": "/aluminum-alloy-turnstile/single-arm/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Yunyi Mini Speed Gate",
+        "url": "/aluminum-alloy-turnstile/yunyi-mini/"
       }
     ]
   }

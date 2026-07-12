@@ -1,11 +1,12 @@
 ---
 Status: READY FOR DEVELOPMENT
-Pass A: 9.8/10
-Pass B: 0 fixes applied (verified data only)
+Pass A: 9.5/10
+Pass B: 0 fixes applied
 Pass N: All verified terms present
-Pass D: AI-quotable ✅ | FAQ 6 Q&As | Authority ✅ (Founded Dec 2009, 80,000+ installations, 50+ countries) | GEO ✅
+Pass D: AI-quotable ✅ | FAQ 6 Q&As | Authority ✅ (80,000+ installations, 50+ countries, ISO 9001) | GEO ✅
 Pass C: Headlines ✅ | Objections ✅ | CTAs ✅ | AI-score 4%
-Last Updated: 2026-07-11
+Client Data Verified: 2026-07-12 (All specs from client-data-map/products data/Stainless steel turnstile product manuals)
+Last Updated: 2026-07-12
 ---
 
 ## Page Metadata
@@ -15,12 +16,12 @@ Target URL:        /stainless-steel-turnstile/
 Slug:              stainless-steel-turnstile
 Category:          Stainless Steel Turnstile
 Primary Keyword:   Stainless Steel Turnstile
-Secondary Keywords: outdoor turnstile gate, coastal turnstile, corrosion-resistant speed gate, stainless steel speed gate
+Secondary Keywords: stainless steel speed gate, outdoor turnstile gate, corrosion-resistant turnstile, swing gate turnstile
 Schema Markup:     CollectionPage + ItemList
 Search Intent:     Commercial Investigation
 Word Count Target: 900–1,600 words
-SEO Title:         Stainless Steel Turnstile — EASCO Outdoor & Coastal Product Range
-SEO Description:   EASCO stainless steel turnstiles for outdoor, coastal, and high-corrosion sites. Speed gates and swing gates, 0.3-second opening, -10°C to +50°C. Factory direct.
+SEO Title:         Stainless Steel Turnstile — EASCO Outdoor & Coastal Range
+SEO Description:   EASCO stainless steel turnstiles — speed gates, swing gates, and full-height models for outdoor, coastal, and high-security sites. 50 persons/min. Factory direct.
 Primary Segment:   Facility / Security Manager (Segment 1)
 Differentiators:   D1, D2, D7, D14
 Status:            🔲 To Do
@@ -30,9 +31,9 @@ Status:            🔲 To Do
 
 ## Section 1 — Hero / Banner
 
-**H1: Stainless Steel Turnstile — Built for Outdoor and Coastal Sites**
+**H1: Stainless Steel Turnstile — Built for Outdoor and High-Corrosion Sites**
 
-Saltwater corrodes aluminum. Outdoor heat cycles warp cheap frames. EASCO stainless steel turnstiles stay structurally sound in coastal plazas, exposed transit entrances, and high-humidity industrial sites where an aluminum gate would deteriorate within years. Seven models: speed gates, swing gates, and full-height turnstiles — all in corrosion-resistant stainless steel.
+Saltwater corrodes aluminum. Outdoor heat cycles wear unsealed motors. EASCO stainless steel turnstiles stay structurally sound in coastal plazas, exposed transit entrances, and industrial outdoor perimeters where aluminum gates would deteriorate within years. Eight models across three gate formats — speed gates, swing gates, and full-height — all SUS304 stainless steel construction.
 
 **CTA buttons:** [Request a Quote] · [Call/WhatsApp: +86 13711422283]
 
@@ -46,10 +47,10 @@ Saltwater corrodes aluminum. Outdoor heat cycles warp cheap frames. EASCO stainl
 
 | Category | One-line descriptor |
 |---|---|
-| Aluminum Alloy Turnstile | Lightweight cylindrical speed gates for indoor offices and campuses |
+| Aluminum Alloy Turnstile | Lightweight speed gates for indoor offices, campuses, and factories |
 | Facial Recognition | Biometric terminals for touchless access and time attendance |
 | Gate Opener | Automatic barrier gates for parking, driveways, and vehicle access |
-| Handheld Device | Portable face recognition terminals for fieldwork and mobile deployments |
+| Handheld Device | Portable terminals for fieldwork and mobile deployments |
 
 ---
 
@@ -57,45 +58,89 @@ Saltwater corrodes aluminum. Outdoor heat cycles warp cheap frames. EASCO stainl
 
 **H2: Stainless Steel Turnstile Models**
 
-**Product 1: Fengying Speed Gate Series**
+**Product 1: Fengying Speed Gate (ES-FY-ST01 / ES-FY-ST02)**
 
-- **Stainless steel frame — outdoor and coastal rated**
-- **0.3-second door opening speed**
-- **DC brushless servo motor**
-- **Face recognition, card, QR code integration available**
-
-[Request a Quote]
-
----
-
-**Product 2: Rounded-Corner Speed Gate**
-
-- **Stainless steel construction**
-- **Smooth rounded aesthetic for public-facing installations**
-- **One-way or two-way passage**
-- **600–1,500mm passage width (customizable)**
+- **50 persons/minute throughput**
+- **<0.5-second door opening speed**
+- **SUS304 stainless steel body — top cover 1.5mm, housing 1.0mm**
+- **Operating range: -20°C to +75°C, indoor use**
 
 [Request a Quote]
 
 ---
 
-**Product 3: Swing Gate Series (Fengchang 108 / Fengyi 168 / Right-Angle)**
+**Product 2: Rounded Corner Speed Gate**
 
-- **Hinged swing operation — wider lane openings**
-- **Stainless steel housing — salt spray rated**
-- **Bi-directional passage**
-- **Anti-tailgating IR sensors**
+- **50 persons/minute throughput**
+- **<0.5-second opening — DC servo + planetary gear drive**
+- **SUS304 full stainless — top cover 1.5mm, round tube 2.0mm**
+- **Operating range: -20°C to +75°C, indoor and outdoor**
 
 [Request a Quote]
 
 ---
 
-**Product 4: Full-Height Stainless Steel Turnstile**
+**Product 3: Fengchang 108 Swing Gate (ES-FC-108)**
 
-- **Floor-to-ceiling barrier — maximum security rating**
-- **Stainless steel frame throughout**
-- **Outdoor installation certified**
-- **Wiegand 26/34, RS485, TCP/IP compatible**
+- **50 persons/minute throughput**
+- **<0.5-second opening, 15 million cycle motor**
+- **SUS304 outer cylinder 2.0mm, swing arm acrylic or tempered glass**
+- **Operating range: -20°C to +75°C, indoor and outdoor**
+
+[Request a Quote]
+
+---
+
+**Product 4: Fengyi 168 Swing Gate (ES-FY-168)**
+
+- **40 persons/minute throughput**
+- **<0.6-second opening, 10 million cycle motor**
+- **SUS304 outer cylinder 2.0mm, larger diameter (φ168mm)**
+- **Passage width up to 1,500mm — widest swing gate in the range**
+
+[Request a Quote]
+
+---
+
+**Product 5: Right-Angle Swing Gate (Standard)**
+
+- **50 persons/minute, <0.5-second opening**
+- **DC servo + planetary gear drive — 15 million cycle lifespan**
+- **SUS304 full stainless — top cover 1.5mm, housing 1.0mm**
+- **6-pair IR sensors standard, indoor and outdoor rated**
+
+[Request a Quote]
+
+---
+
+**Product 6: Right-Angle Swing Gate — Fengjie Variant**
+
+- **50 persons/minute, <0.5-second opening**
+- **24V brushless DC motor — 5 million cycle lifespan**
+- **SUS304 full stainless — top cover 1.0mm, housing 0.8mm**
+- **Operating range: -10°C to +50°C, indoor and outdoor**
+
+[Request a Quote]
+
+---
+
+**Product 7: Rounded Corner Swing Gate**
+
+- **50 persons/minute, <0.5-second opening**
+- **Brushless DC gear motor — 10 million cycle lifespan**
+- **SUS304 full stainless — top cover 1.5mm, housing 1.0mm**
+- **Rounded corner design — collision protection with aesthetic finish**
+
+[Request a Quote]
+
+---
+
+**Product 8: Full-Height Turnstile (Single-Lane / Dual-Lane)**
+
+- **30 persons/minute, 1–2 second opening**
+- **360° cross-turnstile — full-height anti-climb enclosure**
+- **SUS304 stainless steel, 1.0mm body with hydraulic arm**
+- **Operating range: -15°C to +60°C, indoor and outdoor with canopy**
 
 [Request a Quote]
 
@@ -105,39 +150,40 @@ Saltwater corrodes aluminum. Outdoor heat cycles warp cheap frames. EASCO stainl
 
 **H2: What Is a Stainless Steel Turnstile?**
 
-A stainless steel turnstile is a pedestrian access gate built from corrosion-resistant stainless steel alloy rather than aluminum. Stainless steel handles salt spray, constant moisture, UV exposure, and temperature swings that degrade aluminum gates within a few years. The trade-off is weight: stainless gates are heavier and suit fixed outdoor installations rather than retrofits inside finished buildings.
+A stainless steel turnstile is a pedestrian access gate built from SUS304 stainless steel alloy rather than aluminum. Stainless steel handles salt spray, constant moisture, UV exposure, and industrial contamination without corroding or pitting. The trade-off is weight and cost: stainless gates are heavier and more expensive than aluminum, and are specified for outdoor or high-stress environments rather than standard indoor lobbies.
 
-EASCO's stainless steel range spans three gate formats. Speed gates retract doors into the body — compact footprint, high throughput. Swing gates open on a hinge — wider passage width for wheelchair access or goods movement. Full-height turnstiles run floor to ceiling — maximum physical security for sites that need it. All formats share the same DC brushless servo motor and crank-link transmission used in the aluminum range: 0.3-second opening, 45 persons per minute. The difference is where they go. Stainless steel is the right choice for any installation that faces the outdoors, the sea, or years of industrial wear.
+EASCO's stainless steel range covers three distinct gate formats. Speed gates retract doors into the body for a compact footprint and high throughput — up to 50 persons per minute, opening in under 0.5 seconds. Swing gates open on a hinge mechanism — better for wider passage widths and accessible lane requirements. The Fengyi 168 reaches 1,500mm passage width. Full-height turnstiles run from floor to ceiling with a rotating cross-arm — the maximum physical deterrent, used at construction sites, prisons, and industrial perimeters where tailgating must be structurally impossible. All formats accept face recognition panels, card readers (RS485/RS232/IO), QR code scanners, and ID card modules.
 
 ---
 
 ## Section 5 — Key Features
 
-**H2: Key Features of Stainless Steel Turnstiles**
+**H2: Key Features of EASCO Stainless Steel Turnstiles**
 
-**Salt spray doesn't reach the mechanism.** Stainless steel housing seals the motor and transmission from corrosive coastal air. An aluminum gate installed in a beachfront plaza needs repainting and protective treatment within years. The stainless gate needs a rinse.
+**SUS304 stainless steel holds up where aluminum fails.** The outer cylinder and housing are precision-formed from 304-grade stainless — the same specification used in industrial food processing equipment and coastal infrastructure. It does not rust, pit, or require repainting. At a beachfront attraction or an outdoor transit station, a stainless gate installs once and runs for years without a corrosion maintenance schedule.
 
-**Seven models cover every outdoor installation scenario.** Speed gates for high-throughput transit entrances. Swing gates for accessible entries needing a wider lane. Full-height turnstiles for sites where physical deterrence matters as much as credential checking. All seven built to the same spec, from the same factory floor.
+**Three gate formats cover every security requirement.** Speed gates for high-throughput entry where aesthetics and passage speed are priorities. Swing gates for wider lanes and accessible access. Full-height turnstiles where a physical barrier must prevent climbing and tailgating without any credential at all. All three formats are in-house EASCO product lines — one supplier, one point of contact, across the site.
 
-**Crank-link transmission stops the gate before anyone gets hurt.** Mechanical collision avoidance operates without software — resistance triggers an immediate stop, regardless of power state or network status. Anti-tailgating IR sensor arrays detect a second person entering behind the first and re-close before they clear the gate.
+**Fire emergency release and power-loss failsafe built in.** All models connect to the fire alarm system. Power cut triggers automatic gate opening and hold-open lock. The ARM control core remembers the gate's absolute position on power restoration — no manual re-calibration needed after an outage.
 
-**Biometric integration works the same as on aluminum models.** Face recognition, card (Wiegand 26/34), and QR code readers mount directly onto stainless gate housings. RS485, TCP/IP, WiFi, MQTT interfaces connect the gate to existing access control platforms without additional hardware.
+**Anti-reverse and collision protection on every model.** When the swing arm meets resistance on return, the drive automatically initiates reverse braking and three-stage torque compensation. IR sensors on premium models detect a person in the passage before the arm closes — mechanical protection that does not depend on software or network state.
 
 ---
 
 ## Section 6 — Comparison Table
 
-**H2: Stainless Steel vs. Aluminum Alloy Turnstiles**
+**H2: Stainless Steel Turnstile Models at a Glance**
 
-| Feature | Stainless Steel | Aluminum Alloy |
-|---|---|---|
-| **Best environment** | Outdoor, coastal, high-humidity | Indoor (offices, campuses, hospitals) |
-| **Corrosion resistance** | Salt spray and outdoor rated | Indoor-rated |
-| **Weight** | Heavier — fixed installs | Lighter — easier retrofits |
-| **Opening speed** | 0.3 seconds | 0.3 seconds |
-| **Throughput** | 45 persons/min | 45 persons/min |
-| **Maintenance** | Rinse only — no painting needed | Occasional touch-up in harsh conditions |
-| **Cost** | 15–25% higher | Standard |
+| Model | Format | Throughput | Opening speed | Motor life | Operating temp | Indoor/Outdoor |
+|---|---|---|---|---|---|---|
+| Fengying (ES-FY-ST) | Speed gate | 50/min | <0.5s | 15M cycles | -20°C to +75°C | Indoor |
+| Rounded Corner Speed Gate | Speed gate | 50/min | <0.5s | 15M cycles | -20°C to +75°C | Indoor + Outdoor |
+| Fengchang 108 (ES-FC-108) | Swing gate | 50/min | <0.5s | 15M cycles | -20°C to +75°C | Indoor + Outdoor |
+| Fengyi 168 (ES-FY-168) | Swing gate | 40/min | <0.6s | 10M cycles | -20°C to +75°C | Indoor + Outdoor |
+| Right-Angle Swing Gate (Standard) | Swing gate | 50/min | <0.5s | 15M cycles | -20°C to +75°C | Indoor + Outdoor |
+| Right-Angle Swing Gate (Fengjie) | Swing gate | 50/min | <0.5s | 5M cycles | -10°C to +50°C | Indoor + Outdoor |
+| Rounded Corner Swing Gate | Swing gate | 50/min | <0.5s | 10M cycles | -20°C to +75°C | Indoor + Outdoor |
+| Full-Height Turnstile | Full-height | 30/min | 1–2s | Servo drive | -15°C to +60°C | Indoor + Outdoor (canopy) |
 
 ---
 
@@ -147,10 +193,10 @@ EASCO's stainless steel range spans three gate formats. Speed gates retract door
 
 | Application | Application |
 |---|---|
-| Beachfront and coastal attractions | Stadium and sports venue entrances |
-| Outdoor transit station entrances | Government and civic outdoor plazas |
-| Port and waterfront facilities | Theme parks and outdoor venues |
-| Industrial plant outdoor perimeters | Airport exterior passenger gates |
+| Outdoor transit station entrances | Industrial plant outdoor perimeters |
+| Coastal and beachfront attractions | Construction site and factory site control |
+| Stadium and sports venue entrances | Prison and detention facility access |
+| Government outdoor plazas | Port and waterfront facility entrances |
 
 ---
 
@@ -158,23 +204,23 @@ EASCO's stainless steel range spans three gate formats. Speed gates retract door
 
 **H2: Frequently Asked Questions**
 
-**Q: Why choose stainless steel over aluminum for an outdoor turnstile?**
-A: Stainless steel resists salt spray, constant moisture, and UV exposure without corroding or pitting. An aluminum gate in a coastal or outdoor environment requires periodic repainting and treatment; a stainless gate needs only occasional rinsing.
+**Q: Which stainless steel models are rated for outdoor installation?**
+A: The Rounded Corner Speed Gate, Fengchang 108, Fengyi 168, both Right-Angle Swing Gate variants, the Rounded Corner Swing Gate, and the Full-Height Turnstile are all rated for indoor and outdoor use. The Fengying Speed Gate is rated for indoor use only. For fully exposed coastal or marine environments, confirm the specific model with EASCO before ordering.
 
-**Q: What is the throughput of EASCO stainless steel speed gates?**
-A: EASCO stainless steel speed gates process 45 persons per minute per lane. The door opens in 0.3 seconds, driven by a DC brushless servo motor with crank-link transmission.
+**Q: What is the throughput of EASCO stainless steel turnstiles?**
+A: Speed gates and most swing gate models process 50 persons per minute with sub-0.5-second opening times. The Fengyi 168 processes 40 persons per minute with a <0.6-second opening. The Full-Height Turnstile processes 30 persons per minute with a 1–2 second cycle time.
 
-**Q: What gate formats are available in stainless steel?**
-A: EASCO offers three formats: cylindrical speed gates (compact, high-throughput), swing gates (wider lane, accessible), and full-height turnstiles (maximum physical security). Seven total models across these formats.
+**Q: What is the difference between the two Right-Angle Swing Gate models?**
+A: The standard Right-Angle Swing Gate uses a DC servo + planetary gear drive rated for 15 million cycles, operates from -20°C to +75°C, and has a heavier-gauge housing (top cover 1.5mm, body 1.0mm). The Fengjie variant uses a 24V brushless DC motor rated for 5 million cycles, operates from -10°C to +50°C, and has a lighter-gauge housing — a more cost-effective option where maximum cycle life and temperature range are not critical.
 
-**Q: Can stainless steel turnstiles be integrated with face recognition?**
-A: Yes — face recognition terminals, card readers (Wiegand 26/34), and QR code scanners mount directly onto stainless steel gate housings. Integration interfaces include RS485, TCP/IP, WiFi, and MQTT.
+**Q: Can stainless steel turnstiles integrate with face recognition?**
+A: Yes — face recognition terminals, card readers (RS485/RS232/IO), QR code scanners, and ID card modules are all available as optional add-ons for every model in the range. Face recognition panels process 50,000 enrolled faces at 200–300ms recognition speed with 99.98% accuracy.
 
-**Q: What operating temperature range do stainless steel turnstiles cover?**
-A: EASCO stainless steel turnstiles operate from -10°C to +50°C. This covers most outdoor climates globally. Confirm the specific model range for extreme-cold deployments.
+**Q: What makes the Full-Height Turnstile different from swing and speed gate models?**
+A: The Full-Height Turnstile is a 360° enclosed cross-turnstile — the rotating arm spans the full passage height, preventing climbing, tailgating, and forced passage. It is physically impossible to pass without completing the rotation cycle. Used at construction sites, prisons, military bases, and any access point where security must be structural rather than just electronic.
 
 **Q: What is the lead time for stainless steel turnstiles?**
-A: Standard orders ship within the quoted production window from Shenzhen. Contact EASCO via WhatsApp (+86 13711422283) to confirm lead time based on model and volume.
+A: Standard orders ship within the quoted production window from EASCO's Shenzhen facility. Contact EASCO via WhatsApp (+86 13711422283) to confirm lead time based on model and volume.
 
 ---
 
@@ -182,7 +228,7 @@ A: Standard orders ship within the quoted production window from Shenzhen. Conta
 
 **H2: Ready to Move Forward?**
 
-Built by a factory that has manufactured turnstiles for 16+ years — ISO 9001 certified, CE marked, factory direct from Shenzhen. No trading company. No markup. Tell us your site environment and we will confirm the right model.
+EASCO manufactures stainless steel turnstiles across eight models — speed gates, swing gates, and full-height — all SUS304 construction for outdoor and demanding indoor environments. Factory direct from Shenzhen, ISO 9001 certified, CE marked, 16+ years manufacturing. Tell us your site environment and security requirement and we will confirm the right model.
 
 **Path 1 — Ready to Buy**
 Fields: Name · Email/Phone · Quantity · Destination Country · Message
@@ -201,32 +247,50 @@ Fields: Name · Email/Phone · Project/Site Details · Preferred Contact Time
   "@context": "https://schema.org/",
   "@type": "CollectionPage",
   "name": "Stainless Steel Turnstile — EASCO",
-  "description": "EASCO stainless steel turnstiles for outdoor, coastal, and high-corrosion sites. Speed gates, swing gates, full-height. 0.3-second opening, 45 persons/min. Factory direct, ISO 9001 certified.",
+  "description": "EASCO stainless steel turnstiles — SUS304 construction, speed gates, swing gates, and full-height models. 50 persons/min, <0.5s opening. Outdoor and coastal rated. Factory direct from Shenzhen.",
   "mainEntity": {
     "@type": "ItemList",
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "Fengying Speed Gate Series",
+        "name": "Fengying Speed Gate (ES-FY-ST01/ST02)",
         "url": "/stainless-steel-turnstile/fengying-speed-gate/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Rounded-Corner Speed Gate",
+        "name": "Rounded Corner Speed Gate",
         "url": "/stainless-steel-turnstile/rounded-corner-speed-gate/"
       },
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Swing Gate Series",
-        "url": "/stainless-steel-turnstile/swing-gate/"
+        "name": "Fengchang 108 Swing Gate (ES-FC-108)",
+        "url": "/stainless-steel-turnstile/fengchang-108/"
       },
       {
         "@type": "ListItem",
         "position": 4,
-        "name": "Full-Height Stainless Steel Turnstile",
+        "name": "Fengyi 168 Swing Gate (ES-FY-168)",
+        "url": "/stainless-steel-turnstile/fengyi-168/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Right-Angle Swing Gate",
+        "url": "/stainless-steel-turnstile/right-angle-swing-gate/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Rounded Corner Swing Gate",
+        "url": "/stainless-steel-turnstile/rounded-corner-swing-gate/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Full-Height Turnstile",
         "url": "/stainless-steel-turnstile/full-height/"
       }
     ]
